@@ -1,0 +1,533 @@
+﻿,name,age,position1,position2,Apps,Mins,Tackles,Inter,Fouls,Offsides,Clear,Drb,Blocks,OwnG,Rating
+0,Harry Kane Tottenham,28, AM(C),FW,35,3087,0.6,0.3,0.7,-,1.1,0.5,0.3,-,7.79
+1,Kevin De Bruyne Man City,30, M(CLR),FW,23(2),2001,1.4,0.4,1.1,-,0.3,1.4,-,-,7.65
+2,Jack Grealish Aston Villa,26, AM(CL),,24(2),2184,1.2,0.5,1.5,-,0.2,0.3,0.1,-,7.56
+3,Bruno Fernandes Man Utd,27, M(CLR),,35(2),3110,1.5,0.7,1.2,-,0.7,2.0,-,-,7.43
+4,Tomas Soucek West Ham,26, DMC,,38,3420,2.1,1.6,1.8,0.1,2.7,1.3,0.5,1,7.36
+5,Mason Mount Chelsea,22, M(CLR),,32(4),2892,2.1,0.9,1.4,-,0.3,1.2,0.1,-,7.33
+6,Sadio Mané Liverpool,29, AM(CLR),FW,31(4),2813,1.4,0.4,1.5,-,0.3,0.6,-,-,7.33
+7,Riyad Mahrez Man City,30, AM(CLR),,23(4),1955,0.7,0.3,0.5,-,0.1,0.9,-,-,7.31
+8,João Cancelo Man City,27, D(LR),M(R),27(1),2302,2.4,1.5,1.3,0.3,1.0,1.4,0.1,-,7.31
+9,Gareth Bale Tottenham,32, M(CLR),FW,10(10),923,0.9,0.4,0.5,0.1,0.7,0.4,0.1,-,7.3
+10,Nathaniel Phillips Liverpool,24, D(C),,15(2),1456,1.3,1.2,1.2,0.5,4.8,0.8,0.8,-,7.29
+11,Ilkay Gündogan Man City,31, M(C),,23(5),2031,0.9,0.7,0.3,-,0.3,1.0,0.1,-,7.29
+12,Son Heung-Min Tottenham,29, M(CLR),FW,36(1),3127,0.9,0.4,0.4,-,0.1,1.5,0.1,-,7.27
+13,Wilfred Ndidi Leicester,24, DMC,,25(1),2179,3.7,2.3,2.1,0.1,2,1.5,0.4,-,7.25
+14,Jesse Lingard West Ham,28, AM(CLR),FW,16,1426,0.8,0.3,1.3,-,-,0.6,0.1,-,7.22
+15,Raphinha Leeds,24, AM(LR),,26(4),2364,1.1,1.0,0.4,-,0.9,1.5,-,-,7.22
+16,Raheem Sterling Man City,26, M(CLR),FW,28(3),2537,0.7,0.5,1.2,-,0.1,0.2,-,-,7.22
+17,James Rodríguez Everton,30, AM(CLR),FW,21(2),1776,1.2,0.7,0.7,-,-,1.5,-,-,7.21
+18,Ollie Watkins Aston Villa,25, AM(LR),FW,37,3329,0.8,0.2,1.3,-,0.6,0.6,0.1,-,7.18
+19,Kortney Hause Aston Villa,26, D(CL),,7,630,0.6,1.1,0.7,0.4,7.6,0.4,0.3,-,7.17
+20,Rodri Man City,25, DMC,,31(3),2749,2.1,1.1,1.3,-,1.6,1.0,0.3,-,7.17
+21,Michail Antonio West Ham,31, D(R),M(CLR),24(2),1984,0.3,0.3,1.1,-,0.3,0.2,0.1,-,7.17
+22,Dominic Calvert-Lewin Everton,24, AM(L),FW,32(1),2876,0.5,0.2,1.1,-,1,0.2,0.2,-,7.17
+23,Jimmy Dunne Burnley,24, D(C),,3,270,1.0,2.0,0.7,0.3,5.3,0.3,0.7,-,7.16
+24,Aaron Wan-Bissaka Man Utd,23, D(R),M(R),34,3060,2.6,1.8,0.9,0.2,1.8,0.4,0.5,-,7.15
+25,Phil Foden Man City,21, AM(CLR),FW,17(11),1614,0.8,0.4,0.4,-,0.4,0.5,-,-,7.14
+26,Joseph Willock Newcastle,22, M(C),,11(3),980,1.9,1.2,0.6,-,0.7,2.4,0.2,-,7.13
+27,Marcus Rashford Man Utd,24, AM(CLR),FW,33(4),2928,0.5,0.2,0.7,0.1,0.3,0.5,0.1,-,7.13
+28,Thiago Liverpool,30, M(C),,20(4),1858,2.5,1.3,2.0,-,0.5,1.3,-,-,7.12
+29,Allan Saint-Maximin Newcastle,24, AM(CLR),FW,19(6),1568,0.6,0.2,0.4,-,-,0.2,-,-,7.12
+30,Gabriel Jesus Man City,24, AM(LR),FW,22(7),2060,0.6,0.5,1,-,0.2,0.6,-,-,7.11
+31,Pedro Neto Wolves,21, AM(CLR),FW,30(1),2559,0.5,1,0.8,-,0.2,0.7,0.1,-,7.11
+32,Adama Traoré Wolves,25, M(CLR),FW,28(9),2645,0.8,0.2,1.3,-,0.3,0.2,-,-,7.11
+33,Roberto Firmino Liverpool,30, M(CLR),FW,33(3),2852,0.9,0.3,0.6,-,0.3,0.7,0.1,-,7.11
+34,Jamie Vardy Leicester,34, AM(L),FW,31(3),2846,0.5,0.1,0.8,0.1,0.9,0.4,0.1,-,7.11
+35,Mat Ryan Arsenal,29, GK,,3,270,-,-,-,-,1.0,-,-,-,7.1
+36,Youri Tielemans Leicester,24, M(C),,37(1),3358,2.3,1.2,1,-,0.4,1.7,0.2,-,7.09
+37,Lucas Digne Everton,28, D(CL),M(L),30,2682,2.1,1,1.1,0.1,2.4,0.8,0.1,-,7.08
+38,Christian Benteke Crystal Palace,30, FW,,21(9),1819,0.5,0.1,1.2,-,1.3,0.2,0.2,-,7.08
+39,Bernardo Silva Man City,27, M(CLR),FW,24(2),2071,1,0.7,0.7,-,0.2,1.6,-,-,7.07
+40,Kurt Zouma Chelsea,27, D(CR),,22(2),2025,0.7,1.2,0.7,0.5,3.8,0.2,0.4,-,7.07
+41,Solly March Brighton,27, M(CLR),,19(2),1675,2.3,1,1.2,-,1.0,0.8,0.2,-,7.07
+42,James Ward-Prowse Southampton,27, M(CR),,38,3420,2,1.1,1.2,-,1.4,1.1,0.1,-,7.07
+43,Mohamed Salah Liverpool,29, AM(CLR),FW,34(3),3082,0.5,-,0.6,-,0.3,0.2,-,-,7.07
+44,Liam Cooper Leeds,30, D(C),,25,2188,2.7,2.4,0.9,0.5,2.7,0.9,1.3,-,7.06
+45,Kiko Casilla Leeds,35, GK,,3,270,-,-,-,-,1.3,-,-,-,7.06
+46,Serge Aurier Tottenham,28, D(CLR),M(R),19,1609,2.9,1,1.2,0.2,2.2,1.3,0.3,-,7.06
+47,Paul Pogba Man Utd,28, M(CL),,21(5),1896,1.4,1,1.6,-,1.4,0.8,0.1,-,7.06
+48,Harry Maguire Man Utd,28, D(C),,34,3048,0.9,1.8,1.2,0.6,3.6,0.3,0.7,-,7.04
+49,John Stones Man City,27, D(CR),,22,1934,1,0.8,0.3,0.7,2.5,0.2,0.7,-,7.03
+50,James Justin Leicester,23, D(CLR),M(LR),23,2070,2.7,1.3,0.7,0.2,1.9,0.9,0.4,-,7.03
+51,Luke Shaw Man Utd,26, D(CL),M(L),30(2),2657,1.4,0.6,1.3,0.1,1.2,0.5,0.3,1,7.03
+52,Patrick Bamford Leeds,28, AM(CLR),FW,37(1),3066,0.6,0.3,0.9,-,1.0,0.5,0.1,-,7.03
+53,Caoimhin Kelleher Liverpool,22, GK,,2,180,-,-,-,-,1.0,-,-,-,7.03
+54,James Tarkowski Burnley,29, D(C),,36,3240,1.8,1.2,0.8,0.6,4.4,0.7,1.2,-,7.02
+55,Antonio Rüdiger Chelsea,28, D(CR),,19,1710,1.6,0.9,0.8,0.5,2.7,0.2,0.5,1,7.02
+56,Trent Alexander-Arnold Liverpool,23, D(R),M(R),34(2),3033,1.6,1.4,0.6,0.4,1.2,0.6,0.1,-,7.02
+57,Wesley Fofana Leicester,20, D(C),,27(1),2265,1.8,2.2,1.3,0.5,3.3,0.5,0.6,-,7.01
+58,Declan Rice West Ham,22, D(C),DMC,32,2880,1.8,1.8,0.7,-,1.1,0.9,0.3,-,7.01
+59,Kalvin Phillips Leeds,25, D(C),DMC,28(1),2431,2.6,1.6,1.6,0.1,1.7,1.2,0.5,-,7.01
+60,James Maddison Leicester,24, AM(CLR),,24(7),2105,1.0,0.3,0.6,-,0.1,0.9,-,-,7.0
+61,Ben Chilwell Chelsea,24, D(L),M(L),27,2290,1.6,0.9,0.9,0.1,1.7,0.7,0.1,-,7.0
+62,Emiliano Martínez Aston Villa,29, GK,,38,3420,0.1,0.1,-,-,0.4,-,-,-,7.0
+63,André-Frank Zambo Anguissa Fulham,26, DMC,,29(7),2587,2.2,1.6,1.2,-,0.4,1.1,0.2,-,6.99
+64,Yves Bissouma Brighton,25, M(C),,35(1),3114,2.9,1.8,1.5,-,1.8,0.9,0.2,-,6.98
+65,Richarlison Everton,24, AM(CLR),FW,33(1),2872,1.4,0.4,1,-,1.0,1,0.1,-,6.98
+66,Harvey Barnes Leicester,23, AM(CL),,22(3),1950,0.8,0.3,0.6,-,0.4,0.7,0.1,-,6.98
+67,Alex Telles Man Utd,28, D(L),M(L),8(1),692,1.6,1.8,0.4,0.1,2.0,1,0.2,-,6.97
+68,Okay Yokuslu West Brom,27, D(C),DMC,15(1),1319,2.4,2.2,1.6,-,2.0,1.1,0.2,-,6.96
+69,Jack Harrison Leeds,25, AM(LR),FW,34(2),2858,1.8,0.4,0.8,-,0.5,0.9,0.1,-,6.96
+70,Matheus Pereira West Brom,25, AM(CLR),,30(3),2582,0.8,0.9,1,-,0.4,1.3,-,-,6.96
+71,Joel Matip Liverpool,30, D(C),,9(1),693,1.4,0.7,1.1,1.2,2.2,0.1,-,-,6.96
+72,Vladimir Coufal West Ham,29, D(R),M(R),34,3055,2.1,1.2,0.9,0.3,2.6,1.1,0.2,-,6.95
+73,Pierre-Emile Højbjerg Tottenham,26, M(C),,38,3420,2.6,1.3,1.8,-,1.7,2,0.2,-,6.95
+74,Luke Ayling Leeds,30, D(CR),M(R),38,3400,2.8,0.9,0.8,0.4,2,1,0.9,-,6.94
+75,Scott Carson Man City,36, GK,,1,90,-,-,-,-,-,-,-,-,6.94
+76,Reece James Chelsea,21, D(CR),DMC,25(7),2367,1.7,0.5,1,0.1,1.3,0.7,0.2,-,6.94
+77,Oriol Romeu Southampton,30, DMC,,20(1),1768,3.3,1.4,1.4,-,0.7,2,0.3,-,6.93
+78,Matthew Cash Aston Villa,24, D(R),M(CLR),28,2380,2.5,2.1,1.3,0.1,2.9,1.2,0.4,-,6.93
+79,Scott McTominay Man Utd,24, D(C),DMC,24(8),2128,1.6,0.9,1.5,-,1.3,0.4,0.3,-,6.93
+80,Ahmed Hegazi West Brom,30, D(C),,1,90,-,1.0,-,-,7.0,-,-,-,6.93
+81,Ben Mee Burnley,32, D(CL),,30,2694,1.1,1.4,0.5,0.7,4.9,0.5,1.5,-,6.93
+82,Anthony Elanga Man Utd,19, Forward,,2,156,2,0.5,1,-,0.5,0.5,0.5,-,6.93
+83,Fred Man Utd,28, M(C),,27(3),2397,2.7,1.5,1.5,-,0.7,2,0.3,-,6.92
+84,Timothy Fosu-Mensah Man Utd,23, D(CR),,1,81,2,3.0,1,-,1.0,-,-,-,6.92
+85,César Azpilicueta Chelsea,32, D(CLR),M(R),24(2),2191,2,1.1,1.2,0.1,2.3,0.7,0.2,-,6.92
+86,Ademola Lookman Fulham,24, AM(CLR),FW,31(3),2756,1,0.6,1.4,-,0.2,0.9,-,-,6.92
+87,Michael Keane Everton,28, D(CR),,33(2),2990,0.8,1.5,0.4,0.3,4.5,0.5,0.9,-,6.92
+88,Rúben Dias Man City,24, D(C),,32,2845,0.8,1.1,0.7,0.3,2.8,0.4,0.7,1,6.91
+89,Thiago Silva Chelsea,37, D(C),,23,1938,0.9,1.4,0.6,0.6,3.6,0.3,0.6,-,6.91
+90,Raúl Jiménez Wolves,30, FW,,10,825,0.3,0.8,0.9,-,1.0,0.7,-,1,6.91
+91,Illan Meslier Leeds,21, GK,,35,3150,-,-,-,-,1.2,-,-,1,6.91
+92,Diego Llorente Leeds,28, D(C),DMC,14(1),1206,2.3,1.3,1,0.3,2.5,0.9,0.9,-,6.9
+93,Matt Targett Aston Villa,26, D(L),M(L),38,3405,2.2,1.4,0.7,0.2,2.3,0.8,0.4,-,6.9
+94,Marcos Alonso Chelsea,30, D(CL),M(L),11(2),960,1,0.9,1,-,2.2,0.5,0.1,-,6.9
+95,Nélson Semedo Wolves,28, D(LR),M(R),34,2988,2.5,1.2,1.2,0.2,2.1,0.9,0.3,1,6.9
+96,Diogo Jota Liverpool,24, AM(CLR),FW,12(7),1113,0.6,0.3,1.3,-,0.2,1.4,-,-,6.89
+97,Jannik Vestergaard Southampton,29, D(C),,29(1),2575,1.7,1.4,0.6,0.5,4.0,0.6,0.5,-,6.89
+98,Arthur Masuaku West Ham,28, D(L),M(L),12,1011,1.7,0.7,0.8,0.2,1.4,1.9,-,-,6.89
+99,Alexandre Lacazette Arsenal,30, M(CLR),FW,22(9),1931,0.6,0.4,1.2,-,0.4,0.6,-,-,6.89
+100,Andros Townsend Crystal Palace,30, AM(LR),FW,25(9),2259,2.3,1.2,0.8,-,0.4,1.4,0.1,-,6.88
+101,John McGinn Aston Villa,27, M(C),,37,3330,1.6,1.2,1.2,0.1,0.6,1.5,0.2,-,6.88
+102,Wilfried Zaha Crystal Palace,29, AM(LR),FW,29(1),2614,0.9,0.3,1.1,-,-,0.6,-,-,6.88
+103,Andrew Robertson Liverpool,27, D(L),M(L),38,3386,1.2,0.6,0.6,0.3,1.8,0.8,0.2,-,6.88
+104,Bukayo Saka Arsenal,20, D(L),M(CLR),30(2),2562,0.8,0.8,0.9,-,0.6,0.9,0.1,1,6.88
+105,Jorginho Chelsea,29, DMC,,23(5),2014,2.0,1.4,1.1,-,0.7,1.6,0.2,-,6.88
+106,Jonny Evans Leicester,33, D(CL),,28,2476,0.9,1.6,0.6,0.6,3.4,0.2,0.1,1,6.87
+107,Romain Saïss Wolves,31, D(C),DMC,27,2408,1.3,1.9,1.1,0.5,4.1,0.5,0.5,-,6.87
+108,Stuart Dallas Leeds,30, D(LR),M(CLR),38,3411,1.9,1.2,1.1,0.1,1.2,1.5,0.1,-,6.87
+109,Dwight McNeil Burnley,21, M(LR),,34(2),3071,1.3,0.9,0.3,-,0.5,1.1,0.2,-,6.87
+110,Nick Pope Burnley,29, GK,,32,2880,-,0.1,0.1,-,1.3,-,-,-,6.86
+111,Tanguy Ndombele Tottenham,24, M(C),,28(5),2108,1.2,0.6,0.8,-,0.3,0.8,0.1,-,6.86
+112,Yerry Mina Everton,27, D(C),,23(1),1939,0.9,1.0,0.9,0.3,4.5,0.2,1,-,6.86
+113,N'Golo Kanté Chelsea,30, DMC,,24(6),2146,2.6,2.0,1.2,-,0.9,1,0.1,-,6.86
+114,Toby Alderweireld Tottenham,32, D(CR),,25,2241,1.4,0.4,0.7,0.7,4.6,0.5,1.1,1,6.86
+115,Dani Ceballos Arsenal,25, M(CL),,17(8),1616,1.5,1.4,0.9,0.1,0.6,1.2,0.2,-,6.85
+116,Bertrand Traoré Aston Villa,26, AM(R),FW,29(7),2338,0.7,0.4,0.9,-,0.3,0.7,-,-,6.85
+117,Fikayo Tomori Chelsea,23, D(CR),,0(1),45,2,2.0,1.0,-,8.0,-,1,-,6.85
+118,Gaetano Berardi Leeds,33, D(CLR),,1(1),114,1,0.5,0.5,-,1.0,-,0.5,-,6.85
+119,Mateo Kovacic Chelsea,27, M(CL),,21(6),1820,1.7,0.6,0.6,-,0.3,0.6,-,-,6.84
+120,Tom Cairney Fulham,30, M(CR),,9(1),759,0.9,-,0.4,-,0.1,0.3,-,-,6.84
+121,Joël Veltman Brighton,29, D(CR),M(R),25(3),2283,2.4,1.2,1.2,0.2,2.1,1,0.2,-,6.84
+122,Martin Dúbravka Newcastle,32, GK,,13,1170,-,-,-,-,0.9,-,-,-,6.84
+123,Oleksandr Zinchenko Man City,24, D(L),M(CLR),15(5),1474,1.3,1.2,0.5,0.2,1.3,0.5,0.2,-,6.84
+124,Antonee Robinson Fulham,24, D(L),M(L),24(4),2162,1.6,1.3,0.7,0.1,1.9,0.6,0.1,-,6.84
+125,Kelechi Iheanacho Leicester,25, AM(C),FW,16(9),1458,0.5,0.1,1,-,-,0.5,-,-,6.84
+126,João Virgínia Everton,22, GK,,0(1),47,-,-,-,-,-,-,-,-,6.84
+127,Terence Kongolo Fulham,27, D(CL),,1,90,3,2,1,1,2,-,-,-,6.84
+128,Anthony Martial Man Utd,25, AM(LR),FW,17(5),1488,0.1,-,0.7,-,0.4,0.5,0.1,-,6.84
+129,James McArthur Crystal Palace,34, M(CLR),,17(1),1471,3.2,1.3,1.8,0.1,1.6,1.3,0.2,-,6.84
+130,Lewis Dunk Brighton,30, D(C),,33,2933,0.9,1.0,0.7,0.7,3.2,0.2,0.6,1,6.84
+131,Kyle Walker-Peters Southampton,24, D(LR),,30,2649,2.8,1.3,1.1,0.2,1.7,0.8,0.3,-,6.84
+132,Danny Ings Southampton,29, AM(C),FW,26(3),2185,0.8,0.1,0.7,-,0.7,0.6,0.1,-,6.84
+133,Callum Wilson Newcastle,29, FW,,23(3),2086,0.5,0.3,1.5,-,0.5,0.4,0.1,-,6.84
+134,Trézéguet Aston Villa,27, AM(LR),,12(9),1166,1.6,0.9,1.9,-,0.6,1.5,-,-,6.83
+135,Timothy Castagne Leicester,25, D(CR),M(LR),27,2346,1.9,1.1,0.7,0.2,1.9,0.7,0.2,-,6.82
+136,Pascal Groß Brighton,30, M(CR),FW,27(7),2482,1.3,0.7,0.6,-,0.4,0.9,0.1,-,6.82
+137,Fabinho Liverpool,28, D(CR),DMC,28(2),2565,1.9,1.5,1.0,0.5,2.2,0.9,0.3,-,6.82
+138,Stuart Armstrong Southampton,29, AM(CLR),,32(1),2774,1.8,0.7,1.0,0.1,0.6,1.5,-,-,6.82
+139,Jordan Henderson Liverpool,31, D(C),M(CLR),20(1),1708,1.1,1.6,0.4,0.6,1.2,0.8,-,-,6.82
+140,Aaron Cresswell West Ham,31, D(CL),M(L),36,3172,0.9,0.9,0.4,0.1,2.0,0.4,0.4,-,6.81
+141,Chris Wood Burnley,29, FW,,32(1),2750,0.4,-,1.2,-,0.6,0.4,0.1,-,6.81
+142,Eberechi Eze Crystal Palace,23, AM(CLR),,29(5),2565,0.8,0.7,0.5,-,0.2,0.6,0.1,-,6.81
+143,Rúben Neves Wolves,24, DMC,,31(5),2680,2.4,1.8,1.3,0.1,1.1,1.4,0.3,-,6.81
+144,Fernandinho Man City,36, D(CR),DMC,12(9),1185,1.5,1.1,1.0,0.1,0.8,1.1,0.1,-,6.81
+145,Timo Werner Chelsea,25, AM(CLR),FW,29(6),2608,0.6,0.2,0.8,-,0.2,1.0,-,-,6.81
+146,Pascal Struijk Leeds,22, D(C),DMC,22(5),2074,1.8,1.7,1.0,0.2,3.1,0.4,0.8,-,6.81
+147,Tyrone Mings Aston Villa,28, D(CL),,36,3195,0.9,1.1,0.6,0.4,4.7,0.2,1.1,1,6.81
+148,Jonjo Shelvey Newcastle,29, M(C),,29(1),2617,1.3,1.2,1.0,-,1.3,0.9,0.5,-,6.8
+149,Leandro Trossard Brighton,26, AM(CLR),FW,30(5),2622,0.9,0.7,0.8,-,0.1,0.7,0.1,-,6.8
+150,Andreas Christensen Chelsea,25, D(C),DMC,15(2),1375,0.6,1.2,0.5,0.4,2.9,0.5,0.8,-,6.8
+151,Joachim Andersen Fulham,25, D(C),,30(1),2730,1.1,1.4,1.3,1.1,4.8,0.4,0.4,-,6.79
+152,Karl Darlow Newcastle,31, GK,,25,2250,-,-,-,-,1.7,-,-,-,6.79
+153,Calum Chambers Arsenal,26, D(CR),DMC,8(2),752,0.7,1,0.7,0.2,3.6,0.5,0.2,-,6.79
+154,Rob Holding Arsenal,26, D(CR),,28(2),2558,1.4,0.8,0.8,0.5,4.0,0.6,0.9,1,6.79
+155,Anwar El Ghazi Aston Villa,26, AM(LR),FW,17(11),1617,0.6,0.2,0.6,-,0.4,0.6,-,-,6.78
+156,Conor Hourihane Aston Villa,30, M(C),,3(1),228,-,-,0.3,-,0.5,0.5,-,-,6.78
+157,Abdoulaye Doucouré Everton,28, M(C),,29,2452,1.8,1.3,0.8,0.1,0.9,1,0.2,-,6.78
+158,Amad Diallo Man Utd,19, Forward,,2(1),167,1,-,0.7,-,0.3,-,0.3,-,6.78
+159,Pablo Fornals West Ham,25, M(CLR),,31(2),2583,1.3,1.1,0.8,-,0.2,1.9,-,-,6.78
+160,Pierre-Emerick Aubameyang Arsenal,32, M(CLR),FW,26(3),2337,0.4,0.2,0.4,-,0.5,0.6,-,1,6.78
+161,Ben Godfrey Everton,23, D(CLR),,29(2),2683,1.8,1.1,0.5,0.3,3.5,0.5,1.2,1,6.78
+162,Che Adams Southampton,25, AM(CL),FW,30(6),2675,0.7,0.1,0.8,0.1,0.5,0.3,0.1,-,6.77
+163,Adam Webster Brighton,26, D(C),,29,2595,1.0,1.6,0.8,0.3,2.9,0.4,0.6,-,6.77
+164,Kyle Bartley West Brom,30, D(C),,28(2),2584,0.9,1.3,1.0,0.5,5.3,0.4,1.2,-,6.77
+165,Emile Smith Rowe Arsenal,21, AM(CL),,18(2),1448,0.7,0.5,0.3,-,0.5,0.6,0.1,-,6.77
+166,Allan Everton,30, DMC,,23(1),2052,3.3,0.8,1.5,0.1,1.0,2.8,0.5,-,6.77
+167,Kyle Walker Man City,31, D(CR),M(R),22(2),1947,1.2,0.6,1.0,0.3,0.9,0.3,0.3,-,6.77
+168,Josh Brownhill Burnley,25, M(CR),,32(1),2816,1.4,2.1,1.1,-,1.1,0.9,0.3,-,6.76
+169,Aymeric Laporte Man City,27, D(CL),,14(2),1343,0.8,0.7,0.6,0.6,1.8,0.3,0.4,-,6.76
+170,Ferran Torres Man City,21, AM(LR),FW,15(9),1306,0.5,0.1,0.7,-,0.3,0.5,-,-,6.76
+171,Nicolas Pépé Arsenal,26, AM(LR),FW,16(13),1614,0.7,0.4,0.4,-,0.4,0.5,-,-,6.76
+172,Ross Barkley Aston Villa,27, M(CLR),,18(6),1537,0.3,0.2,0.5,-,0.3,0.5,-,-,6.75
+173,Hugo Lloris Tottenham,34, GK,,38,3420,-,-,-,-,0.5,-,-,-,6.75
+174,Willy Boly Wolves,30, D(C),,21,1880,1.6,1.5,0.7,0.2,4.0,0.5,0.6,-,6.75
+175,Dan Burn Brighton,29, D(CL),M(L),23(4),2060,1.9,1.1,1.3,0.1,2.6,1,0.3,1,6.75
+176,Sébastien Haller West Ham,27, FW,,10(6),935,0.9,0.3,1.5,0.1,0.4,1,0.1,-,6.75
+177,Ezri Konsa Aston Villa,24, D(CR),,35(1),3193,0.7,0.8,0.5,0.4,4.4,0.1,1.3,-,6.75
+178,Jarrod Bowen West Ham,24, AM(CLR),FW,30(8),2579,0.7,0.6,0.4,-,0.1,0.5,-,-,6.75
+179,Matt Doherty Tottenham,29, D(LR),M(R),13(4),1239,1.7,1.4,1.2,0.2,2.1,1.2,0.3,-,6.75
+180,Thomas Partey Arsenal,28, D(R),M(CR),18(6),1537,1.8,1,0.8,-,0.6,1.3,0.2,-,6.75
+181,Joelinton Newcastle,25, AM(LR),FW,23(8),1990,1.1,0.3,0.8,-,0.7,0.7,0.1,-,6.75
+182,Christian Pulisic Chelsea,23, M(CLR),,18(9),1738,0.7,0.4,0.5,-,0.3,0.5,0.1,-,6.74
+183,Marc Albrighton Leicester,32, M(LR),,17(14),1744,1.1,0.5,0.3,0.1,0.6,0.9,0.1,-,6.74
+184,Çaglar Söyüncü Leicester,25, D(C),,19(4),1816,1.2,1.2,0.8,0.6,3.4,0.6,0.4,-,6.74
+185,Alphonse Areola Fulham,28, GK,,36,3240,-,-,-,-,1.1,0.1,-,-,6.74
+186,Christian Fuchs Leicester,35, D(CL),M(L),8(1),702,2,1.8,1.6,-,3.3,0.8,0.4,-,6.74
+187,Sam Johnstone West Brom,28, GK,,37,3330,-,0.1,-,-,1.0,-,-,-,6.74
+188,Alisson Liverpool,29, GK,,33,2970,0.1,0.1,-,-,1.3,-,-,-,6.73
+189,Granit Xhaka Arsenal,29, D(L),M(C),29(2),2522,1.6,0.8,1.3,-,1.2,0.9,0.2,-,6.73
+190,Tosin Adarabioyo Fulham,24, D(CR),,33,2954,1.1,1.3,0.5,0.8,5.8,0.6,0.6,1,6.73
+191,Angelo Ogbonna West Ham,33, D(C),,28,2493,0.9,1.1,1.0,0.5,4.1,0.3,0.4,-,6.73
+192,Gabriel Magalhães Arsenal,23, D(C),,22(1),1997,1.1,1.1,1.0,0.5,3.2,0.3,0.8,-,6.73
+193,Callum Hudson-Odoi Chelsea,21, M(CLR),,10(13),1060,1.0,0.3,0.5,-,0.2,0.6,-,-,6.73
+194,Tariq Lamptey Brighton,21, D(R),M(R),11,891,1.5,1.7,1.9,0.1,0.8,0.6,0.1,-,6.73
+195,David McGoldrick Sheff Utd,33, AM(CLR),FW,28(7),2402,0.9,0.1,1.3,-,0.7,0.5,0.1,-,6.72
+196,Mason Greenwood Man Utd,20, AM(R),FW,21(10),1826,0.4,0.2,0.5,-,-,0.5,-,-,6.72
+197,Martin Ødegaard Arsenal,22, AM(CR),,9(5),866,0.6,0.1,0.1,-,0.4,0.7,-,-,6.72
+198,Sergio Reguilón Tottenham,24, D(L),M(L),26(1),2249,1.7,1.2,1.0,0.3,1.5,0.9,0.3,1,6.72
+199,Conor Townsend West Brom,28, D(CL),M(L),25,2235,1.8,1.4,0.6,0.1,2,0.8,0.6,-,6.72
+200,Ozan Kabak Liverpool,21, D(C),,9,803,2.1,1.3,1.3,0.9,3,0.3,0.2,-,6.72
+201,Matthew Lowton Burnley,32, D(LR),M(R),34,3060,1.6,1.6,0.6,0.3,2.3,1.2,0.4,-,6.71
+202,Pablo Marí Arsenal,28, D(C),,10,900,1.5,0.9,0.8,0.6,2.9,0.5,0.7,-,6.71
+203,Robin Olsen Everton,31, GK,,7,630,-,-,-,-,0.7,-,-,-,6.71
+204,David Button West Brom,32, GK,,1,90,-,-,-,-,2,-,-,-,6.71
+205,Fabián Balbuena West Ham,30, D(C),,13(1),1198,1.7,1.8,0.9,0.4,4.4,0.6,0.4,-,6.71
+206,Rhys Williams Liverpool,20, D(C),,7(2),661,0.7,0.7,0.4,0.4,2.9,-,0.3,-,6.71
+207,Hakim Ziyech Chelsea,28, M(CLR),,15(8),1180,0.6,0.4,0.8,-,-,0.6,-,-,6.71
+208,Jan Bednarek Southampton,25, D(C),,36,3104,1,2.3,0.8,0.8,3.7,0.7,0.8,1,6.7
+209,Japhet Tanganga Tottenham,22, D(CR),,6,489,0.8,0.5,1.8,0.3,2.2,0.3,0.8,-,6.7
+210,Tyrick Mitchell Crystal Palace,22, D(L),,19,1710,3.4,1.1,0.4,0.2,2.4,0.9,0.5,-,6.7
+211,Ethan Ampadu Sheff Utd,21, D(C),DMC,23(2),2091,2.3,2,1.0,0.2,3.3,1.0,0.8,1,6.7
+212,Tammy Abraham Chelsea,24, FW,,12(10),1036,0.3,0.2,1.0,-,0.8,0.3,-,-,6.7
+213,Fraser Forster Southampton,33, GK,,8,720,0.1,-,0.1,-,2.0,0.1,-,-,6.7
+214,Victor Lindelöf Man Utd,27, D(CR),,29,2586,0.8,1.1,0.8,0.6,3.3,0.4,0.5,-,6.69
+215,Kenny Tete Fulham,26, D(CR),M(R),18(4),1483,2.2,1.2,1.3,0.2,2.0,0.4,0.2,-,6.69
+216,Chris Basham Sheff Utd,33, D(CR),M(CR),31,2586,2.2,1.6,0.8,0.3,3.3,0.8,0.5,-,6.69
+217,Héctor Bellerín Arsenal,26, D(R),M(R),24(1),2093,1.2,1.3,0.8,0.1,1.2,1.2,0.3,-,6.69
+218,Daniel Podence Wolves,26, AM(CLR),FW,22(2),1679,0.5,0.5,0.6,-,0.1,0.7,-,-,6.68
+219,Kieran Tierney Arsenal,24, D(CL),M(L),26(1),2302,1.0,0.6,0.5,0.2,2.1,0.7,0.4,-,6.68
+220,Mbaye Diagne West Brom,30, FW,,14(2),1194,0.3,0.1,1.1,-,1.0,0.2,0.1,-,6.68
+221,Oliver McBurnie Sheff Utd,25, AM(CL),FW,12(11),1319,0.7,0.3,1.0,-,1.3,0.5,0.1,-,6.67
+222,João Moutinho Wolves,35, M(C),,28(5),2534,2.3,1.4,1.3,0.1,0.7,1.7,0.1,-,6.67
+223,Douglas Luiz Aston Villa,23, M(C),,32(1),2790,1.5,1.3,1.8,-,1.2,1.2,0.5,-,6.67
+224,Edinson Cavani Man Utd,34, AM(LR),FW,13(13),1372,0.5,0.2,0.8,-,0.4,0.4,-,-,6.67
+225,Rodrigo Leeds,30, M(CLR),FW,14(12),1291,0.5,0.2,0.7,-,0.6,0.7,-,-,6.67
+226,Craig Dawson West Ham,31, D(CR),,22,1926,0.5,1.5,0.6,0.2,4.0,0.3,1,2,6.67
+227,Charlie Taylor Burnley,28, D(L),M(L),28(1),2429,1.7,1.0,0.3,0.2,2.5,0.7,0.7,-,6.67
+228,Davinson Sánchez Tottenham,25, D(C),,17(1),1487,2.2,0.8,1.2,0.9,4.7,0.6,0.7,1,6.67
+229,Isaac Hayden Newcastle,26, D(C),DMC,22(2),1946,2.2,1.8,1.6,0.1,1.9,0.9,0.4,-,6.67
+230,Gylfi Sigurdsson Everton,32, M(CLR),FW,24(12),2256,0.8,0.9,0.6,-,0.5,0.9,0.1,-,6.67
+231,Danny Welbeck Brighton,30, AM(CLR),FW,17(7),1547,0.5,0.3,0.8,-,0.5,0.5,-,-,6.66
+232,Paul Dummett Newcastle,30, D(CL),,14(1),1256,1.1,1.1,0.6,0.3,4.7,0.5,0.5,-,6.66
+233,Jacob Murphy Newcastle,26, D(R),M(LR),17(9),1621,1.5,0.5,0.9,0.1,0.9,1.0,0.1,-,6.66
+234,Mohammed Salisu Southampton,22, D(CL),,8(4),843,3.2,1.4,0.8,0.5,2.4,0.8,0.4,-,6.66
+235,Eric Dier Tottenham,27, D(CR),DMC,28,2520,0.8,0.8,0.6,0.4,4.4,0.3,1.1,-,6.66
+236,Gabriel Martinelli Arsenal,20, AM(L),FW,7(7),588,0.5,0.6,0.6,-,0.2,0.4,-,-,6.66
+237,Harrison Reed Fulham,26, D(R),M(CR),26(5),2251,2.0,1.6,1.3,-,0.8,1.4,0.4,-,6.66
+238,Miguel Almirón Newcastle,27, AM(CLR),FW,28(6),2438,1.4,0.7,0.5,-,0.5,1.2,0.1,-,6.66
+239,Luke Thomas Leicester,20, D(L),M(L),12(2),972,1.6,1.1,0.7,0.1,1.4,0.5,0.1,-,6.65
+240,Willian Arsenal,33, AM(CLR),,16(9),1407,0.5,0.3,0.2,-,0.2,0.4,-,-,6.65
+241,Séamus Coleman Everton,33, D(CR),M(R),18(7),1612,1.6,0.5,0.5,0.1,1.3,0.4,0.2,-,6.65
+242,Leander Dendoncker Wolves,26, D(C),DMC,28(5),2501,1.6,0.8,0.9,0.2,1.5,0.9,0.5,1,6.65
+243,Jeffrey Schlupp Crystal Palace,28, D(L),M(CLR),15(12),1426,1.1,0.8,0.9,-,0.4,0.6,0.3,-,6.65
+244,Dean Henderson Man Utd,24, GK,,12(1),1125,0.1,-,-,-,0.5,0.1,-,-,6.65
+245,Jordan Pickford Everton,27, GK,,31,2743,-,0.1,-,-,1.3,0.1,-,-,6.65
+246,Ahmed El Mohamady Aston Villa,34, D(R),M(R),8(6),832,1.2,1.2,0.4,0.1,1.6,0.4,0.2,-,6.64
+247,Issa Diop West Ham,24, D(C),,15(3),1379,1.1,1.2,0.4,0.6,3.2,0.6,1.2,1,6.64
+248,Sergio Agüero Man City,33, AM(CL),FW,7(5),559,0.3,0.2,0.2,-,-,0.8,-,-,6.64
+249,Ciaran Clark Newcastle,32, D(CL),,21(1),1893,1.1,1.3,0.7,0.5,4.5,0.3,0.9,1,6.64
+250,Federico Fernández Newcastle,32, D(C),,24,2083,1.2,0.7,0.6,0.7,6.0,0.2,1.3,1,6.64
+251,Matt Ritchie Newcastle,32, D(L),M(CLR),15(3),1352,0.6,0.7,0.7,0.1,2.3,0.8,0.1,1,6.64
+252,Mason Holgate Everton,25, D(CR),M(R),26(2),2290,2,1.3,1,0.3,2.9,1.1,0.5,-,6.63
+253,Conor Gallagher West Brom,21, AM(C),,28(2),2532,2.7,0.9,1.4,-,0.9,2.3,0.3,-,6.63
+254,Ashley Westwood Burnley,31, DMC,,38,3411,0.6,1.2,0.9,-,0.8,0.8,0.2,-,6.63
+255,Lucas Moura Tottenham,29, AM(CLR),FW,14(16),1403,1.1,0.6,0.8,-,0.3,0.7,-,-,6.63
+256,Emerson Chelsea,27, D(L),M(L),0(2),89,1.5,0.5,1.5,-,3.0,1,-,-,6.63
+257,Benjamin Mendy Man City,27, D(L),DMC,11(2),955,1,0.4,1.1,0.2,0.7,1.2,0.4,-,6.63
+258,Ola Aina Fulham,25, D(CLR),M(LR),31,2671,1.2,1.5,1,0.4,2.6,0.7,0.2,-,6.63
+259,Lukasz Fabianski West Ham,36, GK,,35,3150,-,-,-,-,0.6,-,-,-,6.62
+260,Darnell Furlong West Brom,26, D(CR),M(R),32(3),2932,1.3,1.4,1,0.2,2.2,0.7,0.5,1,6.62
+261,Georginio Wijnaldum Liverpool,31, M(CLR),,34(4),2947,0.6,0.7,0.4,-,0.4,0.6,0.1,-,6.62
+262,Giovani Lo Celso Tottenham,25, M(CR),FW,11(7),950,1.6,0.4,1.1,0.1,0.3,1.1,0.1,-,6.62
+263,Ezgjan Alioski Leeds,29, D(L),M(CLR),29(7),2466,2.1,0.6,1.1,0.1,1.1,1.2,0.1,-,6.62
+264,Daniel James Man Utd,24, AM(LR),FW,11(4),914,1.0,-,0.9,-,0.3,1,0.1,-,6.61
+265,Ederson Man City,28, GK,,36,3240,0.1,-,-,-,0.5,-,-,-,6.61
+266,Ricardo Pereira Leicester,28, D(LR),M(R),10(5),959,2.1,1,1.2,0.1,1.3,1.5,0.1,-,6.61
+267,Jack Robinson Sheff Utd,28, D(CL),M(L),9(2),875,1.3,0.8,0.9,0.4,3.7,0.5,0.4,-,6.61
+268,Fabio Carvalho Fulham,19, AM(C),,3(1),255,2.3,0.3,1,-,-,1,-,-,6.61
+269,Kai Havertz Chelsea,22, M(CR),FW,18(9),1522,0.7,0.1,1,0.1,0.7,0.8,-,-,6.6
+270,Benjamin White Brighton,24, D(C),DMC,36,3195,1.4,1.7,0.8,0.3,1.4,0.9,0.6,-,6.6
+271,Ayoze Pérez Leicester,28, AM(CLR),FW,15(10),1333,1.3,0.4,1.2,-,0.3,1.4,-,-,6.6
+272,Jamaal Lascelles Newcastle,28, D(C),,19,1628,0.7,0.6,0.9,0.4,4.4,0.2,0.9,-,6.6
+273,Mario Lemina Fulham,28, DMC,,19(9),1705,2.2,1.1,1.1,0.1,0.7,0.8,0.2,-,6.6
+274,Robert Sánchez Brighton,24, GK,,27,2430,-,-,0.1,-,0.5,-,-,-,6.59
+275,Saïd Benrahma West Ham,26, AM(CLR),,14(16),1392,0.8,0.3,0.5,-,0.1,0.7,-,-,6.59
+276,Naby Keïta Liverpool,26, M(C),,7(3),524,1.1,0.9,1.3,-,0.5,1,-,-,6.59
+277,Robin Koch Leeds,25, D(C),DMC,13(4),1131,1.6,1.6,1.0,0.1,1.8,0.5,0.7,-,6.59
+278,Maximilian Kilman Wolves,24, D(C),,14(4),1307,1.2,1.1,1.1,0.2,2.2,0.3,0.4,-,6.59
+279,John Egan Sheff Utd,29, D(C),,30(1),2630,1.3,1.3,0.9,0.3,4.2,0.5,1,-,6.58
+280,Curtis Jones Liverpool,20, M(C),,13(11),1178,0.7,0.8,0.8,-,0.4,0.5,-,-,6.58
+281,Nemanja Matic Man Utd,33, DMC,,12(8),1102,1.3,1.1,0.7,0.1,0.5,0.9,0.3,-,6.58
+282,Scott Dann Crystal Palace,34, D(C),,15,1350,0.4,1.2,0.4,0.1,3.8,0.5,0.9,-,6.58
+283,Nathan Aké Man City,26, D(CL),DMC,9(1),797,1.0,0.9,0.8,0.5,2.2,0.1,0.1,-,6.57
+284,Joe Rodon Tottenham,24, D(C),,8(4),732,1.2,1.8,0.2,0.4,2.9,0.1,0.7,-,6.57
+285,Neal Maupay Brighton,25, AM(C),FW,29(4),2519,0.6,0.4,0.8,-,0.2,0.6,-,-,6.57
+286,Gary Cahill Crystal Palace,35, D(C),,20,1800,0.7,0.7,0.6,0.3,4.3,0.2,1.1,-,6.57
+287,Cheikhou Kouyaté Crystal Palace,31, D(CR),DMC,35(1),3123,1.6,0.9,1.0,0.4,3.4,0.5,0.7,-,6.57
+288,Theo Walcott Southampton,32, M(CLR),FW,20(1),1629,1.1,0.7,0.6,-,0.1,1.0,-,-,6.56
+289,Bernardo Brighton,26, D(LR),M(L),2(1),204,3.3,0.3,0.3,-,0.3,0.7,-,-,6.56
+290,Ben Davies Tottenham,28, D(CL),M(L),14(6),1340,1.4,0.9,1,0.4,2.3,0.9,0.3,-,6.56
+291,Édouard Mendy Chelsea,29, GK,,31,2746,-,-,-,-,0.4,-,-,-,6.56
+292,Rayan Aït-Nouri Wolves,20, D(L),M(L),16(5),1406,1.4,0.7,0.7,-,0.9,0.7,-,-,6.56
+293,Bernd Leno Arsenal,29, GK,,35,3132,-,-,0.1,-,0.7,-,-,1,6.56
+294,Luka Milivojevic Crystal Palace,30, DMC,,27(4),2365,2.1,1.1,1.2,-,1.5,1.1,0.2,-,6.55
+295,Aaron Ramsdale Sheff Utd,23, GK,,38,3420,-,0.1,-,-,0.9,-,-,-,6.55
+296,Nathan Redmond Southampton,27, AM(CLR),FW,17(12),1731,1,0.4,1.1,-,0.3,0.6,0.1,-,6.55
+297,Joel Ward Crystal Palace,32, D(LR),DMC,25(1),2255,1.7,1.6,1.2,0.5,3.1,0.7,0.3,-,6.55
+298,Rúnar Alex Rúnarsson Arsenal,26, GK,,0(1),16,-,-,-,-,-,-,-,-,6.55
+299,Kasper Schmeichel Leicester,35, GK,,38,3420,-,-,-,-,0.4,-,-,1,6.55
+300,Kean Bryan Sheff Utd,25, D(C),,12(1),1007,1.5,1,1,0.5,2.7,0.8,0.8,1,6.55
+301,Ivan Cavaleiro Fulham,28, AM(CLR),FW,27(9),2476,0.6,0.5,0.8,0.1,0.4,0.6,-,-,6.54
+302,Alex Iwobi Everton,25, M(CLR),,17(13),1543,0.9,0.5,0.4,-,0.4,0.4,-,-,6.54
+303,Juan Mata Man Utd,33, AM(CLR),,6(3),510,0.1,0.3,0.1,-,0.3,0.8,-,-,6.54
+304,Jayden Bogle Sheff Utd,21, D(R),M(R),12(4),1109,2.1,0.9,0.9,0.1,1.1,1.2,0.3,-,6.53
+305,Conor Coady Wolves,28, D(CR),DMC,37,3304,0.9,0.7,0.6,0.6,3.5,0.4,0.9,-,6.53
+306,Jack Stephens Southampton,27, D(CR),,17(1),1539,1.9,1.6,0.4,0.8,3.2,1.2,0.8,-,6.52
+307,Bobby De Cordova-Reid Fulham,28, M(CLR),FW,28(5),2383,0.9,0.6,1.2,0.1,1.0,0.6,0.2,-,6.52
+308,Marvelous Nakamba Aston Villa,27, DMC,,9(4),751,1.7,1.3,0.6,-,0.6,0.4,0.4,-,6.52
+309,Darren Randolph West Ham,34, GK,,3,270,-,-,-,-,1.3,-,-,-,6.52
+310,Olivier Giroud Chelsea,35, FW,,8(9),747,0.2,0.3,0.9,-,0.6,0.4,0.1,-,6.52
+311,Jordan Ayew Crystal Palace,30, AM(CLR),FW,23(10),2098,1.1,0.5,1.4,-,0.3,0.8,0.1,-,6.52
+312,Mateusz Klich Leeds,31, M(C),,28(7),2399,1.1,0.3,1.3,-,0.4,1.3,0.1,-,6.51
+313,John Fleck Sheff Utd,30, DMC,,29(2),2577,1.6,0.9,1.1,-,0.3,1.8,0.1,-,6.51
+314,Robbie Brady Burnley,29, D(L),M(CLR),12(7),1055,1.2,0.5,1.1,-,1.3,1.2,-,-,6.51
+315,Jack Cork Burnley,32, DMC,,15(1),1353,1.6,1.0,1.3,0.1,1.2,1.3,0.3,-,6.51
+316,Robert Snodgrass West Brom,34, M(CLR),,6(2),527,2.1,0.1,1.0,0.1,1.5,0.8,0.3,-,6.51
+317,Dara O'Shea West Brom,22, D(CR),,25(3),2102,1.6,1.6,0.5,0.4,3.5,0.9,0.6,-,6.51
+318,David Luiz Arsenal,34, D(C),DMC,17(3),1400,0.6,0.8,0.8,0.2,2.5,-,0.5,-,6.51
+319,Ruben Loftus-Cheek Fulham,25, M(CLR),,21(9),1913,0.8,0.2,0.9,-,0.5,0.5,0.1,-,6.5
+320,Aleksandar Mitrovic Fulham,27, FW,,13(14),1390,0.3,0.1,0.8,-,0.3,0.2,0.1,-,6.5
+321,Rui Patrício Wolves,33, GK,,37,3330,-,-,-,-,0.2,-,-,-,6.5
+322,Alex McCarthy Southampton,31, GK,,30,2700,-,-,-,-,0.7,0.1,-,-,6.49
+323,Steven Bergwijn Tottenham,24, AM(CLR),FW,13(8),1214,0.7,0.2,1,-,0.3,0.6,-,-,6.49
+324,Neco Williams Liverpool,20, D(R),,3(3),249,1,1,0.5,0.2,0.7,0.7,0.2,-,6.49
+325,Dele Alli Tottenham,25, M(CL),FW,7(8),619,1.2,0.5,0.7,-,0.2,0.8,-,-,6.49
+326,Jóhann Gudmundsson Burnley,31, AM(CLR),,16(6),1369,0.9,0.8,0.5,-,0.8,0.5,0.1,-,6.49
+327,Oliver Norwood Sheff Utd,30, M(C),,26(6),2226,1.5,1.1,0.8,-,1.5,1.6,0.4,-,6.48
+328,Cédric Soares Arsenal,30, D(LR),M(R),8(2),745,1.2,0.8,0.6,0.1,1.4,1.5,0.1,-,6.48
+329,Ainsley Maitland-Niles West Brom,24, D(LR),M(CLR),14(1),1233,1.5,1.1,0.7,0.1,1.4,1.3,0.1,-,6.48
+330,Joe Gomez Liverpool,24, D(CLR),,6(1),590,0.4,0.6,0.9,0.3,4,0.6,0.3,-,6.48
+331,James Milner Liverpool,35, D(LR),M(CLR),11(15),1062,1,0.5,0.7,-,0.5,0.8,0.1,-,6.48
+332,Emil Krafth Newcastle,27, D(CR),,14(2),1290,1.2,0.9,0.8,0.4,2.9,0.8,0.6,-,6.47
+333,David de Gea Man Utd,31, GK,,26,2296,-,-,-,-,0.5,-,-,-,6.47
+334,Cengiz Ünder Leicester,24, AM(CLR),,1(8),275,0.4,0.2,0.1,-,-,0.2,-,-,6.47
+335,Patrick van Aanholt Crystal Palace,31, D(L),M(L),20(2),1776,1.6,1.4,0.5,-,1.5,1.1,0.3,-,6.47
+336,Max Lowe Sheff Utd,24, D(LR),M(L),7(1),552,3.3,0.6,1.3,0.1,0.8,1.5,0.5,-,6.47
+337,Ashley Barnes Burnley,32, AM(CL),FW,15(7),1337,0.5,0.2,2.1,-,0.5,0.5,0.1,-,6.47
+338,Jonny Wolves,27, D(CLR),M(L),7,501,1.6,1.3,1,0.3,1,1,0.3,-,6.46
+339,Tom Davies Everton,23, M(C),,17(8),1426,1.2,1.4,1,-,0.8,0.9,0.4,-,6.46
+340,André Gomes Everton,28, M(CLR),,17(11),1568,1.3,0.4,1.3,-,0.4,1.5,-,-,6.46
+341,Vicente Guaita Crystal Palace,34, GK,,37,3330,-,-,-,-,0.9,-,-,-,6.46
+342,Rúben Vinagre Wolves,22, D(L),M(L),1(1),172,3.5,1,1,-,2.0,0.5,-,-,6.46
+343,Adam Lallana Brighton,33, AM(CLR),,16(14),1592,0.9,0.5,0.6,-,0.4,1,0.1,-,6.45
+344,Virgil van Dijk Liverpool,30, D(C),,5,371,0.6,1,0.8,1.2,1.6,-,0.2,-,6.45
+345,Moussa Sissoko Tottenham,32, M(CR),,15(10),1577,0.9,0.9,0.9,-,0.9,0.5,0.2,-,6.44
+346,Willian José Wolves,29, FW,,12(5),1114,0.1,0.1,0.5,-,0.7,0.2,0.1,-,6.44
+347,Ainsley Maitland-Niles Arsenal,24, D(LR),M(CLR),5(6),486,1,1.3,0.5,0.1,0.5,0.4,0.2,-,6.44
+348,Marçal Wolves,32, D(CL),M(L),7(6),622,1,0.9,0.9,0.1,1.5,0.4,0.2,-,6.44
+349,Alexis Mac Allister Brighton,22, M(CL),,13(8),1117,1.2,0.4,0.9,-,0.1,1.3,0.2,-,6.44
+350,Erik Pieters Burnley,33, D(L),M(L),13(7),1262,1.5,0.6,1.3,0.3,1.4,1,0.5,1,6.44
+351,Ryan Fredericks West Ham,29, D(R),M(R),6(8),567,0.6,0.8,0.8,0.1,1.4,0.3,0.1,-,6.44
+352,Daniel Jebbison Sheff Utd,18, FW,,3(1),284,1.5,0.3,1.5,-,-,1,0.3,-,6.43
+353,John Ruddy Wolves,35, GK,,1(1),91,-,-,-,-,-,-,-,-,6.43
+354,Tyler Roberts Leeds,22, AM(C),FW,14(13),1341,0.6,0.3,0.9,-,0.4,0.6,0.1,-,6.43
+355,Sander Berge Sheff Utd,23, DMC,,13(2),1120,1.1,0.3,0.9,0.1,1.2,0.5,0.1,-,6.43
+356,Mohamed Elneny Arsenal,29, DMC,,17(6),1542,0.6,1,0.4,-,0.9,0.9,0.2,-,6.43
+357,Takumi Minamino Southampton,26, AM(CLR),FW,9(1),717,0.7,0.4,0.7,-,0.9,1.7,0.1,-,6.42
+358,Theo Corbeanu Wolves,19, Forward,,0(1),8,2,1,-,-,-,-,-,-,6.42
+359,Ryan Bertrand Southampton,32, D(CL),M(L),29,2599,2.1,1,1,0.2,1.3,0.6,-,-,6.41
+360,Dennis Praet Leicester,27, AM(CR),,10(5),724,0.9,0.5,0.8,-,0.2,0.6,0.1,-,6.41
+361,Steven Alzate Brighton,23, DMC,M(L),10(5),898,1.1,0.5,1.3,-,0.6,0.6,0.1,-,6.41
+362,Bernard Everton,29, AM(CL),,3(9),450,0.7,0.7,0.5,-,0.4,0.7,-,-,6.41
+363,Grady Diangana West Brom,23, AM(LR),,15(5),1239,1.8,0.8,0.6,-,0.4,1.2,0.1,-,6.41
+364,Callum Robinson West Brom,26, AM(CLR),FW,20(8),1567,0.3,0.3,0.1,-,0.3,0.6,-,-,6.41
+365,Manuel Lanzini West Ham,28, M(CLR),,5(12),560,0.5,0.4,0.4,-,0.3,0.4,-,-,6.41
+366,Eric Bailly Man Utd,27, D(CR),,10(2),915,0.4,1.1,0.8,0.3,3.0,0.1,0.9,-,6.41
+367,Daniel Amartey Leicester,26, D(CR),DMC,9(4),722,0.8,0.9,0.2,0.3,1.8,0.3,0.3,-,6.4
+368,Takumi Minamino Liverpool,26, AM(CLR),FW,2(7),289,0.4,0.2,0.4,-,0.3,1.3,-,-,6.4
+369,Ben Osborn Sheff Utd,27, D(L),M(CLR),17(7),1606,1.4,0.5,0.4,-,0.5,1.1,0.1,-,6.4
+370,Semi Ajayi West Brom,28, D(C),DMC,31(2),2780,1.2,1.3,0.8,0.4,3.6,0.5,1,-,6.4
+371,Sam Field West Brom,23, DMC,,0(3),62,1.7,0.7,0.7,-,1,-,0.3,-,6.4
+372,Tim Ream Fulham,34, D(CL),DMC,7,630,1.7,0.9,0.4,0.1,3.3,0.4,0.7,-,6.4
+373,Percy Tau Brighton,27, AM(CR),FW,1(2),102,0.3,-,-,-,-,0.7,-,-,6.39
+374,Xherdan Shaqiri Liverpool,30, M(CLR),,5(9),553,0.5,0.1,0.8,-,-,0.4,-,-,6.39
+375,Joe Bryan Fulham,28, D(L),M(CL),7(9),666,0.9,0.9,0.6,0.1,0.7,0.3,0.1,-,6.39
+376,Phil Bardsley Burnley,36, D(LR),,3(1),273,1.5,1.5,2,0.3,3,0.8,0.3,-,6.39
+377,Josh Maja Fulham,22, FW,,9(6),810,0.5,0.3,0.5,-,0.1,0.4,0.1,-,6.39
+378,Fabian Schär Newcastle,29, D(C),,13(5),1247,0.7,1.5,1.2,0.3,2.8,0.7,0.7,-,6.39
+379,Enda Stevens Sheff Utd,31, D(CL),M(L),30,2700,2.0,0.7,1.1,0.3,2.5,0.8,0.4,-,6.39
+380,James Tomkins Crystal Palace,32, D(CR),,6(2),552,0.5,0.5,0.4,0.4,5.4,0.1,0.4,-,6.39
+381,Ben Johnson West Ham,21, D(LR),M(L),5(9),519,0.8,0.8,0.4,-,0.4,0.1,0.1,-,6.39
+382,Morgan Gibbs-White Wolves,21, AM(CR),,4(7),412,0.8,0.3,0.5,-,0.1,0.6,-,-,6.38
+383,Ryan Fraser Newcastle,27, M(CLR),FW,9(9),927,0.2,0.3,0.3,-,0.3,0.2,-,-,6.38
+384,Javier Manquillo Newcastle,27, D(LR),M(R),10(3),826,1.8,0.7,0.5,0.1,1.1,0.5,0.1,-,6.37
+385,Carlos Vinícius Tottenham,26, FW,,3(6),306,0.3,0.2,1.2,-,0.6,-,-,-,6.37
+386,Filip Krovinovic West Brom,26, M(CL),,5(6),545,1.2,0.4,0.5,-,0.2,1.1,-,-,6.37
+387,Harry Winks Tottenham,25, DMC,,9(6),861,1.1,0.7,0.7,-,0.7,1,0.3,-,6.37
+388,Moussa Djenepo Southampton,23, AM(LR),,15(12),1240,1.9,0.4,1.1,-,0.4,1.3,0.1,-,6.37
+389,Nampalys Mendy Leicester,29, M(C),,15(8),1458,1.1,0.6,0.9,-,0.3,0.6,-,-,6.36
+390,Matej Vydra Burnley,29, AM(CL),FW,15(13),1368,0.3,0.2,0.2,-,0.2,0.3,-,-,6.36
+391,Sean Longstaff Newcastle,24, DMC,,15(7),1406,1.4,0.9,1,-,0.6,1.1,0.2,-,6.36
+392,Erik Lamela Tottenham,29, AM(CLR),,5(18),708,0.7,0.3,1,-,-,0.6,-,-,6.36
+393,Keinan Davis Aston Villa,23, FW,,1(14),266,0.1,-,0.3,-,0.1,0.1,-,-,6.36
+394,Ki-Jana Hoever Wolves,19, M(R),,5(7),574,1.2,0.8,0.3,0.1,1.8,1.0,-,-,6.36
+395,Jack O'Connell Sheff Utd,27, D(C),,2,180,1.5,1,-,0.5,3.5,0.5,1.5,-,6.36
+396,George Baldock Sheff Utd,28, D(CR),M(R),32,2789,1.5,0.8,1.4,0.1,1.9,0.9,0.2,-,6.35
+397,DeAndre Yedlin Newcastle,28, D(R),M(R),5(1),437,1.5,1.2,0.7,-,2.3,1.0,0.2,-,6.35
+398,Owen Otasowie Wolves,20, Midfielder,,2(4),187,0.8,0.5,0.5,-,0.7,0.2,0.2,-,6.35
+399,Donny van de Beek Man Utd,24, M(C),,4(15),515,0.8,0.3,0.3,-,0.3,0.4,0.1,-,6.35
+400,Matt Phillips West Brom,30, M(CLR),FW,20(13),1829,0.5,0.3,0.9,-,0.8,0.5,0.1,-,6.34
+401,Ross Barkley Chelsea,27, M(CLR),,0(2),40,-,-,1.0,-,-,-,-,-,6.34
+402,Jairo Riedewald Crystal Palace,25, D(CL),DMC,19(14),1819,1,0.9,0.6,-,0.7,0.6,0.2,-,6.34
+403,Jamal Lewis Newcastle,23, D(L),M(L),20(4),1833,1.5,0.5,0.8,0.5,1.5,0.9,0.3,-,6.34
+404,Nathaniel Clyne Crystal Palace,30, D(LR),M(R),13,1147,1.3,1.4,0.3,0.2,1.6,0.5,0.2,-,6.33
+405,Jeff Hendrick Newcastle,29, M(CR),,17(5),1423,0.4,0.9,0.7,-,0.6,0.5,0.4,-,6.33
+406,Eddie Nketiah Arsenal,22, FW,,4(13),415,0.2,-,0.6,-,0.3,0.1,-,-,6.33
+407,Michy Batshuayi Crystal Palace,28, FW,,7(11),724,0.3,0.2,0.7,-,0.3,0.4,0.1,-,6.32
+408,Hélder Costa Leeds,27, AM(CLR),,13(9),1158,1.1,0.1,0.9,-,0.2,1,-,1,6.32
+409,Billy Gilmour Chelsea,20, M(C),,3(2),260,0.8,0.6,0.4,-,0.2,1,0.4,-,6.32
+410,Kevin Long Burnley,31, D(C),,7(1),636,1.4,0.8,0.9,0.8,3.0,0.3,0.9,-,6.32
+411,Andy Carroll Newcastle,32, FW,,4(14),384,0.2,-,0.7,-,0.8,0.4,-,-,6.31
+412,Fábio Silva Wolves,19, FW,,11(21),1357,0.2,0.1,0.6,-,0.2,0.3,-,-,6.3
+413,Anthony Gordon Everton,20, AM(L),,1(2),88,1.0,0.3,-,-,0.7,0.7,-,-,6.29
+414,James McCarthy Crystal Palace,31, M(C),,10(6),824,1.1,0.5,0.4,0.1,0.7,0.8,0.4,-,6.29
+415,Kieran Gibbs West Brom,32, D(L),M(L),9(1),811,1.5,1.6,0.6,0.1,2.7,0.2,0.6,-,6.29
+416,Matthew Longstaff Newcastle,21, M(C),,4(1),377,0.6,1.4,0.6,0.2,0.4,1.2,-,-,6.29
+417,Jean-Philippe Mateta Crystal Palace,24, FW,,2(5),217,0.1,-,0.4,-,0.3,0.3,-,-,6.29
+418,Fabian Delph Everton,32, D(L),M(CL),2(6),261,0.6,0.5,0.4,-,0.9,0.3,-,-,6.29
+419,Jakub Moder Brighton,22, M(CL),,7(5),648,1.3,0.3,1,-,0.6,1.1,0.1,-,6.28
+420,Dale Stephens Burnley,32, M(C),,3(4),259,1.6,1.1,1.1,-,0.1,0.4,-,-,6.28
+421,Aaron Connolly Brighton,21, FW,,9(8),793,0.4,-,0.4,-,0.1,0.1,-,-,6.28
+422,Sead Kolasinac Arsenal,28, D(CL),DMC,1,90,-,1,1,-,-,-,-,-,6.28
+423,Jay Rodriguez Burnley,32, AM(CLR),FW,12(19),1256,0.8,0.1,1,-,0.2,0.5,0.1,-,6.27
+424,Alireza Jahanbakhsh Brighton,28, AM(CLR),,6(15),525,0.4,0.4,0.3,-,-,0.5,-,-,6.26
+425,Axel Tuanzebe Man Utd,24, D(CR),,4(5),402,1.4,0.3,0.7,0.1,1.7,0.1,0.6,1,6.26
+426,Sidnei Tavares Leicester,20, Midfielder,,1(1),85,0.5,-,0.5,-,-,-,0.5,-,6.26
+427,Oliver Burke Sheff Utd,24, AM(LR),FW,14(11),1273,0.6,0.1,0.9,-,0.2,0.8,-,-,6.25
+428,Jack Butland Crystal Palace,28, GK,,1,90,-,-,-,-,-,-,-,-,6.25
+429,Joseph Willock Arsenal,22, M(C),,2(5),235,0.9,0.4,0.9,-,-,0.6,0.1,-,6.25
+430,Pablo Hernández Leeds,36, M(CLR),,3(13),419,0.3,-,0.1,-,-,0.7,-,-,6.25
+431,Nathan Tella Southampton,22, AM(L),,7(11),742,0.4,0.2,0.9,-,0.1,0.5,-,-,6.25
+432,Vitinha Wolves,21, AM(C),,5(14),513,0.4,0.2,0.4,-,0.1,0.3,-,-,6.23
+433,Davy Pröpper Brighton,30, M(C),,2(5),211,0.9,0.1,0.1,-,-,0.4,-,-,6.23
+434,Niall Huggins Leeds,20, Defender,,0(1),37,-,-,-,-,1,1,-,-,6.23
+435,Ruben Loftus-Cheek Chelsea,25, M(CLR),,1,61,-,-,1,-,-,-,-,-,6.23
+436,John Lundstram Sheff Utd,27, DMC,,23(5),2032,0.9,0.5,0.9,0.1,0.8,1.2,0.3,-,6.23
+437,Ian Poveda-Ocampo Leeds,21, AM(R),,0(14),345,0.4,0.1,0.4,-,0.1,0.4,0.1,-,6.23
+438,Niels Nkounkou Everton,21, D(L),,1(1),81,2,-,0.5,-,2,2.5,-,-,6.23
+439,Carney Chukwuemeka Aston Villa,18, Midfielder,,0(2),18,1,-,1,-,-,1,-,-,6.22
+440,Maxime Le Marchand Fulham,32, D(CL),,1(1),122,1,-,1.5,1.5,1.5,-,-,-,6.22
+441,Ibrahima Diallo Southampton,22, DMC,,10(12),1012,1.3,0.5,1.0,-,0.5,0.3,-,-,6.22
+442,Rekeem Harper West Brom,21, DMC,,0(2),30,-,0.5,0.5,-,-,-,-,-,6.22
+443,Branislav Ivanovic West Brom,37, D(CR),,8(5),767,1.1,0.6,0.8,0.5,1.9,0.5,0.4,-,6.21
+444,Brandon Williams Man Utd,21, D(L),M(L),2(2),187,-,0.3,0.5,0.3,1,0.3,-,-,6.21
+445,Lee Peltier West Brom,34, D(CLR),DMC,3(1),229,2.3,0.3,1.0,-,2.8,-,0.3,-,6.21
+446,William Smallbone Southampton,21, Midfielder,,2(1),173,2,0.7,1.0,-,0.3,0.7,-,-,6.21
+447,Dwight Gayle Newcastle,32, AM(LR),FW,4(14),506,0.1,0.1,0.3,-,0.1,0.4,0.1,-,6.21
+448,Andriy Yarmolenko West Ham,32, AM(CR),FW,1(14),363,0.3,0.1,0.5,-,0.1,0.4,-,-,6.21
+449,Morgan Sanson Aston Villa,27, M(CLR),,3(6),291,0.8,0.4,0.7,-,0.1,0.3,-,-,6.2
+450,Reiss Nelson Arsenal,21, M(LR),,0(2),70,0.5,0.5,1,-,0.5,-,-,-,6.2
+451,Billy Sharp Sheff Utd,35, FW,,7(9),730,0.3,-,0.9,-,0.1,0.4,-,-,6.2
+452,Jacob Ramsey Aston Villa,20, M(C),,6(16),619,0.5,0.2,0.6,-,0.2,0.5,0.3,-,6.2
+453,Antwoine Hackford Sheff Utd,17, Forward,,0(1),10,-,-,-,-,-,-,-,-,6.19
+454,Divock Origi Liverpool,26, AM(LR),FW,2(7),182,0.3,0.1,-,-,0.2,0.2,0.1,-,6.19
+455,Hamza Choudhury Leicester,24, DMC,,4(6),314,0.8,0.4,0.6,-,0.7,0.6,0.1,-,6.19
+456,Kamil Grosicki West Brom,33, AM(LR),,2(1),149,0.7,0.7,0.3,-,0.3,2,-,-,6.19
+457,Alex Oxlade Chamberlain Liverpool,28, M(CLR),,2(11),246,0.3,0.2,0.2,-,-,0.2,-,-,6.18
+458,Jamie Shackleton Leeds,22, D(R),DMC,3(10),456,0.8,0.7,0.2,-,0.2,0.5,0.1,-,6.18
+459,Mark Noble West Ham,34, M(C),,8(13),707,0.4,0.6,0.4,-,0.1,0.5,0.1,-,6.17
+460,Shkodran Mustafi Arsenal,29, D(CR),,0(3),45,0.3,-,0.3,-,1,-,-,-,6.17
+461,Rhian Brewster Sheff Utd,21, FW,,12(15),1125,0.3,0.2,0.7,-,0.1,0.4,0.1,-,6.17
+462,Kepa Arrizabalaga Chelsea,27, GK,,6(1),585,-,-,-,-,0.6,0.1,-,-,6.17
+463,Demarai Gray Leicester,25, AM(CLR),FW,0(1),18,1,-,-,-,-,-,-,-,6.17
+464,Hannibal Mejbri Man Utd,18, Midfielder,,0(1),8,-,-,-,-,-,-,-,-,6.17
+465,Nathan Broadhead Everton,23, AM(L),,0(1),2,1,-,-,-,-,-,-,-,6.17
+466,Jake Livermore West Brom,32, D(C),DMC,15(3),1249,1.8,0.9,1.7,-,1.3,0.9,0.3,1,6.17
+467,Charlie Austin West Brom,32, FW,,0(5),134,0.8,0.6,-,-,0.8,0.4,-,-,6.16
+468,Karlan Grant West Brom,24, AM(CL),FW,14(7),1133,0.2,0.2,0.4,-,0.7,0.1,-,-,6.15
+469,Eric García Man City,20, D(C),,3(3),382,1.3,0.7,0.7,0.5,1.7,0.3,0.2,-,6.15
+470,Yan Valery Southampton,22, D(R),M(R),1(2),101,1.7,0.7,0.3,-,1.7,1.3,-,-,6.15
+471,Islam Slimani Leicester,33, FW,,0(1),19,-,-,-,-,-,-,-,-,6.14
+472,Kyle Edwards West Brom,23, AM(L),,1(4),114,0.6,0.2,0.2,-,-,-,-,-,6.14
+473,Denis Odoi Fulham,33, D(CLR),,3,270,1,1.7,2.3,1,1.7,1,0.3,-,6.13
+474,Hal Robson-Kanu West Brom,32, AM(LR),FW,2(17),549,0.1,0.1,0.8,-,0.4,0.1,-,-,6.13
+475,José Izquierdo Brighton,29, AM(L),,0(1),8,-,-,-,-,-,-,-,-,6.13
+476,Andi Zeqiri Brighton,22, FW,,0(9),165,0.3,-,0.2,-,0.2,0.1,-,-,6.13
+477,Neeskens Kebano Fulham,29, AM(CLR),,1(4),117,-,-,0.6,-,-,0.2,-,-,6.12
+478,Mat Ryan Brighton,29, GK,,11,990,0.1,-,0.1,-,1.1,-,-,-,6.12
+479,Romaine Sawyers West Brom,30, M(CL),,17(2),1490,1.6,0.9,0.9,0.1,0.5,1.5,0.2,1,6.12
+480,Shane Long Southampton,34, AM(R),FW,1(10),201,0.2,0.3,0.6,-,0.1,0.1,-,-,6.11
+481,Joshua King Everton,29, AM(CLR),FW,0(11),138,0.4,0.1,0.4,-,0.1,-,-,-,6.11
+482,Josh Onomah Fulham,24, M(CL),,4(7),372,1,0.2,1.1,-,0.1,0.5,0.2,-,6.08
+483,Marek Rodák Fulham,24, GK,,2,180,-,-,-,-,1,-,-,-,6.08
+484,Martin Kelly Crystal Palace,31, D(CLR),,0(1),1,1,-,-,-,-,-,-,-,6.08
+485,Wes Morgan Leicester,37, D(C),,0(3),16,-,-,-,-,0.3,-,-,-,6.07
+486,Zack Steffen Man City,26, GK,,1,90,-,-,1,-,-,-,-,-,6.07
+487,Michael Hector Fulham,29, D(C),DMC,3(1),264,0.8,-,1.3,0.3,1.5,1.3,0.5,-,6.07
+488,Felipe Anderson West Ham,28, M(CLR),FW,0(2),2,0.5,-,-,-,-,-,-,-,6.07
+489,Mamadou Sakho Crystal Palace,31, D(C),,3(1),275,0.8,0.8,0.5,-,2.8,-,0.5,-,6.06
+490,Caleb Watts Southampton,19, Midfielder,,0(3),36,0.7,-,-,-,-,0.3,-,-,6.05
+491,Jonjoe Kenny Everton,24, D(R),M(R),1(3),79,0.5,0.3,-,-,0.5,-,-,-,6.04
+492,Phil Jagielka Sheff Utd,39, D(CR),,6(4),527,0.5,1,0.8,0.5,2.6,0.5,0.5,1,6.04
+493,Daniel N'Lundulu Southampton,22, FW,,0(13),102,-,-,0.5,-,0.2,0.1,-,-,6.03
+494,Leif Davis Leeds,21, Defender,,0(2),31,-,0.5,0.5,-,-,1.5,-,-,6.02
+495,Oskar Buur Wolves,23, Defender,,0(1),22,-,-,-,-,-,2,-,-,6.02
+496,Iliman Ndiaye Sheff Utd,21, AM(C),,0(1),11,1,-,-,-,-,-,-,-,6.01
+497,Thakgalo Leshabela Leicester,22, Midfielder,,0(1),9,-,-,-,-,-,-,-,-,6.01
+498,Shola Shoretire Man Utd,17, Forward,,0(2),9,-,-,-,-,-,-,-,-,6.01
+499,Robert Snodgrass West Ham,34, M(CLR),,0(3),4,-,-,-,-,-,-,-,-,6.0
+500,Dane Scarlett Tottenham,17, Forward,,0(1),1,-,-,-,-,-,-,-,-,6.0
+501,Elliot Anderson Newcastle,19, Midfielder,,0(1),3,-,-,-,-,-,-,-,-,6.0
+502,Femi Seriki Sheff Utd,19, Defender,,0(1),1,-,-,-,-,-,-,-,-,6.0
+503,Jaden Philogene-Bidace Aston Villa,19, Midfielder,,0(1),1,-,-,-,-,-,-,-,-,6.0
+504,Jayson Molumby Brighton,22, M(C),,0(1),1,-,-,-,-,-,-,-,-,6.0
+505,Jean-Philippe Gbamin Everton,26, D(CR),DMC,0(1),11,1,-,-,-,1,-,-,-,6.0
+506,William Fish Man Utd,18, Defender,,0(1),1,-,-,-,-,-,-,-,-,6.0
+507,Moise Kean Everton,21, FW,,0(2),13,-,-,0.5,-,-,-,-,-,6.0
+508,Lewis Richardson Burnley,18, Midfielder,,0(2),3,-,-,-,-,-,-,-,-,5.98
+509,Reda Khadra Brighton,20, Midfielder,,0(1),4,-,-,-,-,-,-,-,-,5.98
+510,Michael Obafemi Southampton,21, FW,,0(4),57,0.3,-,0.3,-,-,0.3,-,-,5.98
+511,Wesley Aston Villa,24, FW,,0(3),15,-,-,-,-,-,0.3,-,-,5.96
+512,Patrick Cutrone Wolves,23, FW,,0(2),23,-,-,-,-,-,-,-,-,5.96
+513,Konstantinos Tsimikas Liverpool,25, D(L),,0(2),6,-,-,0.5,-,-,-,-,-,5.96
+514,Aboubakar Kamara Fulham,26, AM(R),FW,2(9),310,0.2,0.1,0.8,-,-,0.5,-,-,5.95
+515,Josh Benson Burnley,21, M(C),,2(4),261,0.8,0.5,0.7,-,0.3,0.8,-,-,5.94
+516,Liam Delap Man City,18, Forward,,0(1),39,-,-,1,-,-,-,-,-,5.94
+517,Joel Mumbongo Burnley,22, Forward,,0(4),37,-,-,0.3,-,-,-,-,-,5.94
+518,Lys Mousset Sheff Utd,25, FW,,2(9),290,0.1,-,0.6,-,0.1,0.2,-,-,5.94
+519,Cenk Tosun Everton,30, FW,,0(5),44,-,-,0.2,-,-,0.2,-,-,5.93
+520,Adrián Liverpool,34, GK,,3,270,-,-,-,-,2,-,-,-,5.9
+521,Tyrese Francois Fulham,21, Midfielder,,0(1),14,-,-,-,-,-,-,-,-,5.89
+522,Theo Walcott Everton,32, M(CLR),FW,0(1),12,-,-,-,-,-,-,-,-,5.87
+523,Neil Taylor Aston Villa,32, D(L),M(L),0(1),16,1,-,1,-,-,-,-,-,5.85
+524,Jake Vokins Southampton,21, D(L),,1,66,-,-,2,-,-,1,-,-,5.83
+525,Will Norris Burnley,28, GK,,2,180,-,-,-,-,0.5,-,-,-,5.78
+526,Bailey Peacock-Farrell Burnley,25, GK,,4,360,-,-,-,-,0.3,-,-,-,5.77
+527,Allan Tchaptchet Southampton,19, Defender,,0(1),12,-,-,-,-,-,-,-,-,5.74
+528,Odion Ighalo Man Utd,32, AM(C),FW,0(1),9,-,-,-,-,-,1,-,-,5.74
+529,Alexandre Jankewitz Southampton,19, Midfielder,,1(1),3,1,-,0.5,-,-,-,-,-,5.68
+530,Willy Caballero Chelsea,40, GK,,1,90,-,-,-,-,-,-,-,-,5.41
+531,Kayne Ramsay Southampton,21, D(R),,1,90,5,-,1,1,3,-,-,-,5.06

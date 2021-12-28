@@ -1,0 +1,523 @@
+﻿,Rating,name,age,position1,Apps,Mins,Goals,Assists,SpG,KeyP,Drb,Fouled,Off,Disp,UnsTch
+0,8.04,Sean Klaiber FC Utrecht,27, D(R),2,180,1,-,2.5,1,1,0.5,-,1,2.5
+1,7.87,Dusan Tadic Ajax,32, AM(CLR),31(3),2612,14,17,2.3,3.8,1.4,1.1,0.3,1.7,1.9
+2,7.69,Sébastien Haller Ajax,27, FW,18(1),1570,11,5,2.8,1.2,1.1,2.2,0.6,1.8,3.4
+3,7.66,Steven Berghuis Feyenoord,29, AM(CR),30(1),2646,18,12,3.5,2.9,1.4,0.8,0.1,1.5,2.3
+4,7.57,Oussama Tannane Vitesse,27, AM(CLR),29,2415,7,9,4.3,3.2,2.6,3.6,0.1,1.9,2.9
+5,7.56,Adam Maher FC Utrecht,28, M(CR),25,2181,2,4,1.4,2.5,1.3,2.3,-,1.4,1.6
+6,7.44,Gregoire Amiot Fortuna Sittard,26, D(C),0(1),85,-,-,1.0,-,-,-,-,-,2.0
+7,7.4,Joey Veerman SC Heerenveen,22, M(CL),30(1),2705,7,10,2.0,1.9,2.3,1.4,-,1.2,1.3
+8,7.4,Donyell Malen PSV Eindhoven,22, AM(L),26(6),2455,19,8,3.5,1.1,1.6,0.9,0.6,1.5,2.8
+9,7.39,Teun Koopmeiners AZ Alkmaar,23, D(C),31,2705,15,5,1.6,1.1,0.6,0.6,-,0.6,1.1
+10,7.38,Ajdin Hrustic FC Groningen,25, M(CLR),1,83,-,-,4.0,1.0,1.0,2.0,-,2.0,1.0
+11,7.36,Ibrahim Sangaré PSV Eindhoven,23, DMC,25(4),2281,1,1,0.8,0.7,1.2,0.7,-,0.8,1.4
+12,7.3,Giorgos Giakoumakis VVV-Venlo,26, FW,30,2591,26,1,3.2,0.5,0.8,2.7,1.1,1.2,3.7
+13,7.29,Ryan Gravenberch Ajax,19, DMC,31(1),2618,3,5,1.5,1.2,1.6,0.8,-,1.1,2.1
+14,7.29,Mario Götze PSV Eindhoven,29, M(CLR),17(1),1411,5,6,0.8,1.4,1.4,0.9,0.2,1.2,2.1
+15,7.28,Calvin Stengs AZ Alkmaar,22, AM(CR),30,2609,7,5,2.1,1.9,2.1,1.5,0.2,1.8,3.4
+16,7.28,Jesper Karlsson AZ Alkmaar,23, AM(LR),31(1),2469,11,9,2.5,1.5,1.1,0.8,-,1.5,1.9
+17,7.28,Vaclav Cerny Twente,24, AM(R),16,1198,6,6,2.1,1.8,1.7,0.6,0.5,1.4,2.5
+18,7.27,Davy Klaassen Ajax,28, M(CL),27(2),2210,12,3,1.5,1.1,0.6,0.5,0.1,0.4,0.8
+19,7.25,Cody Gakpo PSV Eindhoven,22, AM(CL),22(1),1677,7,3,2.0,1.3,2.3,1.6,0.2,1.9,2.3
+20,7.24,Abdou Harroui Sparta Rotterdam,23, DMC,32,2775,6,2,2.3,1.2,2.0,1.8,-,2.5,3.2
+21,7.21,Gyrano Kerk FC Utrecht,25, AM(LR),33(1),2927,8,4,2.5,1.5,3.3,1.1,0.6,3.0,4.3
+22,7.21,Vangelis Pavlidis Willem II,22, AM(L),33(1),2934,12,4,2.8,1.1,2.2,1.7,0.6,2.3,4.9
+23,7.2,Marcos Senesi Feyenoord,24, D(C),32,2880,3,2,0.5,0.4,0.8,0.7,-,0.4,1.4
+24,7.18,Fredrik Midtsjø AZ Alkmaar,28, M(CR),31,2727,2,5,0.6,1.1,1.8,1.5,0.1,1.4,1.8
+25,7.18,Silvester van der Water Heracles,25, AM(R),14(4),1205,3,4,1.7,1.7,2.2,1.8,0.1,1.5,2.8
+26,7.16,Philipp Max PSV Eindhoven,28, D(L),29(2),2597,5,8,1.0,2.0,0.4,0.6,0.2,0.3,1.1
+27,7.16,Nicolás Tagliafico Ajax,29, D(CL),25,2010,1,3,1.5,1.1,0.4,1.3,0.1,0.4,1.2
+28,7.16,Jacob Rasmussen Vitesse,24, D(C),28,2476,2,-,0.7,0.3,0.1,0.5,-,0.1,0.3
+29,7.15,Jens Toornstra Feyenoord,32, M(CLR),30(1),2670,8,2,1.5,1.4,1.5,0.5,0.1,0.7,1.4
+30,7.14,Eran Zahavi PSV Eindhoven,34, AM(CL),24(1),1999,11,3,3.4,1.1,0.6,0.7,0.4,0.6,2.3
+31,7.14,Rai Vloet Heracles,26, AM(C),33,2755,16,7,2.1,1.5,1.6,1.4,0.2,1.8,2.7
+32,7.14,Olivier Boscagli PSV Eindhoven,23, D(CL),29(1),2562,2,2,0.6,0.3,0.3,1,-,0.2,0.5
+33,7.14,Zian Flemming Fortuna Sittard,23, AM(C),33,2952,12,7,2.8,0.8,1.2,1.2,0.1,1.4,1.7
+34,7.13,Antony Ajax,21, AM(R),24(8),1774,9,8,1.8,1.1,1.3,0.9,0.1,0.7,1.1
+35,7.12,Denzel Dumfries PSV Eindhoven,25, D(R),27(3),2469,2,6,0.8,1.4,0.9,1.5,0.1,1,2
+36,7.12,Maximiliano Romero PSV Eindhoven,22, FW,0(1),1,1,-,1.0,-,-,-,-,-,-
+37,7.11,Lennart Thy Sparta Rotterdam,29, AM(C),34,2799,14,3,2.1,1.4,0.6,1.1,0.4,1,2.4
+38,7.11,Henk Veerman SC Heerenveen,30, FW,29(2),2637,14,5,2.9,1,0.5,0.3,1,0.6,2.5
+39,7.11,Gabriel Gudmundsson FC Groningen,22, D(L),20(3),1646,-,5,1.2,0.8,2.7,1.7,0.2,1.4,1.7
+40,7.1,Myron Boadu AZ Alkmaar,20, FW,28(3),2530,15,1,1.5,1.1,1.0,1.3,0.8,2.1,3.3
+41,7.1,Sergio Peña FC Emmen,26, AM(CL),32,2803,6,3,1.7,2.0,2.3,1.5,0.1,1.7,2.3
+42,7.1,Lisandro Martínez Ajax,23, D(CL),17(9),1750,3,1,1.2,0.4,0.9,0.4,-,0.5,0.6
+43,7.09,Daley Blind Ajax,31, D(CL),23,1964,1,1,0.7,0.9,0.9,0.4,-,0.6,0.6
+44,7.09,Sander van de Streek FC Utrecht,28, AM(CL),27(5),2462,11,5,2.4,0.8,0.7,1.4,0.1,1.2,1.8
+45,7.08,Owen Wijndal AZ Alkmaar,21, D(L),34,3060,1,6,0.9,1.4,1.1,1.2,0.1,0.6,1.1
+46,7.08,Noussair Mazraoui Ajax,24, D(R),16(3),1216,-,1,0.6,0.6,1.5,0.8,-,0.5,0.7
+47,7.07,Kenneth Paal PEC Zwolle,24, D(L),25(2),2272,-,1,0.6,1.8,1.7,1,0.1,1.1,1.7
+48,7.07,Eric Botteghin Feyenoord,34, D(C),18(5),1655,1,-,0.5,0.4,0.1,-,0.1,0.3,0.4
+49,7.07,Virgil Misidjan PEC Zwolle,28, AM(LR),13(2),1072,4,3,1.9,1.2,1.9,2.5,0.4,1.9,3.5
+50,7.06,Pawel Bochniewicz SC Heerenveen,25, D(C),30(1),2643,2,-,0.4,0.1,0.4,0.6,-,0.1,0.6
+51,7.04,Edson Álvarez Ajax,24, D(C),18(6),1551,2,2,1.3,0.4,0.8,0.2,0.1,0.7,1
+52,7.02,Mickael Tirpan Fortuna Sittard,28, D(R),11(1),988,1,-,0.3,0.2,0.6,1.4,-,0.7,1.4
+53,7.02,Lutsharel Geertruida Feyenoord,21, D(R),25(5),2254,5,2,0.5,0.8,0.8,0.6,-,0.7,0.9
+54,7.01,Ahmed El Messaoudi FC Groningen,26, M(CR),25(3),2226,8,2,1.8,1,1.8,0.9,0.1,1.7,2.5
+55,7.0,Lassina Traoré Ajax,20, FW,7(5),555,7,4,1.6,0.8,0.1,0.8,-,0.2,1.4
+56,7.0,Jonathan Mulder ADO Den Haag,19, Defender,0(1),45,-,-,1.0,-,-,-,-,-,-
+57,6.98,Riechedly Bazoer Vitesse,25, D(C),29,2457,5,1,1.4,1.1,1.1,3,-,0.9,1.2
+58,6.97,Albert Gudmundsson AZ Alkmaar,24, AM(CLR),25(1),1977,7,4,2.2,1.2,1.6,1.3,0.2,1.1,3.3
+59,6.97,Jurriën Timber Ajax,20, D(CR),16(4),1509,1,-,0.3,0.4,1.3,0.5,0.1,0.9,0.8
+60,6.97,Kostas Lamprou RKC Waalwijk,30, GK,34,3060,-,-,-,-,0.1,0.1,-,-,0.1
+61,6.97,George Cox Fortuna Sittard,23, D(L),32(1),2825,5,4,0.4,0.9,0.5,0.8,0.1,0.5,1.0
+62,6.97,André Onana Ajax,25, GK,20,1800,-,-,-,-,0.1,-,-,-,0.1
+63,6.96,Klaas Jan Huntelaar Ajax,38, FW,3(8),386,7,1,1.8,0.8,0.1,-,0.2,0.4,0.9
+64,6.96,Sean Klaiber Ajax,27, D(R),6(9),754,-,3,0.7,1.2,0.5,0.6,-,0.3,0.7
+65,6.96,Bart Nieuwkoop Feyenoord,25, D(R),12(3),1028,-,-,0.3,0.5,0.6,0.5,0.1,0.7,1.5
+66,6.96,Jan Paul van Hecke SC Heerenveen,21, D(C),26(2),2324,1,1,0.5,0.5,0.2,0.2,-,0.3,0.3
+67,6.95,Tommy St. Jago FC Utrecht,21, D(C),23(1),2057,-,-,0.4,0.1,0.4,0.6,-,0.3,0.4
+68,6.95,Devyne Rensch Ajax,18, D(R),12(6),897,3,2,0.4,0.6,0.3,0.4,-,0.2,1.1
+69,6.94,Mike Trésor Willem II,22, AM(CL),28(6),2434,4,11,1.4,2,2.1,0.9,-,1.2,2.8
+70,6.94,Ko Itakura FC Groningen,24, D(C),34,3060,1,1,0.4,0.3,0.4,0.4,-,0.1,0.4
+71,6.93,Azor Matusiwa FC Groningen,23, DMC,21(1),1729,-,-,0.1,0.3,1.1,1.4,-,0.3,0.9
+72,6.93,Maarten Stekelenburg Ajax,39, GK,12,1080,-,-,-,0.1,-,0.1,-,-,-
+73,6.92,Luis Sinisterra Feyenoord,22, AM(L),13(7),1214,3,5,1.3,1.1,1.8,0.7,0.2,1.4,2.2
+74,6.92,Dirk Abels Sparta Rotterdam,24, D(R),28(3),2509,1,3,0.2,1.0,0.2,0.7,-,0.3,0.5
+75,6.92,Queensy Menig Twente,26, AM(LR),31(1),2604,8,2,2.1,1.1,1.7,0.6,0.4,1.3,3.2
+76,6.91,Jørgen Strand Larsen FC Groningen,21, FW,28(2),2312,9,5,1.9,0.8,0.4,1.1,0.4,1.2,2.5
+77,6.91,Maximilian Wittek Vitesse,26, D(L),32,2735,1,2,1.5,0.7,1.1,1.3,0.1,0.4,1.7
+78,6.91,Ridgeciano Haps Feyenoord,28, D(L),13(8),1270,3,2,0.8,0.8,1,1.5,0.1,1,1.4
+79,6.9,Jonas Svensson AZ Alkmaar,28, D(R),17(1),1414,-,3,0.2,1.2,0.3,1.1,-,0.4,0.8
+80,6.9,Laros Duarte Sparta Rotterdam,24, DMC,10(7),985,2,1,1.1,1.1,0.9,0.6,-,0.3,0.5
+81,6.9,Eli Dasa Vitesse,28, D(R),30,2669,-,6,0.4,1.3,0.9,0.7,0.1,0.6,1.6
+82,6.89,Miguel Araujo FC Emmen,27, D(C),33,2962,4,1,0.8,0.4,0.2,0.5,-,0.3,0.5
+83,6.89,Mohammed Kudus Ajax,21, DMC,8(9),800,4,3,1.2,0.6,1.7,1.1,0.1,1.8,1.3
+84,6.89,Django Warmerdam FC Utrecht,26, D(L),33,2898,-,2,0.4,1,0.8,0.4,0.2,0.7,1.3
+85,6.89,Robin Pröpper Heracles,28, D(C),30,2661,1,3,0.4,0.5,0.3,0.8,-,0.1,0.3
+86,6.89,Noni Madueke PSV Eindhoven,19, AM(R),7(17),960,7,4,1.3,0.7,1.6,0.8,0.1,1.1,1.8
+87,6.89,Benson Manuel PEC Zwolle,24, AM(LR),9(4),806,-,4,1.8,1.2,2.3,1.7,0.2,2.2,1.8
+88,6.89,Xandro Schenk Twente,28, D(CL),3,270,-,-,0.7,-,-,-,-,-,0.3
+89,6.89,Milan van Ewijk ADO Den Haag,21, D(R),33,2919,1,3,0.3,0.6,0.8,1.4,-,0.5,1.6
+90,6.89,Ahmed Touba RKC Waalwijk,23, D(C),32,2877,3,1,0.8,0.2,0.8,0.8,-,0.4,1.2
+91,6.89,Jordy Clasie AZ Alkmaar,30, D(C),4(4),391,1,-,0.6,0.6,0.5,0.1,-,-,0.4
+92,6.89,Bart van Hintum FC Groningen,34, D(CL),29(2),2514,2,3,0.3,1.0,0.1,0.4,-,0.1,0.4
+93,6.88,Willem Janssen FC Utrecht,35, D(C),20(2),1709,-,-,0.6,0.3,0.2,0.3,-,-,0.1
+94,6.88,David Neres Ajax,24, AM(CLR),10(15),1165,3,6,1.0,0.8,1.2,0.3,0.2,1.3,1.4
+95,6.88,Ryan Thomas PSV Eindhoven,26, M(CL),11(5),903,1,2,0.6,1.5,0.2,0.6,0.3,0.6,1.4
+96,6.87,Bart Vriends Sparta Rotterdam,30, D(C),23,2020,-,-,0.6,0.2,0.1,0.3,-,0.1,0.6
+97,6.87,Quincy Promes Ajax,29, M(CLR),10(9),1020,6,-,2.5,1.3,0.9,0.3,0.4,1.1,1.4
+98,6.87,Tibor Halilovic SC Heerenveen,26, M(C),19,1490,2,-,0.9,0.7,1.5,1.6,0.1,0.9,1.3
+99,6.87,Mats Seuntjens Fortuna Sittard,29, M(CLR),28(3),2477,6,6,1.7,1.1,1.6,0.7,0.2,1.5,2.3
+100,6.87,Hidde ter Avest FC Utrecht,24, D(R),18,1427,2,3,1,0.7,0.1,0.7,0.1,0.3,1.2
+101,6.86,Glenn Bijl FC Emmen,26, D(R),30,2573,2,2,1.4,0.9,0.6,1.3,0.1,0.5,0.9
+102,6.86,Sondre Tronstad Vitesse,26, M(CR),22(1),1792,2,1,0.3,0.3,0.6,1,-,0.6,1.5
+103,6.86,Danilho Doekhi Vitesse,23, D(C),32,2880,1,1,0.5,0.2,0.2,0.4,-,0.1,0.6
+104,6.86,Justin Bijlow Feyenoord,23, GK,14,1260,-,-,-,0.1,0.1,-,-,-,0.1
+105,6.86,Jeff Hardeveld Heracles,26, D(CL),10(4),939,-,-,0.3,1.1,0.7,0.3,-,0.6,1.0
+106,6.86,Sai van Wermeskerken PEC Zwolle,27, D(LR),22,1975,-,3,1.2,0.7,1.7,0.6,-,0.8,1.3
+107,6.86,Danilo Twente,22, FW,31(2),2656,17,5,2.9,1.0,0.9,0.9,0.3,1.8,3.4
+108,6.85,Julio Pleguezuelo Twente,24, D(CR),18(1),1646,1,1,0.3,0.2,0.6,0.6,-,0.1,0.6
+109,6.85,Perr Schuurs Ajax,21, D(C),20(7),1887,1,-,0.5,0.2,0.2,0.4,-,0.3,0.3
+110,6.85,Pablo Rosario PSV Eindhoven,24, DMC,26(3),2315,1,4,0.5,0.8,0.6,0.7,-,0.7,1.2
+111,6.85,Lisandro Semedo Fortuna Sittard,25, AM(R),26(8),2294,9,4,1.7,0.9,1.0,0.9,0.3,0.7,1.7
+112,6.85,Loïs Openda Vitesse,21, FW,30(3),2435,10,4,1.9,0.9,1.0,1.8,0.4,1.1,2.6
+113,6.85,Tyrell Malacia Feyenoord,22, D(L),24(2),2136,-,1,0.7,1.0,1.3,1.2,0.1,1.3,1.5
+114,6.85,Orkun Kökcü Feyenoord,20, DMC,20(2),1567,3,2,2.2,1.5,0.8,0.9,-,0.9,1.2
+115,6.85,Bart Ramselaar FC Utrecht,25, AM(CL),23(4),1936,4,4,1.7,1.4,1.2,0.6,0.3,0.7,1.0
+116,6.83,Lucas Schoofs Heracles,24, DMC,27(3),2316,2,2,0.5,0.4,0.7,0.4,-,0.5,1.8
+117,6.83,Uros Spajic Feyenoord,28, D(C),19,1613,-,-,0.3,0.2,0.6,1.5,-,0.1,0.5
+118,6.83,Mimoun Mahi FC Utrecht,27, AM(CLR),14(8),1334,7,2,2.8,1.1,1.2,0.8,0.4,0.9,1.5
+119,6.82,Vito van Crooij VVV-Venlo,25, AM(CLR),30(1),2721,3,8,1.1,2.0,0.5,1.0,0.2,1.2,2.0
+120,6.82,Michael de Leeuw FC Emmen,35, AM(CLR),29,2561,13,1,2,0.7,0.2,1,0.7,0.4,1.6
+121,6.81,Saïd Bakari RKC Waalwijk,27, D(LR),29(1),2623,1,1,0.3,0.8,1.3,0.4,-,1.1,0.9
+122,6.81,Nick Marsman Feyenoord,31, GK,20(1),1801,-,-,-,-,-,0.1,-,-,0.1
+123,6.8,Mark Diemers Feyenoord,28, M(CL),23(6),1979,3,3,1.4,1.1,0.5,2.1,-,1.1,1.2
+124,6.79,Jari Vlak FC Emmen,23, DMC,15(2),1305,1,1,1.4,0.3,0.6,0.8,-,0.5,0.8
+125,6.79,Piet Velthuizen Fortuna Sittard,35, GK,2,113,-,-,-,-,-,-,-,-,-
+126,6.79,Evert Linthorst VVV-Venlo,21, AM(C),15(1),1309,2,3,0.7,0.7,0.8,1,0.1,0.8,1.6
+127,6.79,Bryan Linssen Feyenoord,31, AM(CLR),27(2),2051,8,2,2.3,1.1,0.2,0.4,0.5,0.5,1.4
+128,6.78,Cyril Ngonge RKC Waalwijk,21, AM(R),15(5),1180,5,2,1.5,1,1.7,1.2,0.2,1.2,2.4
+129,6.78,Sebastian Polter Fortuna Sittard,30, AM(R),31(1),2641,9,4,1.3,0.9,0.2,1.6,0.3,2,4
+130,6.78,Alessio Da Cruz FC Groningen,24, AM(CLR),18(4),1480,4,3,1.0,0.9,1.6,1.1,0.2,1.4,2.9
+131,6.78,Armando Broja Vitesse,20, FW,21(9),1875,10,2,1.3,0.6,1.0,0.7,0.4,1.4,2.7
+132,6.78,Luka Adzic FC Emmen,23, AM(L),12,819,3,-,2.3,0.4,1.5,1.0,0.2,1.1,2.0
+133,6.78,Mitchell van Bergen SC Heerenveen,22, AM(LR),32,2728,4,1,1.7,1.5,1.4,0.5,0.4,0.7,2.6
+134,6.77,Mohamed Ihattaren PSV Eindhoven,19, AM(CLR),13(9),1077,3,2,1.8,1.2,1.5,0.5,0.1,0.8,1.4
+135,6.77,Sven van Beek Willem II,27, D(C),13(1),1141,-,-,0.8,0.1,0.1,0.2,0.1,0.2,0.9
+136,6.77,Matús Bero Vitesse,26, M(CLR),26(1),2288,2,5,1.7,1.5,0.3,0.8,-,0.7,2.1
+137,6.76,Dani de Wit AZ Alkmaar,23, AM(C),12(8),1210,4,3,1.4,0.7,0.3,1.5,0.2,0.7,1.8
+138,6.76,Jurgen Ekkelenkamp Ajax,21, AM(C),4(11),651,3,2,1.7,0.5,0.5,0.3,0.1,0.6,1.4
+139,6.76,Yuta Nakayama PEC Zwolle,24, D(CL),25(7),2361,2,1,0.9,0.5,0.5,0.5,-,0.4,1.2
+140,6.76,Kik Pierie Twente,21, D(CL),24,2112,-,-,0.3,0.1,0.2,0.8,-,0.1,0.3
+141,6.76,Sven Mijnans Sparta Rotterdam,21, AM(R),20(11),1674,2,3,1,1.3,0.8,0.3,-,0.9,1.2
+142,6.75,Pol Llonch Willem II,29, DMC,26(1),2226,-,-,0.3,0.5,0.6,1.4,-,0.6,0.9
+143,6.75,Tesfaldet Tekie Fortuna Sittard,24, DMC,31(2),2691,1,3,0.6,0.8,0.9,1,-,0.9,1.5
+144,6.75,Jordan Teze PSV Eindhoven,22, D(CR),31(2),2825,-,1,0.1,0.5,0.3,0.3,-,0.1,0.6
+145,6.75,Gijs Smal Twente,24, D(L),13(9),1369,-,3,0.4,1.4,0.4,0.3,-,0.4,1.1
+146,6.74,Koen Bucker Heracles,25, Goalkeeper,2,180,-,-,-,-,-,-,-,-,-
+147,6.74,Joris van Overeem FC Utrecht,27, M(CLR),29(1),2307,2,-,0.4,0.5,0.5,0.6,-,0.7,1.1
+148,6.74,Adil Auassar Sparta Rotterdam,35, D(C),29(1),2416,-,1,0.9,0.6,0.4,1,0.1,0.3,1
+149,6.73,Ben Rienstra Fortuna Sittard,31, D(C),30,2593,3,-,0.5,0.5,0.4,0.5,-,0.4,1
+150,6.73,Wouter Burger Sparta Rotterdam,20, AM(C),9(9),759,2,1,0.7,0.4,0.3,0.3,-,0.4,0.9
+151,6.73,Melle Meulensteen RKC Waalwijk,22, D(C),33,2946,-,2,0.6,0.4,0.2,0.5,-,0.2,0.4
+152,6.73,Zakaria Labyad Ajax,28, AM(CLR),12(10),961,5,5,1.6,1.3,0.4,0.4,0.3,1.1,1.4
+153,6.73,Kerim Frei FC Emmen,27, AM(LR),17,1461,-,1,1.3,0.7,3.0,1.8,0.5,2.2,2.7
+154,6.73,Sebastian Holmén Willem II,29, D(CR),29(1),2566,3,1,0.5,0.2,0.1,0.5,-,0.1,0.1
+155,6.73,Lasse Schöne SC Heerenveen,35, M(CLR),12,909,1,1,0.9,1.2,0.9,0.8,-,1.4,2.0
+156,6.73,Kwasi Okyere Wriedt Willem II,27, FW,20(4),1824,8,2,2.0,0.6,1.0,1.3,0.9,2.2,3.1
+157,6.72,Tyronne Ebuehi Twente,25, D(LR),33,2842,1,1,0.4,0.8,0.8,0.6,-,0.6,1.5
+158,6.72,Caner Cavlan FC Emmen,29, D(L),32,2845,-,3,0.9,1.3,1.0,1.0,-,0.4,0.9
+159,6.72,Marco Rente Heracles,24, D(C),20(5),1762,-,1,0.1,0.2,0.4,0.5,-,0.2,0.7
+160,6.72,Danny Post VVV-Venlo,32, DMC,30,2564,-,1,0.6,0.3,0.4,0.7,-,0.2,0.5
+161,6.72,Yanick van Osch Fortuna Sittard,24, GK,26,2333,-,-,-,-,-,0.1,-,-,0.1
+162,6.72,Siem de Jong SC Heerenveen,32, AM(CL),17(2),1368,4,2,1.6,0.5,1.2,0.8,0.2,1,2.2
+163,6.72,John Goossens ADO Den Haag,33, M(CLR),18(6),1610,2,3,0.5,1,0.6,0.5,0.1,0.3,0.9
+164,6.71,Gianni Zuiverloon ADO Den Haag,34, D(CR),7(1),643,-,-,1,-,0.9,0.4,-,0.4,1.1
+165,6.71,Ibrahim Dresevic SC Heerenveen,24, D(C),20(10),1905,-,3,0.4,0.4,0.5,0.5,-,0.3,0.5
+166,6.71,Mauro Júnior PSV Eindhoven,22, M(CLR),12(7),1014,2,1,0.7,0.8,0.8,0.9,0.2,0.9,1.2
+167,6.71,Sergio Padt FC Groningen,31, GK,34,3060,-,-,0.1,-,-,0.1,-,-,0.1
+168,6.71,Leonel Miguel FC Groningen,20, Defender,1,83,-,-,-,-,-,1.0,-,-,1.0
+169,6.71,Roel Janssen Fortuna Sittard,31, D(CL),30,2622,-,-,0.2,0.4,0.1,1.0,-,0.2,0.3
+170,6.7,Nicolai Jørgensen Feyenoord,30, FW,12(11),1189,5,-,1.3,1,0.7,0.8,0.3,0.6,1.2
+171,6.7,Lucas Woudenberg SC Heerenveen,27, D(L),23(6),2188,1,-,0.1,0.6,0.1,0.4,-,0.1,0.8
+172,6.69,Tom Beugelsdijk Sparta Rotterdam,31, D(C),22(7),2014,2,-,0.5,0.1,0.1,0.4,-,-,0.3
+173,6.69,Mike te Wierik FC Groningen,29, D(CR),14(1),1251,-,-,0.2,0.1,0.2,0.9,0.1,0.1,0.9
+174,6.69,Bram van Polen PEC Zwolle,36, D(CLR),22(3),1969,4,-,0.8,0.2,0.1,0.5,-,0.1,0.6
+175,6.69,Paul Quasten RKC Waalwijk,36, D(L),20(2),1547,-,-,0.6,0.5,0.8,0.6,-,0.5,1.2
+176,6.68,Giacomo Quagliata Heracles,21, D(L),24(1),2062,-,2,0.3,0.6,1,1.4,-,1,1.7
+177,6.68,Luca de la Torre Heracles,23, M(CL),26(6),2381,1,2,0.6,0.5,1.1,0.8,-,0.9,1.6
+178,6.67,Pantelis Hatzidiakos AZ Alkmaar,24, D(C),22(1),1911,-,1,0.2,-,-,0.6,-,0.1,0.3
+179,6.67,Bryan Smeets Sparta Rotterdam,28, M(C),21(5),1567,4,3,1.2,1.4,0.5,0.2,0.1,0.5,0.7
+180,6.66,Jayden Oosterwolde Twente,20, D(CL),24(2),1950,1,3,0.3,0.5,0.9,0.5,-,0.8,1.2
+181,6.66,Michiel Kramer ADO Den Haag,32, FW,21(8),1973,6,2,1.4,0.6,0.4,0.8,0.5,0.6,1.4
+182,6.65,Ante Coric VVV-Venlo,24, Midfielder,0(1),27,-,-,1,2,-,-,-,-,2.0
+183,6.65,Ramiz Zerrouki Twente,23, DMC,23(8),1956,-,2,0.1,0.4,0.3,0.7,-,0.5,1.1
+184,6.65,Xavier Mous PEC Zwolle,26, GK,15,1350,-,-,-,0.1,-,0.1,-,-,0.1
+185,6.65,Mohamed El Hankouri FC Groningen,24, M(CLR),22(11),2138,3,2,1,0.8,1.3,0.8,0.2,0.9,1.6
+186,6.64,Rodney Kongolo SC Heerenveen,23, DMC,23(8),2154,1,4,0.2,0.5,0.8,0.8,0.1,0.8,1.3
+187,6.64,Lazaros Rota Fortuna Sittard,24, D(R),20(4),1747,-,-,0.3,0.5,0.8,1,-,0.3,1.0
+188,6.64,Nick Viergever PSV Eindhoven,32, D(CL),13(4),1095,-,-,0.1,-,0.2,0.3,-,0.3,0.2
+189,6.63,Timo Baumgartl PSV Eindhoven,25, D(C),6(2),552,-,-,0.4,0.4,0.1,0.4,-,0.5,0.5
+190,6.63,Oussama Darfalou Vitesse,28, FW,15(17),1464,8,2,1.7,0.6,0.6,0.5,0.2,0.9,1.3
+191,6.63,Bruno Martins Indi AZ Alkmaar,29, D(CL),27,2282,1,1,0.4,0.3,-,0.3,-,0.1,0.1
+192,6.63,Leroy Fer Feyenoord,31, M(CL),22(3),1884,-,-,0.6,0.6,0.8,0.7,-,1,1.1
+193,6.63,Simon Gustafson FC Utrecht,26, AM(C),17(3),1469,2,1,1.3,1.5,0.4,1.6,0.1,0.4,1.2
+194,6.63,Erwin Mulder SC Heerenveen,32, GK,34,3060,-,-,-,-,-,-,-,-,-
+195,6.63,Tomás Suslov FC Groningen,19, AM(CR),17(11),1492,2,5,1.4,1.2,0.9,1.2,-,1.2,2.3
+196,6.62,Mark van der Maarel FC Utrecht,32, D(CLR),19(6),1711,2,3,0.5,0.6,0.1,0.5,-,0.3,0.5
+197,6.62,Marko Vejinovic ADO Den Haag,31, DMC,14(3),1309,-,1,1.1,1.2,0.7,0.8,0.1,0.7,1.1
+198,6.62,Anas Tahiri RKC Waalwijk,26, M(C),33,2712,1,4,0.8,1.2,1.2,1,0.1,1.1,1.7
+199,6.62,Luciano Narsingh Feyenoord,31, AM(LR),3(6),393,1,1,1,0.9,0.8,0.6,0.6,0.3,1.4
+200,6.62,Ramon Pascal Lundqvist FC Groningen,24, M(CL),15(10),1392,2,2,1,0.9,0.4,0.8,-,0.6,1.2
+201,6.62,Yvon Mvogo PSV Eindhoven,27, GK,33,2970,-,-,-,-,-,-,-,-,-
+202,6.62,Thijs Oosting RKC Waalwijk,21, FW,15(2),1178,4,3,0.8,0.8,0.5,0.8,0.6,0.6,1.6
+203,6.62,Remko Pasveer Vitesse,38, GK,33,2970,-,-,-,0.1,-,0.1,-,-,0.1
+204,6.62,Timo Letschert AZ Alkmaar,28, D(CLR),16(4),1370,-,1,0.3,0.3,0.2,0.6,0.1,0.2,0.4
+205,6.61,Godfried Roemeratoe Twente,22, DMC,25(5),2218,-,-,0.5,0.5,0.9,0.6,-,0.8,1.3
+206,6.61,Luuk Koopmans ADO Den Haag,27, GK,19,1710,-,-,-,-,-,0.1,-,-,-
+207,6.61,Wessel Dammers FC Groningen,26, D(C),16(11),1583,1,1,0.2,0.1,0.1,0.4,-,0.1,0.5
+208,6.61,Mica Pinto Sparta Rotterdam,28, D(L),23(2),1920,1,2,0.2,1,0.6,0.5,-,0.4,0.7
+209,6.6,Ismail Azzaoui Heracles,23, AM(CLR),11(7),1075,1,2,0.6,0.6,1.6,1.4,0.2,1.7,2.6
+210,6.6,Aaron Meijers Sparta Rotterdam,34, D(L),12(12),1124,-,4,0.3,0.6,0.2,0.5,-,0.3,0.5
+211,6.6,Rami Kaib SC Heerenveen,24, D(L),12(3),962,-,1,0.1,0.9,0.9,0.5,0.1,0.8,1.7
+212,6.59,Sherel Floranus SC Heerenveen,23, D(LR),26(3),2337,1,-,0.2,0.1,0.4,0.7,-,0.3,0.9
+213,6.58,Luciano Narsingh Twente,31, AM(LR),13(4),1132,1,5,0.9,1.1,0.9,0.5,0.4,0.8,2.1
+214,6.58,Sam Kersten PEC Zwolle,23, D(C),28,2399,-,-,0.3,0.4,0.3,0.1,-,0.1,0.3
+215,6.58,Lars Nieuwpoort RKC Waalwijk,27, D(C),2(1),193,-,-,0.3,0.3,-,0.3,-,-,0.3
+216,6.58,Zinedine Machach VVV-Venlo,25, AM(C),18(6),1478,-,5,0.6,0.9,2.3,0.8,0.1,1.5,2.7
+217,6.58,Ola John RKC Waalwijk,29, AM(LR),16(7),1070,2,2,1.0,1.0,1.3,0.6,0.1,1.1,1.6
+218,6.58,Sinan Bakis Heracles,27, FW,20(7),1648,10,-,1.5,0.4,0.5,0.7,0.6,1,1.4
+219,6.58,Daniël van Kaam FC Groningen,21, DMC,29(3),2561,1,-,0.7,0.3,0.6,0.4,-,0.4,0.9
+220,6.57,Luciano Carty FC Emmen,20, Forward,0(2),55,-,1,2,0.5,1.5,-,-,0.5,1
+221,6.57,Enzo Cornelisse Vitesse,19, D(C),4(2),337,-,-,0.2,-,0.5,0.3,-,-,0.3
+222,6.57,Leon Guwara VVV-Venlo,25, D(L),16,1376,-,-,0.3,0.4,1,1.1,0.2,0.9,1
+223,6.57,Thomas Bruns Vitesse,29, AM(CL),14(7),1166,-,2,0.4,0.5,0.4,1,-,0.5,0.6
+224,6.57,Hamdi Akujobi SC Heerenveen,21, Midfielder,3(3),337,-,-,0.2,0.3,0.5,0.7,-,-,1
+225,6.56,Marco Bizot AZ Alkmaar,30, GK,33,2965,-,-,-,-,-,-,-,-,-
+226,6.56,Emil Hansson Fortuna Sittard,23, AM(LR),17(15),1605,2,4,1.1,1,0.7,0.1,0.1,0.4,1.2
+227,6.56,Shaquille Pinas ADO Den Haag,23, D(C),24(3),2199,3,-,0.4,0.1,0.3,0.2,-,0.2,0.4
+228,6.56,Martin Fraisl ADO Den Haag,28, GK,15,1350,-,-,-,-,-,0.2,-,-,-
+229,6.55,Othmane Boussaid FC Utrecht,21, AM(LR),16(10),1317,2,2,0.7,0.6,0.5,0.5,-,0.6,1.3
+230,6.55,Benjamin Nygren SC Heerenveen,20, AM(R),15(13),1280,4,2,1.1,0.5,0.7,0.5,0.1,0.6,1.1
+231,6.55,Wout Brama Twente,35, DMC,17(3),1556,1,1,0.5,0.6,0.1,0.7,-,0.2,0.6
+232,6.55,Maduka Okoye Sparta Rotterdam,22, GK,28,2520,-,-,-,-,-,-,-,-,-
+233,6.55,Joël Drommel Twente,25, GK,34,3060,-,-,-,-,-,0.1,-,-,0.1
+234,6.54,Thomas van den Belt PEC Zwolle,20, DMC,4(5),430,-,-,0.8,0.3,0.7,0.7,-,0.2,0.6
+235,6.54,Deroy Duarte Sparta Rotterdam,22, AM(CLR),19(10),1658,4,4,1.2,0.3,0.3,0.2,0.2,0.6,0.9
+236,6.54,Martin Angha Fortuna Sittard,27, D(CR),31(1),2764,-,-,0.4,0.1,0.2,0.7,0.1,0.1,0.7
+237,6.54,Mustafa Saymak PEC Zwolle,28, M(CLR),18(6),1552,3,-,1.3,1,0.7,1.1,-,0.8,1
+238,6.54,Achraf El Bouchataoui Feyenoord,21, Midfielder,1(2),103,-,-,0.3,-,0.3,-,-,0.3,0.3
+239,6.54,Ché Nunnely Willem II,22, AM(R),28(4),2187,7,4,1.3,0.7,0.8,0.8,0.4,1.1,2
+240,6.54,Thomas Buitink PEC Zwolle,21, FW,9,593,2,1,1,1,0.6,0.3,0.3,0.4,2.9
+241,6.53,Alois Dominik Oroz Vitesse,21, Defender,3(4),266,-,-,0.9,0.3,-,-,-,0.1,0.3
+242,6.53,Thorsten Kirschbaum VVV-Venlo,34, GK,29,2566,-,-,-,-,0.1,-,-,-,-
+243,6.53,Slobodan Tedic PEC Zwolle,21, FW,10(5),920,2,1,1.4,0.5,0.3,1.5,0.5,0.9,1.6
+244,6.53,Boy Kemper ADO Den Haag,22, D(CL),24(2),2027,1,-,0.3,0.3,0.2,0.8,-,0.5,1
+245,6.53,Yukinari Sugawara AZ Alkmaar,21, D(R),17(8),1645,2,1,0.6,0.4,0.1,0.4,-,0.3,0.8
+246,6.52,Luuk Wouters RKC Waalwijk,22, D(L),9(2),809,-,-,0.4,0.3,0.5,0.4,-,0.1,0.8
+247,6.52,Armando Obispo PSV Eindhoven,22, D(C),1(4),158,-,-,0.2,-,0.4,-,-,-,-
+248,6.52,Brian Brobbey Ajax,19, Forward,1(11),195,3,1,1,0.3,0.3,0.2,0.1,0.1,0.8
+249,6.52,Lennerd Daneels RKC Waalwijk,23, AM(LR),20(13),1968,2,2,0.9,0.8,1.1,1,0.1,1.2,2.2
+250,6.52,Delano Burgzorg Heracles,23, AM(L),24(8),2055,5,-,1.4,0.5,1.1,1.3,0.8,1.2,2.6
+251,6.52,Daniel Arzani FC Utrecht,22, Midfielder,0(4),59,-,1,1.3,0.5,1.3,1.0,0.3,0.3,1.5
+252,6.52,Josua John VVV-Venlo,33, AM(LR),15(10),1348,2,1,1,0.9,0.8,0.4,0.4,1,1.3
+253,6.52,Robbin Ruiter Willem II,34, GK,10,875,-,-,-,-,-,0.1,-,-,0.1
+254,6.52,Driess Saddiki Willem II,25, DMC,12(2),949,-,-,0.2,0.6,0.1,0.6,0.1,0.8,1.1
+255,6.52,Jan-Arie van der Heijden Willem II,33, D(C),11(3),1036,2,-,0.3,0.3,0.1,0.4,-,0.1,0.4
+256,6.51,Richard van der Venne RKC Waalwijk,29, AM(C),25(4),2060,4,3,2,0.6,0.2,1.3,0.1,0.5,1.4
+257,6.51,Michael Heylen Sparta Rotterdam,27, D(C),26(2),2217,-,-,0.4,0.1,0.3,0.2,-,0.2,0.3
+258,6.51,Rico Strieder PEC Zwolle,29, DMC,17(7),1260,-,-,0.3,0.3,0.6,0.5,-,0.4,0.5
+259,6.51,Paul Gladon FC Emmen,29, FW,3(10),461,2,-,1,0.2,0.2,0.8,0.4,0.3,1.4
+260,6.51,Arjen Robben FC Groningen,37, M(CLR),2(4),174,-,2,0.5,0.8,1,1.0,0.2,1,0.3
+261,6.51,Oussama Idrissi Ajax,25, AM(LR),1(6),207,-,-,1.1,1.1,1.4,0.4,-,1,1.1
+262,6.51,Derrick Köhn Willem II,22, D(L),30(1),2565,-,1,0.7,0.5,1.3,1.3,0.1,1,1.1
+263,6.5,Immanuel Pherai PEC Zwolle,20, AM(L),15(12),1585,2,3,1.7,1,0.6,0.7,0.2,1.2,2.5
+264,6.49,Eric Oelschlägel FC Utrecht,26, GK,23,2070,-,-,-,-,-,0.1,-,-,-
+265,6.49,João Teixeira Feyenoord,28, AM(CLR),8(10),887,-,4,0.9,0.5,1.1,1.8,-,1.4,1.6
+266,6.49,Vurnon Anita RKC Waalwijk,32, D(LR),29,2560,-,2,0.3,0.6,0.6,0.6,-,0.7,1.1
+267,6.49,Jaroslaw Jach Fortuna Sittard,27, D(C),2(1),195,-,-,0.3,-,-,0.3,-,-,0.3
+268,6.49,Yorbe Vertessen PSV Eindhoven,20, Forward,6(9),510,2,3,1.1,0.6,0.7,0.6,-,0.5,1.7
+269,6.49,John Yeboah Willem II,21, AM(R),1(8),308,1,-,0.8,0.8,0.8,0.4,-,0.4,1.3
+270,6.48,Miquel Nelom Willem II,31, D(L),5(2),437,-,-,0.4,0.3,0.9,0.3,-,0.6,0.9
+271,6.48,Dennis Telgenkamp FC Emmen,34, GK,14,1260,-,-,-,0.1,-,-,-,-,-
+272,6.48,Peet Bijen ADO Den Haag,26, D(C),6,540,-,-,0.7,0.2,-,0.3,-,-,0.7
+273,6.48,Mats Knoester Heracles,22, D(C),22(5),1990,2,-,0.4,0.1,0.3,0.4,-,0.1,0.3
+274,6.48,Christos Donis VVV-Venlo,27, M(C),8(1),546,1,-,0.6,-,0.8,1.1,0.1,0.2,0.8
+275,6.48,Silvinho Esajas ADO Den Haag,19, Defender,0(2),42,-,-,-,-,-,1,-,-,0.5
+276,6.48,Damil Dankerlui FC Groningen,25, D(R),21(7),1990,-,-,0.6,0.3,0.6,0.3,-,0.5,1
+277,6.47,Eliano Reijnders PEC Zwolle,21, AM(CR),17(12),1644,3,3,0.8,1,0.4,0.6,0.1,0.8,1.9
+278,6.47,Marco van Ginkel PSV Eindhoven,28, M(C),3(8),354,1,1,0.5,0.4,0.8,0.5,-,0.5,1
+279,6.47,Mike van Duinen PEC Zwolle,30, AM(LR),12(11),1195,3,-,1.6,0.2,0.6,0.9,0.2,0.9,1.9
+280,6.47,Wesley Spieringhs Willem II,19, DMC,13(8),1165,-,-,0.3,0.2,0.5,0.2,-,0.5,0.9
+281,6.47,Dean Huiberts PEC Zwolle,21, M(C),25(4),2014,-,-,0.6,0.6,0.8,1.1,-,0.9,1.9
+282,6.47,Arjen van der Heide SC Heerenveen,19, AM(L),6(8),637,-,2,0.8,0.6,0.9,0.6,-,0.9,1.7
+283,6.47,Arijanet Muric Willem II,23, GK,14,1260,-,-,-,0.1,0.1,0.1,-,-,0.1
+284,6.47,Samy Bourard ADO Den Haag,25, AM(C),10(7),928,3,1,1.1,0.4,1.2,1.4,-,1.2,2.1
+285,6.46,Pelle Clement PEC Zwolle,25, M(CL),13(10),1292,2,2,0.5,0.4,1.0,0.5,0.1,0.8,1.2
+286,6.46,Tomas Hajek Vitesse,29, D(C),8(6),762,-,-,0.4,0.2,0.1,0.3,0.1,-,0.4
+287,6.46,Jesper Drost PEC Zwolle,28, AM(CLR),13(11),1230,2,2,0.5,0.4,0.8,0.5,0.1,1.3,2.0
+288,6.46,Orestis Kiomourtzoglou Heracles,23, DMC,17(10),1515,-,-,0.5,0.3,0.2,0.9,-,0.3,0.8
+289,6.46,Steffen Schäfer VVV-Venlo,27, D(CL),11(2),979,-,1,0.1,0.2,0.9,0.2,-,0.5,0.6
+290,6.46,Justin Hoogma FC Utrecht,23, D(C),14(5),1343,1,1,0.4,0.2,0.2,0.3,-,0.2,0.1
+291,6.46,Clint Leemans PEC Zwolle,26, M(CR),7(9),587,3,1,0.9,1.1,0.2,0.3,0.1,0.3,0.4
+292,6.45,Lucas Bernadou FC Emmen,21, DMC,14(5),1150,1,-,0.4,0.4,0.5,0.5,-,0.6,0.6
+293,6.45,Hilal Ben Moussa FC Emmen,29, DMC,14(9),1261,-,-,0.1,0.3,0.3,0.2,-,0.3,0.5
+294,6.45,Marc-Olivier Doué PEC Zwolle,21, Defender,1(5),199,-,-,-,-,0.3,0.5,-,0.2,0.7
+295,6.45,Thomas Lam PEC Zwolle,27, D(C),23(3),2073,3,1,0.9,0.5,0.4,0.5,-,0.4,0.5
+296,6.45,Patrick Joosten FC Groningen,25, AM(CLR),14(11),1114,3,2,0.9,0.9,1.0,0.8,0.1,1,1.6
+297,6.44,Nick Bakker FC Emmen,29, D(C),24(4),2189,1,-,0.1,0.2,0.1,0.1,-,-,0.2
+298,6.44,Tijjani Reijnders AZ Alkmaar,23, DMC,6(16),724,-,-,0.7,0.5,0.6,0.2,-,0.5,0.7
+299,6.44,Luka Ilic Twente,22, AM(C),14(10),1312,2,2,1.1,0.7,0.8,0.4,-,0.7,1.3
+300,6.44,Nikolai Laursen FC Emmen,23, AM(R),14(15),1438,3,1,1.1,0.6,1,0.6,0.1,0.6,1.5
+301,6.44,Mateo Les Heracles,21, Defender,1(2),155,-,-,-,-,0.3,0.3,-,0.3,-
+302,6.44,George Johnston Feyenoord,23, D(C),1(3),117,-,-,-,-,-,0.3,-,0.3,0.8
+303,6.43,Jorrit Hendrix PSV Eindhoven,26, D(C),3(6),406,-,-,0.3,0.6,0.4,0.7,0.1,0.3,0.3
+304,6.43,Dario Dumic Twente,29, D(C),17(7),1589,2,-,0.4,0.1,0.1,0.4,0.1,0.1,0.4
+305,6.43,Kees de Boer ADO Den Haag,21, M(C),16(4),1291,-,2,0.4,0.6,0.1,0.3,-,0.4,0.8
+306,6.43,Jorn Brondeel Willem II,28, GK,10(1),925,-,-,-,-,-,0.1,-,0.1,0.2
+307,6.43,Eljero Elia FC Utrecht,34, AM(LR),10(10),766,2,-,0.5,0.5,1.1,0.7,0.3,1.1,1.5
+308,6.42,Leeroy Owusu Willem II,25, D(LR),29,2524,-,1,0.4,0.7,0.8,0.5,-,0.4,0.9
+309,6.42,Aliou Balde Feyenoord,18, Forward,0(3),40,-,1,1.3,0.3,0.3,0.7,-,0.3,1.3
+310,6.42,Michael Zetterer PEC Zwolle,26, GK,19,1710,-,-,-,-,0.1,-,-,-,0.1
+311,6.41,Jesse Bosch Twente,21, AM(C),26(6),2247,2,-,1.1,0.6,0.3,1,-,0.9,1.9
+312,6.41,Zakaria Aboukhlal AZ Alkmaar,21, AM(R),6(18),732,4,-,1.3,0.3,0.8,0.7,0.2,0.6,1.2
+313,6.41,Lars Unnerstall PSV Eindhoven,31, GK,1,90,-,-,-,-,-,-,-,-,1.0
+314,6.41,Dario Del Fabro ADO Den Haag,26, D(C),15(4),1417,-,-,0.4,0.1,0.1,0.3,-,0.1,0.2
+315,6.41,Adrian Fein PSV Eindhoven,22, DMC,4(9),405,1,1,0.5,0.2,0.2,0.1,-,0.3,0.3
+316,6.41,Freek Heerkens Willem II,32, D(CLR),11(3),914,-,1,0.2,0.7,0.2,0.4,-,0.4,0.6
+317,6.4,Ricardo Kishna ADO Den Haag,26, AM(LR),13(3),899,-,-,0.6,1,1.3,0.4,0.3,1.1,2.2
+318,6.39,Miguel Angel Leal FC Groningen,24, Defender,3(7),336,-,-,0.1,0.3,0.4,0.3,-,0.1,0.3
+319,6.39,Tim Breukers Heracles,34, D(LR),21(5),1878,-,-,0.3,0.1,0.2,0.4,-,0.4,0.7
+320,6.39,Janis Blaswich Heracles,30, GK,26,2326,-,-,-,-,-,0.1,-,-,-
+321,6.39,Richard Ledezma PSV Eindhoven,21, Midfielder,1(2),92,-,1,0.3,0.7,-,-,-,0.3,0.7
+322,6.39,Vicente Besuijen ADO Den Haag,20, AM(LR),23(7),2040,1,3,0.9,0.7,1.2,1.6,0.2,1.5,1.9
+323,6.39,Mario Engels Sparta Rotterdam,28, AM(CLR),16(11),1438,3,4,1,0.6,0.3,0.9,0.6,0.9,2.1
+324,6.39,Reza Ghoochannejhad PEC Zwolle,34, AM(CR),7(14),686,6,-,1,0.4,0.1,0.3,0.7,0.1,0.9
+325,6.38,Michael Verrips FC Emmen,24, GK,14,1260,-,-,-,-,-,-,-,-,0.1
+326,6.38,Benaissa Benamar FC Utrecht,24, Defender,2(1),179,-,1,1,0.3,-,0.7,-,-,-
+327,6.38,Finn Stokkers RKC Waalwijk,25, FW,16(14),1519,5,-,1.1,0.4,0.3,0.9,0.6,0.8,1.6
+328,6.38,Patrick Vroegh Vitesse,21, M(C),3(13),517,2,-,0.5,0.4,0.1,0.2,-,0.3,0.8
+329,6.37,Noah Fadiga Heracles,21, D(R),12(3),1088,-,2,0.8,0.4,0.7,0.3,-,0.4,1.8
+330,6.37,Dante Rigo ADO Den Haag,22, DMC,9(2),824,-,-,0.3,0.6,0.2,0.4,-,0.4,0.6
+331,6.36,Jorrit Smeets Fortuna Sittard,26, DMC,10(5),867,-,-,0.5,0.7,0.3,0.3,-,0.3,0.5
+332,6.36,Christian Kum VVV-Venlo,36, D(CLR),15(9),1374,-,1,0.3,0.2,0.2,0.4,-,0.1,0.5
+333,6.36,Sam Lammers PSV Eindhoven,24, FW,1,51,-,-,1,1.0,-,-,-,-,2
+334,6.36,Daryl Janmaat ADO Den Haag,32, D(CR),3(1),263,-,-,0.8,0.3,0.3,-,-,0.3,1
+335,6.35,Abdenasser El Khayati ADO Den Haag,32, AM(C),11,871,2,1,1.7,0.5,1.5,0.7,0.1,1.1,2.2
+336,6.35,Jonas Arweiler ADO Den Haag,24, FW,11(14),1126,3,2,0.5,0.4,0.3,0.6,0.1,0.8,1.8
+337,6.35,Teun Bijleveld Heracles,23, M(C),11(9),1062,-,1,0.6,0.8,0.6,1.2,0.1,0.7,1.2
+338,6.34,Görkem Saglam Willem II,23, AM(C),14(7),1266,2,2,1,1.0,0.1,0.4,-,0.8,1.5
+339,6.34,Michael Brouwer Heracles,28, GK,6(1),554,-,-,-,0.1,-,-,-,-,-
+340,6.34,Emil Bergström FC Utrecht,28, D(CL),4(5),416,-,-,0.1,0.2,-,-,0.1,0.1,0.3
+341,6.34,Rami Al Hajj SC Heerenveen,20, Midfielder,2(21),571,-,1,0.7,0.3,0.8,0.4,-,0.5,1.3
+342,6.33,Jafar Arias VVV-Venlo,26, FW,11(18),1274,4,-,0.7,0.4,0.3,0.8,0.1,1.3,2
+343,6.33,Nicolas Olsak RKC Waalwijk,29, M(C),6(2),510,-,1,0.1,0.5,0.1,0.8,-,0.5,0.4
+344,6.33,Ilay Elmkies ADO Den Haag,21, Midfielder,4(5),371,-,-,0.3,0.1,1.1,0.6,-,0.1,1.1
+345,6.33,Mohamed Rayhi Sparta Rotterdam,27, AM(CL),3,270,-,-,2.7,0.3,1.7,2.7,-,1,4
+346,6.32,David Min RKC Waalwijk,22, Forward,0(5),88,1,-,0.4,0.4,0.2,0.4,-,0.8,1
+347,6.32,Kasper Lunding Jakobsen Heracles,22, AM(R),6(13),573,-,3,0.2,0.4,0.4,0.3,0.1,0.3,0.6
+348,6.32,Jeremy Van Mullem Sparta Rotterdam,22, Defender,0(1),16,-,-,-,-,-,-,-,-,-
+349,6.32,Sergiño Dest Ajax,21, D(LR),0(3),74,-,-,0.7,0.3,0.7,-,-,1.3,1
+350,6.32,Kristopher Da Graca VVV-Venlo,23, D(C),19(1),1687,-,-,0.2,0.2,0.3,0.5,-,0.1,0.5
+351,6.32,Youness Mokhtar ADO Den Haag,30, AM(LR),5(5),509,-,-,0.6,0.5,1.4,1.0,0.2,1.2,2.5
+352,6.32,Oliver Batista Meier SC Heerenveen,20, AM(C),10(5),694,1,1,0.4,0.5,0.5,0.9,0.2,1.5,1.5
+353,6.31,Danzell Gravenberch Sparta Rotterdam,27, Forward,3(17),523,4,-,1.4,0.4,0.4,0.7,0.4,0.7,1.4
+354,6.31,Jordens Peters Willem II,34, D(C),13(5),1152,-,-,0.1,-,0.1,0.4,-,0.1,0.3
+355,6.31,Ole Romeny Willem II,21, Forward,2(9),354,-,-,1,-,0.7,1.6,0.1,0.5,1.1
+356,6.31,Giovanni Troupée FC Utrecht,23, D(R),1(5),253,-,-,0.2,0.2,0.2,0.5,-,0.2,1.3
+357,6.31,Felix Wiedwald FC Emmen,31, GK,6,540,-,-,-,0.2,-,0.2,-,-,-
+358,6.31,Halil Dervisoglu Twente,21, FW,2(7),227,-,-,0.6,0.8,1,0.7,-,0.8,1.6
+359,6.3,Tobias Pachonik VVV-Venlo,26, D(R),28(1),2449,-,2,0.4,0.4,1,1.0,-,0.4,1.1
+360,6.3,Torino Hunte VVV-Venlo,30, AM(L),12(9),1057,2,1,0.7,0.4,0.3,0.7,0.1,0.4,1
+361,6.3,Håkon Evjen AZ Alkmaar,21, Midfielder,2(7),241,1,-,0.3,0.2,0.1,0.6,-,0.2,0.8
+362,6.3,Ahmed Kutucu Heracles,21, FW,3(12),393,-,1,0.7,0.2,0.7,0.3,-,0.9,1.2
+363,6.3,David Lennart Philipp ADO Den Haag,21, Midfielder,4(11),541,2,-,0.7,0.3,1,0.4,-,0.4,1.6
+364,6.3,Jop van der Avert Willem II,21, Defender,1(2),127,-,-,-,-,-,0.3,-,-,-
+365,6.3,Sylla Sow RKC Waalwijk,25, AM(LR),11(17),1129,3,2,0.5,0.5,1,1.1,0.2,1.6,2
+366,6.3,Robbert de Vos FC Emmen,25, AM(L),3(10),356,1,-,0.5,0.4,-,-,0.2,0.2,0.2
+367,6.29,Róbert Bozeník Feyenoord,21, FW,4(11),445,1,-,1.1,0.3,0.3,0.7,0.3,0.3,1.3
+368,6.29,Arjan Swinkels VVV-Venlo,37, D(C),12(8),1089,-,-,0.3,0.1,0.1,0.3,-,0.1,0.2
+369,6.29,Lucas Pratto Feyenoord,33, FW,2(5),215,-,-,1.6,0.1,0.3,-,0.1,0.3,0.3
+370,6.29,Casper Staring Twente,20, Midfielder,1(5),150,-,-,0.2,-,-,-,-,0.2,0.5
+371,6.29,Tristan Dekker VVV-Venlo,23, D(R),13(2),1108,-,-,0.3,0.1,0.5,0.7,-,0.4,1.3
+372,6.29,Victor van den Bogert Willem II,22, Defender,1(4),178,-,-,-,0.2,-,-,-,0.2,0.8
+373,6.28,Moussa Sylla FC Utrecht,21, AM(R),4(17),644,-,1,0.8,0.5,0.6,0.5,0.1,0.4,1.6
+374,6.28,Idrissa Touré Vitesse,23, Midfielder,4(16),536,1,-,0.6,0.3,0.4,0.1,0.2,0.5,0.9
+375,6.28,Morad El Haddouti RKC Waalwijk,23, Forward,0(6),154,-,-,0.3,0.7,0.8,0.2,-,1.2,0.8
+376,6.28,Mats Köhlert Willem II,23, AM(L),15(17),1445,-,2,0.6,0.7,0.5,0.8,0.1,0.7,1.3
+377,6.28,Sylian Mokono FC Utrecht,22, Defender,0(2),44,-,-,-,-,-,-,-,0.5,-
+378,6.27,James Efmorfidis RKC Waalwijk,25, AM(R),5(2),369,-,-,1.4,0.6,1,0.6,-,2.1,2.3
+379,6.27,Roy Gelmi VVV-Venlo,26, D(C),21(3),1843,1,-,0.3,0.2,-,0.3,-,-,0.2
+380,6.27,Guus Hupperts VVV-Venlo,29, AM(LR),5(6),455,1,1,0.5,0.6,0.3,0.3,-,0.4,0.5
+381,6.27,Jordy Wehrmann Feyenoord,22, Midfielder,1(6),128,-,-,-,0.1,0.3,0.1,-,0.3,0.4
+382,6.27,Ravel Morrison ADO Den Haag,28, M(C),1(3),132,-,-,0.5,0.3,1.8,-,-,0.3,0.5
+383,6.27,Maarten Paes FC Utrecht,23, GK,8,720,-,-,-,-,-,-,-,-,-
+384,6.27,Marko Kolar FC Emmen,26, AM(LR),9(5),663,1,1,0.7,0.4,0.3,0.6,0.1,0.3,1.1
+385,6.26,Juan Familia-Castillo ADO Den Haag,21, D(L),9(7),820,-,-,0.3,0.1,0.7,0.5,-,0.3,0.6
+386,6.26,Lindon Selahi Willem II,22, M(C),3(13),456,-,-,0.1,0.2,0.5,0.5,-,0.3,0.6
+387,6.26,Dylan Vente Feyenoord,22, FW,0(1),12,-,-,1,1,-,-,-,-,-
+388,6.26,Marouan Azarkan Feyenoord,19, Forward,0(1),9,-,-,1,-,-,2,-,1,-
+389,6.26,Urby Emanuelson FC Utrecht,35, D(L),1(12),240,-,-,0.1,0.2,0.1,0.3,-,0.1,0.4
+390,6.25,Sebbe Augustijns RKC Waalwijk,22, Midfielder,0(8),147,-,-,-,-,0.1,0.3,-,0.3,0.1
+391,6.24,Rick Zuijderwijk Willem II,20, Midfielder,0(2),28,-,-,-,-,0.5,-,-,1,0.5
+392,6.24,Paulos Abraham FC Groningen,19, Forward,2(11),353,2,-,0.8,0.3,0.5,0.5,0.3,0.8,1.3
+393,6.24,Jamal Amofa ADO Den Haag,22, D(C),5(1),458,-,-,-,-,0.3,-,-,0.3,1.3
+394,6.24,Adrián Dalmau FC Utrecht,27, FW,5(14),659,4,-,1.5,0.2,0.1,0.5,0.2,0.7,1.4
+395,6.24,Paul Gladon Willem II,29, FW,1(3),134,-,-,-,0.8,0.5,-,-,0.5,1.3
+396,6.24,Lindon Selahi Twente,22, M(C),0(5),59,-,-,0.2,-,-,0.2,-,0.6,0.2
+397,6.24,Nathangelo Markelo Twente,22, Defender,3(10),384,-,-,-,0.1,0.2,0.8,-,0.5,0.4
+398,6.24,Rav van den Berg PEC Zwolle,17, Defender,1,90,-,-,-,-,-,-,-,1,1
+399,6.24,Alexei Coselev Fortuna Sittard,27, GK,6(2),614,-,-,-,-,-,-,-,-,-
+400,6.24,Bobby Adekanye ADO Den Haag,22, AM(R),11(3),747,2,-,0.9,0.1,0.6,1.6,0.1,1.5,2.4
+401,6.24,Desevio Payne FC Emmen,25, D(LR),0(2),30,-,-,-,-,-,-,-,-,0.5
+402,6.24,Joël van Kaam FC Groningen,19, Defender,3(3),233,-,-,0.7,0.3,0.2,0.5,0.2,1.2,1.7
+403,6.24,Samir Lagsir PEC Zwolle,18, Midfielder,0(4),32,1,-,0.3,-,-,-,-,-,0.3
+404,6.23,Thomas Buitink Vitesse,21, FW,1(13),295,1,1,0.4,0.5,0.3,0.1,-,0.4,0.5
+405,6.23,Thijs van Leeuwen Twente,20, Midfielder,5(16),482,3,-,0.6,0.2,0.5,0.3,0.1,0.1,0.9
+406,6.23,Juriën Gaari RKC Waalwijk,27, D(R),5(4),457,-,-,-,0.1,0.3,0.2,-,0.6,0.4
+407,6.23,Daan Huisman Vitesse,19, Midfielder,4(16),564,-,1,0.2,0.3,0.3,0.3,-,0.2,0.7
+408,6.23,Erick Gutiérrez PSV Eindhoven,26, DMC,1(7),151,-,-,0.1,0.3,0.1,-,-,0.4,0.3
+409,6.22,Stan van Dijck VVV-Venlo,21, Defender,0(7),145,-,-,0.4,-,0.1,0.1,0.1,-,0.3
+410,6.22,Vitalie Damascan RKC Waalwijk,22, FW,5(14),547,2,1,0.9,0.1,0.2,0.5,0.4,0.7,0.9
+411,6.22,Daan Rots Twente,20, AM(R),1(10),224,1,-,0.6,0.5,0.3,0.3,-,0.3,0.9
+412,6.22,Lukas Schmitz VVV-Venlo,33, D(L),9(3),843,-,1,0.4,0.1,0.2,0.4,-,-,0.4
+413,6.22,Bassala Sambou Fortuna Sittard,24, FW,0(3),35,-,1,0.3,0.3,0.3,-,-,0.7,1.0
+414,6.22,Yahcuroo Roemer VVV-Venlo,20, AM(R),6(9),675,-,1,0.5,1.3,0.6,0.3,0.3,0.7,1.3
+415,6.22,Pascu ADO Den Haag,21, M(C),6(7),608,-,1,0.1,0.7,0.4,0.4,-,0.4,0.8
+416,6.22,Remco Balk FC Groningen,20, Forward,3(8),289,1,-,0.8,0.3,0.3,0.6,0.2,0.4,1.3
+417,6.21,Michael Chacón FC Emmen,27, DMC,8(3),752,-,-,0.4,0.4,0.3,1.4,-,0.6,0.9
+418,6.21,Elias Sierra-Cappelleti Heracles,20, Midfielder,1(4),136,-,-,0.2,-,0.8,0.4,-,1,0.4
+419,6.21,Lassana Faye ADO Den Haag,23, D(L),12,1025,-,1,0.1,0.4,0.4,0.4,-,0.6,1.3
+420,6.21,Reda Kharchouch Sparta Rotterdam,26, Forward,0(19),386,2,-,0.7,0.4,0.3,0.1,0.1,0.8,1.3
+421,6.2,Destan Bajselmani PEC Zwolle,22, Defender,4(2),350,-,-,0.7,0.3,0.2,0.8,0.2,0.2,0.5
+422,6.2,Dimitrios Emmanouilidis Fortuna Sittard,21, Forward,0(6),80,1,-,0.2,0.7,0.2,0.5,0.3,0.3,0.3
+423,6.2,Branislav Ninaj Fortuna Sittard,27, D(C),4(4),384,-,-,0.3,0.3,0.4,0.1,-,0.1,0.3
+424,6.2,Ayman Azhil RKC Waalwijk,20, DMC,8(14),1050,-,1,0.4,0.1,0.3,0.5,-,0.5,0.9
+425,6.2,Keziah Veendorp FC Emmen,24, D(C),14(11),1370,-,-,0.1,0.4,0.3,-,-,0.1,0.3
+426,6.2,Thierry Lutonda RKC Waalwijk,21, D(L),5(16),728,-,1,-,0.2,0.4,0.5,-,0.6,0.9
+427,6.2,Naoufal Bannis Feyenoord,19, Forward,0(6),74,1,-,0.7,0.3,0.2,0.2,0.2,0.7,1.2
+428,6.19,Clint Essers Fortuna Sittard,24, D(R),1(3),98,-,-,-,0.3,-,0.3,-,-,-
+429,6.19,Million Manhoef Vitesse,19, Defender,3(8),320,-,1,0.3,0.4,0.6,0.2,0.2,0.6,0.8
+430,6.19,Victor Jensen Ajax,21, Midfielder,0(1),16,-,-,-,-,-,-,-,-,1
+431,6.19,Syb van Ottele SC Heerenveen,19, Defender,2(1),201,-,-,0.3,0.3,0.3,0.7,-,-,1.7
+432,6.18,Emanuel Emegha Sparta Rotterdam,18, FW,1(15),370,1,-,0.3,0.6,0.4,0.4,0.3,0.5,1.6
+433,6.18,Ismael Saibari PSV Eindhoven,20, Midfielder,0(1),2,-,-,-,1,-,-,-,-,-
+434,6.18,Sam Schreck FC Groningen,22, M(C),2(11),320,-,-,0.2,0.1,0.1,0.5,-,-,0.3
+435,6.17,Enrico Hernández Vitesse,20, Forward,1(1),79,-,-,-,0.5,-,0.5,-,0.5,0.5
+436,6.17,Kenzo Goudmijn AZ Alkmaar,19, Midfielder,0(3),15,-,-,0.3,-,-,0.3,-,-,-
+437,6.15,Jean-Pierre Rhyner FC Emmen,25, Defender,1(1),71,-,-,-,-,-,-,-,-,2
+438,6.15,Couhaib Driouech SC Heerenveen,19, Forward,1(4),111,-,-,-,0.2,0.2,0.4,-,0.4,0.8
+439,6.15,Simon Janssen VVV-Venlo,21, M(C),10(9),977,-,-,0.4,0.2,0.2,0.6,-,0.3,0.7
+440,6.15,Tomislav Gomelt ADO Den Haag,26, M(C),6(4),432,1,-,0.6,-,0.3,0.2,-,0.5,0.6
+441,6.15,Aaron Bastiaans VVV-Venlo,19, Forward,0(1),22,-,-,-,-,1,-,-,2,-
+442,6.15,Jorn Berkhout AZ Alkmaar,19, Defender,0(1),7,-,-,-,-,-,-,-,-,-
+443,6.15,Noa Lang Ajax,22, AM(LR),0(1),7,-,-,-,2,-,-,-,-,1
+444,6.15,Andrei Ratiu ADO Den Haag,23, D(R),7(3),521,-,-,0.3,0.4,0.1,0.6,-,1,1.3
+445,6.14,Thijs Dallinga FC Groningen,21, Forward,0(6),61,-,-,1,-,0.3,0.2,0.2,0.3,0.5
+446,6.14,Bilal Ould-Chikh ADO Den Haag,24, AM(R),3(11),460,-,-,0.4,0.2,0.8,0.6,-,0.6,1.1
+447,6.14,Luis Felipe PSV Eindhoven,20, Defender,0(1),4,-,-,-,-,-,-,-,-,-
+448,6.14,Alexander Jeremejeff Twente,28, FW,0(9),118,1,-,0.3,0.1,0.1,-,0.7,0.1,0.6
+449,6.14,Amar Catic ADO Den Haag,22, Forward,4(10),447,-,-,0.3,0.4,0.6,0.2,-,0.7,0.8
+450,6.13,Leon Guwara FC Utrecht,25, D(L),0(1),12,-,-,-,-,-,-,-,1,-
+451,6.12,Ferdy Druijf AZ Alkmaar,23, FW,0(9),112,1,-,0.2,0.1,-,0.2,-,0.1,0.6
+452,6.12,Anastasios Donis VVV-Venlo,25, AM(CR),1(4),184,-,-,1.4,0.4,1,0.2,0.2,1,1
+453,6.12,Jeffry Fortes Sparta Rotterdam,32, D(R),9(9),1041,-,-,0.2,0.6,0.2,0.4,-,0.2,0.7
+454,6.12,Kian Slor FC Groningen,19, Forward,0(5),73,-,-,0.6,0.4,-,0.4,-,0.2,0.2
+455,6.12,Lazaros Lamprou Twente,23, AM(L),0(7),161,-,-,0.7,0.4,0.4,0.3,-,0.9,2
+456,6.12,Thibaud Verlinden Fortuna Sittard,22, M(L),1(4),90,-,-,0.4,0.2,0.8,0.4,-,0.4,1
+457,6.12,Mees Hilgers Twente,20, D(C),0(3),24,-,-,-,-,-,-,-,-,0.3
+458,6.11,Joël Piroe PSV Eindhoven,22, FW,0(11),128,1,-,0.5,0.1,0.2,-,-,0.4,0.5
+459,6.11,Jeredy Hilterman FC Utrecht,23, Forward,0(3),39,-,-,0.3,0.3,-,1.3,-,-,1.7
+460,6.11,Jelle Duin AZ Alkmaar,22, Forward,0(4),17,-,-,0.8,-,-,0.8,-,0.3,0.5
+461,6.11,Hans Mulder RKC Waalwijk,34, D(C),0(12),37,-,-,-,0.1,0.1,0.1,-,-,-
+462,6.11,Samuel Moutoussamy Fortuna Sittard,25, M(CL),1(13),348,-,-,0.4,0.1,0.3,0.1,-,0.1,0.6
+463,6.11,Mohamed Amissi Heracles,21, Forward,0(2),57,-,-,-,-,1,-,-,-,0.5
+464,6.11,Ricardo van Rhijn FC Emmen,30, D(CR),14(1),1277,-,-,0.4,0.3,0.2,0.5,-,0.1,0.7
+465,6.11,Michal Sadílek PSV Eindhoven,22, D(L),1(1),47,-,-,-,-,-,1,-,-,-
+466,6.1,Filip Møller Delaveris Vitesse,20, Forward,0(1),2,-,-,-,-,-,1,-,-,-
+467,6.1,Lentini Caciano FC Emmen,20, Midfielder,1(3),59,-,-,-,-,0.3,0.5,-,0.3,1.5
+468,6.1,Ulysses Llanez Jr SC Heerenveen,20, Forward,0(5),90,-,-,0.2,0.2,0.2,0.4,-,-,0.6
+469,6.09,Anco Jansen FC Emmen,32, AM(L),8(9),641,1,-,0.4,0.5,0.4,0.8,0.2,0.7,0.9
+470,6.09,Jeremy Cijntje Heracles,23, Forward,0(7),149,-,-,0.4,0.1,0.1,0.1,-,0.4,0.6
+471,6.08,Bjorn Meijer FC Groningen,18, Defender,0(1),7,-,-,-,1,-,-,-,-,-
+472,6.08,Sekou Sidibe FC Emmen,20, Forward,0(3),37,-,-,0.3,0.3,-,-,-,-,0.3
+473,6.08,Arian Kastrati Fortuna Sittard,20, Forward,0(7),30,-,-,0.3,-,-,0.1,-,0.1,0.3
+474,6.07,Dario Van den Buijs Fortuna Sittard,26, D(C),1(8),80,-,-,-,-,-,0.3,-,-,-
+475,6.07,Leroy George Fortuna Sittard,34, Forward,0(3),9,-,-,0.7,0.3,-,0.3,-,0.7,0.7
+476,6.07,Mathias Kjølø PSV Eindhoven,20, Midfielder,0(1),2,-,-,-,-,-,-,-,-,-
+477,6.07,Thomas Poll FC Groningen,20, Defender,0(4),21,-,-,-,-,0.5,-,-,-,-
+478,6.07,Melih Ibrahimoglu Heracles,21, Midfielder,0(2),5,-,-,-,-,-,-,-,-,-
+479,6.06,Xander Severina ADO Den Haag,20, Forward,1(1),48,-,-,-,-,-,-,-,-,1
+480,6.06,Didier La Torre FC Emmen,19, Midfielder,0(3),11,-,-,-,-,0.3,-,-,-,0.7
+481,6.06,Simon Tibbling FC Emmen,27, DMC,12(3),1040,-,-,0.3,0.3,0.3,1.1,0.1,0.2,1.1
+482,6.05,Adrián Szoke Heracles,23, FW,7(12),627,1,-,0.7,0.1,0.2,0.5,0.1,0.5,1.3
+483,6.05,Jasper Dahlhaus Willem II,19, Forward,0(2),7,-,-,-,-,-,-,-,-,0.5
+484,6.04,Rohat Agca Heracles,20, Midfielder,0(4),63,-,-,0.3,-,0.5,-,-,0.5,0.3
+485,6.04,Ramon Leeuwin AZ Alkmaar,34, D(C),1(6),173,-,-,-,-,-,0.6,-,-,-
+486,6.04,Kjell Scherpen Ajax,21, GK,2,180,-,-,-,-,-,-,-,-,-
+487,6.04,Max Bruns Twente,19, Midfielder,0(1),4,-,-,-,-,-,1,-,-,-
+488,6.04,Kenneth Taylor Ajax,19, Midfielder,0(3),81,-,-,0.3,-,1,1.3,-,1.3,0.3
+489,6.04,Hilary Gong Vitesse,23, Forward,1(6),114,-,-,0.3,-,0.4,-,0.1,0.3,0.3
+490,6.03,Christian Conteh Feyenoord,22, Forward,0(2),33,-,-,-,-,-,-,-,-,1
+491,6.03,Hobie Verhulst AZ Alkmaar,28, Goalkeeper,1(1),93,-,-,-,-,-,-,-,-,-
+492,6.02,Delano van Crooij VVV-Venlo,30, GK,5(1),495,-,-,-,-,-,0.2,-,-,-
+493,6.02,Bruma PSV Eindhoven,27, AM(CLR),1(2),119,-,-,1.3,-,0.7,0.3,-,-,1.3
+494,6.01,Thijmen Nijhuis FC Utrecht,23, Goalkeeper,3,270,-,-,-,-,-,-,-,-,-
+495,6.01,Meritan Shabani VVV-Venlo,22, Midfielder,4(1),264,-,-,0.6,0.2,0.6,1.2,-,2.2,2.4
+496,6.0,Sieben Dewaele SC Heerenveen,22, Midfielder,2(5),173,-,-,0.4,0.3,-,0.1,-,0.6,0.1
+497,6.0,Fredrik Oppegård PSV Eindhoven,19, Defender,0(1),1,-,-,-,-,-,-,-,-,-
+498,6.0,Jeremy Antonisse PSV Eindhoven,19, Forward,0(1),1,-,-,-,-,-,-,-,-,-
+499,5.99,Issah Abass Twente,23, FW,0(8),121,-,-,0.4,0.1,0.3,0.1,0.1,0.3,0.6
+500,5.99,Nassim El Ablak Fortuna Sittard,21, Midfielder,0(3),17,-,-,-,0.3,-,-,-,-,0.3
+501,5.99,Odysseus Velanas FC Utrecht,23, Midfielder,0(1),11,-,-,-,-,-,-,-,1,-
+502,5.99,Ian Smeulers Willem II,21, Defender,0(3),30,-,-,-,-,-,-,-,-,0.3
+503,5.99,Mike van Beijnen Fortuna Sittard,22, Defender,0(4),21,-,-,-,-,-,-,-,0.3,-
+504,5.98,Shawn Adewoye RKC Waalwijk,21, Defender,1(2),123,-,-,-,-,-,-,-,-,0.7
+505,5.98,Wouter Burger Feyenoord,20, AM(C),0(1),5,-,-,-,-,-,-,-,1,1
+506,5.98,Donis Avdijaj FC Emmen,25, AM(LR),1(7),245,-,-,0.6,0.1,0.3,0.5,0.3,0.6,1.9
+507,5.97,Remco Balk FC Utrecht,20, Forward,0(2),14,-,-,-,-,-,-,-,-,1.5
+508,5.97,Shurandy Sambo PSV Eindhoven,20, Defender,0(1),13,-,-,1,-,-,-,-,1,-
+509,5.96,Djibril Dianessy Fortuna Sittard,25, Forward,0(5),37,-,-,-,0.2,-,-,-,0.4,0.6
+510,5.96,Cain Seedorf ADO Den Haag,21, Midfielder,2(1),183,-,-,-,-,0.7,0.3,-,1,1.7
+511,5.96,Denis Granecny FC Emmen,23, Defender,0(2),17,-,-,-,-,-,-,-,1,-
+512,5.95,Noah Ohio Vitesse,18, Forward,0(4),26,-,-,-,0.3,-,-,-,0.5,0.5
+513,5.94,Benjamin van Leer Sparta Rotterdam,29, GK,6,540,-,-,-,-,-,0.2,-,-,-
+514,5.94,Wassim Essanoussi VVV-Venlo,18, Midfielder,1(4),96,-,-,-,0.2,-,0.2,-,-,0.8
+515,5.94,Jeroen Houwen Vitesse,25, GK,1,90,-,-,-,-,-,-,-,-,-
+516,5.93,Nikolaos Karelis ADO Den Haag,29, FW,2(7),297,-,-,0.4,0.2,0.2,0.3,-,0.2,1.6
+517,5.92,Romano Postema FC Groningen,19, Forward,0(3),35,-,-,0.3,-,-,-,-,-,0.3
+518,5.85,Ben Scholte FC Emmen,20, Midfielder,0(1),6,-,-,-,-,-,-,-,-,3
+519,5.84,Juan Familia-Castillo AZ Alkmaar,21, D(L),0(1),1,-,-,-,-,-,-,-,-,1
+520,5.67,Rein Smit SC Heerenveen,20, Forward,0(5),57,-,-,-,-,-,0.2,-,0.2,0.6
+521,5.64,Vincent Schippers Willem II,20, Defender,1(3),149,-,-,0.3,0.5,-,0.3,-,0.3,0.8

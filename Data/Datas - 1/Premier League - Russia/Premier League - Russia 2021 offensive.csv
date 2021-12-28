@@ -1,0 +1,524 @@
+﻿,Rating,name,age,position1,Apps,Mins,Goals,Assists,SpG,KeyP,Drb,Fouled,Off,Disp,UnsTch
+0,8.14,Toni Sunjic Dinamo Moscow,32, D(C),2,180,1,-,0.5,0.5,-,1.0,-,-,1.0
+1,7.64,Artem Dzyuba Zenit,33, FW,26(1),2255,20,6,2.6,2.2,0.5,0.8,0.9,1.5,2.4
+2,7.5,Christian Noboa PFC Sochi,36, M(C),25,2175,12,7,2.6,2.1,0.9,1.0,0.1,1,1.6
+3,7.43,Douglas Santos Zenit,27, D(CL),28,2462,3,7,1.1,2.3,0.6,0.5,0.1,0.8,1.2
+4,7.4,Aleksandr Silyanov Lokomotiv Moscow,20, Defender,2,180,-,-,-,0.5,0.5,1.5,-,-,3.0
+5,7.36,Oliver Abildgaard Rubin Kazan,25, DMC,28,2501,-,1,1.3,0.8,0.4,1.7,-,0.4,0.6
+6,7.36,Aleksey Miranchuk Lokomotiv Moscow,26, M(CR),4,306,2,1,2.3,2.0,1.3,1.8,-,2.8,2.8
+7,7.34,Alexander Sobolev Spartak Moscow,24, FW,16(6),1521,14,4,3.2,1.4,0.6,1.6,0.2,1.7,3.4
+8,7.33,Sardar Azmoun Zenit,26, FW,21(3),1739,19,2,3.5,1.0,0.5,0.4,0.3,1,1.5
+9,7.32,Nikola Vlasic CSKA Moscow,24, AM(CLR),26,2261,11,5,4,2.8,1.7,1.5,0.5,2,2.7
+10,7.3,Jordan Larsson Spartak Moscow,24, AM(CR),29,2522,15,5,2.8,2,1,1.3,0.4,1.4,2.2
+11,7.25,Khvicha Kvaratskhelia Rubin Kazan,20, AM(LR),20(3),1751,4,4,2.2,1.4,3.4,1.9,0.1,3.3,2.7
+12,7.25,Rémy Cabella FC Krasnodar,31, M(CLR),19(5),1560,8,1,1.6,1.5,2.2,1.7,0.2,1.3,1.5
+13,7.25,Murilo Cerqueira Lokomotiv Moscow,24, D(C),22,1980,4,-,0.8,0.4,0.3,0.3,-,0.3,0.4
+14,7.24,Malcom Zenit,24, AM(CLR),20(1),1621,3,3,3,2,2.1,2.1,-,1.4,1.7
+15,7.23,Anton Zabolotny PFC Sochi,30, FW,21(6),1964,9,4,3,0.9,0.3,2.1,0.6,0.7,2.3
+16,7.21,Filip Dagerstål Khimki,24, D(CL),10,900,-,-,0.5,0.1,0.7,0.4,-,0.4,0.4
+17,7.19,Mario Fernandes CSKA Moscow,31, D(R),23,1974,1,1,0.5,1.7,0.3,1.0,0.2,0.3,0.7
+18,7.18,Grzegorz Krychowiak Lokomotiv Moscow,31, D(C),25(1),2261,9,3,2.4,0.8,1,2.7,-,1,1.3
+19,7.18,Egor Baburin FC Krasnodar,28, GK,2,180,-,-,-,-,-,0.5,-,-,-
+20,7.16,Dmitrii Merenchukov FC Tambov,22, Forward,2,175,-,1,0.5,3,1.0,1,-,1,1.5
+21,7.16,Wendel Zenit,24, M(CL),13(2),1114,2,3,2.1,1.4,0.8,1.3,0.1,0.9,1.1
+22,7.15,Evgeni Gorodov FC Krasnodar,35, GK,4,360,-,-,-,-,0.3,-,-,-,-
+23,7.15,Pablo Lokomotiv Moscow,30, D(C),10,900,-,-,0.5,0.2,0.2,1,-,0.2,0.1
+24,7.15,Daler Kuzyaev Zenit,28, D(R),14(4),1274,3,2,1.7,1,0.8,0.9,0.1,0.7,1.2
+25,7.14,Daniil Lesovoy Dinamo Moscow,23, AM(CL),21(1),1748,5,3,2,2,2.5,1.5,0.4,2.4,2.3
+26,7.12,Sebastian Szymanski Dinamo Moscow,22, AM(CR),28,2329,1,5,2.4,2.8,0.8,2.4,0.1,1.2,2.3
+27,7.11,Artur Yusupov PFC Sochi,32, M(CL),22(1),1937,7,2,1.5,1.3,0.5,0.3,0.1,0.7,1.5
+28,7.1,Ayrton Spartak Moscow,24, D(L),27,2327,2,1,1.6,1,1.7,1.4,0.1,1.6,1.6
+29,7.1,Wanderson Maciel FC Krasnodar,27, AM(LR),16(5),1459,2,3,2.4,1.2,2.8,0.8,0.4,1.1,2.1
+30,7.09,Djorde Despotovic Rubin Kazan,29, FW,21(5),1990,14,3,2.4,0.9,0.2,0.8,0.3,1,1.5
+31,7.09,Denis Makarov Rubin Kazan,23, AM(R),20(8),1943,7,1,3,1.1,1.9,1.5,0.3,1.7,2.5
+32,7.09,Arsen Zakharyan Dinamo Moscow,18, AM(CLR),10(3),889,3,3,2,1.7,0.5,0.7,0.5,0.8,1.5
+33,7.08,Sergey Petrov FC Krasnodar,30, D(LR),9(1),796,2,1,1.2,1.5,0.5,1.4,-,0.3,0.3
+34,7.07,Roman Zobnin Spartak Moscow,27, M(CLR),28,2455,1,3,1,2,1.2,2.5,0.1,1.3,1.4
+35,7.07,Vitaliy Sychev FC Tambov,21, Goalkeeper,4,360,-,-,-,-,-,-,-,-,-
+36,7.06,Chidera Ejuke CSKA Moscow,23, AM(LR),18(7),1591,5,2,2,0.9,3,0.7,0.2,1.2,2.2
+37,7.06,Denis Glushakov Khimki,34, M(C),14(1),1243,3,1,1.9,1.1,0.3,0.7,-,1.1,1.1
+38,7.03,Anton Kochenkov Lokomotiv Moscow,34, GK,5(1),474,-,-,-,-,-,-,-,-,-
+39,7.03,Maciej Rybus Lokomotiv Moscow,32, D(LR),26,2340,1,1,0.6,0.9,0.3,0.6,-,0.3,1.3
+40,7.03,Roman Evgenjev Dinamo Moscow,22, D(C),27,2338,1,1,0.6,0.4,0.4,0.1,-,0.3,0.7
+41,7.02,Maksim Osipenko FC Rostov,27, D(C),28,2442,-,1,0.5,0.3,0.3,0.5,-,0.2,0.2
+42,7.02,Samuel Gigot Spartak Moscow,28, D(C),26,2307,3,-,0.9,0.3,0.4,1.2,-,0.1,0.5
+43,7.01,Victor Moses Spartak Moscow,30, M(CLR),18(1),1513,4,2,1.6,1.4,1.5,1.3,0.3,1.1,1.1
+44,7.0,Rafal Augustyniak Ural,28, D(C),22(3),1932,4,-,1.4,0.5,0.8,1.2,0.1,0.6,1.0
+45,6.99,Igor Diveev CSKA Moscow,22, D(C),23,2070,2,2,0.9,0.2,0.1,0.4,-,0.1,0.3
+46,6.99,Maksim Mukhin Lokomotiv Moscow,20, DMC,8(2),715,-,-,0.6,-,0.5,0.9,-,0.6,0.7
+47,6.98,Ivan Oblyakov CSKA Moscow,23, D(L),23(4),2080,1,3,1.4,1.4,0.4,1.0,-,0.7,1.1
+48,6.97,Quincy Promes Spartak Moscow,29, M(CLR),10(1),895,3,2,3.4,1.9,1.0,0.9,0.3,1.6,2.5
+49,6.97,Wilmar Barrios Zenit,28, DMC,26,2194,-,1,0.3,0.6,0.5,1.8,-,0.2,1.0
+50,6.97,Denys Kulakov Ural,35, D(R),24(1),2156,-,3,0.5,1.6,0.6,1.0,0.2,0.4,0.6
+51,6.97,Alex Král Spartak Moscow,23, DMC,28(1),2401,-,5,0.7,1.0,1,1.1,-,0.9,1.1
+52,6.97,Baktiyor Zainutdinov FC Rostov,23, D(L),4,336,-,-,1.3,1.8,1,2.3,-,1.8,1.3
+53,6.96,Aleksandr Martynovich FC Krasnodar,34, D(CR),23(1),2115,-,-,0.6,0.3,0.1,0.6,-,0.1,0.3
+54,6.95,Fedor Smolov Lokomotiv Moscow,31, AM(CL),16(5),1387,7,3,2.4,1.0,0.9,0.8,0.4,1.4,1.5
+55,6.95,Dejan Lovren Zenit,32, D(C),21,1846,2,-,1.0,0.3,-,0.5,0.1,0.2,0.2
+56,6.95,Ilya Samoshnikov Rubin Kazan,24, D(LR),21(3),1831,2,-,0.6,0.4,0.8,0.6,-,0.6,0.8
+57,6.94,Oleg Danchenko FC Ufa,27, D(R),11(4),1016,-,5,0.9,2.0,1.3,1.1,-,0.9,0.5
+58,6.94,Ivan Ordets Dinamo Moscow,29, D(C),27,2384,3,-,0.4,0.2,-,0.6,-,0.2,0.1
+59,6.94,Hwang In-Beom Rubin Kazan,25, M(C),13(5),1263,3,2,1.1,1.7,0.5,1.2,-,0.4,0.8
+60,6.94,Artem Polyarus FK Akhmat,29, AM(LR),8(4),683,1,3,1.3,2.2,0.8,0.9,0.3,1,0.9
+61,6.94,Aleksandr Filin Khimki,25, D(C),16,1440,-,-,-,0.1,0.1,0.8,-,0.1,0.4
+62,6.94,Daniil Fomin Dinamo Moscow,24, DMC,29,2358,6,3,1.7,1.2,0.2,0.7,-,0.4,0.7
+63,6.93,Reziuan Mirzov Khimki,28, AM(CL),14(3),1316,6,1,2.5,1.4,2,2.1,0.5,2.9,3.6
+64,6.92,Daniil Odoevskiy Zenit,18, Goalkeeper,1,90,-,-,-,-,-,-,-,-,-
+65,6.92,Mathias Normann FC Rostov,25, M(C),15,1144,1,1,1.5,0.7,1.1,2,-,0.7,0.9
+66,6.91,Vedran Corluka Lokomotiv Moscow,35, D(C),22,1788,-,2,0.2,0.5,0.1,0.5,-,0.1,0.1
+67,6.91,Miha Mevlja PFC Sochi,31, D(C),29,2579,3,-,0.2,0.1,0.1,0.9,-,0.2,-
+68,6.9,Anton Miranchuk Lokomotiv Moscow,26, AM(CLR),13(10),1342,4,5,1.9,2.2,0.8,1.7,0.1,0.9,1.7
+69,6.9,Danila Prokhin PFC Sochi,20, D(C),6(1),552,1,-,0.7,0.4,0.1,0.4,-,-,0.6
+70,6.9,Viktor Claesson FC Krasnodar,29, M(CLR),20(4),1712,6,5,1.5,1.1,0.8,0.4,0.1,1,1.5
+71,6.89,Igor Kalinin Ural,26, D(L),22,1914,1,2,0.3,1,0.4,1.1,0.1,0.7,1.0
+72,6.89,Oleg Ivanov FC Ufa,35, M(C),8(1),710,1,-,1.2,0.9,0.2,0.8,-,0.8,0.7
+73,6.89,Ilya Lantratov Khimki,26, GK,30,2700,-,-,-,-,-,0.2,-,-,0.1
+74,6.89,Konstantin Kuchaev CSKA Moscow,23, M(CLR),18(3),1427,6,3,1.3,1.1,0.5,1.3,0.2,1.3,1.5
+75,6.89,Sergey Terekhov PFC Sochi,31, D(CL),27,2375,3,1,0.9,0.7,0.3,1.9,0.2,0.6,0.6
+76,6.89,Danil Glebov FC Rostov,22, M(C),21(5),1922,1,3,0.9,0.6,0.2,2.3,-,0.7,0.8
+77,6.88,Dennis Hadzikadunic FC Rostov,23, D(C),25,2175,1,1,0.6,0.2,-,1.0,-,0.1,0.3
+78,6.88,Vyacheslav Karavaev Zenit,26, D(LR),25,2170,3,3,0.8,0.9,0.2,0.1,0.2,0.4,0.7
+79,6.88,Dmitri Tikhiy Khimki,29, D(C),28,2446,-,-,0.5,0.3,-,0.9,-,0.2,0.8
+80,6.88,Vladislav Kamilov FC Ufa,26, M(C),17(1),1344,4,1,1.4,0.9,0.5,1.2,0.1,0.3,1
+81,6.87,Soslan Takazov FC Tambov,28, D(CL),6(1),583,-,-,0.4,0.1,-,1.0,-,0.1,-
+82,6.87,Viktor Vasin CSKA Moscow,33, D(C),10(3),1019,-,2,0.3,0.5,-,0.4,-,0.1,0.1
+83,6.87,Filip Mrzljak FC Ufa,28, M(C),13(2),1125,4,1,1.0,1.0,0.1,1.2,0.2,0.3,1.3
+84,6.87,Alexander Lomovitskiy Khimki,23, M(LR),6(2),554,2,-,1.0,0.5,2,1.9,-,1.6,1.3
+85,6.87,Miroslav Bogosavac FK Akhmat,25, D(L),28(1),2480,-,1,0.3,1.0,1.1,1.2,-,0.8,1.3
+86,6.86,Komnen Andric FC Ufa,26, FW,15(1),1344,3,3,1.8,1.0,0.5,2.2,0.4,1.6,3.7
+87,6.86,Carl Starfelt Rubin Kazan,26, D(C),29,2592,3,-,0.3,0.1,-,0.4,-,-,0.2
+88,6.86,Magomed Ozdoev Zenit,29, M(C),21(7),1885,-,3,0.8,1.3,0.3,0.4,0.1,0.4,0.8
+89,6.86,Sebastián Driussi Zenit,25, AM(CLR),11(5),884,1,3,1.3,1.2,0.6,1.1,-,0.4,1.3
+90,6.85,Arsen Adamov Ural,22, D(CLR),7(1),634,-,1,0.3,0.8,0.5,3.1,-,1,1.1
+91,6.85,Moritz Bauer FC Ufa,29, D(R),7,559,-,2,0.1,1.9,0.1,0.3,-,0.4,0.9
+92,6.85,Nemanja Miletic FC Ufa,30, D(L),8(1),742,1,-,0.7,1.3,1,1.8,-,1.2,1.7
+93,6.85,Yaroslav Godzyur Ural,36, GK,12,1080,-,-,-,-,-,0.1,-,-,-
+94,6.84,Yuri Dyupin Rubin Kazan,33, GK,26,2340,-,-,-,-,-,0.2,-,-,0.1
+95,6.84,Konstantin Maradishvili CSKA Moscow,21, DMC,24(2),2089,1,1,0.7,0.8,0.5,1.1,-,0.7,1.5
+96,6.84,Ezequiel Ponce Spartak Moscow,24, AM(L),18(7),1578,9,1,2.5,0.6,0.9,0.6,0.4,1.1,1.8
+97,6.84,Abdul Mohammed Kadiri Arsenal Tula,25, D(C),9(2),810,2,-,1.3,0.3,1.2,0.5,-,0.2,0.5
+98,6.83,Dmitriy Chistyakov Zenit,27, D(C),9(5),829,-,1,0.4,0.3,-,0.4,-,-,0.3
+99,6.83,Nikola Moro Dinamo Moscow,23, DMC,18(6),1638,3,1,1.3,0.7,0.5,0.8,-,0.6,0.5
+100,6.83,Filip Uremovic Rubin Kazan,24, D(CR),22(2),1995,-,-,0.7,0.5,0.2,0.6,-,0.5,0.5
+101,6.82,Yaroslav Rakitskiy Zenit,32, D(C),24,2034,1,3,0.8,0.8,0.1,0.5,-,0.1,0.3
+102,6.82,Kaio FC Krasnodar,26, D(C),22(2),1947,1,-,0.6,0.1,0.5,1.2,-,0.4,0.6
+103,6.82,Brian Idowu Khimki,29, D(CLR),28,2506,3,1,0.8,1.1,0.3,0.6,0.1,0.5,1
+104,6.82,Bernard Berisha FK Akhmat,30, M(CLR),23(4),1956,8,2,2.1,1.2,1.3,1.3,0.7,1.5,2.3
+105,6.82,Daniil Lesovoy Arsenal Tula,23, AM(CL),6,432,2,-,1.8,1,2.7,1.8,-,2.2,1.8
+106,6.82,Igor Leshchuk Dinamo Moscow,25, GK,3,270,-,-,-,-,-,-,-,-,-
+107,6.82,Othman El Kabir Ural,30, AM(L),13(1),1124,1,4,1.7,1.6,0.7,2.1,0.3,0.9,1.6
+108,6.81,Artem Timofeev FK Akhmat,27, M(C),25(1),2140,3,2,1.5,0.8,0.4,1.4,0.1,0.6,1.1
+109,6.81,Eric Bicfalvi Ural,33, AM(C),22,1946,7,1,3.4,1.3,0.7,1.5,0.2,2,3.5
+110,6.81,Hördur Magnússon CSKA Moscow,28, D(CL),21(1),1855,1,1,0.4,0.4,0.1,0.9,-,0.1,-
+111,6.8,Marcus Berg FC Krasnodar,35, FW,19(2),1613,9,3,2.2,1,0.1,0.9,0.4,0.6,1.7
+112,6.8,Darko Jevtic Rubin Kazan,28, M(C),22(3),1827,3,3,1.2,1.9,0.8,0.4,-,1.1,0.8
+113,6.8,Emil Bohinen CSKA Moscow,22, Midfielder,2(2),197,-,-,0.5,1.5,1,0.3,-,0.3,2
+114,6.8,Matvey Safonov FC Krasnodar,22, GK,21,1890,-,-,-,-,-,0.1,-,-,-
+115,6.8,Aleksandr Belenov FC Ufa,35, GK,29,2610,-,-,-,-,-,-,-,-,-
+116,6.8,Cedric Gogoua FC Rotor Volgograd,27, D(C),22,1927,-,-,0.4,0.2,0.2,0.5,-,0.1,0.4
+117,6.79,Zoran Nizic FK Akhmat,32, D(C),23(1),2020,-,1,0.3,0.2,0.4,0.6,-,0.1,0.3
+118,6.79,Dmitri Skopintsev Dinamo Moscow,24, D(L),22(2),1851,1,1,1.3,0.7,1.3,1,0.1,0.7,1.5
+119,6.79,Stefan Strandberg Ural,31, D(C),17,1478,1,1,0.4,0.5,0.3,0.4,-,0.1,0.4
+120,6.79,Sergei Borodin FC Ufa,22, Defender,0(1),42,-,-,2.0,-,-,-,-,-,-
+121,6.79,Ismael Silva FK Akhmat,26, M(CL),21(5),1735,1,4,1.3,1.3,0.4,1.2,-,0.9,1
+122,6.78,Ilya Kukharchuk Khimki,31, M(CR),16(5),1365,5,5,1.4,0.9,0.5,1.4,0.2,0.7,1.1
+123,6.78,Salomón Rondón CSKA Moscow,32, FW,9(1),743,4,2,2.9,0.8,0.3,0.2,0.2,0.3,2.5
+124,6.78,Kings Kangwa Arsenal Tula,22, DMC,14(7),1277,1,3,1.2,1.7,1,0.6,0.2,0.5,0.9
+125,6.77,Nail Umyarov Spartak Moscow,21, DMC,16(10),1501,-,4,0.6,0.6,0.3,0.6,-,0.6,0.6
+126,6.76,Timofey Margasov PFC Sochi,29, D(CLR),22(1),1868,-,5,0.6,0.8,0.2,0.4,-,0.3,0.5
+127,6.76,Yuri Gazinskiy FC Krasnodar,32, DMC,25(1),1914,3,2,0.7,0.7,0.3,1,0.1,0.3,0.8
+128,6.76,Kento Hashimoto FC Rostov,28, DMC,14(5),1278,6,1,1.5,0.5,0.3,0.6,0.1,0.6,1
+129,6.76,Kirill Nababkin CSKA Moscow,35, D(CLR),3,226,-,-,0.3,-,-,0.3,-,-,0.3
+130,6.76,Oleksandr Kaplienko FC Tambov,25, D(CL),14(2),1271,-,1,0.3,0.5,0.3,0.5,0.1,0.3,0.4
+131,6.76,Sergey Pesjakov FC Rostov,32, GK,24,2160,-,-,-,-,-,-,-,-,-
+132,6.76,Dmitriy Shomko FC Rotor Volgograd,31, D(L),4,333,-,-,0.5,0.3,0.8,0.3,-,1,0.8
+133,6.76,Ilya Pomazun Ural,25, GK,17,1530,-,-,-,-,-,0.1,-,-,-
+134,6.76,Vladimir Rykov Ural,34, D(C),20(1),1832,-,-,0.4,0.4,0.1,0.9,-,-,0.2
+135,6.76,Vyacheslav Grulev Dinamo Moscow,22, AM(L),15(10),1379,4,1,2.3,1,0.8,1.1,0.2,1.6,1.9
+136,6.75,Josip Condric FC Rotor Volgograd,28, GK,22,1980,-,-,-,-,-,0.1,-,-,0.1
+137,6.75,Nikita Burmistrov PFC Sochi,32, AM(CLR),19(2),1468,6,1,2.1,1.1,0.5,0.6,0.4,1,1.6
+138,6.75,Vitaly Gudiev FK Akhmat,26, GK,14,1260,-,-,-,-,-,-,-,-,-
+139,6.75,German Onugkha FC Tambov,25, FW,7(4),691,4,-,1.9,0.2,1.1,1.6,0.3,1.9,2.3
+140,6.74,Andrey Semenov FK Akhmat,32, D(CR),18,1565,2,-,0.3,0.4,0.1,0.9,-,0.1,0.1
+141,6.74,Vladimir Iljin FK Akhmat,29, AM(C),25(3),2032,9,3,2.6,0.8,0.8,0.8,0.6,1.5,1.3
+142,6.73,Andrey Mostovoy Zenit,24, AM(CLR),8(18),972,6,2,1.1,0.9,0.9,1,0.2,0.8,1.1
+143,6.73,Tonny Vilhena FC Krasnodar,26, D(L),17(7),1500,2,2,2,0.9,0.9,1.2,-,0.8,1.5
+144,6.73,Yuri Zhirkov Zenit,38, D(L),7(8),704,-,2,1,0.7,0.1,0.5,0.1,0.1,0.3
+145,6.72,Aleksey Shchetkin FC Rotor Volgograd,30, FW,5,367,2,-,1.6,0.4,-,0.2,-,0.6,2
+146,6.72,Georgi Zotov Rubin Kazan,31, D(LR),15(2),1355,-,1,0.4,0.6,1.1,0.9,0.1,0.6,1.5
+147,6.72,Anton Shunin Dinamo Moscow,34, GK,27,2430,-,-,-,0.1,-,0.1,-,-,-
+148,6.72,Baktiyor Zainutdinov CSKA Moscow,23, D(L),14(4),1211,1,1,1.2,0.7,0.4,1.4,0.1,0.4,1.2
+149,6.72,Sergei Ryzhikov FC Tambov,41, GK,20,1800,-,-,-,0.1,-,-,-,-,-
+150,6.72,Igor Akinfeev CSKA Moscow,35, GK,28,2520,-,-,-,-,-,-,-,-,-
+151,6.72,Nikolay Zabolotny PFC Sochi,31, GK,9,810,-,-,-,-,-,-,-,-,-
+152,6.72,Cristian Ramírez FC Krasnodar,27, D(LR),12(4),1052,-,1,0.9,1.3,0.5,0.8,0.2,0.4,0.8
+153,6.71,Andrey Lunev Zenit,30, GK,11(1),1028,-,-,-,-,-,-,-,-,-
+154,6.7,Guilherme Lokomotiv Moscow,35, GK,25,2224,-,-,-,-,-,-,-,-,0.1
+155,6.7,Ali Sowe FC Rostov,27, FW,11,988,3,-,1.9,1.1,0.7,1,0.2,1.6,2.7
+156,6.7,Kristoffer Olsson FC Krasnodar,26, M(C),18(8),1728,3,2,0.9,0.8,0.3,1.1,-,1,0.7
+157,6.7,Aleksandr Dovbnya FC Rotor Volgograd,34, GK,6,540,-,-,-,-,-,-,-,-,0.2
+158,6.7,Joãozinho PFC Sochi,32, M(CLR),21(2),1672,1,3,1,1.7,0.5,0.9,0.5,0.9,1.3
+159,6.7,Dmitri Barinov Lokomotiv Moscow,25, D(C),8(5),686,1,1,1,0.5,0.1,0.4,-,0.1,0.8
+160,6.7,Rifat Zhemaletdinov Lokomotiv Moscow,25, M(CLR),17(5),1360,3,5,0.9,1,1,1.1,0.3,1.2,1.6
+161,6.69,Odise Roshi FK Akhmat,30, M(CR),1(5),250,2,-,2,1.3,0.5,0.7,0.2,0.8,0.7
+162,6.69,Varazdat Haroyan Ural,29, D(C),1,90,-,-,1,1,-,-,-,-,-
+163,6.69,Aleksandr Maksimenko Spartak Moscow,23, GK,29,2610,-,-,-,-,-,0.2,-,-,-
+164,6.68,Soslan Dzhanaev PFC Sochi,34, GK,21,1890,-,-,-,-,-,0.1,-,-,-
+165,6.68,Sergey Tkachev Arsenal Tula,32, M(CLR),11(10),1103,3,3,1.7,1.5,0.3,1,-,0.4,1.2
+166,6.67,Konstantin Pliev FC Ufa,25, D(C),17,1530,-,-,0.4,0.2,0.2,0.4,-,0.4,0.3
+167,6.67,Vitali Lystsov Lokomotiv Moscow,26, D(C),2(3),277,-,-,0.4,-,0.2,0.4,-,0.2,0.4
+168,6.67,Georgi Kostadinov Arsenal Tula,31, D(C),17(3),1491,-,-,0.4,0.4,0.2,2.6,-,0.4,0.6
+169,6.67,Emanuel Mammana PFC Sochi,25, D(C),14(4),1312,-,1,0.2,0.2,0.2,0.2,-,0.1,0.2
+170,6.67,Georgi Dzhikiya Spartak Moscow,27, D(CL),27(1),2440,-,-,0.6,0.4,0.1,1.2,-,0.3,0.4
+171,6.67,Vladislav Ignatjev Lokomotiv Moscow,34, D(LR),11(5),965,3,-,0.9,0.4,0.2,1.3,-,1.1,0.9
+172,6.66,Ivan Maevski FC Rotor Volgograd,33, M(C),4(1),365,-,-,-,-,0.4,0.4,0.2,0.8,1.2
+173,6.66,Kirill Zaika PFC Sochi,29, M(LR),16(7),1556,1,3,1,0.7,0.3,1.4,-,0.6,1.1
+174,6.66,Egor Danilkin Khimki,26, D(C),28(1),2505,-,-,0.3,0.2,0.1,0.3,-,-,0.3
+175,6.66,Aleksandr Putsko FK Akhmat,28, D(C),13(4),1317,-,-,0.5,0.1,0.4,0.4,0.1,0.1,0.3
+176,6.66,Aleksey Ionov FC Rostov,32, AM(CLR),9,723,1,2,0.7,1.8,0.4,0.2,0.6,0.9,1.2
+177,6.66,Aleksey Sutormin Zenit,27, D(R),9(17),965,3,4,0.8,1,0.3,0.5,-,0.7,0.8
+178,6.66,Alexander Lomovitskiy Arsenal Tula,23, M(LR),17(1),1394,2,2,1.6,1,1.0,1.3,0.4,2.1,3.2
+179,6.65,Daniil Kulikov Lokomotiv Moscow,23, DMC,18(7),1675,-,2,0.4,0.9,0.2,0.6,-,0.3,1.1
+180,6.65,Nikolay Zolotov Ural,27, D(L),7(1),640,-,-,-,0.3,0.1,0.8,0.3,0.3,1.3
+181,6.65,Fedor Chalov CSKA Moscow,23, AM(CR),13(14),1227,7,4,2.2,0.8,0.5,0.5,-,0.6,1.9
+182,6.65,Alan Dzagoev CSKA Moscow,31, M(CLR),11(4),821,2,1,0.9,1.0,0.3,1.3,0.3,0.7,1.1
+183,6.65,Oleg Kozhemyakin FC Rotor Volgograd,26, D(CR),16(3),1443,-,1,0.4,0.2,0.2,0.3,-,0.3,0.5
+184,6.65,Oleg Shatov Rubin Kazan,31, M(CLR),17(4),1482,1,3,0.7,1.3,0.4,1.6,-,1.0,1.2
+185,6.64,Maksim Nenakhov FK Akhmat,22, D(R),26(1),2289,-,3,0.6,0.8,0.4,0.8,-,0.8,0.9
+186,6.64,Dmitri Zhivoglyadov Lokomotiv Moscow,27, D(CLR),19(5),1763,-,2,0.1,0.8,0.3,1.4,-,0.5,0.9
+187,6.64,Konstantin Tyukavin Dinamo Moscow,19, FW,6(9),713,3,3,2,1.0,0.3,0.9,0.3,0.4,1.3
+188,6.63,Evgeni Gapon Khimki,30, D(CL),5(1),435,-,-,0.2,0.7,0.5,1.2,-,0.3,0.3
+189,6.62,Danil Stepanov FC Rotor Volgograd,21, D(L),21(1),1917,1,1,0.6,0.4,0.7,2.1,-,0.5,1.5
+190,6.61,Aleksandr Erokhin Zenit,32, M(CLR),9(16),843,7,3,1.8,0.6,0.1,0.4,0.1,0.4,0.8
+191,6.61,Roman Eremenko FC Rostov,34, M(CLR),13(3),1041,1,1,1.6,1.2,0.4,0.6,0.1,0.5,0.8
+192,6.61,Aleksandr Selikhov Spartak Moscow,27, GK,1,90,-,-,-,-,-,-,-,-,-
+193,6.61,Valeriu Ciuperca FC Tambov,29, M(C),16,1337,2,-,0.9,0.9,0.8,2.4,0.1,1.8,0.9
+194,6.61,Aleksandr Saplinov FC Rostov,24, M(C),0(3),81,1,-,0.7,-,-,-,-,-,0.7
+195,6.61,Robert Bauer Arsenal Tula,26, D(CLR),22,1971,1,-,0.9,0.6,0.6,1.3,-,0.8,0.6
+196,6.61,Egor Baburin FC Rostov,28, GK,4,360,-,-,-,-,-,0.5,-,-,-
+197,6.61,Denis Terentjev FC Rostov,29, D(LR),12(3),976,-,1,0.7,0.9,0.3,0.2,-,0.7,1.2
+198,6.6,Evgeny Kharin FK Akhmat,26, M(LR),22(7),1700,3,1,0.7,0.6,0.4,0.9,0.1,1,1.6
+199,6.6,Guillermo Varela Dinamo Moscow,28, D(LR),15(2),1371,-,-,0.3,0.5,0.7,0.9,0.1,0.5,1.2
+200,6.6,Aleksandr Chernikov FC Krasnodar,21, DMC,0(1),45,-,-,2.0,-,-,1.0,-,-,1.0
+201,6.6,Wilker Ángel FK Akhmat,28, D(C),11(5),1010,1,1,0.3,0.1,-,0.8,0.1,0.1,0.2
+202,6.6,Clinton N'Jie Dinamo Moscow,28, AM(LR),15(8),1131,4,-,1.0,0.7,1.5,0.3,0.7,0.7,1.6
+203,6.6,Pavel Mamaev FC Rostov,33, M(CLR),7(6),641,2,1,1.5,1.3,0.3,0.5,0.1,0.5,1.0
+204,6.6,Aleksandr Kokorin Spartak Moscow,30, AM(CLR),4(4),365,2,1,0.8,0.9,0.3,1.1,0.3,0.5,0.3
+205,6.59,Pavel Pogrebnyak Ural,38, FW,16(2),1351,4,-,1.8,1.1,0.4,1.2,0.8,0.7,1.8
+206,6.59,Aleksey Gerasimov Ural,28, D(C),16(3),1457,-,-,0.2,0.1,0.1,0.2,-,0.1,0.1
+207,6.59,Ibrahim Tsallagov PFC Sochi,30, D(LR),24(2),2108,-,-,0.4,0.6,0.2,1.0,-,0.4,0.7
+208,6.59,Artem Polyarus Khimki,29, AM(LR),7(1),599,-,-,2.3,2.6,1,1.3,-,0.8,1.6
+209,6.59,Zuriko Davitashvili FC Rotor Volgograd,20, AM(CLR),19(1),1550,-,-,2.1,0.9,1.8,1.2,0.1,2.3,2.7
+210,6.58,Andrey Egorychev Ural,28, M(CLR),26,2119,2,-,1.0,0.4,1,0.8,0.1,0.7,2.0
+211,6.58,Haitam Aleesami FC Rostov,30, D(L),8(5),744,-,-,0.2,0.3,0.2,0.3,-,0.2,0.5
+212,6.58,Aleksey Ionov FC Krasnodar,32, AM(CLR),16(3),1457,4,3,0.7,0.9,0.3,0.4,0.7,0.2,1.3
+213,6.58,Aleksey Kozlov FC Rostov,34, D(R),20(4),1811,1,1,0.4,0.3,-,0.7,-,0.7,0.6
+214,6.57,Alexey Nikitin FC Ufa,29, D(CR),22(1),2012,-,-,0.4,0.1,-,0.7,-,0.1,0.2
+215,6.57,Vladimir Dyadyun Khimki,33, AM(CLR),12(3),967,-,1,1.7,0.8,0.3,0.9,0.5,1.4,2.8
+216,6.57,Ade FC Tambov,39, D(C),10(2),861,-,-,0.2,-,-,0.8,-,0.3,0.1
+217,6.57,Egor Sorokin FC Krasnodar,26, D(C),13(2),1172,-,-,0.2,0.1,0.1,0.3,-,-,0.1
+218,6.57,Pavel Maslov Spartak Moscow,21, D(C),24(1),2108,-,-,0.1,0.3,0.3,0.8,-,0.4,0.5
+219,6.57,Roman Neustädter Dinamo Moscow,33, D(C),10(6),1006,1,-,0.4,0.1,0.1,0.6,-,0.1,0.2
+220,6.57,Ivan Miladinovic PFC Sochi,27, D(C),18(6),1773,1,-,0.5,0.1,0.3,0.8,-,0.2,0.3
+221,6.57,Ivan Novoseltsev PFC Sochi,30, D(CLR),11(4),906,-,1,0.4,0.3,-,0.6,-,-,0.1
+222,6.57,Georgy Schennikov CSKA Moscow,30, D(L),20(2),1743,-,-,0.5,0.8,0.5,1.6,-,0.5,1.0
+223,6.57,Silvije Begic Rubin Kazan,28, D(C),15(3),1450,-,-,0.3,0.2,0.2,0.5,-,0.1,0.2
+224,6.57,Aleksandr Dolgov Khimki,23, Forward,2(4),195,1,1,0.7,0.5,0.7,0.8,0.2,0.7,1.3
+225,6.56,Ilya Zhigulev FC Rotor Volgograd,25, M(C),23(3),2061,-,-,0.8,1.1,0.3,2.2,-,1.2,1.7
+226,6.56,Sergey Parshivlyuk Dinamo Moscow,32, D(R),21(1),1760,-,1,0.3,0.9,0.3,0.7,0.1,0.4,0.5
+227,6.56,Aleksandr Troshechkin Khimki,25, DMC,22(2),1845,2,3,1.1,0.7,0.1,1.3,-,0.6,0.9
+228,6.56,Daniil Khlusevich Arsenal Tula,20, D(R),13(12),1243,3,3,0.7,0.6,0.8,0.7,0.2,0.9,0.9
+229,6.56,Timur Zhamaletdinov FC Ufa,24, FW,20(8),1765,4,1,1.8,0.7,0.4,0.9,0.7,1,1.5
+230,6.55,Vadim Karpov CSKA Moscow,19, D(C),10(2),825,-,1,0.3,0.1,0.2,0.3,-,-,0.6
+231,6.55,Mikhail Kerzhakov Zenit,34, GK,18,1582,-,-,-,-,0.1,-,-,-,-
+232,6.55,Jimmy Tabidze FC Ufa,25, D(C),22,1820,-,-,0.5,-,-,0.9,-,0.2,0.5
+233,6.55,François Kamano Lokomotiv Moscow,25, M(CLR),19(6),1380,5,1,1.4,0.6,0.6,1.2,0.3,1,1.4
+234,6.55,Mikhail Kostyukov Rubin Kazan,30, M(CLR),3(5),330,1,1,0.5,0.4,0.1,0.8,0.3,0.9,0.6
+235,6.54,Evgeni Chernov FC Krasnodar,29, D(L),14(4),1263,-,-,0.4,0.4,0.2,1.2,0.2,0.3,1
+236,6.54,Arshak Koryan Khimki,26, AM(R),9(5),718,4,1,1.1,0.9,0.4,0.9,0.1,0.8,1.4
+237,6.54,Dmitriy Poloz FC Rostov,30, AM(CLR),18(8),1641,6,3,1,0.6,0.6,0.5,0.1,0.7,1.1
+238,6.54,Evgeni Chernov FC Rostov,29, D(L),8(1),713,1,-,0.4,0.7,-,1,-,0.6,0.3
+239,6.53,Soltmurad Bakaev Rubin Kazan,22, AM(LR),16(12),1260,2,5,0.6,1,0.7,1.2,0.1,1.1,1.4
+240,6.53,Éder Lokomotiv Moscow,33, FW,12(8),1090,1,1,1.3,0.9,0.3,1.4,0.3,0.7,2.0
+241,6.53,Daniil Utkin FC Krasnodar,22, M(C),9(11),899,1,-,1.5,1.3,0.3,0.4,-,0.6,1.0
+242,6.53,Mohamed Konate Khimki,23, FW,15(11),1528,3,2,1.8,0.5,0.3,0.6,0.9,1.2,2.2
+243,6.53,Grigory Morozov FC Ufa,27, D(CLR),9(4),851,-,1,0.5,0.5,0.7,0.2,0.1,0.5,0.7
+244,6.52,Flamarion Junior FC Rotor Volgograd,25, AM(CR),18(2),1528,4,1,1.2,0.7,0.9,3.0,0.2,1.5,2.1
+245,6.52,Aleksey Gritsaenko FC Tambov,26, D(C),10,797,1,-,0.1,-,0.1,0.8,-,-,0.1
+246,6.52,Ilya Kutepov Spartak Moscow,28, D(C),10(6),851,-,-,0.4,0.4,0.1,0.3,-,0.1,0.4
+247,6.52,Anton Piskunov FC Rotor Volgograd,32, Defender,4,347,-,-,0.5,0.8,0.5,0.8,-,1,0.8
+248,6.52,Danila Sukhomlinov FC Rostov,19, Midfielder,0(3),103,-,-,0.7,-,1.3,2.0,-,0.7,0.7
+249,6.52,Ilya Martynov FC Tambov,21, D(C),5(1),430,-,-,-,-,-,1.0,-,-,0.5
+250,6.52,Ramazan Gadzhimuradov Ural,23, AM(R),6(5),595,2,-,1.3,-,1.5,2.3,0.1,0.8,2.1
+251,6.52,Khoren Bayramyan FC Rostov,29, D(LR),14(9),1288,3,1,1.0,0.6,0.7,1.0,0.1,0.9,1.3
+252,6.52,Vladislav Karapuzov FC Tambov,21, M(R),10,835,-,1,1.1,1.6,1.3,0.6,0.1,1.0,1.2
+253,6.51,Nikolay Kipiani FC Rotor Volgograd,24, AM(R),10(4),854,1,2,0.4,0.8,0.5,1.4,-,1.0,1.3
+254,6.51,Dmitri Efremov Ural,26, M(LR),5(5),490,-,2,0.5,0.5,0.7,1.1,-,0.9,1.0
+255,6.51,Daniil Krugovoy Zenit,23, D(L),5(14),590,-,2,0.3,0.4,0.5,0.5,0.1,0.3,0.3
+256,6.51,Arnór Sigurdsson CSKA Moscow,22, AM(CLR),10(13),892,2,3,1.3,1.2,0.4,0.9,0.2,0.9,0.7
+257,6.51,Danijel Miskic Ural,28, M(C),21(5),1760,-,1,0.7,0.5,0.2,0.7,0.1,0.2,0.7
+258,6.5,Goran Causic Arsenal Tula,29, M(C),21(1),1799,1,-,0.9,0.4,0.4,0.8,-,0.5,0.7
+259,6.5,Zé Luís Lokomotiv Moscow,30, FW,3(5),356,1,1,1.8,0.5,0.3,0.8,0.3,1.0,2.3
+260,6.5,Pontus Almqvist FC Rostov,22, AM(L),11(8),1010,1,1,1.0,0.5,0.8,1.3,0.1,0.8,2.1
+261,6.5,Oleg Aleinik FC Rotor Volgograd,32, DMC,20(3),1785,-,-,1.0,0.7,0.2,1.3,0.1,0.6,1.1
+262,6.5,Igor Smolnikov FC Krasnodar,33, D(LR),17(6),1359,-,1,0.3,0.5,0.3,0.7,0.1,0.2,0.9
+263,6.49,Guram Tetrashvili FC Tambov,33, D(R),10(2),862,-,-,0.6,0.3,0.3,1.2,0.1,0.3,1.1
+264,6.49,Branko Jovicic Ural,28, M(CL),19,1493,-,1,0.7,0.3,0.1,0.5,-,0.7,0.8
+265,6.49,Zelimkhan Bakaev Spartak Moscow,25, AM(CLR),13(10),984,1,5,1.0,1.0,0.7,0.8,-,0.7,1.1
+266,6.49,Solomon Kvirkvelia FC Rotor Volgograd,29, D(C),18(1),1625,-,-,0.3,0.1,-,0.4,-,-,0.2
+267,6.48,Pavel Mogilevets Khimki,28, DMC,7(6),663,1,1,0.3,0.8,0.3,0.2,-,1.2,1.8
+268,6.48,Aleksandr Dovbnya Arsenal Tula,25, D(C),11(2),996,-,-,0.3,0.2,0.2,0.4,-,0.1,0.2
+269,6.47,Danila Prokhin Zenit,20, D(C),1(4),147,-,-,0.2,0.2,-,0.4,-,-,0.4
+270,6.46,Artem Sokol Arsenal Tula,24, D(C),10(5),923,-,1,0.2,0.3,0.2,0.1,0.1,0.4,0.3
+271,6.46,Yuri Kovalev Arsenal Tula,28, M(LR),8(3),648,1,2,0.6,0.5,0.5,1.4,0.2,0.3,1.9
+272,6.46,Nikolai Rasskazov Arsenal Tula,23, D(CR),15(1),1239,-,-,0.2,0.4,0.6,0.3,0.1,0.6,0.9
+273,6.45,Pavel Karasev FC Tambov,29, DMC,15(4),1386,1,2,0.1,0.6,0.2,0.8,-,0.6,0.7
+274,6.45,Nikolay Poyarkov FC Rostov,22, D(L),12(5),1162,-,-,0.2,0.8,0.6,1.1,0.2,0.4,0.9
+275,6.45,Kirill Kravtsov Zenit,19, Midfielder,0(4),79,-,-,0.3,0.5,0.3,0.8,-,0.3,0.5
+276,6.45,Stanislav Magkeev Lokomotiv Moscow,22, D(C),12(12),1248,-,-,0.3,0.3,0.1,0.4,-,0.3,0.8
+277,6.45,Stanislav Agkatsev FC Krasnodar,19, Goalkeeper,2,180,-,-,-,-,-,0.5,-,-,0.5
+278,6.44,Evgeni Shlyakov FC Tambov,30, D(L),11(5),1097,-,-,0.1,0.6,0.3,1.4,0.2,0.8,0.9
+279,6.44,Maksim Belyaev Arsenal Tula,30, D(C),15(1),1381,-,-,0.3,0.1,0.1,0.5,-,-,0.1
+280,6.44,Marat Bystrov FK Akhmat,29, D(LR),15(7),1251,-,1,0.5,0.6,0.5,0.6,0.1,0.9,1
+281,6.44,Daniil Shamkin Zenit,19, Forward,0(3),39,-,1,0.7,0.3,-,-,-,0.3,-
+282,6.43,Nikolay Komlichenko Dinamo Moscow,26, FW,11(14),1084,4,-,1.1,0.5,0.2,1.3,0.3,0.8,1
+283,6.43,Aleksey Rybin FC Tambov,33, D(R),13,1039,-,1,0.2,0.9,0.1,0.8,0.2,0.4,0.4
+284,6.43,Anton Shvets FK Akhmat,28, D(C),14(7),1209,1,-,0.7,0.4,0.4,1,0.1,0.4,0.5
+285,6.43,Charles Kaboré Dinamo Moscow,33, M(C),9(10),868,-,-,0.3,0.2,0.1,1.2,-,0.4,0.4
+286,6.43,Georgy Makhatadze FC Rostov,23, M(C),8(2),482,1,-,0.8,0.2,0.2,0.4,-,0.5,1.6
+287,6.43,Vyacheslav Krotov FC Ufa,28, D(R),19(5),1426,2,-,1.1,0.9,0.5,0.8,0.1,0.9,1.6
+288,6.43,Aleksandr Denisov Arsenal Tula,32, D(C),1(1),59,-,-,-,-,-,-,-,-,-
+289,6.42,Aleksandr Pavlovets FC Rostov,25, Defender,2(3),233,-,-,-,0.2,-,0.4,-,-,-
+290,6.42,Aleksandr Zuev Rubin Kazan,25, D(LR),13(10),1105,-,-,0.4,0.5,0.2,0.6,-,0.6,0.4
+291,6.42,Eldor Shomurodov FC Rostov,26, FW,8,646,-,-,1.6,1,0.9,0.8,0.5,1.9,3
+292,6.42,Vyacheslav Podberezkin Ural,29, M(CLR),12(7),976,1,-,0.2,0.3,0.3,0.6,-,0.6,0.9
+293,6.42,Mihail Levashov Arsenal Tula,30, GK,3,270,-,-,-,-,-,-,-,-,-
+294,6.42,Shapi Suleymanov FC Krasnodar,21, AM(R),8(19),945,4,-,1.4,0.8,0.4,0.7,0.1,1.3,0.7
+295,6.41,Ionut Nedelcearu FC Ufa,25, D(C),9,810,-,1,0.2,0.3,0.2,0.6,-,0.2,0.1
+296,6.41,Kirill Panchenko FC Tambov,32, AM(CL),6(4),526,1,1,1.8,0.3,0.1,0.7,-,0.5,1.2
+297,6.41,Kirill Kombarov Arsenal Tula,34, D(R),3(1),203,-,-,0.8,0.3,-,0.5,-,-,0.5
+298,6.41,Leon Sabua FC Krasnodar,21, Midfielder,0(2),44,1,-,0.5,-,-,-,-,-,-
+299,6.41,Evans Kangwa Arsenal Tula,29, AM(CLR),19(6),1626,4,2,1,0.6,0.7,1.2,0.4,0.8,2.3
+300,6.41,Dmitri Rybchinskiy Lokomotiv Moscow,23, D(R),18(8),1478,2,2,0.6,0.8,0.4,0.4,-,0.7,1.5
+301,6.4,Arseni Logashov Khimki,30, D(CR),5(2),453,-,-,0.6,0.4,0.3,0.9,-,0.3,0.3
+302,6.4,Ivelin Popov FC Rostov,34, M(CLR),2,145,-,-,1.5,-,1,1,-,1.5,1.5
+303,6.4,Bojan Jokic FC Ufa,35, D(CL),23(1),1969,1,-,0.2,0.5,0.1,1,-,0.2,0.7
+304,6.4,Ilya Gaponov Spartak Moscow,24, D(C),3(8),402,-,-,0.3,0.1,0.2,0.2,-,-,0.3
+305,6.4,Sergei Makarov FC Rotor Volgograd,25, D(R),26,2240,-,2,0.3,0.5,0.2,0.5,-,0.3,0.5
+306,6.39,Danila Khotulev Zenit,19, Defender,1(3),111,-,-,0.3,-,-,-,-,-,-
+307,6.39,Evgeni Lutsenko Arsenal Tula,34, FW,14(5),1145,2,1,0.9,0.7,0.3,0.7,0.2,0.7,1.3
+308,6.38,Ilzat Akhmetov CSKA Moscow,23, M(CR),8(6),700,-,1,0.6,0.4,0.5,0.1,-,0.4,0.9
+309,6.38,Ilya Kamyshev Khimki,24, M(C),3(4),284,-,-,0.4,0.3,0.1,0.4,-,0.6,1.6
+310,6.38,Maximilian Philipp Dinamo Moscow,27, AM(CLR),4(3),393,1,-,1.3,0.9,0.3,0.7,0.3,0.4,1.4
+311,6.38,Sébastien Thill FC Tambov,27, DMC,2(5),321,-,1,0.9,1.1,0.3,0.4,0.1,-,1.3
+312,6.38,Kirill Bozhenov Khimki,20, D(R),26,2279,1,-,0.5,0.6,0.3,1.0,0.1,0.8,1.3
+313,6.38,Vitali Lisakovich Lokomotiv Moscow,23, FW,8(18),1018,2,4,1.2,0.5,0.3,0.5,0.2,0.8,1.3
+314,6.37,Vladislav Panteleev Arsenal Tula,25, AM(CR),11(8),910,1,2,0.9,0.7,0.1,0.5,0.1,0.3,0.9
+315,6.37,Artyom Arkhipov FC Tambov,24, FW,10(1),820,3,-,1.5,1.1,0.5,1.5,1.1,0.6,2.0
+316,6.36,Roman Tugarev FC Rostov,23, AM(R),7(9),704,1,-,1.1,0.4,0.5,0.8,0.1,0.4,1.6
+317,6.36,Maksim Glushenkov Khimki,22, FW,2(4),245,2,-,1.0,-,0.5,1.0,0.3,1,0.5
+318,6.36,Sly Dinamo Moscow,31, AM(CL),5(12),637,1,-,1.4,0.3,0.5,0.9,0.4,0.2,0.6
+319,6.36,Aleksandr Rudenko PFC Sochi,22, Forward,7(13),676,2,1,1.0,0.3,0.7,0.8,0.1,0.9,1.6
+320,6.36,Ari FC Krasnodar,35, AM(R),3(6),203,2,-,0.9,0.4,0.6,0.6,0.7,-,0.7
+321,6.36,Gia Grigalava Arsenal Tula,32, D(CL),18,1513,-,-,0.5,0.4,0.1,1.2,-,0.2,0.5
+322,6.36,Oston Urunov FC Ufa,20, AM(C),4(4),321,-,-,0.8,0.8,1.1,0.4,0.3,1.1,1.8
+323,6.36,Egor Shamov Arsenal Tula,27, GK,18(1),1624,-,-,-,0.1,-,0.2,-,-,-
+324,6.36,Mikhail Kostyukov FC Tambov,30, M(CLR),11(5),990,1,1,1.3,0.6,0.6,1.6,0.2,0.9,1.6
+325,6.35,Maksim Martusevich Khimki,26, Midfielder,4(2),393,-,-,0.3,0.8,1.2,1.8,-,0.2,1
+326,6.35,Dmitriy Chistyakov FC Rostov,27, D(C),1(1),91,-,-,-,-,-,-,-,-,-
+327,6.35,Marco Aratore Ural,30, AM(L),2,147,-,-,2,1.5,0.5,0.5,-,1.5,1
+328,6.35,Aleksandre Karapetian FC Tambov,33, FW,12(4),916,3,-,1.5,0.2,0.1,0.4,0.5,1.6,1.6
+329,6.35,George Melkadze FK Akhmat,24, AM(CL),12(7),1108,3,1,1.8,0.7,0.6,0.9,0.3,1.7,2.2
+330,6.34,Vitali Shakhov FC Tambov,30, D(C),9(3),728,-,-,0.1,-,0.2,0.4,-,-,0.2
+331,6.33,Armin Gigovic FC Rostov,19, M(C),9(8),916,1,-,1.2,0.5,0.2,0.6,-,0.5,1.2
+332,6.33,Taras Burlak Arsenal Tula,31, D(C),13(2),1147,-,-,0.5,0.1,0.1,0.3,-,-,0.1
+333,6.33,Rodion Syamuk FC Tambov,32, GK,5,450,-,-,-,-,-,0.2,-,-,-
+334,6.33,Kirill Klimov FC Tambov,20, Forward,5(6),474,1,-,0.6,0.5,1.1,0.8,-,0.8,1.7
+335,6.33,Ladislav Almási FK Akhmat,22, Forward,1(7),274,-,1,1.3,0.1,0.1,0.8,0.5,0.4,0.6
+336,6.32,Danil Lipovoy Dinamo Moscow,22, M(R),0(2),43,-,-,-,-,-,0.5,-,0.5,1.5
+337,6.32,Aleksandr Sukhov FC Ufa,35, D(LR),12(2),981,-,1,0.2,0.4,0.3,0.4,0.1,0.6,0.9
+338,6.32,Vladimir Obukhov FC Tambov,29, FW,6(3),510,-,-,1.4,1,0.2,1.3,0.3,0.6,1.3
+339,6.32,Nayair Tiknizyan CSKA Moscow,22, D(L),8(20),923,2,-,0.6,0.6,0.2,0.3,0.1,0.6,1
+340,6.32,Pavel Alikin FC Ufa,37, D(CL),7(3),656,1,-,0.2,0.1,-,0.3,-,-,0.1
+341,6.31,Azer Aliev FC Tambov,27, D(L),8(2),779,1,1,0.7,0.7,0.6,0.5,0.2,0.5,1.3
+342,6.31,Nikita Chicherin FC Tambov,31, D(CR),8(2),771,-,-,0.2,0.2,0.2,0.1,-,0.3,0.4
+343,6.3,Ilya Shkurin CSKA Moscow,22, FW,3(6),361,3,-,1.0,0.8,0.1,0.2,0.9,0.9,1.0
+344,6.3,Kristijan Bistrovic CSKA Moscow,23, DMC,1(13),228,2,-,0.6,0.3,0.2,-,-,-,0.3
+345,6.3,Mikhail Tikhonov Khimki,23, Defender,2(3),241,-,-,0.4,0.4,0.2,-,-,-,0.8
+346,6.3,Elmir Nabiullin PFC Sochi,26, D(L),7(9),700,-,1,0.4,0.4,0.1,0.6,0.1,0.2,0.8
+347,6.29,Gabriel Iancu FK Akhmat,27, Forward,2(4),177,-,-,1.7,-,0.3,0.2,-,0.7,0.7
+348,6.29,Maksim Glushenkov Spartak Moscow,22, FW,1(4),87,-,-,1.4,0.6,0.4,-,-,0.2,0.2
+349,6.28,Kirill Folmer FC Ufa,21, Midfielder,6(7),520,-,-,0.4,0.8,0.3,0.5,0.2,0.2,0.9
+350,6.28,Leon Musaev Rubin Kazan,22, DMC,5(5),293,-,-,0.4,0.1,0.3,0.6,-,0.2,0.2
+351,6.28,Oleg Ivanov FK Akhmat,35, M(C),3(10),415,-,1,0.4,0.2,0.3,0.5,-,0.6,0.4
+352,6.28,Aleksandr Denisov FC Tambov,32, D(C),10,828,-,-,0.2,-,-,0.3,-,0.1,0.3
+353,6.28,Maksim Barsov PFC Sochi,28, Forward,0(4),50,1,-,0.3,0.3,-,-,0.3,-,0.5
+354,6.28,Nicholas Lawrence Anwan FC Tambov,20, Midfielder,1(1),95,-,-,0.5,-,1,3,-,2.5,3.0
+355,6.27,Evgeni Pesegov FC Rotor Volgograd,32, DMC,15(9),1315,-,-,0.1,0.4,0.1,0.9,-,0.4,0.4
+356,6.27,Yuri Bavin FC Tambov,27, M(C),10,893,-,-,0.9,0.3,0.4,1.3,-,1.2,1.9
+357,6.27,Yuri Bavin Ural,27, M(C),3(4),301,-,-,0.1,0.6,0.4,1,-,1.4,0.9
+358,6.27,Senin Sebai Khimki,27, FW,5(3),373,-,1,0.9,0.6,0.5,0.9,0.6,0.6,1.5
+359,6.27,Igor Konovalov Arsenal Tula,25, DMC,3(6),424,-,-,-,0.2,0.1,0.4,-,0.2,0.3
+360,6.26,Varazdat Haroyan FC Tambov,29, D(C),8,693,-,-,0.4,-,0.4,0.5,-,-,0.8
+361,6.26,Kirill Panchenko Arsenal Tula,32, AM(CL),10(6),897,2,-,2.7,0.4,0.3,0.5,0.2,0.6,1.2
+362,6.26,Lechii Sadulaev FK Akhmat,21, Midfielder,2(16),372,1,-,0.3,0.3,0.4,1,0.1,0.4,1.2
+363,6.26,Dmitriy Stotskiy FC Krasnodar,31, D(LR),3(3),281,1,-,0.3,0.2,-,0.2,-,0.3,0.2
+364,6.26,Eduard Spertsyan FC Krasnodar,21, AM(C),2(3),140,-,-,-,0.4,-,-,-,1,-
+365,6.25,Aleksey Evseev Ural,27, AM(L),2(16),529,1,-,0.8,0.2,0.2,0.4,0.1,0.2,0.4
+366,6.25,Kamil Mullin FC Rotor Volgograd,27, FW,16(9),1535,3,-,1.1,0.6,0.3,0.4,0.2,0.8,1.4
+367,6.25,Islambek Kuat Khimki,28, DMC,5(1),358,-,-,0.2,0.5,0.2,0.3,-,0.3,0.5
+368,6.25,Catalin Carp FC Ufa,28, DMC,9(3),763,-,-,0.6,0.2,-,0.9,-,0.4,0.2
+369,6.25,Azat Bayryev FC Rotor Volgograd,32, D(C),12(4),1048,-,-,-,0.2,0.1,0.1,-,-,0.1
+370,6.24,Zaurbek Pliev Dinamo Moscow,30, D(CL),1(6),220,-,-,0.3,0.1,-,0.3,0.1,0.1,-
+371,6.24,Bruno Fuchs CSKA Moscow,22, D(C),0(1),12,-,-,-,-,-,-,-,-,-
+372,6.24,Evgeni Markov FC Krasnodar,27, FW,2(5),213,-,1,0.6,0.1,0.1,0.3,0.6,0.4,1.1
+373,6.24,Danil Prutsev PFC Sochi,21, M(C),4(16),587,-,-,0.1,0.6,0.3,0.5,0.1,0.5,0.4
+374,6.23,Andrés Ponce FC Rotor Volgograd,25, FW,11(3),996,2,-,1.4,0.5,0.1,0.8,0.4,1.1,1.6
+375,6.23,Artur Sokhiev FC Rostov,19, Forward,0(3),53,-,1,0.3,0.3,-,-,0.7,-,0.7
+376,6.23,Lovro Bizjak FC Ufa,28, FW,3(4),277,1,1,0.9,0.7,0.3,0.1,1.1,0.7,1.4
+377,6.23,Nikolay Giorgobiani FC Ufa,24, Midfielder,0(4),105,-,-,0.3,0.8,0.8,0.5,0.3,0.8,0.5
+378,6.23,Catalin Carp FC Tambov,28, DMC,8(1),603,-,-,1.3,0.2,0.2,1.7,-,1.1,0.9
+379,6.22,Anatoliy Nemchenko PFC Sochi,21, Midfielder,0(2),26,-,-,0.5,-,-,0.5,-,-,1.5
+380,6.22,Vladimir Kabakhidze FC Tambov,22, M(C),10(6),831,-,1,0.3,0.3,0.6,1.4,-,0.6,1.1
+381,6.22,Vladislav Karapuzov Dinamo Moscow,21, M(R),0(5),128,-,-,0.4,0.2,0.6,0.2,-,0.6,0.4
+382,6.22,Artem Shabolin Ural,21, Midfielder,0(9),85,1,-,0.1,0.1,0.3,0.2,0.2,0.2,0.3
+383,6.22,Andrey Eshchenko Spartak Moscow,37, D(LR),0(15),185,-,-,-,0.2,0.1,0.1,-,0.3,0.1
+384,6.22,Anton Terekhov Dinamo Moscow,23, AM(CR),2(5),146,-,-,1,0.3,-,0.4,-,0.4,0.1
+385,6.21,Andrei Panyukov Ural,27, FW,8(8),725,1,-,0.9,0.3,0.1,0.9,0.6,0.3,1.3
+386,6.2,Armen Manucharyan FC Rotor Volgograd,26, Defender,4(3),304,-,-,0.3,0.3,0.4,0.4,-,-,0.6
+387,6.2,Sergey Slepov Dinamo Moscow,22, Defender,2(2),177,-,-,0.5,-,-,0.5,-,-,0.3
+388,6.2,Patricio Matricardi FC Rotor Volgograd,27, D(C),2,176,-,-,0.5,-,-,-,-,-,-
+389,6.2,Nikita Medvedev Rubin Kazan,26, GK,4,360,-,-,-,-,0.3,0.3,-,-,-
+390,6.2,Azer Aliev FC Ufa,27, D(L),11(3),1001,1,-,0.6,0.8,0.1,0.5,0.1,0.7,0.9
+391,6.2,Jorrit Hendrix Spartak Moscow,26, D(C),1(9),213,-,-,0.4,0.2,0.3,0.4,-,0.2,0.4
+392,6.2,Valeri Gromyko Arsenal Tula,24, Midfielder,4(12),568,-,1,0.6,0.4,0.1,0.8,0.1,0.3,0.7
+393,6.19,Artem Golubev FC Ufa,22, M(C),13(13),1266,1,-,0.4,0.2,-,0.7,0.1,0.3,0.9
+394,6.19,Denis Kaykov FC Tambov,24, D(C),9,792,1,-,0.4,-,0.1,0.7,-,0.1,0.2
+395,6.18,Kamran Aliev Khimki,23, Forward,4(7),432,1,-,0.6,0.5,0.4,0.5,0.1,0.8,1.4
+396,6.18,Sergey Serchenkov FC Rotor Volgograd,24, AM(R),4(12),491,1,1,0.8,0.4,0.1,0.7,0.1,0.6,0.7
+397,6.18,Mikhail Merkulov Rubin Kazan,27, D(L),8(1),631,-,-,0.6,0.4,0.2,0.8,-,0.4,0.8
+398,6.18,Ambroise Oyongo FC Krasnodar,30, D(LR),0(1),13,-,-,-,-,-,1.0,-,-,-
+399,6.18,Adolfo Gaich CSKA Moscow,22, FW,2(11),302,-,1,0.6,0.6,-,0.1,0.2,0.2,0.7
+400,6.18,Dmitri Sysuev FC Ufa,33, AM(C),3(19),575,-,2,0.4,0.3,0.1,0.7,0.2,0.3,0.5
+401,6.18,Ruslan Kambolov FC Krasnodar,31, D(C),1(9),143,-,1,0.4,0.3,-,0.5,-,-,0.2
+402,6.18,Kirill Folmer FC Rostov,21, Midfielder,1(5),116,-,-,1,0.5,0.2,0.3,0.2,0.3,0.5
+403,6.17,Nikita Kalugin PFC Sochi,23, D(CR),0(1),13,-,-,-,-,-,-,-,-,-
+404,6.17,Giorgi Shelia FK Akhmat,32, GK,16,1440,-,-,-,-,-,0.3,-,-,-
+405,6.17,Roman Emeljanov Ural,29, D(C),4(7),485,-,-,0.5,0.1,0.4,0.8,-,0.4,0.3
+406,6.17,Luka Djordjevic Arsenal Tula,27, FW,10(4),847,2,-,1.1,0.6,0.3,1.6,0.4,1.3,1.6
+407,6.17,Zuriko Davitashvili Rubin Kazan,20, AM(CLR),1(1),76,-,-,1,-,-,0.5,-,0.5,-
+408,6.16,Leon Musaev Zenit,22, DMC,0(3),50,-,-,0.3,-,-,-,-,-,0.7
+409,6.16,Emiliano Rigoni Zenit,28, M(CLR),1(6),156,-,-,0.4,0.3,-,0.3,-,-,0.7
+410,6.16,Konstantin Rausch Dinamo Moscow,31, D(L),0(4),36,1,-,0.3,0.5,-,-,-,-,-
+411,6.16,Roman Minaev FC Tambov,23, Forward,2(4),199,-,-,0.3,0.3,0.5,0.8,-,1,1.3
+412,6.16,Sergey Chibisov Zenit,21, Defender,0(1),12,-,-,-,1,-,-,-,-,-
+413,6.16,Vyacheslav Litvinov FC Krasnodar,20, Defender,1(1),159,-,-,-,-,-,-,-,0.5,0.5
+414,6.16,Ivan Ignatjev Rubin Kazan,22, FW,8(9),688,2,2,1.4,0.5,0.1,0.5,0.1,0.6,1.1
+415,6.15,Mukhammad Sultanov FC Rotor Volgograd,28, Midfielder,3(2),254,-,-,1,0.4,-,0.8,0.2,0.8,1.8
+416,6.15,Dmitriy Poloz PFC Sochi,30, AM(CLR),3,182,1,-,1.7,1.3,-,-,0.3,1,1.3
+417,6.15,Igor Konovalov Rubin Kazan,25, DMC,2(4),195,-,-,0.2,0.5,0.2,0.3,-,0.2,-
+418,6.15,Artur Nigmatullin Arsenal Tula,30, GK,9,806,-,-,-,-,-,0.1,-,-,-
+419,6.15,Jaka Bijol CSKA Moscow,22, D(C),0(5),61,-,-,-,-,-,-,-,-,0.2
+420,6.15,Dmitriy Tarasov Rubin Kazan,34, DMC,1(6),146,-,-,-,0.3,-,0.1,-,0.1,0.1
+421,6.14,Anton Terekhov FC Tambov,23, AM(CR),5(6),496,-,-,0.8,0.1,0.5,0.7,-,0.5,1.5
+422,6.14,Aleksandr Golovnya FC Tambov,23, Defender,0(1),17,-,-,-,1,-,-,-,-,-
+423,6.14,Andrei Murnin Khimki,36, Midfielder,2(2),168,-,-,-,0.3,-,1,-,-,0.3
+424,6.14,Igor Bezdenezhnykh FC Ufa,25, DMC,4(4),400,-,-,1.4,0.4,0.3,0.8,0.1,0.1,0.9
+425,6.14,Vladislav Yakovlev CSKA Moscow,19, Forward,0(2),15,-,-,0.5,0.5,-,-,-,-,-
+426,6.13,Slobodan Rajkovic Lokomotiv Moscow,32, D(C),4(1),309,-,-,0.6,0.2,0.2,-,-,0.2,0.4
+427,6.13,Maksim Turishchev FC Rostov,19, Forward,0(1),1,-,-,-,-,-,-,-,-,-
+428,6.13,Nikita Belousov FC Ufa,19, Midfielder,0(2),19,-,-,-,-,0.5,-,-,0.5,-
+429,6.13,Vladimir Moskvichev Dinamo Moscow,21, Midfielder,0(2),8,-,-,-,-,-,-,-,-,-
+430,6.12,Vladimir Medved FC Rotor Volgograd,22, Midfielder,0(3),38,-,-,-,0.3,0.7,0.7,-,0.3,0.3
+431,6.12,Idris Umaev FK Akhmat,22, Forward,2(2),107,-,-,0.8,0.5,0.3,0.3,-,-,0.5
+432,6.12,Aleks Matsukatov FC Krasnodar,22, Midfielder,0(6),66,-,-,0.2,0.2,0.5,0.5,-,0.5,1.2
+433,6.11,Danila Emelyanov FC Ufa,21, Midfielder,1(2),92,-,-,-,-,-,0.7,0.7,-,-
+434,6.11,Olivier Thill FC Ufa,24, AM(CR),1(5),236,-,-,0.8,1.5,0.2,0.8,0.2,1.7,1
+435,6.11,Andrey Bokovoy PFC Sochi,21, Midfielder,0(2),35,-,-,-,-,-,-,0.5,0.5,0.5
+436,6.11,Arseni Logashov FC Rostov,30, D(CR),0(4),49,-,-,-,-,-,0.3,-,-,0.3
+437,6.1,Andrés Ponce FK Akhmat,25, FW,5(4),377,-,-,0.9,0.6,0.2,0.6,0.6,0.3,1.7
+438,6.1,Alvi Adilkhanov FK Akhmat,18, Midfielder,0(1),6,-,-,-,-,-,-,-,-,-
+439,6.1,Ivan Kuzmichev Ural,21, D(C),0(1),9,-,-,-,-,-,-,-,-,-
+440,6.1,Nikita Karmaev FK Akhmat,21, Defender,0(5),89,-,-,0.2,-,-,0.2,-,0.2,-
+441,6.1,Maksim Volodko FC Tambov,29, D(L),4,316,-,-,-,0.3,0.3,0.5,-,0.3,0.8
+442,6.1,Farkhod Vasiev FC Tambov,31, D(L),7(2),604,-,1,0.2,0.3,-,0.3,-,0.2,0.2
+443,6.1,Vitaliy Balashov FC Tambov,30, Forward,2(4),145,-,-,0.3,0.2,-,0.7,-,0.5,0.3
+444,6.09,Amir Adouyev FK Akhmat,22, Midfielder,0(8),153,-,-,0.5,-,0.1,0.3,-,0.3,0.6
+445,6.09,Danil Lipovoy Khimki,22, M(R),1(7),173,-,-,0.3,0.1,0.4,0.5,-,0.5,0.8
+446,6.09,Aleksey Chernov FC Ufa,23, GK,1,90,-,-,-,-,-,-,-,-,1
+447,6.09,David Karaev Ural,26, Forward,1(5),151,-,-,0.3,0.2,0.5,0.5,0.5,0.5,0.8
+448,6.09,Anton Kilin FC Tambov,31, D(LR),7(6),779,-,-,0.5,0.5,0.2,0.9,-,0.5,0.6
+449,6.08,Kirill Kolesnichenko FC Rotor Volgograd,21, M(L),1(1),78,-,-,1,0.5,0.5,0.5,-,-,0.5
+450,6.08,Oleg Nikolaev FC Rotor Volgograd,23, Midfielder,1(3),114,-,-,0.3,0.3,-,0.3,-,0.8,1
+451,6.08,Said Akhmaev FC Tambov,25, Midfielder,0(4),68,-,-,0.3,-,-,0.5,-,-,0.5
+452,6.08,Ruslan Litvinov Spartak Moscow,20, M(C),0(6),33,-,-,-,-,-,-,-,-,0.2
+453,6.07,Islam Alsultanov FK Akhmat,20, Forward,0(8),124,-,-,0.1,-,0.1,0.1,0.1,0.4,0.6
+454,6.07,Gela Zaseev Khimki,28, Midfielder,0(1),6,-,-,-,-,-,-,-,-,-
+455,6.07,Grigory Morozov Dinamo Moscow,27, D(CLR),0(3),25,-,-,-,0.3,-,-,-,-,0.7
+456,6.07,Kirill Klimov Rubin Kazan,20, Forward,0(3),31,-,-,0.7,-,0.3,0.3,-,0.7,0.7
+457,6.07,Saba Sazonov Zenit,19, Defender,0(1),14,-,-,-,-,-,-,-,-,-
+458,6.07,Marko Dugandzic PFC Sochi,27, FW,4(10),330,1,-,0.7,-,0.1,0.3,0.3,0.5,0.6
+459,6.07,Vladimir Obukhov FC Rostov,29, FW,2(8),235,-,-,0.4,0.4,-,0.7,-,0.3,0.7
+460,6.06,Aleksandr Dolgov FC Rostov,23, Forward,0(5),31,-,-,0.2,-,0.2,-,-,-,0.2
+461,6.06,Erik Vardanyan PFC Sochi,23, Forward,0(1),5,-,-,-,-,-,-,-,1,-
+462,6.06,Mohammed Rabiu Al-Hassan FC Tambov,31, M(C),1(1),38,-,-,-,-,-,-,-,-,-
+463,6.05,Mikhail Ignatov Spartak Moscow,21, AM(C),0(2),11,-,-,-,-,-,-,-,-,-
+464,6.05,Ylldren Ibrahimaj Ural,25, Forward,3(3),234,-,-,-,0.2,-,-,0.2,-,0.8
+465,6.05,Guram Adzhoev Arsenal Tula,26, Forward,0(5),26,-,-,-,0.2,-,0.2,-,0.2,0.4
+466,6.05,Beka Mikeltadze FC Rotor Volgograd,23, Forward,1(11),285,-,-,0.4,0.2,0.3,0.3,-,0.3,1
+467,6.05,Khalid Kadyrov FK Akhmat,27, Midfielder,0(5),59,-,-,0.2,-,-,0.2,-,0.4,0.4
+468,6.05,Maksim Kutovoi FC Krasnodar,20, Forward,1(6),123,-,-,0.3,0.6,-,0.1,-,0.7,0.6
+469,6.04,Artem Maksimenko Ural,23, Forward,1(2),75,-,-,-,0.3,-,0.3,0.3,1,0.7
+470,6.04,Guus Til Spartak Moscow,23, AM(C),0(3),14,-,-,-,-,-,0.3,-,-,0.3
+471,6.04,Akmal Bakhtiyarov PFC Sochi,23, Midfielder,0(1),7,-,-,-,-,-,1,-,-,2
+472,6.04,Dmitri Markitesov Spartak Moscow,20, Midfielder,0(6),28,-,-,0.2,-,0.2,-,-,-,0.3
+473,6.04,Ilya Pomazun CSKA Moscow,25, GK,2,180,-,-,-,-,-,-,-,-,-
+474,6.03,Ivelin Popov PFC Sochi,34, M(CLR),0(1),27,-,-,-,-,-,1,-,-,-
+475,6.03,Rizvan Utsiev FK Akhmat,33, D(R),0(1),7,-,-,-,-,-,-,-,-,-
+476,6.02,Oston Urunov Spartak Moscow,20, AM(C),1(7),148,-,-,0.1,0.1,0.4,0.5,-,1.1,0.6
+477,6.02,Igor Gorbatenko Arsenal Tula,32, M(CLR),4(10),533,-,-,0.3,0.2,0.3,0.1,0.1,0.9,0.8
+478,6.02,Zurab Gigashvili FC Tambov,19, D(C),5(3),479,-,-,0.1,-,-,0.1,-,0.1,0.3
+479,6.01,Andrés Vombergar FC Ufa,26, FW,1(2),137,-,-,1,-,-,1,0.7,0.7,1.7
+480,6.01,Nikolay Titkov Lokomotiv Moscow,21, Midfielder,0(4),8,-,-,-,-,-,-,-,0.3,-
+481,6.0,Aleksandr Gapechkin FC Rostov,19, Defender,0(1),1,-,1,-,1,-,-,-,-,-
+482,6.0,Denis Terentjev Zenit,29, D(LR),0(1),1,-,-,-,-,-,-,-,-,-
+483,6.0,Kirill Dontsov FC Rotor Volgograd,19, Defender,0(1),1,-,-,-,-,-,-,-,-,-
+484,6.0,Mikhail Ageev Lokomotiv Moscow,21, Forward,0(1),1,-,-,-,-,-,-,-,-,-
+485,6.0,Reziuan Mirzov Spartak Moscow,28, AM(CL),0(1),2,-,-,-,-,-,-,-,-,-
+486,6.0,Parfait Bizoza FC Ufa,22, Midfielder,3(4),201,-,-,0.1,-,0.1,0.1,-,0.3,0.1
+487,5.99,Tigran Avanesyan FC Tambov,19, Midfielder,0(3),40,-,-,-,0.3,-,0.3,-,-,0.3
+488,5.99,Igor Shkolnik Dinamo Moscow,20, Midfielder,0(4),25,-,-,-,-,-,-,-,-,0.3
+489,5.99,Konstantin Kovalev FC Rostov,21, Defender,0(1),3,-,-,-,-,-,-,-,-,-
+490,5.99,Roman Minaev Arsenal Tula,23, Forward,0(4),39,-,-,-,-,-,0.3,-,0.8,-
+491,5.99,Evgeniy Tatarinov Ural,22, Forward,0(3),16,-,-,0.3,-,-,-,-,0.3,-
+492,5.99,Nikita Drozdov FC Tambov,29, Midfielder,2(7),298,-,-,0.1,0.1,-,-,-,-,0.3
+493,5.99,Akhmed Alibekov FC Ufa,23, Midfielder,2,164,-,-,-,-,-,1.5,-,1.5,2
+494,5.98,Aleksandr Saplinov FC Rotor Volgograd,24, M(C),0(1),5,-,-,-,-,-,1,-,-,-
+495,5.98,Stanislav Krapukhin Zenit,23, Forward,0(3),16,-,-,0.3,-,-,-,-,-,0.7
+496,5.97,Lameck Banda Arsenal Tula,20, Midfielder,0(2),36,-,-,-,-,-,0.5,-,1,2
+497,5.97,Aleksandr Smirnov FC Rostov,25, Defender,0(1),19,-,-,-,-,-,-,-,-,-
+498,5.97,Kirill Kosarev Rubin Kazan,20, Forward,0(3),57,-,-,0.7,0.3,-,-,0.7,0.3,0.3
+499,5.96,Giorgi Arabidze FC Rotor Volgograd,23, Forward,0(4),39,-,-,0.3,-,0.3,-,-,-,0.3
+500,5.96,Gamid Agalarov FC Ufa,21, FW,1(4),109,-,-,0.2,-,-,1.6,-,0.2,0.4
+501,5.95,Moris Nusuev FC Tambov,24, Defender,0(2),34,-,-,-,-,-,-,-,-,-
+502,5.94,Anri Khagush Arsenal Tula,35, D(LR),2(3),157,-,-,0.4,-,-,0.6,-,-,1.2
+503,5.94,Chingiz Magomadov Ural,23, Defender,0(2),69,-,-,-,-,-,1,-,0.5,-
+504,5.94,David Tosevski FC Rostov,20, Forward,0(6),32,-,-,0.2,-,-,0.3,-,0.3,0.3
+505,5.93,Mikalay Signevich Khimki,29, FW,0(2),72,-,-,1,-,-,0.5,-,2,1.5
+506,5.92,Ilya Vorobjov Khimki,22, Forward,0(3),23,-,-,0.3,-,-,-,-,1,-
+507,5.91,Nikita Iosifov Lokomotiv Moscow,20, Midfielder,0(4),25,-,-,-,-,-,-,-,-,0.5
+508,5.89,Nikita Chagrov FC Tambov,26, Goalkeeper,1,90,-,-,-,-,-,-,-,-,-
+509,5.89,Pavel Mogilevets Rubin Kazan,28, DMC,0(1),8,-,-,-,-,-,-,-,-,1
+510,5.89,Evgeni Chabanov FC Tambov,24, Forward,0(3),44,-,-,0.3,-,-,-,-,0.7,0.3
+511,5.89,Dmitri German FC Tambov,33, Midfielder,3(3),295,-,-,0.2,0.3,0.3,0.3,-,0.3,0.3
+512,5.89,Aleksandr Yerkin FC Tambov,32, Forward,0(2),35,-,-,-,-,0.5,0.5,-,-,0.5
+513,5.88,Abubakar Kadyrov FK Akhmat,25, Forward,0(1),4,-,-,-,-,-,-,-,-,-
+514,5.88,Egor Prutsev PFC Sochi,18, Midfielder,0(1),12,-,-,-,-,-,-,-,-,-
+515,5.87,Stepan Oganesyan Spartak Moscow,20, Midfielder,0(1),10,-,-,-,-,-,-,-,-,1
+516,5.85,Arsen Adamov FK Akhmat,22, D(CLR),0(3),14,-,-,-,-,0.3,0.3,-,-,-
+517,5.85,Mikhail Lysov Lokomotiv Moscow,23, D(L),1,75,-,-,1,-,-,1,-,-,-
+518,5.82,Nikolay Zlobin Arsenal Tula,25, Defender,0(1),16,-,-,-,-,-,2,-,-,1
+519,5.76,Dmitri Vershkov FC Rotor Volgograd,19, Defender,0(1),22,-,-,-,-,-,-,-,-,-
+520,5.71,Danil Kazantsev Khimki,20, Midfielder,2(1),128,-,-,-,-,-,0.3,-,0.3,-
+521,5.61,Ivan Konovalov Ural,27, GK,1,90,-,-,-,1,-,-,-,-,-
+522,5.17,Maksim Rudakov FC Rostov,25, Goalkeeper,1,90,-,-,-,-,-,-,-,-,-

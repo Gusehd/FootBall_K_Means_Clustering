@@ -1,0 +1,669 @@
+﻿,name,age,position1,position2,Apps,Mins,Tackles,Inter,Fouls,Offsides,Clear,Drb,Blocks,OwnG,Rating
+0,Alex Bono Toronto,27, GK,,2,180,-,-,-,-,2.5,-,-,-,8.36
+1,Ike Opara Minnesota United,32, D(C),,2,180,1,4,3,-,4.5,1,1,-,8.0
+2,Ifunanyachi Achara Toronto,24, AM(L),,1,90,2,-,1,-,1,1,-,-,7.68
+3,Alan Pulido Kansas City,30, FW,,8(1),695,0.8,0.2,0.8,-,0.1,0.2,-,-,7.61
+4,Carlos Vela Los Angeles FC,32, M(CLR),FW,4(3),423,0.7,0.3,0.4,-,0.3,0.4,-,-,7.52
+5,Alejandro Pozuelo Toronto,30, M(CR),FW,20,1759,1,0.5,1.2,-,0.3,0.7,-,-,7.52
+6,Raúl Ruidíaz Seattle,31, FW,,14,1159,0.2,0.3,0.7,-,-,0.4,-,-,7.5
+7,Cristian Pavón L.A. Galaxy,25, AM(LR),FW,18,1620,1.2,0.8,0.9,-,0.1,1.6,-,-,7.49
+8,Emanuel Reynoso Minnesota United,26, AM(CL),,9(4),828,1.5,0.8,1.8,-,-,1.2,-,-,7.46
+9,Lewis Morgan Inter Miami CF,25, M(CR),,20,1694,1.1,0.9,0.5,-,0.4,0.5,-,-,7.44
+10,Kevin Molino Minnesota United,31, AM(CLR),,13(3),1132,1.3,0.8,1,-,0.3,0.6,-,-,7.44
+11,Johnny Russell Kansas City,31, AM(LR),FW,15(3),1375,1.2,0.8,0.6,-,0.5,1,0.1,-,7.44
+12,Franko Kovacevic FC Cincinnati,22, Forward,,1,90,1,-,-,-,1,-,-,-,7.42
+13,Nicolás Lodeiro Seattle,32, M(CLR),FW,16,1422,0.9,0.8,0.8,-,0.2,1.7,-,-,7.41
+14,Kacper Przybylko Philadelphia,28, FW,,20,1706,0.8,0.3,0.6,-,1.5,1,0.2,-,7.37
+15,Brad Knighton New England,36, GK,,1,90,-,-,-,-,-,-,-,-,7.36
+16,José Martínez Philadelphia,27, DMC,,12,1006,2.2,1.7,2.2,-,1.1,1.7,0.4,-,7.35
+17,Donovan Pines DC United,23, D(C),,15(1),1353,2.9,2.8,0.8,0.6,5.6,0.4,0.8,-,7.34
+18,Younes Namli Colorado,27, M(CLR),,13(1),1020,0.9,0.8,0.9,-,0.4,1.1,0.2,-,7.32
+19,Alberth Elis Houston,25, AM(LR),FW,2(2),203,1,0.3,1.5,-,0.5,0.3,-,-,7.32
+20,Pablo Piatti Toronto,32, M(CLR),,13(1),1132,1.9,0.5,1.9,-,0.4,3,-,-,7.32
+21,Diego Rossi Los Angeles FC,23, AM(CLR),FW,16,1428,0.6,0.2,0.1,-,0.3,0.6,0.1,-,7.31
+22,Robin Lod Minnesota United,28, AM(CLR),FW,15(2),1342,1.8,0.8,0.7,0.1,0.4,0.9,0.1,-,7.3
+23,Diego Valeri Portland,35, AM(CLR),FW,16(3),1441,1.2,0.3,0.4,0.1,0.7,1.6,0.2,-,7.3
+24,João Paulo Seattle,30, M(C),,16(2),1412,2.8,1.6,1.6,-,0.8,2.2,0.2,-,7.3
+25,Pedro Santos Columbus,33, D(L),M(CLR),20,1715,2.3,0.9,1.4,-,0.7,1.2,0.1,-,7.29
+26,José Cifuentes Los Angeles FC,22, AM(C),,13(2),1107,2.8,0.9,1.5,-,0.4,1.3,0.1,-,7.29
+27,Darwin Quintero Houston,34, AM(CL),FW,17(2),1455,1.2,0.3,0.5,-,0.2,1.2,0.1,-,7.25
+28,Phelipe FC Dallas,22, GK,,1,90,-,-,-,-,4.0,-,-,-,7.24
+29,Jamiro Monteiro Philadelphia,27, M(C),,19,1681,1.9,0.9,1.7,-,0.1,1.8,-,-,7.23
+30,Hwang In-Beom Vancouver,25, M(C),,2,180,3.0,2.5,0.5,-,0.5,1.5,-,-,7.21
+31,Jordan Morris Seattle,27, AM(LR),FW,15(3),1434,0.6,0.4,0.3,-,0.3,0.5,0.2,-,7.2
+32,Aleksandar Katai L.A. Galaxy,30, AM(CLR),,2,117,4.0,0.5,2.5,-,0.5,-,1,-,7.2
+33,Andreu Fontàs Kansas City,32, D(C),DMC,3,270,1.0,1.3,-,0.7,3.7,0.7,-,-,7.19
+34,Nani Orlando City,35, M(CLR),FW,13(3),1156,0.8,0.6,0.8,-,0.3,0.9,0.1,-,7.18
+35,Romell Quioto Montreal,30, AM(L),FW,15(1),1285,0.3,0.3,0.8,0.1,0.3,0.1,0.1,-,7.17
+36,Kyle Duncan New York,24, D(LR),M(R),18(2),1638,2.1,2.1,1.2,0.2,1.8,0.8,0.3,-,7.17
+37,Mark McKenzie Philadelphia,22, D(C),,19,1710,1.6,2.0,0.8,0.4,4.6,0.4,0.8,-,7.16
+38,Cristian Roldan Seattle,26, M(CR),,17(1),1530,1.8,0.9,0.9,-,1.2,0.7,0.2,-,7.15
+39,Brian Rodríguez Los Angeles FC,21, AM(LR),FW,15(1),1177,0.4,0.4,0.8,-,0.1,0.9,-,-,7.15
+40,Vito Wormgoor Columbus,33, D(C),,1,90,-,4,2,-,-,-,1,-,7.14
+41,Alexandru Mitrita New York City FC,26, AM(CL),,7(3),599,0.6,0.1,0.6,-,-,0.7,-,-,7.14
+42,Maxime Chanot New York City FC,31, D(C),,18,1533,2.1,1.9,0.9,0.7,4.8,0.2,0.8,-,7.13
+43,Andrés Ricaurte FC Dallas,30, M(C),,13(1),1112,1.9,0.7,1.1,-,0.6,1.6,0.4,-,7.13
+44,Bryan Meredith Vancouver,32, Goalkeeper,,3,270,-,-,-,-,1,-,-,-,7.13
+45,Cole Bassett Colorado,20, M(C),,11(1),922,0.8,0.2,0.8,0.1,0.9,0.6,0.2,-,7.13
+46,Yéimar Gómez Seattle,29, D(C),,16,1396,1.8,2.8,0.9,0.5,3.7,0.4,0.4,-,7.12
+47,Pity Martínez Atlanta United,28, AM(CLR),,4,328,0.5,0.3,1.8,-,0.3,1,-,-,7.12
+48,Walker Zimmerman Nashville SC,28, D(C),,22,1955,1,1.7,0.8,0.4,5.2,0.3,0.8,-,7.11
+49,Bojan Montreal,31, AM(CLR),FW,12(2),992,0.4,0.4,0.2,-,0.2,0.4,-,-,7.11
+50,Lucas Zelarayán Columbus,29, AM(C),FW,10(3),894,1.0,0.3,1.2,-,-,0.9,0.1,-,7.1
+51,Gastón Giménez Chicago,30, D(C),DMC,14(1),1287,2.7,2.5,1.2,-,1.1,1.5,0.1,-,7.1
+52,Ryan Hollingshead FC Dallas,30, D(LR),M(LR),19(1),1731,2.2,2.1,1.2,0.1,1.9,1.1,0.6,-,7.09
+53,Thiago Santos FC Dallas,32, DMC,,19(1),1624,3.0,1.1,2.1,-,1.9,1.7,0.4,-,7.09
+54,Alejandro Bedoya Philadelphia,34, M(CR),FW,18,1569,2.1,1.6,1.4,-,0.9,0.9,0.4,-,7.08
+55,Chris Mueller Orlando City,25, AM(LR),,14(5),1227,1.1,0.4,0.6,-,0.4,0.5,0.1,-,7.08
+56,João Moutinho Orlando City,23, D(L),M(L),5,415,1.6,1.4,1.2,-,1.6,0.8,0.2,-,7.08
+57,Daryl Dike Orlando City,21, FW,,15(2),1223,0.6,0.1,1.5,0.1,1,0.3,0.1,-,7.07
+58,Artur Columbus,25, M(C),,18(1),1632,3.5,1.3,2.1,-,0.9,1.2,0.3,-,7.07
+59,Ján Gregus Minnesota United,30, M(C),,15,1329,1.7,1.9,0.8,-,0.5,0.8,0.1,-,7.06
+60,Maximiliano Moralez New York City FC,34, AM(CLR),FW,9(2),788,1.1,0.7,0.9,-,0.2,2.0,-,-,7.06
+61,Sergio Santos Philadelphia,27, FW,,15(4),1114,1.0,0.4,1.5,-,0.9,0.4,-,-,7.06
+62,Brenden Aaronson Philadelphia,21, AM(CL),,20,1653,1.5,0.4,0.8,-,0.3,1.3,0.2,-,7.05
+63,Marcelino Moreno Atlanta United,27, AM(CLR),,5(1),465,1.3,-,0.7,-,-,0.8,-,-,7.05
+64,Rodolfo Pizarro Inter Miami CF,27, AM(CL),,15(1),1366,0.9,0.4,0.8,-,0.1,0.8,-,-,7.05
+65,Alexander Ring New York City FC,30, D(C),M(CLR),20,1746,2.4,1.9,1.9,0.1,0.9,2.0,0.3,-,7.05
+66,Djordje Mihailovic Chicago,23, M(CL),,14(4),1132,1.2,1.4,0.6,-,0.3,0.6,0.3,-,7.04
+67,Andre Shinyashiki Colorado,24, AM(CLR),FW,12(2),960,1.4,0.4,1.3,-,0.5,1.1,0.1,-,7.04
+68,Hany Mukhtar Nashville SC,26, AM(C),FW,13(2),1096,1.4,0.5,0.9,-,0.2,0.9,-,-,7.04
+69,Jakob Glesnes Philadelphia,27, D(C),,16,1380,0.9,2,0.8,0.8,4.9,0.5,0.5,-,7.04
+70,Gyasi Zardes Columbus,30, M(LR),FW,17(1),1486,0.6,0.2,1.1,-,1.2,0.3,0.1,-,7.04
+71,Jasser Khmiri Vancouver,24, D(C),,2,180,0.5,2.5,0.5,-,6.0,-,1.5,-,7.04
+72,Nick Hagglund FC Cincinnati,29, D(CR),,8(2),743,1.3,2.2,1.3,0.3,3.6,0.2,0.6,-,7.03
+73,Damir Kreilach Salt Lake,32, M(C),FW,17(1),1524,1,0.4,1.6,0.1,0.9,0.9,0.1,-,7.03
+74,Ali Adnan Vancouver,27, D(L),M(L),17(2),1517,1.8,1.7,0.9,0.2,2.5,1.3,0.3,-,7.03
+75,Joevin Jones Seattle,30, D(L),M(LR),10(2),797,0.7,0.5,0.6,0.2,0.7,0.2,0.2,-,7.03
+76,Sebastian Lletget L.A. Galaxy,29, M(CLR),,15(2),1334,0.9,0.7,0.9,-,1.0,0.6,0.2,-,7.02
+77,Jimmy Maurer FC Dallas,33, GK,,16,1392,-,0.1,-,-,0.8,-,-,-,7.02
+78,Cristian Cásseres Jr New York,21, M(CR),,11(5),1111,2.9,1.8,1.4,-,0.6,1.6,0.1,-,7.01
+79,Aníbal Godoy Nashville SC,31, DMC,,18(2),1495,1.8,2.0,1.6,-,0.8,0.8,0.2,-,7.01
+80,Jesús Medina New York City FC,24, AM(CR),FW,16(3),1317,1.1,0.3,1.2,0.1,0.3,1.3,-,-,7.0
+81,Anton Tinnerholm New York City FC,30, D(LR),M(R),19(1),1732,1.9,0.8,1.2,0.2,0.9,1.1,0.1,-,7.0
+82,Kai Wagner Philadelphia,24, D(L),,11,916,1.5,1.0,1.2,0.2,0.9,0.7,0.6,-,7.0
+83,Fredy Montero Vancouver,34, AM(C),FW,11(5),1061,1.6,0.3,1.4,-,0.3,0.7,-,-,7.0
+84,Randall Leal Nashville SC,24, AM(CLR),,19(2),1616,1.1,1.0,1.5,-,0.3,0.9,-,-,7.0
+85,Diego Chara Portland,35, DMC,,17,1529,2.1,1.5,2.4,0.1,0.9,0.9,0.4,-,7.0
+86,Harrison Afful Columbus,35, D(R),M(R),18(1),1615,1.8,2.8,1.4,0.2,2.1,0.4,0.2,-,6.99
+87,Ronald Matarrita New York City FC,27, D(L),M(L),16(2),1381,2.9,1.9,1.6,0.3,0.9,0.8,0.2,-,6.99
+88,Gustavo Bou New England,31, AM(C),FW,12(3),1120,0.6,0.5,0.5,-,-,0.6,-,-,6.98
+89,Eduard Atuesta Los Angeles FC,24, DMC,,11(3),1058,1.9,1.8,1.2,0.1,0.7,1.7,-,2,6.98
+90,Lalas Abubakar Colorado,26, D(C),,14,1245,1.4,1.5,1.3,0.3,4.4,0.4,1.5,1,6.98
+91,Mauricio Pereyra Orlando City,31, M(CLR),,11(2),858,1.0,0.6,1.1,-,0.3,1.5,-,-,6.98
+92,Daniel Lovitz Nashville SC,30, D(L),M(LR),21,1890,2.0,1.3,1.3,-,2.2,0.8,0.4,-,6.97
+93,Maynor Figueroa Houston,38, D(CL),M(L),17,1530,2.4,2.2,1.5,0.4,3.4,0.6,1,-,6.96
+94,Latif Blessing Los Angeles FC,24, D(R),M(CLR),15(3),1453,2.4,1.6,1.7,-,0.8,1.0,0.2,-,6.96
+95,José Aja Minnesota United,28, D(C),,9(1),802,1.7,1.7,1.8,0.5,4.9,0.9,0.7,-,6.96
+96,Ilie Sánchez Kansas City,30, D(C),DMC,10(2),990,1.6,1.8,0.7,-,0.8,1.3,0.1,-,6.96
+97,Robert Beric Chicago,30, FW,,19(1),1662,0.6,0.4,1.6,-,0.4,0.8,0.1,-,6.96
+98,Xavier Arreaga Seattle,27, D(C),,9(1),814,1.9,1.9,1.1,0.4,2.7,0.8,0.1,-,6.95
+99,Romain Métanire Minnesota United,31, D(R),,17,1516,1.9,1.6,1.1,0.5,1.4,0.8,0.2,-,6.95
+100,Keegan Rosenberry Colorado,27, D(CR),M(R),14(1),1181,1.1,2.2,0.9,0.1,2.2,0.5,0.5,-,6.95
+101,Gadi Kinda Kansas City,27, AM(C),FW,14(1),1215,1.2,0.5,1.8,-,0.1,0.9,0.1,-,6.95
+102,Darlington Nagbe Columbus,31, M(CLR),,11(1),975,1.1,0.8,1.1,0.2,0.7,0.8,0.5,-,6.95
+103,Diego Rubio Colorado,28, AM(C),FW,10(3),871,0.6,0.2,1.1,-,1.3,0.4,0.2,-,6.94
+104,Victor Wanyama Montreal,30, DMC,,18,1620,1.8,1.6,1.7,0.1,1.6,0.9,0.2,-,6.94
+105,Jaylin Lindsey Kansas City,21, D(LR),,11(1),1059,1.9,1.6,0.6,0.3,2.2,0.3,0.3,1,6.94
+106,Aaron Herrera Salt Lake,24, D(CLR),M(R),17,1526,2.5,1.7,1.3,0.1,1.2,0.5,0.5,1,6.94
+107,Jesús David Murillo Los Angeles FC,27, D(C),,5,406,1.6,2.2,1.0,1.6,3.8,1.4,0.4,-,6.94
+108,Francisco Calvo Chicago,29, D(CL),,19,1656,1.6,3.6,1.4,0.8,4.5,0.7,1.0,-,6.94
+109,Teal Bunbury New England,31, AM(LR),FW,18(1),1389,0.8,1.0,1.1,0.1,0.4,0.8,0.2,-,6.93
+110,James Sands New York City FC,21, D(C),DMC,13,1161,2.2,2.1,2.2,0.2,2.2,0.8,0.5,-,6.93
+111,Hassani Dotson Minnesota United,24, D(LR),M(CL),10(5),1008,2.3,1.6,1.4,-,1.1,0.7,0.5,-,6.93
+112,Álvaro Medrán Chicago,27, M(C),,20,1742,1.4,1.1,1.5,-,0.5,1,0.3,-,6.92
+113,Fabian Herbers Chicago,28, AM(CR),FW,16(2),1163,1.6,0.7,1.1,0.1,0.5,0.8,0.1,-,6.92
+114,Gianluca Busio Kansas City,19, M(C),,14(2),1200,2.3,1.1,1.2,-,0.4,1.1,0.1,-,6.92
+115,Florian Valot New York,28, M(CLR),,14(6),1310,1.9,1.7,0.4,-,0.5,1.3,0.1,-,6.92
+116,Jack Price Colorado,28, DMC,,12(2),1155,1.2,1.4,0.7,-,1.2,1.3,0.1,-,6.91
+117,Kei Kamara Colorado,37, AM(LR),FW,3(3),325,-,0.3,0.7,-,0.8,-,0.3,-,6.91
+118,Bakaye Dibassy Minnesota United,32, D(CL),,10(1),859,0.9,2.0,0.7,0.4,3.4,0.3,0.7,-,6.91
+119,Khiry Shelton Kansas City,28, AM(LR),FW,14(3),1185,1,0.5,0.8,-,0.7,0.4,0.1,-,6.91
+120,Albert Rusnák Salt Lake,27, AM(CLR),FW,13(1),1180,0.7,0.2,0.5,-,-,0.5,-,-,6.9
+121,Yimmi Chara Portland,30, AM(CLR),,11(7),1096,0.9,0.6,0.3,-,0.1,0.4,-,-,6.9
+122,Olivier Mbaizo Philadelphia,24, D(R),,12(2),1057,2.1,1.8,1.6,-,1,0.5,0.1,-,6.9
+123,Cristian Espinoza San Jose,26, AM(LR),,19(1),1567,0.7,0.6,0.8,-,0.3,0.9,-,-,6.9
+124,Pablo Ruiz Salt Lake,22, DMC,,14(2),1214,2.8,1.5,1.1,-,0.5,1.7,0.1,-,6.9
+125,Eryk Williamson Portland,24, DMC,,15(3),1240,1.3,1.8,1.2,-,0.8,0.8,0.3,-,6.9
+126,Felipe Mora Portland,28, FW,,13(6),1206,0.6,0.3,0.4,-,0.6,0.4,-,-,6.89
+127,Dayne St. Clair Minnesota United,24, GK,,13,1170,0.1,0.2,-,-,0.8,-,-,-,6.89
+128,Sebastián Blanco Portland,33, AM(CLR),,5(1),396,0.2,1.0,0.5,-,-,1,-,-,6.88
+129,Julian Araujo L.A. Galaxy,20, D(R),M(R),14,1101,2.2,1.6,2.3,0.1,1.4,0.8,0.4,-,6.87
+130,Sean Davis New York,28, M(CR),,10(1),816,1.9,1.8,1.3,-,0.7,0.7,0.7,-,6.87
+131,Eddie Segura Los Angeles FC,24, D(C),,18(1),1616,1.8,2.2,0.8,0.7,3.1,1.1,0.5,-,6.87
+132,Nick Lima San Jose,27, D(LR),,16(1),1298,0.8,1.8,0.9,0.1,1.7,0.6,0.3,-,6.87
+133,Saphir Taïder Montreal,29, M(CL),,8,685,1,0.1,1,-,0.6,0.6,-,-,6.87
+134,Reggie Cannon FC Dallas,23, D(R),M(R),5,450,1,0.6,0.8,0.2,1.4,0.2,-,-,6.86
+135,Antônio Carlos Orlando City,28, D(C),,15(2),1364,0.8,2.1,0.6,0.2,4.9,0.3,0.7,-,6.86
+136,Sean Johnson New York City FC,32, GK,,20,1800,-,-,-,-,0.5,0.1,-,-,6.86
+137,Aaron Long New York,29, D(C),,12(1),1060,0.8,1.8,1.1,1,3.8,0.3,0.9,-,6.86
+138,Henry Kessler New England,23, D(C),,18(1),1665,1.4,1.6,0.7,1,3.9,0.2,0.3,-,6.86
+139,Kamal Miller Orlando City,24, D(CL),,9(3),806,1.4,2.3,0.9,0.3,2.2,0.9,0.2,-,6.86
+140,Alexander Büttner New England,32, D(L),M(L),13(2),1082,1.4,1.8,0.7,0.2,1.5,1,0.1,-,6.86
+141,Brian Rowe Orlando City,33, GK,,4,360,-,-,-,-,0.3,-,-,-,6.86
+142,James Pantemis Montreal,24, GK,,3,270,-,-,-,-,1.0,-,-,-,6.85
+143,Bryan Reynolds FC Dallas,20, D(R),,14(3),1267,1.6,0.5,1.2,-,1.6,0.4,0.5,-,6.85
+144,Keaton Parks New York City FC,24, DMC,,19(1),1646,2.4,0.7,1.2,0.1,1.3,1.1,0.1,-,6.85
+145,Ezequiel Barco Atlanta United,22, AM(CLR),FW,9(3),848,0.8,0.2,0.6,-,0.1,0.5,-,-,6.85
+146,Mohamed El-Munir Los Angeles FC,29, D(L),M(L),4(5),524,2.2,1.7,1.4,0.4,0.9,1.2,0.1,-,6.85
+147,Valentín Castellanos New York City FC,23, AM(R),FW,11(8),1076,0.7,0.1,2.5,0.1,0.4,0.6,-,-,6.85
+148,Dax McCarty Nashville SC,34, DMC,,19(2),1679,1.8,1.6,1.2,-,1.4,1,0.2,-,6.85
+149,Matt Hedges FC Dallas,31, D(C),,18(1),1539,1.5,1.4,0.5,0.2,4.6,0.5,1.2,-,6.85
+150,Jonathan Osorio Toronto,29, M(CLR),,17,1409,1.6,0.9,0.2,0.1,1.1,0.8,0.1,-,6.85
+151,Jonathan Mensah Columbus,31, D(CR),,20,1800,0.5,1.6,1.1,0.5,4.5,0.5,1.4,-,6.84
+152,Michael Boxall Minnesota United,33, D(C),,16,1440,1.6,1.9,1.3,0.9,4.5,0.5,1,1,6.83
+153,Bill Tuiloma Portland,26, D(C),,7(2),632,0.7,1.6,0.8,0.2,2.8,0.3,0.7,-,6.82
+154,Franco Escobar Atlanta United,26, D(CR),,13,1126,2.6,1.8,1.3,0.4,1.2,1.2,0.5,-,6.82
+155,Wilfried Zahibo New England,28, DMC,,1(1),135,4.0,1.5,3.5,-,1.0,-,0.5,-,6.82
+156,Richie Laryea Toronto,26, D(LR),M(R),13(4),1178,1.5,0.6,0.6,0.3,1.2,0.8,0.2,-,6.82
+157,Matt Turner New England,27, GK,,19,1710,0.1,0.1,-,-,0.5,-,-,-,6.82
+158,Kaku New York,26, AM(CLR),,10(3),900,0.8,0.3,0.5,-,0.1,0.7,-,-,6.82
+159,Edison Flores DC United,27, AM(CLR),FW,9(2),748,1.2,0.8,0.7,-,0.1,0.6,-,-,6.81
+160,Chris Mavinga Toronto,30, D(CL),,14(2),1276,1.3,1.6,0.5,0.8,2.8,0.4,0.5,1,6.81
+161,Clément Diop Montreal,28, GK,,17,1530,0.1,0.1,-,-,0.8,0.1,-,-,6.81
+162,Alexander Callens New York City FC,29, D(C),,19,1666,1.2,1.5,1.2,1.3,3.2,0.4,0.6,-,6.8
+163,Steve Clark Portland,35, GK,,17,1530,0.1,-,-,-,0.9,0.1,-,-,6.8
+164,Frédéric Brillant DC United,36, D(C),,15(1),1413,1.8,1.4,0.8,0.4,5.5,0.8,1.2,-,6.8
+165,Mark-Anthony Kaye Los Angeles FC,26, M(C),,12(1),856,1.5,0.5,0.8,-,0.5,1.4,0.3,-,6.8
+166,Julio Cascante Portland,28, D(C),,4(1),405,0.8,0.6,1,1,3.6,0.4,0.4,-,6.8
+167,Magnus Eriksson San Jose,31, AM(CR),,2,180,2.0,-,1.5,-,1.5,1.0,-,-,6.8
+168,Júnior Urso Orlando City,32, M(CR),,17(3),1538,1.7,0.8,1.3,0.1,0.7,1.2,0.2,-,6.8
+169,Zdenek Ondrasek FC Dallas,32, FW,,4(1),312,0.6,0.4,1,-,0.6,0.4,-,-,6.79
+170,Chase Gasper Minnesota United,25, D(L),,13(2),1221,1.6,1.3,1.1,0.1,2.3,0.7,0.5,-,6.79
+171,Auston Trusty Colorado,23, D(C),,5(2),498,1.3,1.3,0.9,0.7,2.7,0.9,0.3,-,6.79
+172,Maximiliano Urruti Montreal,30, AM(C),FW,7(5),685,1.3,0.3,0.6,-,0.3,0.9,-,-,6.79
+173,George Bello Atlanta United,19, D(L),M(L),17(1),1507,2.6,0.9,0.6,0.3,0.5,0.6,0.2,-,6.79
+174,Jorge Villafaña Portland,32, D(L),M(L),15(1),1369,2.1,0.9,0.6,0.2,1.9,0.9,0.6,-,6.79
+175,Joe Willis Nashville SC,33, GK,,23,2070,-,0.1,-,-,0.8,-,-,-,6.78
+176,Gustav Svensson Seattle,34, D(C),DMC,7(1),611,1.9,1.6,1.4,-,1.1,1.9,0.1,-,6.78
+177,Raymon Gaddis Philadelphia,31, D(LR),,12,1002,2.4,1.4,0.7,-,1.3,1.3,0.1,-,6.78
+178,Haris Medunjanin FC Cincinnati,36, M(C),,16(2),1486,1.3,0.8,0.6,-,0.7,0.7,0.1,-,6.78
+179,Nouhou Tolo Seattle,24, D(CL),,12(6),1066,1.9,1.3,0.9,0.1,1.9,0.5,0.1,1,6.78
+180,Tyler Miller Minnesota United,28, GK,,2,180,-,-,-,-,0.5,-,-,-,6.78
+181,Fafà Picault FC Dallas,30, AM(LR),FW,11(7),1040,1.4,0.3,0.3,-,0.2,0.4,0.2,-,6.77
+182,DeJuan Jones New England,24, D(LR),,12(4),1037,1.5,1.4,0.8,0.1,1,0.9,0.2,-,6.77
+183,Amadou Dia Kansas City,28, D(L),,9(1),823,2,2.2,1,0.4,2.1,0.8,-,-,6.77
+184,Reto Ziegler FC Dallas,35, D(CL),M(L),17(2),1529,0.7,0.9,0.4,0.3,3.6,0.2,0.9,-,6.76
+185,Brooks Lennon Atlanta United,24, D(R),M(R),16(4),1483,1.1,0.8,1.5,0.1,2,1.1,0.2,-,6.76
+186,Daniel Royer New York,31, AM(CLR),FW,12(5),1105,0.5,0.3,0.5,-,0.5,0.6,0.1,-,6.76
+187,Matthew Freese Philadelphia,23, GK,,1,90,-,-,-,-,-,-,-,-,6.76
+188,Kelvin Leerdam Seattle,31, D(CLR),DMC,15(2),1241,1.1,1,0.6,-,1.8,0.5,0.4,-,6.76
+189,Danny Wilson Colorado,29, D(C),DMC,8,681,1.6,1.4,1.3,0.6,3.8,0.8,1,-,6.76
+190,Sam Vines Colorado,22, D(L),,15,1350,1.1,1.3,0.5,0.1,0.9,0.5,0.3,-,6.76
+191,Tom Pettersson FC Cincinnati,31, D(C),DMC,11(1),944,1.3,2.3,1.7,0.2,2.9,0.2,0.5,-,6.76
+192,Jeremy Ebobisse Portland,24, AM(LR),FW,9(6),881,0.4,0.3,0.5,-,0.7,0.7,0.1,-,6.76
+193,Brandon Bye New England,25, D(LR),,15(4),1366,0.8,1.3,0.7,0.1,2.3,0.3,0.2,-,6.76
+194,Mauricio Pineda Chicago,24, D(C),DMC,20,1785,1.4,1.6,1.1,0.7,2.9,0.6,0.5,-,6.76
+195,Alistair Johnston Nashville SC,23, D(R),M(R),15(3),1366,2.2,1,1.3,0.2,1.7,0.7,0.4,-,6.75
+196,Adam Buksa New England,25, FW,,13(7),1247,0.5,0.2,1.6,-,0.5,0.6,-,-,6.75
+197,Auro Toronto,25, D(LR),M(CR),14(1),1232,1.6,1.3,1.0,0.1,1.3,0.9,-,-,6.75
+198,Justin Meram Salt Lake,32, M(CLR),FW,12(6),1018,1.4,-,0.7,-,0.3,1.3,-,-,6.75
+199,Oriol Rosell Orlando City,29, DMC,,5,340,3.4,1.6,1.8,-,0.8,1.6,0.2,-,6.75
+200,Winston Reid Kansas City,33, D(C),,8(2),728,1.1,1.5,1.1,0.6,3.6,-,0.2,-,6.75
+201,Memo Rodríguez Houston,25, AM(CLR),,17(1),1399,1.2,0.5,1.2,-,0.4,1.1,-,-,6.75
+202,Ignacio Aliseda Chicago,21, AM(CL),FW,15(3),1342,0.5,0.6,0.6,-,0.3,0.4,-,-,6.75
+203,Julian Gressel DC United,27, D(R),M(CR),16(3),1483,1.2,1.3,0.5,-,0.8,1.4,0.2,-,6.75
+204,Eloy Room Columbus,32, GK,,15,1331,-,-,-,-,0.5,-,-,-,6.74
+205,Bradley Wright-Phillips Los Angeles FC,36, FW,,11(4),885,0.5,0.1,0.7,-,0.7,0.4,0.1,-,6.74
+206,Marcos López San Jose,21, D(L),,11(2),990,1.2,1,1,0.1,1.5,0.9,0.7,1,6.74
+207,Jacori Hayes Minnesota United,26, M(C),,6(5),602,1.1,1.3,0.6,-,0.4,0.3,0.2,-,6.74
+208,Emiliano Insúa L.A. Galaxy,32, D(CL),M(L),18,1557,2.4,1.3,0.6,0.2,1.5,1.1,0.3,-,6.74
+209,Steven Birnbaum DC United,30, D(C),,7,630,0.4,2.1,1.3,-,5.1,0.4,0.9,-,6.73
+210,Graham Zusi Kansas City,35, D(R),M(CLR),11(1),954,2,1,0.9,0.2,1.4,1,0.2,-,6.73
+211,Maikel Chang Salt Lake,30, AM(LR),,12(5),1074,1.1,0.9,0.4,-,0.5,0.9,-,-,6.73
+212,Lee Nguyen New England,35, M(CLR),FW,8(4),722,0.5,0.4,1.2,-,-,1.3,0.3,-,6.73
+213,Roger Espinoza Kansas City,35, M(CL),,9(4),714,1.5,0.9,1.3,-,0.4,0.9,-,-,6.73
+214,Rod Fanni Montreal,39, D(CR),,8(1),724,1,2.3,0.4,0.3,3.2,-,1.2,-,6.73
+215,Brent Kallman Minnesota United,31, D(C),,3(1),271,1,2,0.3,0.8,3.8,0.3,0.8,-,6.73
+216,Víctor Cabrera Houston,28, D(C),,7,561,1.9,2.9,0.9,0.6,3.7,1.4,1,1,6.72
+217,Ethan Finlay Minnesota United,31, AM(R),,9(2),721,1.5,0.4,1.3,-,0.4,0.7,-,-,6.72
+218,Larrys Mabiala Portland,34, D(C),,13(2),1132,1.3,1.6,1.1,0.4,4.7,0.3,0.5,-,6.72
+219,Pedro Gallese Orlando City,31, GK,,16,1440,-,-,-,-,0.7,0.1,-,-,6.71
+220,Bressan FC Dallas,28, D(CR),,11(7),1167,1.1,1.9,0.5,-,2.8,0.6,0.4,-,6.71
+221,Gonzalo Higuaín Inter Miami CF,33, FW,,9,804,0.9,-,0.7,-,0.6,0.4,-,-,6.71
+222,Jacob Akanyirige San Jose,19, Defender,,1,69,1.0,4,-,-,1.0,-,-,-,6.71
+223,Roberto Puncec Kansas City,30, D(C),,15(2),1405,1.1,1.3,1.5,0.6,3.2,0.5,0.5,-,6.71
+224,Jaroslaw Niezgoda Portland,26, FW,,6(8),515,0.4,0.2,0.1,-,0.1,0.2,-,-,6.71
+225,Jon Gallagher Atlanta United,25, AM(L),FW,11(4),937,0.6,0.4,0.7,-,0.2,0.3,0.1,-,6.7
+226,Marcelo Silva Salt Lake,32, D(C),,13,1129,1.0,1.5,1.3,0.7,4.2,0.4,0.5,-,6.7
+227,Diego Palacios Los Angeles FC,22, D(L),M(L),12(1),1017,2.6,2.2,1.1,0.1,1.8,1.2,0.1,-,6.7
+228,Justen Glad Salt Lake,24, D(CR),,11(3),1014,1.9,1.4,1.9,0.6,3.0,1,0.6,-,6.7
+229,Sean Nealis New York,24, D(C),,5(1),453,1.0,1.8,1.2,0.3,3.2,0.2,0.5,-,6.7
+230,Tim Melia Kansas City,35, GK,,18,1620,-,-,0.1,-,0.9,0.1,-,-,6.69
+231,Aljaz Ivacic Portland,27, GK,,2,180,-,-,-,-,1.0,-,-,-,6.69
+232,Yamil Asad DC United,27, AM(CL),,16(4),1391,2.1,0.8,0.8,-,0.1,1.3,0.3,-,6.69
+233,Franco Jara FC Dallas,33, FW,,16(3),1389,0.8,0.1,1.4,-,0.1,0.6,0.2,-,6.69
+234,Dave Romney Nashville SC,28, D(CLR),,23,2070,0.3,0.9,0.4,0.3,4.5,0.2,0.8,-,6.69
+235,Luis Martins Kansas City,29, D(L),,6(2),527,1.3,1,0.9,-,1.1,0.1,-,-,6.69
+236,Milton Valenzuela Columbus,23, D(L),,16(2),1404,1.8,0.9,0.9,0.1,1.4,1.1,0.4,-,6.68
+237,Darwin Cerén Houston,31, M(C),,18(1),1511,1.9,1.7,1.3,-,0.6,0.9,0.3,-,6.68
+238,Andre Blake Philadelphia,30, GK,,18,1619,0.1,-,0.1,-,1.2,-,-,-,6.68
+239,Frankie Amaya FC Cincinnati,21, M(C),,18,1470,2.8,1.2,1.6,0.1,0.7,1.3,0.3,-,6.68
+240,Josef Martínez Atlanta United,28, AM(L),FW,1,69,-,-,3.0,-,1,-,-,-,6.68
+241,Tony Gallacher Toronto,22, D(L),,5(4),465,1.2,1.6,0.1,-,1.4,0.4,0.4,-,6.68
+242,Kyle Smith Orlando City,29, D(LR),,11(5),1026,1.9,0.7,1.6,0.1,2.1,1.3,0.3,-,6.68
+243,Fernando Meza Atlanta United,31, D(C),,10,856,0.5,1.5,1.1,0.7,3.2,0.1,0.5,-,6.68
+244,Kei Kamara Minnesota United,37, AM(LR),FW,6(1),457,0.1,0.1,0.4,-,1.1,0.1,0.1,-,6.67
+245,Donny Toia Salt Lake,29, D(LR),,16(1),1404,2.1,2.3,1.4,0.2,1.6,0.9,0.2,-,6.67
+246,Andrés Flores Portland,31, M(CR),,3(1),189,0.5,0.5,0.5,-,-,0.8,0.3,-,6.67
+247,Adam Lundqvist Houston,27, D(LR),M(L),18,1559,2.4,1.7,1.1,0.1,2,1.5,0.1,-,6.67
+248,Jhonder Cádiz Nashville SC,26, FW,,0(7),219,0.6,-,1.0,-,0.3,0.1,-,-,6.67
+249,Anthony Fontana Philadelphia,22, AM(C),,5(10),469,1.1,0.1,1.0,-,-,0.7,-,-,6.67
+250,Miles Robinson Atlanta United,24, D(C),,13(1),1124,1.1,1.1,1.1,0.4,2.9,0.4,0.8,-,6.67
+251,Marco Delgado Toronto,26, D(LR),M(CR),15(1),1226,1.6,1.7,1,0.1,0.6,0.9,0.3,-,6.67
+252,Stefan Frei Seattle,35, GK,,18,1620,-,-,-,-,0.6,-,-,-,6.67
+253,Thomas Hasal Vancouver,22, GK,,7,630,-,-,0.1,-,1,-,-,-,6.66
+254,Marco Farfan Portland,23, D(CLR),,8(5),766,2.1,0.5,1.3,0.3,2.6,0.5,0.2,-,6.66
+255,Kellyn Acosta Colorado,26, D(LR),M(CR),11(1),898,1.3,0.6,1,-,0.4,0.6,0.2,-,6.66
+256,Ralph Priso-Mbongue Toronto,19, DMC,,1(3),159,3.3,0.8,0.8,-,0.5,0.5,-,-,6.66
+257,Michael Barrios FC Dallas,30, AM(CLR),FW,19(2),1683,0.7,0.4,1.2,-,-,0.7,0.1,-,6.66
+258,Zarek Valentin Houston,30, D(LR),,15(1),1351,1.6,1.4,0.4,0.2,2.5,0.9,0.4,-,6.66
+259,Jozy Altidore Toronto,32, FW,,10(2),745,0.3,-,1,-,0.3,0.3,0.1,-,6.66
+260,Jordan Harvey Los Angeles FC,37, D(L),,8(2),754,1.4,1.5,1.2,0.2,2.4,0.5,0.6,-,6.66
+261,Kendall Waston FC Cincinnati,33, D(C),,14,1260,1.3,2.1,1.4,0.8,4.1,0.3,0.8,-,6.66
+262,Perry Kitchen L.A. Galaxy,29, DMC,,16(1),1441,2.3,1.4,2.0,-,1.7,0.8,0.3,-,6.66
+263,Osvaldo Alonso Minnesota United,36, DMC,,7(1),570,1.4,1.0,1.0,-,0.9,1.5,0.5,-,6.65
+264,Wyatt Omsberg Chicago,26, D(C),,2(2),171,1.3,0.8,0.5,0.5,3.5,-,0.3,-,6.65
+265,Alejandro Fuenmayor Houston,25, D(C),,3(2),301,1.2,2.4,0.6,0.2,2.2,0.2,0.8,-,6.65
+266,Mohammed Abu DC United,30, DMC,,4(2),333,1.0,2.2,1.2,-,0.7,0.5,0.2,-,6.65
+267,Nedum Onuoha Salt Lake,35, D(CR),,15,1319,0.5,1.2,0.5,0.5,3.4,0.3,0.8,-,6.64
+268,Graham Smith Kansas City,25, D(C),,3,226,1.0,1.7,1.0,-,3.7,1,1.0,-,6.64
+269,Tristan Blackmon Los Angeles FC,25, D(CR),,8(3),738,1.5,2.3,1.2,0.1,2.1,0.5,0.2,-,6.64
+270,Dario Zuparic Portland,29, D(C),,16(1),1446,0.9,1,1.0,0.4,4.9,0.5,0.4,-,6.64
+271,Lucas Cavallini Vancouver,28, FW,,16(2),1459,0.8,0.3,1.7,-,0.7,0.4,-,-,6.64
+272,Luis Díaz Columbus,22, AM(R),,12(6),1004,0.7,0.6,0.8,-,0.3,0.5,-,-,6.64
+273,Gary Mackay-Steven New York City FC,31, AM(LR),,10(9),929,1.2,0.5,0.5,0.1,0.2,0.4,-,-,6.64
+274,Jack Elliott Philadelphia,26, D(C),,8(6),800,1.7,1,1.1,0.1,1.9,0.3,0.4,-,6.64
+275,Santiago Mosquera FC Dallas,26, AM(LR),,5(7),412,0.8,0.2,0.4,-,0.3,0.5,0.1,-,6.63
+276,Jonathan Bornstein Chicago,37, D(CL),M(L),11(7),1037,1.5,1.6,0.7,0.2,1.8,0.9,0.1,1,6.63
+277,Cory Burke Philadelphia,29, FW,,0(5),110,0.4,-,1.0,-,0.6,0.2,-,-,6.63
+278,Felipe DC United,31, M(C),,4,360,3.0,1,1.8,-,1,2.3,0.5,-,6.63
+279,Benjamin Mines New York,21, Midfielder,,1(3),146,1.5,0.3,0.8,-,-,0.5,-,-,6.63
+280,Samuel Piette Montreal,27, M(C),,19,1681,1.8,1,1.7,0.1,1.2,1.5,0.2,-,6.62
+281,Ismael Tajouri-Shradi New York City FC,27, AM(LR),FW,4(8),470,0.5,0.3,0.7,-,0.1,0.3,-,-,6.62
+282,Andrés Perea Orlando City,21, M(C),,11(9),1172,1.5,0.8,1,-,1.1,1.2,0.4,-,6.62
+283,Omar González Toronto,33, D(C),,18(2),1627,0.8,0.9,0.5,1,3.3,0.1,0.5,-,6.62
+284,Boris Sekulic Chicago,30, D(R),M(R),18,1557,0.6,1.1,1.3,0.2,1.6,0.7,0.4,-,6.62
+285,Braian Galván Colorado,21, M(LR),,2(6),245,0.5,-,0.4,-,-,0.3,-,-,6.62
+286,Cristian Dájome Vancouver,27, AM(LR),FW,16(4),1388,1.8,0.7,1.1,-,0.2,1.3,0.2,-,6.61
+287,John Nelson FC Dallas,23, D(L),,8(3),706,1.5,0.7,-,0.1,2.1,0.7,0.6,-,6.61
+288,Rodrigo Schlegel Orlando City,24, D(C),,7(2),644,2.0,0.6,1.1,0.8,3.6,0.4,0.6,-,6.61
+289,Emerson Hyndman Atlanta United,25, M(CL),,14(3),1242,1.2,0.6,0.9,-,0.2,0.6,0.2,-,6.61
+290,Danny Musovski Los Angeles FC,25, FW,,6(8),616,0.4,0.1,0.7,-,0.4,0.3,0.1,-,6.61
+291,Judson San Jose,28, DMC,,17(1),1482,4.2,1.3,2.3,-,1.3,2.6,0.2,-,6.61
+292,Josh Williams Columbus,33, D(CR),,10(1),931,0.3,1,0.5,0.5,2.3,0.3,0.3,-,6.61
+293,Oswaldo Alanís San Jose,32, D(C),,12,1036,1.3,1.1,0.5,0.4,3.3,0.6,0.6,-,6.61
+294,Ruan Orlando City,26, D(R),M(R),15(3),1329,1.8,0.8,0.8,0.1,1.1,0.4,0.1,-,6.61
+295,Pablo Bonilla Portland,21, D(LR),,9(2),806,1.3,0.9,1.5,0.2,2.0,1.1,0.2,-,6.61
+296,Russell Canouse DC United,26, D(CR),DMC,12,967,2.2,1.6,1.7,0.2,2.3,1,0.8,1,6.6
+297,Marko Maric Houston,25, GK,,20,1800,-,0.1,-,-,0.9,-,-,-,6.6
+298,Daniel Steres L.A. Galaxy,31, D(C),,16,1440,1.4,1.2,0.8,0.4,4.4,0.4,0.6,-,6.6
+299,Evan Bush Vancouver,35, GK,,8,720,0.1,-,-,-,0.9,-,-,-,6.6
+300,David Ochoa Salt Lake,20, GK,,1,90,-,-,-,-,3.0,1.0,-,-,6.6
+301,Jake Nerwinski Vancouver,27, D(CR),,15(3),1432,1.2,1.3,0.7,0.2,2.5,0.7,0.4,-,6.6
+302,Héber New York City FC,30, AM(L),FW,9(1),713,0.5,0.2,1.3,-,0.2,0.7,-,-,6.6
+303,Luis Binks Montreal,20, D(C),,17(1),1538,1.1,2.2,1.4,1,4.7,0.4,0.6,-,6.59
+304,Benji Michel Orlando City,24, AM(LR),FW,8(10),806,0.5,0.2,0.4,-,0.6,0.6,0.1,-,6.59
+305,Luis Amarilla Minnesota United,26, FW,,4(1),327,0.6,0.2,1,-,0.2,0.8,-,-,6.59
+306,Cristian Penilla New England,30, AM(LR),,8(6),758,1,0.3,0.8,-,0.1,0.6,-,-,6.59
+307,Przemyslaw Frankowski Chicago,26, M(CLR),,13(3),1190,1,0.9,1.5,-,0.4,1.4,0.1,-,6.59
+308,Tommy McNamara New England,30, M(CLR),,11(3),862,1.1,0.7,0.6,-,0.4,0.6,0.1,-,6.59
+309,Andrés Ríos San Jose,32, AM(C),FW,17(2),1441,0.3,0.5,1.9,-,0.7,0.5,0.1,-,6.59
+310,Leandro González Pirez Inter Miami CF,29, D(C),,16,1440,1.2,1.5,1.8,0.6,2.6,0.7,0.4,-,6.59
+311,Justin Morrow Toronto,34, D(CLR),M(L),10(4),914,2.3,0.9,0.2,0.3,1.2,0.5,0.1,-,6.59
+312,Bryan Acosta FC Dallas,27, DMC,,10(1),759,0.8,0.9,2.1,-,0.5,0.2,0.2,-,6.58
+313,C.J. Sapong Chicago,32, AM(LR),FW,2(6),280,0.6,0.4,0.9,0.1,0.8,0.4,0.1,-,6.58
+314,Bradley Guzan Atlanta United,37, GK,,20,1800,0.1,0.1,0.1,0.1,0.7,-,-,-,6.58
+315,Lassi Lappalainen Montreal,23, M(L),,7(5),675,0.7,0.3,0.4,-,0.3,0.7,0.1,-,6.58
+316,Blaise Matuidi Inter Miami CF,34, M(CL),,14(1),1274,1.7,0.9,2.1,-,0.4,0.9,0.3,-,6.58
+317,Mandela Egbo New York,24, D(R),,6(3),451,0.6,0.9,0.8,0.1,1.1,0.6,-,-,6.58
+318,Brek Shea Inter Miami CF,31, D(L),M(LR),6(7),630,0.5,0.5,0.7,0.2,0.6,0.5,0.2,-,6.58
+319,Ben Sweat Inter Miami CF,30, D(CL),M(L),18(1),1476,1.4,1.5,0.9,0.1,1.1,0.9,0.2,-,6.57
+320,Dejan Jakovic Los Angeles FC,36, D(C),,10(4),930,1.3,1.4,0.5,0.8,1.9,0.2,0.7,-,6.57
+321,Patrick Seagrist New York,23, Defender,,3,246,1.7,1.7,1.3,0.7,3.0,1.3,0.3,-,6.57
+322,Tajon Buchanan New England,22, D(R),M(CR),10(10),990,0.9,0.4,0.9,-,0.2,0.5,0.1,-,6.57
+323,Ryan Meara New York,31, GK,,13,1142,-,-,-,-,0.8,-,-,-,6.57
+324,Quentin Westberg Toronto,35, GK,,18,1620,-,-,-,-,0.8,0.1,-,-,6.57
+325,William Yarbrough Colorado,32, GK,,12,1080,-,-,-,-,0.7,-,-,-,6.57
+326,Jason Pendant New York,24, D(L),,14(3),1343,1.5,1.3,0.8,-,1.2,0.8,0.2,-,6.57
+327,AJ Delagarza JR Inter Miami CF,34, D(CLR),,5,427,1.6,0.8,1.4,0.4,1.8,-,1,-,6.57
+328,Yony González L.A. Galaxy,27, AM(LR),FW,7(2),481,0.6,0.2,0.7,-,0.8,0.2,0.2,-,6.57
+329,Brian White New York,25, FW,,10(6),818,0.3,0.1,0.9,-,0.3,0.1,0.2,-,6.57
+330,Axel Sjöberg DC United,30, D(C),,2,171,0.5,2,0.5,-,6.5,0.5,4.5,-,6.57
+331,Amro Tarek New York,29, D(C),,7(2),665,1.3,1.9,1.3,0.2,3.4,0.9,0.6,-,6.56
+332,Tanner Tessmann FC Dallas,20, DMC,,9(10),1001,1.3,0.8,0.4,-,0.5,0.5,0.2,-,6.56
+333,Rolf Feltscher L.A. Galaxy,31, D(R),,9(4),888,1.2,1.5,0.9,0.7,1.7,0.4,0.3,-,6.56
+334,Michael Bradley Toronto,34, D(C),M(C),8(1),790,1.4,0.9,0.8,0.1,1.1,0.9,0.1,-,6.56
+335,Mikey Ambrose Inter Miami CF,28, D(L),,1(2),142,0.3,0.7,0.7,-,1.0,0.3,-,-,6.56
+336,Cristián Gutiérrez Vancouver,24, D(L),,7(3),620,1.4,1.7,0.4,0.1,1.4,0.7,0.1,-,6.56
+337,Jeff Attinella Portland,33, GK,,1,90,-,-,-,-,1.0,-,-,-,6.56
+338,Robin Jansson Orlando City,30, D(C),,19,1710,0.8,0.8,0.4,0.5,4.3,0.2,0.9,1,6.56
+339,Jukka Raitala Montreal,33, D(CLR),M(L),13,1170,1.8,1.5,1.3,0.4,2.8,0.2,0.2,-,6.56
+340,Nicholas DePuy L.A. Galaxy,27, D(C),,13(1),1229,1.6,1.8,1.2,0.9,4.2,0.3,0.9,-,6.56
+341,Júnior Moreno DC United,28, DMC,,18,1594,1.7,1.4,1,-,1.7,0.8,0.5,-,6.56
+342,Matt Besler Kansas City,34, D(C),,7(1),631,1.4,0.9,0.8,0.4,2.8,0.1,0.5,-,6.56
+343,Andrew Farrell New England,29, D(CR),,18(1),1621,1.1,1.2,0.4,0.8,3.7,0.4,0.7,1,6.55
+344,Zachary Brault-Guillard Montreal,22, D(R),M(R),18,1614,1.3,1.4,0.7,0.3,1.9,0.8,0.3,-,6.55
+345,Mustafa Kizza Montreal,22, M(L),,0(1),19,-,1,-,-,-,1.0,-,-,6.55
+346,Valeri Qazaishvili San Jose,28, AM(CLR),FW,6(6),583,0.7,0.5,0.2,-,-,0.2,0.1,-,6.55
+347,Johan Kappelhof Chicago,31, D(CR),DMC,2(2),200,1.5,2.3,0.5,0.3,2.5,0.5,0.5,-,6.54
+348,Shane O'Neill Seattle,28, D(CR),,12(2),1108,1.4,1.4,1,0.4,2.7,0.4,0.9,-,6.54
+349,Bill Hamid DC United,30, GK,,14,1260,-,-,-,-,0.6,0.1,-,-,6.54
+350,Paxton Pomykal FC Dallas,21, AM(CLR),,1(4),150,0.6,0.2,0.2,-,0.2,-,-,-,6.54
+351,Rudy Camacho Montreal,30, D(C),,13,1099,1.5,1.8,1.8,1,4.1,0.4,0.8,1,6.54
+352,Wil Trapp Inter Miami CF,28, DMC,,13(5),1154,1.8,1.4,0.9,-,0.3,0.7,0.3,-,6.54
+353,Everton Luiz Salt Lake,33, DMC,,8(3),650,1.7,1.5,0.7,-,0.6,0.9,0.2,-,6.54
+354,Alex Muyl Nashville SC,26, M(CLR),,15(3),1098,1.1,0.6,1.5,-,-,1,0.1,-,6.54
+355,David Bingham L.A. Galaxy,32, GK,,14,1260,0.1,-,0.1,-,0.9,-,-,-,6.54
+356,Giuseppe Rossi Salt Lake,34, FW,,1(3),139,0.5,-,0.3,-,-,-,-,-,6.53
+357,Pablo Sisniega Los Angeles FC,26, GK,,12,1080,-,-,-,-,0.8,-,-,-,6.53
+358,Tesho Akindele Orlando City,29, AM(CLR),FW,7(7),693,0.6,0.3,0.3,-,0.4,0.4,0.1,-,6.53
+359,Jorge Corrales Montreal,30, D(L),M(L),10(2),889,0.9,1.6,0.8,0.3,1.3,1.2,0.1,-,6.52
+360,Florian Jungwirth San Jose,32, D(CR),DMC,17,1494,2,1.6,1.4,0.4,2.6,1.1,0.5,-,6.52
+361,Matt Real Philadelphia,22, D(L),,5(9),623,1,0.6,0.9,-,2.3,0.8,0.3,-,6.52
+362,Bobby Shuttleworth Chicago,34, GK,,17,1530,0.1,0.1,-,-,0.5,0.1,-,-,6.52
+363,Carlos Fierro San Jose,27, AM(L),,11(2),911,0.9,0.3,0.6,-,0.4,1.1,-,-,6.52
+364,Nick DeLeon Toronto,31, D(LR),M(CLR),8(10),843,0.8,0.6,0.5,-,0.2,0.4,0.1,-,6.52
+365,Luis Robles Inter Miami CF,37, GK,,12,1080,-,-,-,-,0.9,-,-,-,6.52
+366,Janio Bikel Vancouver,26, D(R),DMC,12,949,2.9,0.9,2.1,-,1.4,0.6,0.3,-,6.52
+367,Ilsinho Philadelphia,36, AM(CR),,1(18),491,0.5,0.2,0.4,-,0.2,0.3,-,-,6.51
+368,Chris Seitz DC United,34, GK,,6,540,-,-,-,-,1.0,-,-,-,6.51
+369,Matt Polster New England,28, D(R),DMC,8(7),761,1.3,1.3,1.1,-,0.5,0.6,0.1,-,6.51
+370,Mason Toye Minnesota United,23, FW,,5(2),385,0.3,0.1,1.3,-,-,0.3,0.1,-,6.51
+371,Joe Corona L.A. Galaxy,31, DMC,,9(4),748,1.4,1.2,1.4,-,0.8,1.2,0.2,-,6.51
+372,Jürgen Damm Atlanta United,29, AM(R),,7(7),635,0.4,0.3,0.4,0.1,0.1,0.4,-,-,6.51
+373,Aidan Morris Columbus,20, Midfielder,,2(6),324,2.3,1.1,0.9,-,0.3,0.4,-,-,6.5
+374,Adrien Regattin FC Cincinnati,30, M(CLR),FW,4(3),416,0.4,0.3,0.7,-,0.1,0.9,0.1,-,6.5
+375,Eric Remedi Atlanta United,26, M(C),,11(4),1017,1.1,1.1,1.1,-,0.9,1.1,0.1,-,6.5
+376,Amar Sejdic Montreal,24, AM(C),,7(7),685,0.9,1,0.7,-,0.4,0.5,0.1,-,6.5
+377,Tim Parker New York,28, D(CR),,18,1620,0.9,1.1,0.8,0.9,3.1,0.1,0.6,-,6.5
+378,Kyle Zobeck FC Dallas,31, Goalkeeper,,3(1),318,-,-,-,-,0.3,-,-,-,6.5
+379,Gudmundur Thórarinsson New York City FC,29, D(L),DMC,6(11),637,1.4,0.6,0.4,0.2,0.6,0.2,-,-,6.49
+380,Jeff Larentowicz Atlanta United,38, D(C),DMC,10(6),976,0.9,1.1,1.2,0.1,0.8,0.6,0.3,-,6.49
+381,Ariel Lassiter Houston,27, AM(R),FW,10(6),951,0.2,0.3,0.4,-,0.4,0.3,0.1,-,6.49
+382,Andrew Gutman FC Cincinnati,25, D(CL),M(L),13(5),1216,1.7,0.7,0.5,0.1,1.4,0.7,0.2,-,6.49
+383,Kenneth Vermeer Los Angeles FC,35, GK,,7,630,-,0.1,-,-,0.4,0.1,-,-,6.49
+384,Matías Vera Houston,26, DMC,,17,1420,1.6,1.2,1.6,-,0.9,1.9,0.4,-,6.49
+385,Przemyslaw Tyton FC Cincinnati,34, GK,,9,801,-,-,-,-,0.4,0.1,-,-,6.49
+386,Jonathan Lewis Colorado,24, AM(LR),FW,7(8),638,0.5,0.1,0.3,-,0.3,0.3,-,-,6.49
+387,Juan Agudelo Inter Miami CF,28, M(CLR),FW,7(5),675,0.8,0.3,1.3,-,0.7,0.6,0.1,-,6.48
+388,Jackson Yueill San Jose,24, M(C),,18,1591,1.5,0.9,1,0.1,0.8,0.6,0.3,-,6.48
+389,Edgar Castillo Atlanta United,35, D(L),M(L),1(2),96,1.3,0.3,0.7,0.3,1.0,0.7,-,-,6.48
+390,Erik Hurtado Kansas City,31, AM(R),FW,3(11),375,0.3,0.1,0.6,-,-,0.1,0.1,-,6.48
+391,Tommy Thompson San Jose,26, D(LR),M(CLR),11(6),978,0.9,1.1,0.2,-,0.4,0.8,0.1,1,6.48
+392,Niko Hansen Houston,27, AM(R),,7(9),641,0.1,0.3,0.4,-,0.4,0.3,-,-,6.48
+393,Matt LaGrassa Nashville SC,28, M(C),,4(4),376,0.8,1.1,0.9,-,0.5,0.6,0.1,-,6.48
+394,Caden Clark New York,18, AM(CL),,3(4),279,1.0,0.4,1.3,-,0.4,0.6,0.3,-,6.48
+395,Joseph-Claude Gyau FC Cincinnati,29, D(R),M(LR),18(1),1622,0.9,0.4,1.3,-,0.6,0.6,0.1,-,6.48
+396,Érik Godoy Vancouver,28, D(CR),,11(1),941,0.9,1.9,0.8,0.2,3.4,0.3,0.8,1,6.48
+397,Joseph Mora DC United,28, D(L),M(L),16(2),1342,2.2,1.3,0.8,0.2,2.2,0.5,0.1,-,6.48
+398,Ayo Akinola Toronto,21, FW,,8(4),797,0.2,0.1,1.9,-,0.2,0.3,0.1,-,6.48
+399,Jhegson Méndez Orlando City,24, DMC,,11(5),965,2.4,0.6,1.8,0.1,0.4,1.8,0.3,-,6.47
+400,Derrick Jones Nashville SC,24, M(C),,9(9),913,0.8,0.3,0.8,-,0.3,0.4,-,-,6.47
+401,Mauro Manotas Houston,26, AM(LR),FW,12(5),1097,0.1,0.1,0.5,-,1.3,0.4,0.1,-,6.47
+402,Kevin Paredes DC United,18, M(L),,9(5),872,2.2,1.1,1.1,-,1.1,0.8,-,-,6.47
+403,Mohammed Adams Atlanta United,25, DMC,,7(4),608,1.7,0.7,1.8,-,0.2,0.6,0.3,-,6.47
+404,Sacha Kljestan L.A. Galaxy,36, M(CL),,7(6),685,0.9,0.9,0.8,-,0.3,0.8,0.1,-,6.47
+405,Tom Barlow New York,26, FW,,10(8),862,0.3,-,0.7,-,0.1,0.2,0.2,-,6.47
+406,David Milinkovic Vancouver,27, AM(C),,9(4),731,1.2,0.4,1.2,-,0.1,0.3,-,-,6.46
+407,Collen Warner Colorado,33, M(C),,3(2),193,1.0,0.6,1.6,-,-,0.6,0.2,-,6.46
+408,Matías Pellegrini Inter Miami CF,21, AM(CLR),,9(7),753,1.6,0.4,1.1,0.1,0.4,1.0,-,-,6.46
+409,Kelyn Rowe New England,29, D(L),M(CLR),7(6),656,0.8,0.9,0.8,-,0.4,0.6,0.2,-,6.46
+410,Lee Nguyen Inter Miami CF,35, M(CLR),FW,0(2),38,-,-,-,-,-,-,-,-,6.46
+411,Adam Jahn Atlanta United,30, FW,,11(7),977,0.4,0.1,1.1,-,0.6,0.5,0.1,-,6.46
+412,Anton Walkes Atlanta United,24, D(CLR),,15,1310,0.9,0.7,0.3,0.3,2.6,0.4,0.7,-,6.46
+413,Nicolás Figal Inter Miami CF,27, D(CR),,18,1477,1.3,1.3,0.9,0.2,1.8,0.5,0.4,-,6.46
+414,James Marcinkowski San Jose,24, GK,,11,990,-,0.1,-,-,0.5,0.1,-,-,6.46
+415,Drew Moor Colorado,37, D(CLR),,3(3),307,0.5,0.7,0.3,0.7,1.5,0.2,0.2,-,6.45
+416,Siad Haji San Jose,21, Midfielder,,0(4),49,1.3,0.3,-,-,-,0.5,-,-,6.45
+417,Griffin Yow DC United,19, M(R),,4(7),385,1.3,0.4,0.6,-,0.3,0.6,0.2,-,6.45
+418,Andrés Reyes Inter Miami CF,22, D(C),,12,955,1.1,1.8,1.8,0.5,2.3,0.4,0.3,1,6.45
+419,Maikel van der Werff FC Cincinnati,32, D(C),,10(2),903,1.1,1.6,1.2,0.5,2.7,0.7,1,-,6.45
+420,Cristhian Paredes Portland,23, DMC,,8(8),754,1.4,1.4,0.8,-,0.8,1.3,0.1,-,6.45
+421,Yuya Kubo FC Cincinnati,27, M(CLR),FW,12(4),1038,1.8,0.6,1.3,-,0.2,0.9,0.1,-,6.45
+422,Andy Polo Portland,27, M(CLR),,6(7),650,0.7,0.8,0.3,-,0.5,0.5,-,-,6.45
+423,Jake Mulraney Atlanta United,25, M(LR),,7(9),665,1.1,0.4,0.5,0.1,0.2,0.6,-,-,6.45
+424,Efraín Álvarez L.A. Galaxy,19, AM(CR),,6(7),662,0.8,0.7,0.2,-,0.2,0.8,-,-,6.45
+425,Aboubacar Keita Columbus,21, D(C),,9,779,1.1,0.4,0.6,0.3,3.7,0.2,1.2,-,6.45
+426,Victor Ulloa Inter Miami CF,29, D(R),M(C),14(6),1179,1.6,1.1,1.0,-,0.9,1.4,0.1,-,6.45
+427,Kekuta Manneh New England,26, AM(CLR),FW,2(4),183,0.2,0.3,0.5,-,0.2,0.2,-,-,6.44
+428,Álex Roldan Seattle,25, D(R),M(LR),3(12),525,1.3,0.3,0.6,0.1,0.6,0.5,0.1,-,6.44
+429,Dru Yearwood New York,21, DMC,,8(4),612,1.4,1.1,1.4,-,0.5,1.0,-,-,6.44
+430,Marvin Loría Portland,24, AM(LR),,7(7),590,0.5,1.1,0.6,-,0.3,0.6,-,-,6.44
+431,Jared Stroud New York,25, AM(LR),,11(6),870,0.9,0.5,0.6,-,0.1,0.6,0.1,-,6.44
+432,Jeremy Kelly Colorado,24, Defender,,1(6),174,0.6,0.3,0.1,-,0.4,0.4,0.3,-,6.43
+433,Russell Teibert Vancouver,28, M(CLR),,16(1),1316,0.8,1.3,0.6,-,1.6,0.9,0.2,-,6.43
+434,Diego Fagundez New England,26, M(CLR),FW,8(9),849,0.7,0.7,0.8,-,0.4,0.9,0.1,-,6.43
+435,Tanner Beason San Jose,24, D(C),,9,810,1.8,2.3,0.3,0.1,3.6,0.8,1.4,-,6.43
+436,Jorge Moreira Portland,31, D(R),,1,89,-,-,-,-,-,1.0,-,-,6.43
+437,Chris Duvall Portland,30, D(CR),,7,558,1.3,0.3,1.1,0.3,3.6,1.0,0.3,-,6.42
+438,Tah Anunga Nashville SC,25, DMC,,8(6),779,1.1,1.1,1.4,-,0.5,0.4,0.1,-,6.42
+439,Raheem Edwards Minnesota United,26, D(L),M(CLR),2(7),234,0.4,0.6,0.8,-,-,0.4,-,-,6.42
+440,Ulises Segura DC United,28, AM(CLR),,5(2),477,1.1,0.3,0.7,-,0.9,1,-,-,6.42
+441,George Campbell Atlanta United,20, D(C),,0(1),46,1,1,2,-,2,-,2,-,6.42
+442,Gerso Kansas City,30, AM(LR),,9(7),708,0.8,0.3,0.6,-,0.1,0.4,-,-,6.42
+443,Abu Danladi Nashville SC,26, AM(R),FW,7(10),578,0.8,0.4,0.6,-,-,0.9,0.1,-,6.41
+444,Francisco Ginella Los Angeles FC,22, M(C),,13(6),1030,1.2,0.8,0.6,-,0.4,1.3,0.1,-,6.41
+445,Connor Sparrow Chicago,27, Goalkeeper,,1,90,-,-,-,-,2,-,-,-,6.41
+446,Sam Nicholson Colorado,26, M(CLR),FW,2,175,1.5,-,1,-,-,0.5,-,-,6.41
+447,Zico Bailey FC Cincinnati,21, D(R),,3(2),297,1.4,2,0.6,-,1.2,1,0.4,-,6.41
+448,Ranko Veselinovic Vancouver,22, D(C),,13(2),1116,0.8,1,0.3,0.5,4.1,0.7,1,1,6.41
+449,Ethan Zubak L.A. Galaxy,23, FW,,10(4),698,0.1,0.1,0.9,-,0.3,0.2,-,-,6.41
+450,Chris Wondolowski San Jose,38, AM(CR),FW,13(6),1225,0.4,0.1,0.5,-,0.4,0.4,0.1,-,6.41
+451,Michael Baldisimo Vancouver,21, M(C),,7(6),704,1.2,0.8,0.8,-,0.7,0.6,0.1,-,6.41
+452,Brandon Vázquez FC Cincinnati,23, FW,,8(8),711,0.6,0.2,0.8,-,0.1,0.4,-,-,6.41
+453,Kenneth Kronholm Chicago,36, GK,,2,180,-,-,-,-,1.0,-,-,-,6.4
+454,Aljaz Struna Houston,31, D(CR),,13(1),1168,0.3,0.9,1.2,0.7,3.9,0.4,1.1,-,6.4
+455,Andy Rose Vancouver,31, D(C),M(CR),10(3),854,0.4,1.1,0.5,0.3,3.3,0.2,0.8,1,6.4
+456,Nicolás Mezquida Colorado,29, AM(CLR),FW,2(12),387,0.8,0.1,0.4,-,0.1,0.4,-,-,6.4
+457,Saad Abdul-Salaam FC Cincinnati,30, D(R),,4(1),328,1,1.2,0.4,-,1.8,1,-,-,6.4
+458,Jesús Ferreira FC Dallas,20, AM(C),FW,12(6),921,1.3,0.6,0.3,-,0.5,0.8,-,-,6.39
+459,Eriq Zavaleta Toronto,29, D(C),,3(1),256,-,0.8,-,1.3,2.3,-,0.5,-,6.39
+460,José Bizama Houston,27, D(R),,6(2),569,0.9,1.6,0.6,0.3,1.9,1.4,0.5,-,6.39
+461,Marc Rzatkowski New York,31, M(CR),,7(6),626,1.2,0.3,0.7,-,0.2,1,0.1,-,6.38
+462,Daniel Ríos Nashville SC,26, FW,,8(10),701,0.2,0.1,0.5,-,0.1,0.2,-,-,6.38
+463,Waylon Francis Columbus,31, D(L),M(L),2(2),196,0.5,1,0.5,-,2.0,-,-,-,6.38
+464,Christian Ramírez Houston,30, FW,,8(7),675,0.3,0.1,0.3,-,0.7,0.1,0.1,-,6.38
+465,Jordy Delem Seattle,28, D(R),DMC,8(5),643,0.8,1,0.8,-,0.7,0.1,0.2,-,6.38
+466,Noah Billingsley Minnesota United,24, Defender,,0(1),6,1,1,-,-,2.0,1,-,-,6.38
+467,Jesse González FC Dallas,26, GK,,2,180,-,-,-,-,1.0,-,-,-,6.38
+468,Marlon Hairston Minnesota United,27, D(R),M(CR),4(4),401,1.4,1.3,0.6,-,0.8,0.6,0.1,-,6.37
+469,Sam Junqua Houston,25, D(CL),M(L),2(6),242,1,0.3,0.6,0.1,0.5,0.4,-,-,6.37
+470,Corey Baird Salt Lake,25, AM(LR),FW,14(4),1284,0.6,0.3,1.0,-,0.3,0.8,-,-,6.37
+471,Krisztián Németh Columbus,32, AM(LR),FW,2(2),186,0.3,0.3,1.0,-,1,0.5,-,-,6.37
+472,Giancarlo González L.A. Galaxy,33, D(C),,7(1),574,0.4,0.6,1.1,0.3,3,0.3,0.6,-,6.36
+473,Sebastien Ibeagha New York City FC,29, D(C),,2(5),282,0.9,1.0,0.4,0.7,1.6,0.1,0.4,-,6.36
+474,Nicolas Benezet Colorado,30, AM(CLR),,2(7),292,0.9,0.2,0.8,-,-,0.3,-,-,6.36
+475,Ola Kamara DC United,32, AM(L),FW,16(4),1264,0.2,0.1,0.5,0.1,0.4,0.6,-,-,6.36
+476,Warren Creavalle Philadelphia,31, D(R),DMC,3(5),273,0.8,2.1,0.6,-,0.6,0.8,0.1,-,6.36
+477,David Accam Nashville SC,31, AM(LR),FW,2(5),205,0.1,0.1,1.0,-,0.1,0.6,-,-,6.36
+478,Omir Fernandez New York,22, AM(L),,4(8),435,0.5,0.3,0.3,-,0.2,0.3,-,-,6.36
+479,Derek Cornelius Vancouver,23, D(C),,10(1),904,1.8,0.8,0.7,0.5,3.7,0.5,0.9,-,6.35
+480,Youness Mokhtar Columbus,30, AM(LR),,8(8),640,0.9,0.1,0.6,-,0.1,0.5,-,-,6.35
+481,Dylan Nealis Inter Miami CF,23, D(R),M(R),8(9),935,0.8,0.6,0.9,0.1,1.8,0.9,0.4,-,6.35
+482,Gelmin Rivas DC United,32, FW,,7(6),502,0.3,0.3,1.2,-,0.2,0.2,-,-,6.35
+483,Derrick Etienne Columbus,24, AM(LR),FW,7(11),727,0.4,0.3,0.3,-,0.1,0.4,0.1,-,6.35
+484,Taylor Washington Nashville SC,28, M(L),,2(12),391,0.4,0.4,0.4,-,0.5,-,0.1,-,6.35
+485,Sebastian Berhalter Columbus,20, DMC,,3(3),314,1.0,0.8,0.7,-,0.5,1,-,-,6.34
+486,Miguel Ángel Navarro Chicago,22, D(L),M(L),9(7),807,1.1,1.1,1.1,0.1,1.3,0.6,0.1,-,6.34
+487,Moses Nyeman DC United,18, M(C),,5(6),491,1.2,0.8,0.8,-,0.5,1.1,0.1,-,6.34
+488,Cade Cowell San Jose,18, AM(L),FW,4(12),462,0.8,0.2,0.9,-,0.3,0.4,-,-,6.34
+489,Guram Kashia San Jose,34, D(C),,3,218,3.0,0.3,1.7,0.3,1.7,2.3,1,-,6.34
+490,Shea Salinas San Jose,35, D(L),M(CLR),4(16),701,0.6,0.4,0.6,0.1,0.3,0.7,0.1,-,6.33
+491,Álvaro Barreal FC Cincinnati,21, AM(LR),,4(1),325,2,0.8,1.2,-,-,1.6,-,-,6.33
+492,Luis Felipe Fernandes San Jose,25, DMC,,2(3),197,1.8,1,0.4,-,-,1.6,-,-,6.33
+493,Brayan Beckeles Nashville SC,35, Defender,,1(1),72,0.5,0.5,1.0,-,2,1,-,-,6.33
+494,Aaron Schoenfeld Minnesota United,31, FW,,2(9),280,0.5,0.3,0.5,-,0.2,0.3,-,-,6.33
+495,Julián Carranza Inter Miami CF,21, FW,,4(9),414,1.1,0.4,1.2,-,0.2,0.7,0.2,-,6.33
+496,Andrew Tarbell Columbus,28, GK,,5(1),469,-,-,0.2,-,1,-,-,-,6.33
+497,Laurent Ciman Toronto,36, D(C),,5(4),466,0.8,1,0.7,0.6,2.4,0.6,0.4,-,6.33
+498,Fatai Alashe Columbus,28, D(C),DMC,6(2),439,0.1,0.5,1.4,-,0.3,0.6,-,-,6.33
+499,Liam Fraser Toronto,23, DMC,,4(8),412,1,0.4,0.8,-,0.6,0.3,0.2,-,6.32
+500,Emanuel Maciel Montreal,24, DMC,,9(1),707,1.2,1.3,0.6,-,1.1,0.6,-,-,6.32
+501,Orji Okwonkwo Montreal,23, AM(LR),,4(6),412,0.4,0.3,1,-,-,0.2,-,-,6.32
+502,David Jensen New York,29, GK,,7(1),658,-,-,-,-,1.4,-,-,-,6.32
+503,Matheus Rossetto Atlanta United,25, M(CR),,9(5),711,0.9,0.4,0.6,-,0.2,0.4,0.1,-,6.32
+504,Joel Waterman Montreal,25, D(C),,6(1),547,-,1,0.6,1.3,2.6,0.6,0.7,-,6.32
+505,Robinho Orlando City,26, AM(LR),,2(3),144,1,0.2,0.6,-,-,1,-,-,6.32
+506,Chicharito L.A. Galaxy,33, FW,,5(5),578,0.1,0.2,0.2,-,0.5,0.3,-,-,6.32
+507,Leonard Owusu Vancouver,24, M(C),,11(6),1095,1.3,1,1.1,-,0.7,1.6,0.1,-,6.32
+508,Dominique Badji Nashville SC,29, AM(LR),FW,10(2),751,0.2,0.2,1.3,-,0.5,0.2,0.1,-,6.31
+509,Dairon Asprilla Portland,29, AM(LR),FW,0(3),46,1,0.7,0.7,-,-,-,-,-,6.31
+510,Jimmy Medranda Nashville SC,27, D(L),M(CLR),0(1),8,-,-,-,-,-,-,-,-,6.31
+511,Tsubasa Endoh Toronto,28, M(CLR),,5(9),444,0.6,0.4,0.4,-,0.2,0.1,0.1,-,6.31
+512,Erickson Gallardo Toronto,25, AM(R),,2(2),145,1.3,-,0.5,-,0.3,1.5,-,-,6.3
+513,Jonathan Klinsmann L.A. Galaxy,24, GK,,4,360,-,-,-,-,0.3,-,-,-,6.3
+514,Alvas Powell Inter Miami CF,27, D(R),,2(1),186,2,1.3,0.7,1,1,2,1,-,6.3
+515,Chris Odoi-Atsem DC United,26, D(R),,7(5),661,1,0.9,0.4,0.1,1.4,0.2,0.2,-,6.3
+516,Andrew Putna Salt Lake,27, GK,,15,1350,-,0.1,-,-,0.3,0.1,-,-,6.29
+517,Clint Irwin Colorado,32, GK,,3,270,-,-,-,-,0.3,-,-,-,6.29
+518,Ethan Dobbelaere Seattle,19, Midfielder,,1,54,-,1,1,-,2,1,-,-,6.29
+519,Jonathan dos Santos L.A. Galaxy,31, M(CR),,6(6),610,0.6,0.7,0.4,-,0.2,1.3,-,-,6.29
+520,Nick Besler Salt Lake,28, D(C),DMC,6(4),544,1.2,1.1,1,-,0.7,1.2,0.3,-,6.29
+521,Mathieu Deplagne FC Cincinnati,30, D(CLR),,11(2),995,1.7,1.3,1.2,0.3,1.5,0.8,0.2,-,6.29
+522,Chris Cadden Columbus,25, D(R),M(R),2(4),234,0.5,0.3,0.5,-,1,0.2,0.2,-,6.29
+523,Handwalla Bwana Nashville SC,24, AM(LR),,0(2),41,0.5,-,-,-,-,-,-,-,6.29
+524,Greg Ranjitsingh Minnesota United,28, GK,,3,270,-,-,-,-,0.7,-,-,-,6.28
+525,Kwadwo Opoku Los Angeles FC,20, Forward,,0(3),52,0.7,0.3,0.3,-,0.3,0.3,-,-,6.28
+526,Jalil Anibaba Nashville SC,33, D(CLR),,6(6),583,0.6,0.5,0.3,0.1,1.3,-,0.3,-,6.28
+527,Ricardo Pepi FC Dallas,18, FW,,4(12),427,0.1,0.1,0.6,-,0.2,0.3,-,-,6.28
+528,Christian Torres Los Angeles FC,17, Forward,,2(6),214,0.4,0.1,0.4,-,0.1,-,-,-,6.28
+529,Jack Maher Nashville SC,22, D(C),,2(1),127,0.3,1,-,0.3,2,0.3,0.3,-,6.28
+530,Allan Cruz FC Cincinnati,25, M(CR),,8(5),725,1,0.3,0.9,-,0.4,0.9,-,-,6.28
+531,Jimmy Medranda Seattle,27, D(L),M(CLR),0(2),12,2,-,-,-,0.5,-,-,-,6.28
+532,Kai Koreniuk L.A. Galaxy,23, Forward,,0(4),12,-,-,-,-,-,-,-,-,6.28
+533,Scott Caldwell New England,30, DMC,,12(3),946,0.8,1.5,1.5,-,0.4,0.9,0.2,-,6.27
+534,Jayden Nelson Toronto,19, Forward,,1(6),141,0.9,-,0.7,-,-,1.1,0.1,-,6.27
+535,Antonio Delamea Mlinar New England,30, D(C),,2(1),140,0.7,1.3,-,-,2.3,0.7,-,-,6.27
+536,Matheus Aiás Orlando City,24, Forward,,0(4),19,0.3,-,-,-,0.3,0.3,-,-,6.27
+537,Seth Sinovic New England,34, D(L),,0(1),13,-,1,-,-,1,-,-,-,6.27
+538,Will Bruin Seattle,32, FW,,4(10),489,0.2,-,0.3,-,0.1,0.1,-,-,6.27
+539,Kamohelo Mokotjo FC Cincinnati,30, DMC,,6(3),551,1,1,0.2,-,0.3,0.6,0.1,-,6.27
+540,Carles Gil New England,28, AM(CR),,2(2),214,-,-,0.8,-,0.3,1,-,-,6.26
+541,Eric Miller Nashville SC,28, D(CLR),M(R),5(1),437,0.8,0.7,0.3,0.2,1.5,0.3,0.2,-,6.26
+542,Yordy Reyna Vancouver,28, AM(CLR),FW,2(3),199,-,0.2,0.4,-,0.2,0.2,0.2,-,6.26
+543,Greg Garza FC Cincinnati,30, D(L),M(L),6(2),467,0.4,1,0.6,-,1.0,0.5,-,-,6.25
+544,Erick Torres Atlanta United,28, FW,,4(9),495,0.1,0.3,0.8,-,0.2,0.1,-,-,6.25
+545,Oniel Fisher DC United,29, D(LR),,5(7),546,0.4,1.1,1,-,1.8,0.3,0.1,-,6.25
+546,John McCarthy Inter Miami CF,29, GK,,8,720,-,-,-,-,0.5,-,-,-,6.25
+547,Andy Najar Los Angeles FC,28, D(CR),M(R),1(6),158,0.4,0.9,0.6,-,0.7,0.4,-,-,6.25
+548,Patrick Mullins Toronto,29, FW,,4(12),416,0.3,0.1,0.5,-,0.1,0.2,0.1,-,6.24
+549,Diedie Traore L.A. Galaxy,22, Defender,,0(4),60,0.5,-,1,-,0.3,0.3,-,-,6.24
+550,Siem de Jong FC Cincinnati,32, AM(CL),FW,7(6),704,0.7,0.5,0.5,-,0.3,0.6,-,-,6.24
+551,Spencer Richey FC Cincinnati,29, GK,,9(1),819,-,-,-,-,0.7,-,-,-,6.24
+552,Sam Johnson Salt Lake,28, FW,,2(5),270,0.3,0.3,1.4,-,0.3,0.3,-,-,6.24
+553,Joey Dezart Orlando City,23, DMC,,4(7),375,0.4,0.5,-,-,0.4,0.4,-,-,6.24
+554,Micheal Azira Chicago,34, DMC,,1(5),125,0.3,0.8,0.3,-,0.5,-,-,-,6.24
+555,Justin Portillo Salt Lake,29, DMC,,3(2),265,0.8,0.8,1.4,-,1,0.4,0.2,-,6.23
+556,Jürgen Locadia FC Cincinnati,28, AM(LR),FW,15(2),1364,0.5,0.1,1.1,-,0.3,0.4,-,-,6.23
+557,Ballou Tabla Montreal,22, AM(L),,0(4),85,-,0.3,-,-,-,-,-,-,6.23
+558,Tosaint Ricketts Vancouver,34, FW,,5(11),458,0.4,0.2,0.5,-,0.2,0.3,0.1,-,6.23
+559,Thomás Chacón Minnesota United,21, Midfielder,,1(2),127,0.7,1,0.3,-,0.3,1.7,-,-,6.22
+560,Handwalla Bwana Seattle,24, AM(LR),,1(2),65,0.7,-,0.3,-,0.3,0.3,-,-,6.22
+561,Andrew Wooten Philadelphia,32, AM(R),FW,4(12),447,0.3,0.1,0.2,-,0.3,0.1,-,-,6.22
+562,Emmanuel Boateng Columbus,27, AM(CLR),,3(7),325,0.3,0.4,0.3,-,0.2,0.1,0.1,-,6.22
+563,Eric Calvillo San Jose,23, Midfielder,,1(5),184,0.2,0.7,0.3,-,0.3,-,-,-,6.21
+564,Alan Winn Nashville SC,25, Forward,,1(6),239,0.6,0.4,0.6,-,-,0.1,-,-,6.21
+565,Danilo Silva Los Angeles FC,34, D(CR),,1,39,-,-,-,-,4,-,1,-,6.21
+566,Tommy McNamara Houston,30, M(CLR),,2,163,1,-,1,-,1.5,0.5,0.5,-,6.21
+567,Yordy Reyna DC United,28, AM(CLR),FW,3(2),237,-,0.2,0.6,-,-,0.4,-,-,6.21
+568,Boniek García Houston,37, D(CR),M(CLR),4(11),566,0.9,0.4,0.6,0.1,0.4,0.7,0.2,-,6.2
+569,Theo Bair Vancouver,22, AM(R),FW,5(8),341,0.4,-,0.2,-,0.2,0.2,0.1,-,6.2
+570,Cameron Duke Kansas City,20, M(C),,2(6),218,0.5,0.3,0.5,-,0.1,0.8,-,-,6.2
+571,Kekuta Manneh FC Cincinnati,26, AM(CLR),FW,0(1),11,1.0,-,-,-,-,-,-,-,6.2
+572,Shamit Shome Montreal,24, DMC,,3(7),233,0.8,0.7,0.3,-,0.2,0.6,0.1,-,6.2
+573,Fanendo Adi Columbus,31, FW,,1(8),137,0.2,-,0.4,-,0.2,-,-,-,6.2
+574,Clément Bayiha Montreal,22, AM(R),,1(3),67,0.5,1.3,0.5,-,-,-,-,-,6.2
+575,Tony Rocha New York City FC,28, DMC,,0(11),51,0.3,0.2,0.4,-,-,0.3,-,-,6.2
+576,Erik Dueñas Los Angeles FC,17, Midfielder,,0(2),35,0.5,0.5,1.5,-,-,1,-,-,6.2
+577,Felipe Hernandez Kansas City,23, M(C),,8(7),749,0.7,0.8,0.8,-,0.5,0.7,0.1,-,6.19
+578,Samuel Tetteh New York,25, Forward,,4(6),330,0.7,0.1,0.7,-,-,-,-,-,6.19
+579,Alexander Alvarado Orlando City,22, Midfielder,,0(2),25,1.0,1,0.5,-,-,1,-,-,6.18
+580,Román Torres Seattle,35, D(C),,0(3),27,-,0.7,-,-,0.3,-,-,-,6.18
+581,Elliot Collier Chicago,26, Forward,,2(16),486,0.2,0.2,0.6,-,0.2,0.3,0.1,-,6.18
+582,Paul Marie San Jose,26, D(LR),,3(7),282,0.7,0.7,0.3,0.1,0.5,0.6,0.3,-,6.18
+583,Jahkeele Marshall-Rutty Toronto,17, Forward,,0(1),18,-,-,-,-,-,1,-,-,6.17
+584,Jay Chapman Inter Miami CF,27, M(CLR),,2(3),174,0.4,-,1,-,-,0.4,0.2,-,6.17
+585,Hector Jimenez Columbus,33, D(LR),M(R),2(3),151,1,0.6,0.4,-,0.6,0.2,-,-,6.16
+586,Alex De John Orlando City,30, D(CR),,0(6),54,-,0.2,-,-,0.8,0.2,0.2,-,6.16
+587,Brandt Bronico Chicago,26, D(R),DMC,3(7),275,0.3,0.4,0.5,0.2,0.6,0.5,0.2,-,6.16
+588,Tyler Wolff Atlanta United,18, Midfielder,,1(4),118,1.2,0.2,1,-,0.2,0.2,-,-,6.16
+589,Christian Makoun Inter Miami CF,21, D(C),,2(2),187,-,0.8,0.3,0.5,3.5,-,0.3,-,6.16
+590,Douglas Martínez Salt Lake,24, FW,,7(8),637,0.5,-,1.1,-,0.1,0.4,-,1,6.16
+591,Laurence Wyke Atlanta United,25, Midfielder,,2(5),226,0.9,0.6,0.9,-,0.6,0.3,0.1,-,6.16
+592,Harry Shipp Seattle,30, AM(CLR),FW,0(2),38,-,-,-,-,-,-,-,-,6.15
+593,Mathias Jørgensen New York,21, Forward,,2(6),265,0.1,-,0.4,-,0.1,0.1,-,-,6.15
+594,Cameron Dunbar L.A. Galaxy,19, Forward,,0(3),15,0.3,0.3,0.3,-,0.3,-,-,-,6.15
+595,Carlos Terán Chicago,21, D(C),,0(2),14,-,-,-,0.5,0.5,1,-,-,6.15
+596,Carlos Harvey L.A. Galaxy,21, Midfielder,,1(4),105,2.2,-,0.4,-,0.2,0.2,-,-,6.14
+597,Román Torres Inter Miami CF,35, D(C),,2(1),145,1.3,0.7,0.3,0.3,1.7,0.7,1.3,-,6.14
+598,Dániel Sallói Kansas City,25, AM(L),FW,1(4),159,-,0.6,-,-,0.2,0.4,-,-,6.14
+599,James Musa Minnesota United,29, Midfielder,,2(3),155,1,0.8,1,-,1.2,0.2,0.2,-,6.14
+600,Brandon Servania FC Dallas,22, DMC,,4(8),398,0.8,0.4,0.4,-,0.3,0.3,-,-,6.13
+601,Robbie Robinson Inter Miami CF,22, AM(L),FW,4(8),437,0.2,0.2,1,-,-,0.3,-,-,6.13
+602,Nicolás Acevedo New York City FC,22, DMC,,1(11),128,0.8,0.2,0.4,-,0.3,0.5,-,-,6.13
+603,Erik Sorga DC United,22, FW,,5(11),625,0.4,0.2,0.6,-,-,0.3,0.1,-,6.13
+604,Mason Toye Montreal,23, FW,,2(4),151,0.3,-,-,-,0.2,-,-,-,6.12
+605,Manuel Castro Atlanta United,26, AM(R),,2(5),154,1.1,0.1,1,-,-,0.4,-,-,6.12
+606,Shandon Hopeau Seattle,22, Forward,,0(2),12,-,0.5,-,-,-,-,-,-,6.12
+607,Caleb Stanko FC Cincinnati,28, DMC,,3(7),266,0.6,0.3,0.9,0.1,0.5,0.5,-,-,6.12
+608,Bryce Duke Los Angeles FC,20, AM(C),,2(7),222,0.7,0.2,0.7,-,-,0.6,0.1,-,6.12
+609,Marcelo Palomino Houston,20, Midfielder,,0(3),21,-,0.3,-,-,0.3,-,-,-,6.11
+610,Miguel Ibarra Seattle,31, M(LR),,2(7),168,0.3,0.4,-,0.1,-,0.1,-,-,6.11
+611,Danny Leyva Seattle,18, DMC,,1,46,-,-,1,1,-,-,-,-,6.11
+612,Gilbert Fuentes San Jose,19, Midfielder,,0(1),5,-,-,-,-,-,-,-,-,6.11
+613,Jordan Hamilton Columbus,25, FW,,0(2),13,0.5,-,1,-,-,0.5,-,-,6.11
+614,Renzo Zambrano Portland,27, DMC,,1(4),98,0.6,-,0.8,-,-,0.4,-,-,6.11
+615,Jacob Shaffelburg Toronto,21, AM(L),,1(1),77,-,0.5,-,-,-,1,-,-,6.11
+616,Daniel Vega San Jose,37, GK,,9,810,-,-,-,-,1.3,0.1,-,-,6.1
+617,Joe Scally New York City FC,18, M(R),,1(3),70,-,-,0.5,-,0.3,-,-,-,6.1
+618,Tomás Conechny Portland,23, AM(L),,3(5),184,0.4,0.1,0.4,-,0.1,0.8,-,-,6.09
+619,Santiago Patiño Orlando City,24, Forward,,0(1),6,-,-,-,-,1,-,-,-,6.09
+620,Emil Cuello L.A. Galaxy,24, Midfielder,,1(7),108,0.3,0.4,1.1,-,0.1,0.3,0.1,-,6.09
+621,Jeizon Ramírez Salt Lake,20, Forward,,0(9),68,0.2,0.1,0.2,-,0.2,-,-,-,6.08
+622,Rashawn Dally FC Cincinnati,24, FW,,0(4),68,0.5,-,0.5,-,0.3,0.3,-,-,6.08
+623,Ryan Raposo Vancouver,22, Midfielder,,1(11),267,0.3,0.3,0.3,-,0.2,0.3,0.1,-,6.08
+624,Federico Higuaín DC United,37, AM(C),,0(7),105,0.3,0.1,0.1,-,-,0.3,-,-,6.07
+625,Ema Twumasi FC Dallas,24, D(R),,0(4),35,0.8,0.3,0.3,-,-,-,-,-,6.07
+626,Brad Smith Seattle,27, D(L),M(L),1(3),127,0.8,-,0.3,-,0.8,0.3,-,-,6.07
+627,Jack De Vries Philadelphia,19, Midfielder,,0(3),7,0.7,-,0.3,-,-,-,-,-,6.06
+628,Andre Reynolds Chicago,20, Defender,,0(2),17,-,-,-,-,0.5,-,-,-,6.06
+629,Federico Higuaín Inter Miami CF,37, AM(C),,0(4),21,-,0.3,-,-,-,-,-,-,6.06
+630,Anthony Jackson-Hamel Montreal,28, FW,,2(3),177,-,0.2,-,-,-,0.6,-,-,6.05
+631,Patrick Metcalfe Vancouver,23, Midfielder,,2(4),201,0.3,0.5,0.2,-,0.7,0.7,-,-,6.05
+632,Foster Langsdorf Minnesota United,25, Forward,,0(1),10,-,-,-,-,-,-,-,-,6.05
+633,Jordan Bender Orlando City,20, Midfielder,,1(1),47,-,-,2,-,-,-,-,-,6.04
+634,Adrien Perez Los Angeles FC,26, Forward,,2(7),301,0.3,-,0.4,-,0.1,0.2,-,-,6.04
+635,Brian Gutierrez Chicago,18, Midfielder,,0(6),27,0.3,-,0.5,-,-,0.2,-,-,6.03
+636,Paul Arriola DC United,26, D(R),M(CR),0(1),21,-,1,1,-,1,1,-,-,6.03
+637,Thomas McCabe FC Cincinnati,23, Midfielder,,0(1),12,-,-,-,-,-,-,-,-,6.03
+638,Edwin Cerrillo FC Dallas,21, DMC,,0(2),17,0.5,-,-,-,-,-,-,-,6.03
+639,Kyle Beckerman Salt Lake,39, DMC,,3(5),258,0.8,0.6,1.1,-,0.3,0.9,-,-,6.03
+640,Cole Turner Philadelphia,20, Midfielder,,0(1),3,-,-,-,-,-,-,-,-,6.02
+641,Danny Hoesen San Jose,30, AM(LR),FW,3(3),215,-,0.2,0.7,-,-,0.8,-,-,6.02
+642,Justin Rennicks New England,22, Forward,,0(2),15,0.5,-,-,-,-,-,-,-,6.02
+643,Tomás Martínez Houston,26, AM(CR),,3(6),308,0.8,0.2,1,-,0.2,1.8,-,-,6.02
+644,Nico Lemoine Houston,21, Forward,,0(8),121,0.3,0.1,0.3,-,-,0.1,-,-,6.01
+645,Maxime Crépeau Vancouver,27, GK,,2,180,-,-,-,-,0.5,-,-,-,6.01
+646,Josh Sims New York,24, AM(LR),,0(2),45,-,-,-,-,0.5,-,-,-,6.01
+647,Joshua Atencio Seattle,19, M(C),,0(4),10,-,-,-,-,-,0.3,-,-,6.01
+648,Christopher Garcia Salt Lake,18, Forward,,0(1),1,-,-,-,-,-,-,-,-,6.0
+649,Damiano Pecile Vancouver,19, Midfielder,,0(1),1,-,-,-,-,-,-,-,-,6.0
+650,David Loera Orlando City,23, Forward,,0(2),15,-,0.5,-,-,-,-,-,-,6.0
+651,Jerome Kiesewetter Inter Miami CF,28, AM(R),,0(1),1,-,-,-,-,-,-,-,-,6.0
+652,Juan Pablo Torres New York City FC,22, Midfielder,,0(2),2,-,-,-,-,-,-,-,-,6.0
+653,Justin Dhillon Seattle,26, Forward,,0(1),5,-,-,-,-,-,-,-,-,6.0
+654,Milan Iloski Salt Lake,22, Forward,,0(1),1,-,-,-,-,-,-,-,-,6.0
+655,Michael Mancienne New England,33, D(CLR),M(C),2(1),204,1,1.7,0.7,0.3,2.7,-,-,1,5.99
+656,Jimmy McLaughlin FC Cincinnati,28, Midfielder,,0(1),1,-,-,-,-,-,-,-,-,5.99
+657,Dante Sealy FC Dallas,18, Forward,,0(5),50,-,-,0.8,-,-,0.4,-,-,5.98
+658,Zac MacMath Salt Lake,30, GK,,3,270,-,-,-,-,0.3,-,-,-,5.98
+659,Wilfried Zahibo Houston,28, DMC,,2(2),119,0.5,0.8,1.5,-,0.8,0.8,-,-,5.94
+660,Karifa Yao Montreal,21, Defender,,1(1),127,1,1,2,0.5,2,0.5,0.5,-,5.92
+661,Tate Schmitt Salt Lake,24, Forward,,3(1),254,0.8,0.5,1.3,-,0.5,1.5,-,-,5.92
+662,Joe Bendik Philadelphia,32, GK,,1(1),91,-,-,-,-,1,-,-,-,5.88
+663,Erik Holt Salt Lake,25, D(C),,3(2),288,0.8,0.2,0.8,1,1.2,0.6,0.2,-,5.87
+664,Jack Skahan San Jose,23, Midfielder,,0(1),11,1,-,1,-,-,-,-,-,5.87
+665,Michael Salazar Houston,29, AM(R),,0(1),12,-,-,1,-,-,-,-,-,5.8
+666,Bobby Edwards FC Cincinnati,26, Goalkeeper,,2,180,-,-,-,-,1.5,-,-,-,5.71
+667,Mohamed Traore Los Angeles FC,19, Defender,,1,46,-,-,-,-,1,2,1,-,5.49

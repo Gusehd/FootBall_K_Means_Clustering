@@ -1,0 +1,718 @@
+﻿,name,age,position1,position2,Apps,Mins,Assists,KeyP,AvgP,PS%,Crosses,LongB,ThrB,Rating
+0,Rodrygo Santos FC,20, AM(CLR),,4,360,2,1.8,33.5,82.8,0.3,2.3,-,7.86
+1,Giorgian de Arrascaeta Flamengo,27, AM(CLR),FW,22(1),1829,14,2.5,43.4,77.9,0.9,2,0.3,7.82
+2,Gabi Flamengo,25, AM(LR),FW,29,2547,8,1,25.0,80.6,0.2,0.8,-,7.55
+3,Dudu Palmeiras,29, AM(CLR),FW,34(2),3070,11,2.5,27.8,78.4,1.9,1.1,0.1,7.5
+4,Lucas Piton Corinthians,21, D(L),,0(1),45,1,1,26.0,84.6,1,-,-,7.47
+5,Alisson Gremio,28, AM(CLR),,22,1738,6,2.5,43.0,85.7,1.7,1,-,7.45
+6,Bruno Henrique Flamengo,30, AM(CLR),FW,29(4),2573,4,1.2,22.1,75.5,0.1,0.3,0.1,7.44
+7,Jean Pyerre Gremio,23, AM(C),,10,813,2,1.3,64.4,92.4,1.1,4.2,0.4,7.37
+8,Marcelo Rangel Goias,33, GK,,1,90,-,-,12.0,75.0,-,5,-,7.36
+9,Yeferson Soteldo Santos FC,24, AM(CL),FW,31(1),2698,5,1.7,22.0,77.1,0.4,0.6,-,7.35
+10,Walter Corinthians,33, GK,,6,540,-,-,28.7,68.0,-,6.5,-,7.34
+11,Dani Alves Sao Paulo,38, D(R),M(CR),20,1756,3,3.1,65.4,83.6,2.5,2.2,0.1,7.33
+12,Éverton Gremio,25, AM(CLR),FW,23(7),2277,5,0.9,26.4,82.4,0.2,0.9,0.1,7.33
+13,Danilo Fernandes Internacional,33, GK,,4(1),394,-,-,17.8,61.8,-,3.4,-,7.33
+14,Marcos Rocha Palmeiras,32, D(R),M(R),29(1),2615,3,1.8,46.6,76.2,0.7,4.4,-,7.31
+15,Jorge Santos FC,25, D(L),M(L),28(1),2558,4,1,38.6,80.4,0.3,1.4,-,7.29
+16,Víctor Cuesta Internacional,32, D(C),,30(1),2712,1,0.3,47.3,86.3,0.1,3.3,-,7.27
+17,Marco Antonio Bahia,24, Midfielder,,3(3),345,1,1.5,19.7,80.5,1.5,1.3,0.2,7.26
+18,Pedrinho Corinthians,23, AM(CR),,26(2),2181,4,2,36.1,83.4,0.8,1.3,-,7.24
+19,Paolo Guerrero Internacional,37, FW,,23(1),2014,1,1.3,25.5,75.5,-,0.4,0.1,7.24
+20,Lucas Veríssimo Santos FC,26, D(CR),,33,2887,1,0.2,62.5,86.7,-,1.8,-,7.24
+21,Nikão Athletico Paranaense,29, AM(CLR),FW,20(3),1706,2,1.6,33.4,83.9,1,3.0,-,7.23
+22,Everaldo Fluminense,27, AM(CL),,2,180,1,2.5,39.5,89.9,1,0.5,-,7.22
+23,Ferreira Gremio,23, AM(LR),,1(3),147,2,0.8,11.0,81.8,0.3,0.5,-,7.21
+24,Rómulo Otero Atletico MG,29, AM(LR),,14(6),1273,1,1.5,19.6,79.1,1.2,0.5,-,7.2
+25,Everton Ribeiro Flamengo,32, AM(CLR),,27(5),2457,7,2.6,45.1,82.0,1.2,1.0,0.1,7.19
+26,Jordi CS Alagoano,28, GK,,28(1),2515,-,0.1,22.1,50.5,-,5.7,-,7.19
+27,Vanderlei Santos FC,37, GK,,6,540,-,-,22.5,71.1,-,3.8,-,7.18
+28,Iago Internacional,24, D(L),M(L),5,450,1,1.8,46.4,80.2,0.6,1.8,0.2,7.18
+29,David Braz Gremio,34, D(C),,17(1),1568,2,0.3,56.8,87.9,-,2.9,-,7.16
+30,Carlos Sánchez Santos FC,36, M(CR),,27(7),2437,9,2.6,30.7,74.1,1.6,2.7,-,7.16
+31,Felipe Melo Palmeiras,38, D(C),M(C),24,2046,1,0.5,43.5,87.1,-,3.8,-,7.14
+32,Jair Atletico MG,27, DMC,,10(3),822,-,0.5,37.6,89.8,0.1,2.2,0.1,7.14
+33,Antony Sao Paulo,21, AM(R),,27(2),2383,6,1.3,44.2,83.7,0.3,0.9,-,7.14
+34,Gustavo Gómez Palmeiras,28, D(C),,22,1954,-,0.3,41.1,87.1,-,1.6,-,7.14
+35,Deyverson Palmeiras,30, FW,,21(3),1778,2,1.1,15.6,59.1,0.1,0.2,-,7.13
+36,João Ricardo Chapecoense AF,33, GK,,13,1170,-,-,25.7,58.7,-,8.2,-,7.13
+37,Bruno Guimarães Athletico Paranaense,24, DMC,,23(2),1965,1,1.8,64.8,88.4,0.4,5.5,0.3,7.13
+38,Luciano Fluminense,28, AM(CR),FW,6,520,1,1.7,51.8,90.4,-,2.2,-,7.13
+39,Madson Athletico Paranaense,29, D(R),M(R),26(1),2343,1,1.1,35.4,79.7,1.6,1.2,-,7.12
+40,Artur Bahia,23, AM(LR),,32,2828,3,1.9,29.6,76.4,1.4,1.1,0.1,7.12
+41,Vitor Gabriel Flamengo,21, Forward,,0(1),45,1,1.0,6.0,83.3,-,-,-,7.11
+42,Rodrigo Moledo Internacional,34, D(C),,16(1),1308,-,0.1,35.1,85.1,-,1.4,-,7.1
+43,Fagner Corinthians,32, D(R),,28(2),2559,3,1.6,45.4,79.5,1.2,1.9,-,7.1
+44,Gregore Bahia,27, DMC,,34,3013,4,0.9,59.1,85.4,0.1,3.9,-,7.1
+45,Gabriel Veron Palmeiras,19, AM(LR),,0(3),70,1,0.3,6.0,72.2,-,-,-,7.09
+46,Vitinho Flamengo,28, AM(CLR),FW,12(13),1165,3,1.7,18.1,81.0,1,0.3,-,7.08
+47,Marcelo Benevenuto Botafogo RJ,25, D(C),,17,1454,1,0.2,46.9,85.8,0.1,2.2,-,7.08
+48,Rony Athletico Paranaense,26, AM(LR),FW,28(2),2449,8,2.0,20.2,76.1,0.7,0.5,-,7.08
+49,Bruno Henrique Palmeiras,32, M(C),,33(1),2903,2,1.2,50.2,88.7,0.2,2.8,-,7.08
+50,Renê Flamengo,29, D(L),,18(5),1698,2,1.2,49.2,81.5,0.6,2.2,-,7.07
+51,Michael Goias,25, AM(LR),,35,3033,5,1.1,15.4,72.1,0.6,0.2,0.1,7.07
+52,Marinho Santos FC,31, AM(CLR),FW,18(9),1692,4,1.3,16.3,77.7,0.6,0.6,-,7.07
+53,Danilo Avelar Corinthians,32, D(CL),M(L),25,2177,-,0.5,41.6,75.5,0.4,1.7,-,7.06
+54,Walter Kannemann Gremio,30, D(C),,17,1530,-,-,43.5,85.3,-,3.8,-,7.06
+55,Robert Arboleda Sao Paulo,30, D(C),,29,2565,1,0.3,47.9,84.8,-,2.6,-,7.06
+56,Fredy Guarín Vasco da Gama,35, M(CR),,9(3),800,-,1.3,22.5,76.7,0.9,2.2,-,7.06
+57,Pedro Henrique Athletico Paranaense,26, D(C),,13,1143,-,0.1,54.2,86.7,-,4.8,-,7.06
+58,Luan Gremio,28, AM(CLR),FW,15(5),1320,6,1.6,37.2,84.9,0.8,1.9,-,7.06
+59,Reinaldo Sao Paulo,32, D(L),M(L),35,3114,1,1.4,37.4,79.3,1.1,1.6,-,7.06
+60,Bruno Pacheco Chapecoense AF,29, D(L),,33,2931,5,1.3,32.3,77.2,1.7,1.6,-,7.05
+61,Matheus Henrique Gremio,23, M(C),,20,1766,1,1,74.2,91.5,-,3.7,-,7.05
+62,Dedé Cruzeiro,33, D(C),,20,1693,-,0.2,44.7,82.0,-,2.5,-,7.05
+63,Rafinha Flamengo,36, D(CLR),M(R),18(2),1569,5,1.5,56.4,89.2,0.8,3.9,-,7.04
+64,Everaldo Chapecoense AF,30, AM(L),FW,33,2970,1,1.2,21.5,68.6,0.2,0.9,0.1,7.03
+65,Diego Cavalieri Botafogo RJ,38, GK,,8(1),765,-,-,20.4,72.3,-,4.8,-,7.03
+66,Ricardo Bueno Ceara,34, FW,,4(2),341,2,0.7,13.3,82.5,-,-,-,7.03
+67,Gerson Flamengo,24, M(CLR),,23(4),2005,3,0.9,48.2,88.6,-,1.5,-,7.02
+68,Tinga Fortaleza,28, D(CR),,19(4),1820,2,1,32.4,73.4,0.9,2.7,-,7.02
+69,Réver Atletico MG,36, D(C),,28,2434,1,0.4,42.2,85.4,-,3.9,-,7.01
+70,Yimmi Chara Atletico MG,30, AM(CLR),,17(1),1359,1,1.3,38.3,88.1,0.4,0.7,0.1,7.0
+71,Luiz Otávio Ceara,33, D(C),,26,2264,1,0.1,38.5,87.5,-,2.5,-,7.0
+72,Rafinha CS Alagoano,34, D(L),,6(4),623,1,1.9,19.8,80.8,2.3,1.1,-,7.0
+73,Nino Paraíba Bahia,35, D(R),M(R),28(1),2501,4,1.2,32.9,70.9,1,1.4,-,7.0
+74,Juninho Valoura Fortaleza,35, M(C),,30(2),2713,6,1.7,53.5,87.7,1.1,6.6,-,6.99
+75,Willian Arão Flamengo,29, D(C),M(C),33(2),2938,5,0.9,52.3,89.2,0.1,3.2,0.1,6.99
+76,Evanilson Fluminense,22, FW,,1(2),103,-,-,10.0,66.7,-,-,-,6.99
+77,Rodrigo Internacional,32, DMC,,27,2374,2,0.6,64.9,88.8,0.1,4.4,-,6.99
+78,Gustavo Henrique Santos FC,28, D(C),,32,2758,-,0.1,56.9,86.9,-,4.6,0.1,6.98
+79,Adilson Atletico MG,34, D(C),DMC,4(1),364,-,0.4,62.6,95.8,-,1.4,-,6.98
+80,Geromel Gremio,36, D(C),,20,1762,-,0.2,48.3,85.8,0.1,3.4,-,6.98
+81,Walce Sao Paulo,22, Defender,,4,360,-,0.3,58.8,86.0,-,5.3,-,6.98
+82,Tadeu Goias,29, GK,,37,3298,-,0.1,22.0,58.0,-,4.9,-,6.97
+83,Marcelo Boeck Fortaleza,36, GK,,7(1),595,-,-,23.6,75.7,-,5.1,-,6.97
+84,Rildo Chapecoense AF,32, AM(LR),FW,3(1),275,-,1.5,24.0,84.4,-,1.0,-,6.97
+85,Luciano Gremio,28, AM(CR),FW,16(3),1241,3,0.8,25.3,80.4,0.2,1.0,0.1,6.97
+86,Roberto Internacional,23, D(C),,5,450,-,0.6,49.0,83.7,-,3.8,-,6.97
+87,Eduardo Sasha Santos FC,29, AM(CLR),FW,34(3),2977,3,1,20.4,80.2,0.1,0.5,0.1,6.97
+88,Luan Garcia Palmeiras,28, D(C),,20(1),1805,-,0.2,37.4,82.7,0.1,2.7,-,6.97
+89,Diogo Palmeiras,29, D(L),M(L),33,2970,2,0.8,39.8,84.5,0.5,1.1,-,6.97
+90,Abner Felipe Athletico Paranaense,25, D(L),,2(2),217,2,1.3,22.0,80.7,1,-,-,6.97
+91,Rafael Cruzeiro,32, GK,,3,270,-,-,23.7,60.6,-,6.7,-,6.97
+92,Maicon Gremio,36, DMC,,15,1173,3,1.5,93.9,92.8,0.1,6.4,-,6.97
+93,Bruno Alves Sao Paulo,30, D(C),,33,2926,1,0.3,42.5,86.2,-,1.6,-,6.97
+94,Thiago Heleno Athletico Paranaense,33, D(C),,16,1420,-,0.4,60.4,88.7,-,5.5,0.1,6.97
+95,Rafael Vaz Goias,33, D(C),,30(2),2789,1,0.6,38.2,72.9,-,5.4,0.1,6.96
+96,Patrick Internacional,29, M(CL),,20(4),1743,1,1,35.6,84.7,0.3,0.7,-,6.96
+97,Léo Sena Goias,25, M(C),,31(2),2480,2,1.1,41.6,85.6,0.2,4.5,0.1,6.96
+98,Alexander Vasco da Gama,22, Goalkeeper,,2,180,-,-,18.0,83.3,-,2,-,6.95
+99,Santos Athletico Paranaense,31, GK,,28,2520,-,-,30.3,74.4,-,5.3,-,6.95
+100,Zé Rafael Palmeiras,28, M(CLR),,23(4),1730,5,0.6,17.8,81.0,-,0.2,-,6.95
+101,Emerson Santos Internacional,26, D(CR),,10(1),836,-,0.3,47.3,84.4,-,3.5,-,6.95
+102,Paulo Miranda Gremio,33, D(CR),,10(2),946,-,0.1,49.5,87.4,-,3.5,-,6.94
+103,João Paulo Botafogo RJ,30, M(C),,36,2969,2,1.2,47.4,83.4,0.8,2.6,0.1,6.94
+104,William Internacional,27, AM(LR),FW,7(3),516,-,1.0,21.3,81.2,0.3,0.3,-,6.94
+105,Luan Atletico MG,31, M(CLR),,24(4),2092,1,1.3,41.5,82.4,0.4,1.8,0.2,6.93
+106,Juan Cazares Atletico MG,29, AM(CLR),,22(4),1762,1,2.7,37.2,81.8,1.1,1.7,0.1,6.93
+107,Luis Henrique Botafogo RJ,19, M(L),,1(1),123,1,1.0,14.0,82.1,-,-,-,6.93
+108,Gustavo Cuéllar Flamengo,29, DMC,,8(1),710,-,0.7,55.0,92.5,-,2.7,-,6.93
+109,Eduardo Chapecoense AF,34, D(R),,24(2),2167,2,1.4,31.4,71.1,1.6,2.5,-,6.93
+110,Marcos Felipe Fluminense,25, GK,,6,540,-,-,24.8,60.4,-,4.8,-,6.92
+111,Rodrigues Gremio,24, D(C),,7(1),602,1,0.3,40.9,88.4,-,2.5,-,6.92
+112,Nicolás López Internacional,28, AM(CLR),FW,19(6),1594,3,1.6,24.0,83.5,1.2,1.4,-,6.92
+113,Muriel Fluminense,34, GK,,21,1890,-,-,22.6,70.9,-,3.0,-,6.92
+114,Tiago Volpi Sao Paulo,30, GK,,37,3330,-,0.1,25.0,68.6,-,4.8,-,6.91
+115,Roberto Fernández Botafogo RJ,33, GK,,30,2656,-,-,26.8,70.7,-,6.3,-,6.91
+116,Paulão Fortaleza,35, D(C),,11(1),1005,-,-,42.9,86.8,-,3.0,-,6.91
+117,Alex Silva Avai FC,27, D(R),,1,90,-,1,33.0,69.7,-,1.0,-,6.91
+118,Douglas Friedrich Bahia,32, GK,,37,3330,-,0.1,19.9,55.9,-,5.7,-,6.91
+119,Léo Pereira Athletico Paranaense,25, D(C),,29,2582,-,0.5,68.3,86.9,0.1,4.7,-,6.91
+120,Cícero Botafogo RJ,37, M(CLR),,32,2803,1,0.6,52.0,88.8,0.1,2.8,-,6.91
+121,Bruno Cortez Gremio,34, D(L),,21,1814,2,1,40.9,86.2,0.4,0.8,-,6.9
+122,Rossi Vasco da Gama,28, AM(R),,26(3),2240,4,1.2,21.0,64.8,0.7,0.7,-,6.9
+123,Thiago Galhardo Ceara,32, AM(CL),FW,31(3),2675,1,1,20.6,73.1,0.2,0.8,0.1,6.9
+124,Miguel Trauco Flamengo,29, D(L),M(L),5,450,1,1.2,54.0,85.6,0.8,2.0,0.2,6.9
+125,Marrony Vasco da Gama,22, AM(L),FW,30(4),2639,2,0.9,15.6,74.2,-,0.2,-,6.9
+126,Caio Paulista Avai FC,23, AM(LR),,23(3),2021,-,1,26.3,81.0,0.3,0.7,-,6.9
+127,Evandro Santos FC,35, AM(C),,14(4),1101,5,1.5,23.3,84.0,0.2,0.3,-,6.9
+128,Paulo Victor Gremio,34, GK,,28,2520,-,-,16.2,55.9,-,3.2,-,6.9
+129,Pedro Henrique Corinthians,26, D(C),,3,270,-,-,43.3,89.2,-,2.3,-,6.9
+130,Reinier Flamengo,19, AM(C),,8(6),711,2,0.7,15.2,79.3,0.1,0.1,0.1,6.89
+131,Jean Lucas Santos FC,23, AM(C),,8(1),630,1,0.4,36.9,86.7,0.2,2.4,0.2,6.89
+132,Tharlis Chapecoense AF,23, Defender,,3(1),234,-,0.5,31.5,85.7,-,0.8,-,6.89
+133,Victor Atletico MG,38, GK,,10,900,-,-,23.3,51.9,-,5.8,-,6.89
+134,Paulinho Bahia,26, D(L),,2,180,-,1,34.5,69.6,0.5,0.5,-,6.89
+135,Ralf Corinthians,37, DMC,,22(1),1922,-,0.3,36.2,85.6,-,2.0,-,6.88
+136,Henrique Corinthians,35, D(CR),,5,450,-,-,38.8,93.3,-,3.2,-,6.88
+137,Roberto Chapecoense AF,30, D(L),M(L),17,1490,1,0.9,23.8,83.0,0.4,0.6,-,6.88
+138,Wellington Paulista Fortaleza,37, AM(R),FW,28(3),2437,3,0.6,11.6,70.5,0.1,0.4,-,6.88
+139,Weverton Palmeiras,33, GK,,31,2790,-,0.1,18.1,60.4,-,5.2,-,6.87
+140,Luis Orejuela Cruzeiro,26, D(R),,23,1822,-,1.1,37.7,84.5,0.9,1.3,-,6.87
+141,Luiz Adriano Palmeiras,34, AM(L),FW,11(2),901,1,0.8,12.2,80.4,-,0.2,-,6.87
+142,Felipe Alves Fortaleza,33, GK,,32,2827,-,-,40.3,77.9,-,9.8,-,6.87
+143,Rodrigo Dourado Internacional,27, DMC,,1,90,-,-,46.0,82.6,-,1.0,-,6.87
+144,Romarinho Fortaleza,27, AM(CLR),FW,29(3),2299,4,1.2,19.2,84.0,0.3,0.5,0.1,6.87
+145,Carlos Augusto Corinthians,22, D(L),,13(2),1199,-,0.9,37.0,82.0,0.5,1.1,-,6.87
+146,Cleiton Atletico MG,24, GK,,25,2250,-,-,21.5,56.2,-,4.9,-,6.86
+147,Thiago Carleto Ceara,32, D(L),M(L),5,437,-,1.6,45.6,75.9,1.4,2.0,-,6.86
+148,Talles Magno Vasco da Gama,19, AM(CL),FW,12(3),1066,-,0.8,20.3,78.6,0.1,0.3,0.1,6.86
+149,Gilberto Fluminense,28, D(R),M(R),31,2746,2,1.1,40.0,83.1,1.2,0.8,-,6.86
+150,Rithely Internacional,30, DMC,,7(1),560,1,0.4,36.8,87.1,-,2.0,-,6.85
+151,Digão Fluminense,33, D(C),,21,1759,-,-,57.6,92.1,-,2.8,-,6.85
+152,Éverson Santos FC,31, GK,,32,2880,-,0.1,32.0,75.9,-,7.6,-,6.85
+153,Juninho Capixaba Gremio,24, D(L),M(L),16(1),1469,1,0.9,46.4,83.2,0.7,2.2,-,6.85
+154,Camacho Athletico Paranaense,31, DMC,,8(3),697,1,0.8,44.8,88.4,0.4,2.9,0.1,6.85
+155,Michel Gremio,31, D(C),DMC,20(2),1702,1,0.5,56.0,89.2,-,3.3,-,6.85
+156,Yony González Fluminense,27, AM(LR),FW,34,2922,2,1.1,17.3,74.8,0.2,0.1,-,6.85
+157,Bruno Melo Fortaleza,29, D(L),M(L),13(1),1183,3,0.6,33.4,82.3,0.2,2.0,0.1,6.84
+158,Moisés Bahia,26, D(L),,30,2568,2,1,37.3,82.1,0.8,1.2,-,6.84
+159,Diego Alves Flamengo,36, GK,,32,2880,-,-,19.5,74.0,-,5.1,-,6.84
+160,Bruno Fuchs Internacional,22, D(C),,9(1),793,-,0.6,54.3,83.6,0.2,6.7,-,6.84
+161,Celsinho CS Alagoano,33, D(R),,9(3),869,1,0.8,29.3,81.2,0.6,2.8,0.1,6.84
+162,Rodinei Flamengo,29, D(R),,12(5),1122,1,0.6,29.0,84.8,0.2,0.6,-,6.84
+163,Caio Henrique Fluminense,24, D(L),M(CL),35,3150,2,1.5,54.7,88.9,1,1.3,0.1,6.83
+164,Henrique Cruzeiro,36, DMC,,33,2970,-,0.7,55.3,89.5,-,2.2,0.1,6.83
+165,Marcelo Lomba Internacional,34, GK,,34,3021,-,-,19.9,65.1,-,4.4,-,6.83
+166,Dodô Cruzeiro,29, D(L),M(L),14(4),1352,-,0.8,38.6,85.9,0.9,1.4,0.1,6.83
+167,Pablo Marí Flamengo,28, D(C),,22,1980,1,0.2,54.2,87.8,-,3.7,-,6.83
+168,Gilberto Bahia,32, FW,,27(5),2348,3,0.6,13.8,69.7,0.1,0.3,-,6.83
+169,Éderson Cruzeiro,22, DMC,,20(1),1650,-,0.7,31.2,83.2,0.1,1.2,-,6.83
+170,Tchê Tchê Sao Paulo,29, M(CR),,35,3107,-,1.2,48.1,89.7,0.1,1.1,-,6.82
+171,Fernando Miguel Vasco da Gama,36, GK,,30,2656,-,-,20.3,51.2,-,5.5,-,6.82
+172,Matheus Ferraz Fluminense,36, D(C),,7,572,-,0.1,49.9,88.8,-,1.3,-,6.82
+173,Richard Vasco da Gama,27, DMC,,25,2201,1,0.4,46.0,86.7,-,2.6,-,6.82
+174,Jonathan Athletico Paranaense,35, D(R),M(R),6(1),497,-,1.3,38.4,84.8,0.7,2.7,-,6.82
+175,Leonardo Gomes Gremio,25, D(R),,9,810,-,0.6,59.0,86.4,0.8,1.0,-,6.82
+176,Marquinhos Atletico MG,22, AM(L),,7(5),670,3,1.1,16.8,78.1,0.4,0.3,-,6.82
+177,Jonathan Gómez CS Alagoano,31, AM(CR),,25(1),2167,3,1.5,29.8,81.0,0.5,1.7,0.2,6.82
+178,João Paulo Avai FC,31, AM(CL),FW,22(6),2086,-,1.6,37.9,82.6,0.5,1.6,0.1,6.82
+179,Mateus Vital Corinthians,23, AM(CLR),,21(10),1967,2,0.7,25.1,90.4,0.2,0.8,-,6.82
+180,Fernando Costanza Botafogo RJ,22, D(R),,19(3),1682,1,0.4,30.6,79.5,0.2,1.1,-,6.82
+181,David Duarte Goias,26, D(C),,7,541,-,0.3,27.7,81.4,0.1,1.9,-,6.82
+182,Giovanni Augusto Goias,32, AM(CLR),FW,10(2),779,1,1.2,23.3,74.6,0.5,1.7,0.1,6.81
+183,Khelven Athletico Paranaense,20, D(R),,4(1),403,-,1.2,34.4,82.0,1.4,1.6,-,6.81
+184,Ernando Bahia,33, D(CLR),,8,720,-,0.1,29.6,82.7,-,1.4,-,6.81
+185,Heitor Rodrigues Internacional,21, D(R),,20,1748,1,0.8,42.7,82.7,0.9,2,-,6.81
+186,Filipe Luís Flamengo,36, D(L),,15(1),1273,-,0.6,54.4,86.5,0.4,2.1,0.1,6.81
+187,Clayson Corinthians,26, AM(LR),FW,22(10),2016,7,1.3,25.3,80.3,0.9,0.5,-,6.81
+188,Rafael Moura Goias,38, FW,,19(4),1604,1,0.7,16.0,63.6,-,0.3,-,6.81
+189,Isaque Gremio,24, AM(C),FW,1(1),101,-,-,20.0,77.5,-,-,-,6.81
+190,Zeca Internacional,27, D(LR),,19(1),1701,-,0.8,50.1,87.5,0.7,2.9,-,6.8
+191,Gabriel Costa Botafogo RJ,26, D(C),,34,3003,1,0.1,55.9,88.5,-,4.4,-,6.8
+192,Felipe Fortaleza,27, DMC,,30,2665,1,0.8,48.3,85.0,-,3.4,-,6.8
+193,Matheus Savio CS Alagoano,24, AM(L),,7(1),653,-,1.4,24.1,78.2,1,1.1,-,6.8
+194,Guga Atletico MG,23, D(R),M(R),18,1551,4,1.3,40.5,80.2,1,1.1,-,6.8
+195,Gilberto Júnior Goias,33, DMC,,18(2),1602,-,0.4,39.9,88.7,-,0.9,0.1,6.8
+196,Gil Corinthians,34, D(C),,29,2610,-,0.1,44.8,88.9,-,2.1,-,6.8
+197,Anderson Martins Sao Paulo,34, D(C),,10(1),897,-,-,43.3,87.8,-,2.6,-,6.8
+198,Diego Souza Botafogo RJ,36, AM(CL),FW,30(2),2628,1,1.1,23.8,77.9,0.1,0.2,-,6.8
+199,Nino Fluminense,24, D(C),,36,3239,1,0.3,49.6,89.1,-,1.8,-,6.8
+200,Gabriel Dias Fortaleza,27, D(R),DMC,25(3),2212,2,0.4,19.4,80.7,0.3,0.6,-,6.8
+201,Marcinho Fortaleza,26, AM(L),FW,6(2),472,2,1.3,10.6,76.5,0.1,0.1,0.1,6.8
+202,Igor Fernandes Avai FC,29, D(L),,28,2432,-,0.9,38.3,84.2,0.6,1.3,-,6.79
+203,Abner Athletico Paranaense,21, D(L),M(L),6(2),545,1,0.8,30.9,78.5,0.9,0.9,-,6.79
+204,Húdson Sao Paulo,33, D(R),DMC,11(5),1046,1,0.6,36.0,84.9,0.3,1.8,-,6.79
+205,Danilo Barcelos Vasco da Gama,30, D(L),M(CL),18(3),1662,2,1.9,30.6,78.3,2.1,1.6,-,6.79
+206,Gustavo Scarpa Palmeiras,27, D(L),M(CLR),19(8),1572,4,1.4,24.8,80.0,1,1.7,0.1,6.79
+207,Rodrigo Caio Flamengo,28, D(CR),DMC,28(1),2419,-,0.1,47.7,90.2,-,2.1,-,6.79
+208,Betão Avai FC,38, D(C),,28,2493,-,0.3,44.6,82.0,-,3.1,-,6.78
+209,Iago Maidana Atletico MG,25, D(C),,7,630,-,0.1,30.4,82.2,-,1.3,-,6.78
+210,Gustavo Campanharo Chapecoense AF,29, M(C),,20(5),1607,1,1.1,29.6,89.4,-,1.0,-,6.78
+211,Leo Cittadini Athletico Paranaense,27, M(CLR),,16(5),1326,1,1.2,26.4,89.4,-,0.7,-,6.78
+212,Thonny Anderson Athletico Paranaense,23, AM(C),FW,16(7),1375,4,0.9,19.8,69.5,0.1,0.5,-,6.78
+213,Danielzinho Fluminense,25, M(CR),,28(2),2339,3,1.8,61.8,89.1,0.9,1.8,0.2,6.78
+214,Cássio Corinthians,34, GK,,32,2860,-,-,26.5,67.2,-,8.2,-,6.78
+215,Alexandre Pato Sao Paulo,32, M(CLR),FW,18(2),1444,-,1,17.1,76.6,0.2,0.3,0.1,6.78
+216,João Pedro Fluminense,20, FW,,18(7),1696,1,0.8,17.2,77.9,0.2,0.5,-,6.78
+217,Yago Pikachu Vasco da Gama,29, D(R),M(CLR),36,3189,2,1.1,36.0,82.4,0.8,1.8,-,6.78
+218,Klaus Internacional,27, D(C),,6(4),742,-,-,42.3,86.3,-,2.5,-,6.78
+219,Allan Fluminense,24, DMC,,28,2501,1,0.7,79.7,90.4,0.1,5.4,-,6.78
+220,Ganso Fluminense,32, AM(C),,27(2),2256,-,1.6,59.4,90.2,0.2,1.4,-,6.78
+221,Fabinho Ceara,34, D(R),DMC,35,3123,-,0.5,42.8,82.4,0.1,2.3,-,6.78
+222,Lourenço Avai FC,24, D(R),M(R),25(2),2117,3,1,26.7,72.6,0.9,0.9,-,6.77
+223,Felipe Aguilar Santos FC,28, D(C),,17,1437,-,0.1,48.8,88.7,-,2.2,-,6.77
+224,Egídio Cruzeiro,35, D(L),,24(1),2050,1,1,43.0,80.5,0.8,2.0,-,6.77
+225,Tiepo Chapecoense AF,23, GK,,26,2251,-,-,23.5,57.0,-,7.3,-,6.77
+226,Lucas Romero Cruzeiro,27, D(R),DMC,8,698,-,0.6,60.5,89.0,0.1,1.1,-,6.77
+227,Ricardinho Ceara,35, M(C),,31(3),2664,6,1.6,42.7,80.9,1.1,3.5,0.1,6.77
+228,Lucas Perri Sao Paulo,23, Goalkeeper,,1,90,-,-,30.0,63.3,-,3.0,-,6.77
+229,Oswaldo Henríquez Vasco da Gama,32, D(C),,27,2430,1,0.2,38.3,84.7,-,3.4,-,6.77
+230,Élber Bahia,29, AM(CLR),FW,24(7),1868,2,1.2,22.9,78.3,0.2,0.9,0.2,6.77
+231,Victor Ferraz Santos FC,33, D(LR),M(R),21(4),1949,2,0.7,43.8,84.6,0.3,0.9,-,6.77
+232,Rafael Sóbis Internacional,36, AM(CLR),FW,12(8),1064,3,1.5,21.8,87.2,0.8,1.3,0.1,6.77
+233,Alex Santana Botafogo RJ,26, M(C),,19(5),1685,1,0.5,24.5,88.1,-,0.7,-,6.77
+234,Flávio Bahia,25, M(C),,27(1),2334,1,0.9,42.5,88.8,0.2,1.9,-,6.76
+235,Castán Vasco da Gama,35, D(C),,22,1975,1,0.3,33.8,84.7,-,3.0,-,6.76
+236,Lincoln Flamengo,20, FW,,4(7),390,1,0.7,8.8,77.3,-,0.1,-,6.76
+237,Gabriel Corinthians,29, DMC,,16(1),1377,-,0.8,57.2,89.8,0.1,2.7,0.1,6.76
+238,Thiago Neves Cruzeiro,36, AM(CR),FW,25(3),2113,5,1.5,34.6,83.8,0.7,1.1,0.1,6.76
+239,Daniel Guedes Goias,27, D(R),,13(2),1219,-,0.9,27.9,81.3,1.1,2.2,-,6.76
+240,Gilson Botafogo RJ,35, D(L),M(CL),18,1510,1,1.2,39.4,87.0,1.1,1.6,-,6.76
+241,Igor Vinícius Sao Paulo,24, D(R),M(R),13(6),1197,2,0.6,34.8,86.1,0.3,0.5,-,6.76
+242,Bryan Chapecoense AF,25, D(R),,6(3),557,-,0.6,25.7,77.9,0.7,0.7,-,6.75
+243,Alan Costa CS Alagoano,31, D(C),,26,2278,-,0.2,35.8,82.9,-,3.4,-,6.75
+244,Fabricio Bruno Cruzeiro,25, D(C),,19,1710,-,0.3,44.7,85.6,-,2.9,-,6.75
+245,Iury Avai FC,29, D(R),,9(1),721,1,0.9,31.8,76.1,1.2,1.1,0.1,6.75
+246,Carlinhos Fortaleza,34, D(L),M(L),27,2429,2,0.9,31.1,78.9,0.5,1.1,-,6.75
+247,Douglas Augusto Bahia,24, DMC,,7,595,-,1.4,39.0,89.4,-,0.7,0.3,6.75
+248,Gum Chapecoense AF,35, D(C),,20,1743,-,0.1,36.0,77.9,-,3.9,-,6.75
+249,Júlio César Gremio,35, GK,,8,720,-,-,18.0,43.8,-,3.4,-,6.74
+250,Andrés D'Alessandro Internacional,40, AM(CR),,15(8),1514,3,2,54.6,84.6,1.5,3.6,0.3,6.74
+251,Felipe Ceara,31, AM(CLR),,17(7),1415,2,1.7,26.1,79.9,0.8,1.4,-,6.74
+252,Léo Avai FC,30, D(R),M(R),15(3),1314,2,0.8,29.0,75.5,0.7,1.2,-,6.74
+253,Santiago Tréllez Internacional,31, AM(R),FW,4,297,-,0.5,16.8,68.7,-,0.3,-,6.74
+254,João Lucas Ceara,30, D(L),,31(1),2770,-,1,36.2,76.8,1,1.7,-,6.74
+255,Hernanes Sao Paulo,36, M(C),,13(12),1243,4,1,20.6,84.9,0.4,0.7,0.1,6.74
+256,Natanael Pimienta Internacional,30, D(L),M(L),7,547,-,-,31.9,81.2,0.6,2.7,-,6.73
+257,Carlinhos CS Alagoano,34, D(L),M(L),26,2275,-,1.1,32.4,80.3,0.7,1.4,-,6.73
+258,Samuel Xavier Ceara,31, D(R),,33,2958,3,1,43.3,82.2,0.5,1.7,-,6.73
+259,Juninho Bahia,26, D(CL),,27,2430,-,0.1,43.7,81.0,-,2.6,-,6.73
+260,Manoel Corinthians,31, D(C),,31,2790,-,0.1,50.4,87.9,-,4.4,-,6.73
+261,Vitor Bueno Sao Paulo,27, AM(CLR),FW,18(10),1653,1,0.6,24.1,82.4,0.1,0.8,-,6.73
+262,Thalles Goias,23, AM(C),,6(4),634,1,2,28.0,89.6,1.4,1.0,-,6.73
+263,Fabio Sanches Goias,30, D(C),,25,2250,-,0.1,27.6,84.8,-,1.2,-,6.73
+264,Diego Tardelli Gremio,36, AM(CLR),FW,23(6),1960,1,0.9,32.4,85.2,0.1,0.7,-,6.73
+265,Alerrandro Atletico MG,21, FW,,6(4),557,1,0.7,11.4,76.3,-,0.3,-,6.73
+266,Nílton CS Alagoano,34, DMC,,12,893,-,0.3,28.8,78.6,0.1,1.6,-,6.72
+267,Orinho Fluminense,26, Defender,,3(2),236,-,0.8,24.0,84.2,0.6,0.4,-,6.72
+268,Fernando Prass Palmeiras,43, GK,,3,270,-,-,20.7,72.6,-,6.3,-,6.72
+269,Diego Pituca Santos FC,29, DMC,,31(4),2790,1,1,50.5,85.5,0.1,2.8,-,6.72
+270,Diego Flamengo,36, M(CLR),,10(6),888,1,1.4,37.8,88.1,0.5,1.5,-,6.72
+271,Diego Sao Paulo,22, D(C),,0(1),38,-,-,10.0,100.0,-,-,-,6.72
+272,Tiago Alves Ceara,37, D(C),,19(2),1747,1,0.2,35.0,82.0,-,2.2,-,6.72
+273,Júnior Urso Corinthians,32, M(CR),,26(1),2137,-,0.6,35.0,87.0,-,0.8,-,6.72
+274,Osvaldo Fortaleza,34, AM(CLR),FW,22(10),1726,5,0.7,13.3,77.7,0.3,0.4,-,6.72
+275,Pedro Fluminense,24, FW,,7(3),628,-,0.8,12.0,76.7,-,0.2,0.1,6.72
+276,Yuri Fluminense,27, D(C),DMC,21(4),1812,-,0.6,61.9,91.0,-,2.8,-,6.71
+277,Patric Atletico MG,32, D(LR),M(R),23(1),2049,2,1,42.0,80.4,0.6,1.4,0.1,6.71
+278,Jefferson Goias,24, D(L),,31(2),2651,2,1,31.5,78.7,0.6,1.8,-,6.71
+279,Nonato Internacional,23, AM(C),,20(6),1737,1,0.7,32.5,88.3,0.1,0.9,-,6.71
+280,David Cruzeiro,26, AM(CLR),FW,23(10),2025,2,1.2,24.1,83.4,0.3,0.6,0.1,6.71
+281,Míchel Macedo Corinthians,31, D(R),,9(1),697,-,0.6,36.1,85.9,0.6,0.7,-,6.71
+282,Nenê Fluminense,40, AM(CLR),FW,19(6),1619,2,2,32.8,79.1,1.8,2.0,-,6.71
+283,Edenílson Internacional,31, D(R),M(CLR),28(2),2473,2,0.9,49.0,88.0,0.2,1.6,-,6.7
+284,Pepê Aquino Gremio,24, AM(L),,14(18),1680,3,0.6,18.1,83.4,0.2,0.2,-,6.7
+285,Lucas Frigeri Avai FC,32, Goalkeeper,,4,360,-,-,24.8,60.6,-,4.5,-,6.7
+286,Fábio Santos Atletico MG,36, D(L),,29(1),2679,1,0.9,43.9,85.4,0.5,1.2,-,6.7
+287,João Vitor CS Alagoano,33, M(CLR),,20,1702,-,1,43.2,88.3,0.1,2.3,-,6.7
+288,Vladimir Avai FC,32, GK,,34,3016,-,-,22.1,66.2,-,4.1,-,6.7
+289,Edu Dracena Palmeiras,40, D(C),,6,540,-,0.2,28.5,86.0,-,1.2,-,6.7
+290,Marcos Paulo Fluminense,20, AM(L),FW,16(8),1397,4,1.3,22.0,80.5,-,0.4,0.1,6.7
+291,Camilo Chapecoense AF,35, AM(CLR),FW,25(3),2058,4,2.1,26.3,80.7,1.1,1.7,-,6.7
+292,Antônio Carlos Palmeiras,28, D(C),,8(1),738,-,0.1,27.3,82.1,-,1.9,-,6.7
+293,Léo Duarte Flamengo,25, D(C),,7,600,-,-,35.3,90.3,0.1,0.3,-,6.69
+294,Marcinho Botafogo RJ,25, D(R),M(R),23(2),2102,4,1.3,39.9,81.6,1.2,3.1,-,6.69
+295,Giovanni Bahia,32, D(L),M(CL),8(2),757,-,0.8,37.4,83.4,0.4,1.4,-,6.69
+296,Thuler Flamengo,22, D(C),,10(3),1039,-,-,35.9,86.1,-,1.2,-,6.69
+297,Andrey Vasco da Gama,23, M(C),,9(8),832,1,0.6,25.9,84.8,-,1.1,0.1,6.69
+298,Marllon Corinthians,29, D(C),,4,360,-,-,54.5,89.0,-,2.8,-,6.69
+299,João Pedro Bahia,25, D(R),M(C),11(1),890,-,1,25.1,81.7,0.3,0.7,-,6.69
+300,Adriano Athletico Paranaense,37, D(CLR),M(L),7(4),609,1,0.7,33.3,80.3,0.7,1.9,-,6.69
+301,Rafael Galhardo Gremio,30, D(R),,15(1),1180,3,0.6,37.5,87.0,0.4,1.0,-,6.69
+302,Fábio Cruzeiro,41, GK,,35,3150,-,-,22.2,66.2,-,5.8,-,6.69
+303,Diogo Silva Ceara,35, GK,,36(1),3285,-,-,20.6,57.0,-,4.6,-,6.68
+304,Thaciano Gremio,26, M(C),,13(9),1318,1,0.5,27.7,87.7,-,0.9,-,6.68
+305,Camilo Internacional,35, AM(CLR),FW,1,55,-,-,25.0,84.0,1,1.0,-,6.68
+306,Renan Lodi Athletico Paranaense,23, D(L),M(L),3,262,-,1,42.3,88.2,0.7,2.3,-,6.68
+307,Jones Carioca Avai FC,33, FW,,0(3),55,-,1,10.3,80.6,0.3,1.0,-,6.68
+308,Leandro Ceara,26, AM(LR),,15(11),1286,2,0.4,15.2,73.9,0.4,0.1,-,6.67
+309,Leandro Barcia Goias,29, AM(LR),FW,32(3),2794,3,0.6,13.9,66.9,0.2,0.2,-,6.67
+310,Pedro Castro Avai FC,28, M(C),,27,2312,-,0.7,44.4,83.3,0.1,3.3,-,6.67
+311,Tailson Santos FC,22, AM(R),,6(5),509,-,0.3,14.6,78.3,0.4,0.4,-,6.67
+312,Léo Moura Gremio,43, D(R),M(CR),17(2),1483,1,0.8,56.2,89.7,0.4,2.6,-,6.66
+313,Márcio Azevedo Athletico Paranaense,35, D(L),,20(6),1869,3,1.3,37.8,84.9,0.9,1.7,-,6.66
+314,Kayke Goias,33, FW,,18(1),1495,3,1.0,17.4,80.9,0.1,0.4,0.1,6.66
+315,Valdo Ceara,29, D(C),,28(2),2513,1,0.1,30.8,84.8,-,1.5,-,6.66
+316,Henrique Vasco da Gama,27, D(L),,20(1),1710,-,0.8,32.0,82.1,0.5,0.7,-,6.66
+317,Pedro Rocha Cruzeiro,27, AM(CLR),FW,17(6),1476,2,0.7,23.0,75.4,0.3,0.3,-,6.66
+318,Jonas Toró Sao Paulo,22, AM(LR),,11(6),953,1,1.0,15.0,78.8,0.2,0.5,0.1,6.66
+319,Marcos Júnior Vasco da Gama,26, M(C),,18(9),1701,-,1.2,29.6,82.7,0.1,1.3,-,6.66
+320,Matheus Fernandes Palmeiras,23, DMC,,6(5),538,-,0.6,23.5,84.1,-,0.8,-,6.65
+321,Richard Franco Avai FC,29, M(C),,26(1),2286,1,0.7,32.9,73.5,0.1,0.9,0.1,6.65
+322,Raúl Vasco da Gama,25, D(R),DMC,28(2),2463,3,0.9,35.5,83.5,0.3,2.6,-,6.65
+323,Leonardo Silva Atletico MG,42, D(C),,14(4),1326,-,0.4,30.3,84.1,0.1,1.3,-,6.65
+324,Alison Santos FC,28, D(C),DMC,15(8),1490,1,0.4,31.1,83.2,-,1.8,-,6.65
+325,Felippe Cardoso Ceara,23, FW,,14(4),1288,1,1.1,13.1,77.9,0.1,0.2,-,6.65
+326,Lucas Fonseca Bahia,36, D(C),,35,3114,1,0.1,37.1,84.3,-,2.7,-,6.65
+327,Arthur Gomes Chapecoense AF,23, AM(CLR),,18(12),1918,-,0.9,18.3,82.5,0.3,0.4,-,6.65
+328,Lima Ceara,25, AM(LR),,14(1),1073,1,0.8,23.4,83.8,0.1,0.3,-,6.64
+329,Jackson Fortaleza,31, D(C),,11,914,-,-,41.3,83.5,-,4.5,-,6.64
+330,Rafinha Goias,29, Midfielder,,3(7),335,-,0.6,11.7,82.1,0.7,0.4,-,6.64
+331,Marcelo Athletico Paranaense,29, AM(CR),FW,19(11),1878,2,0.6,14.1,76.5,0.2,0.4,-,6.64
+332,Paulinho Oliveira Avai FC,33, D(L),,6,511,-,1.8,30.3,81.3,1.8,1.0,-,6.64
+333,Jucilei Sao Paulo,33, D(C),DMC,4,223,-,1,49.3,93.4,-,1.8,-,6.64
+334,Liziero Sao Paulo,23, DMC,,16(5),1198,1,0.7,39.3,89.0,-,1.4,-,6.63
+335,Henrique Almeida Chapecoense AF,30, AM(LR),FW,10(2),785,-,0.3,15.8,68.9,-,0.5,-,6.63
+336,Matheus Rossetto Athletico Paranaense,25, M(CR),,6(1),549,-,1.1,61.0,91.6,0.7,3.4,-,6.63
+337,Ramon Avai FC,22, Defender,,3,270,-,1.3,29.7,83.1,0.7,3.0,-,6.62
+338,Vitor Hugo Palmeiras,30, D(C),,20,1800,-,0.1,40.5,92.5,-,3.1,-,6.62
+339,Léo Vieira Athletico Paranaense,31, GK,,7,630,-,-,27.0,70.4,-,4.7,-,6.62
+340,Yago Fernando Goias,29, D(C),,13,1170,-,0.2,30.1,88.5,-,1.3,-,6.62
+341,Ricardo Bueno CS Alagoano,34, FW,,17(6),1610,-,0.8,19.1,77.2,0.1,0.5,-,6.62
+342,Franco Di Santo Atletico MG,32, AM(CLR),FW,16(5),1458,1,1.0,12.9,68.1,0.1,0.2,-,6.62
+343,Erick Athletico Paranaense,24, D(R),DMC,7(7),760,-,0.4,25.0,84.6,-,1.6,-,6.62
+344,Diego Torres Chapecoense AF,31, AM(C),,3(10),413,1,1.3,23.1,85.3,1.2,2.4,-,6.62
+345,Mauro Boselli Corinthians,36, FW,,16(6),1358,2,0.6,11.6,73.0,-,0.1,-,6.62
+346,Naldo CS Alagoano,31, DMC,,21(3),1751,3,0.4,25.1,80.8,0.1,1.0,-,6.61
+347,Éverton Sao Paulo,32, D(L),M(CLR),12(4),1064,2,0.9,19.4,74.3,0.4,0.6,-,6.61
+348,Yago Felipe Goias,26, M(CLR),,26(5),2223,2,0.8,28.1,79.3,0.3,2.0,-,6.61
+349,Douglas Chapecoense AF,31, D(C),,26(1),2290,1,0.1,25.0,81.6,-,1.3,-,6.61
+350,Jonathan Copete Santos FC,33, AM(LR),,1,46,-,-,16.0,87.5,-,-,-,6.61
+351,Juan Sao Paulo,19, Forward,,1,52,-,1,6.0,100.0,-,-,-,6.61
+352,Marcelo Hermes Goias,26, D(L),M(L),7(5),732,4,1.3,16.7,75.5,1.4,0.7,-,6.61
+353,Nathan Atletico MG,25, M(CL),,12(8),1139,-,0.5,30.5,85.6,0.1,1.8,-,6.61
+354,Léo Cruzeiro,33, D(C),,18,1620,-,0.2,50.7,89.1,-,2.8,-,6.61
+355,Juan Quintero Fortaleza,26, D(C),,37,3309,-,0.1,45.6,88.9,-,3.1,-,6.61
+356,Everaldo Corinthians,27, AM(CL),,3(6),331,-,0.3,14.0,81.7,0.1,0.6,-,6.61
+357,Raúl Cáceres Vasco da Gama,30, D(R),,7(1),483,-,0.9,23.3,81.7,1,0.8,-,6.61
+358,Joel Carli Botafogo RJ,35, D(C),,25,2250,-,0.1,48.9,83.2,0.1,2.3,-,6.61
+359,Apodi CS Alagoano,34, D(R),M(LR),31(1),2615,1,0.6,15.8,73.5,0.3,0.6,-,6.6
+360,Miguel Figueira Goias,21, AM(C),,0(1),5,-,-,1.0,100.0,-,-,-,6.6
+361,Junior Sornoza Corinthians,27, AM(C),,17(3),1366,1,1.7,32.1,86.3,1.2,2,0.1,6.6
+362,Willian Palmeiras,34, AM(CLR),FW,11(11),1135,1,1,18.0,82.3,0.3,0.7,-,6.59
+363,Pará Flamengo,35, D(LR),M(R),6,531,-,0.3,44.7,83.2,0.5,0.7,-,6.59
+364,Robson Bambu Athletico Paranaense,24, D(C),,7(1),602,-,0.3,48.1,83.9,-,3.6,-,6.59
+365,Ricardo Thalheimer Avai FC,28, D(C),,20(1),1735,-,0.3,42.9,78.7,-,3.7,-,6.59
+366,Janderson Corinthians,22, AM(LR),,10(10),969,1,0.6,15.6,75.9,0.4,0.2,-,6.59
+367,Marquinhos Silva Avai FC,39, D(C),,18(1),1624,-,-,29.5,79.1,-,1.6,-,6.58
+368,Cacá Cruzeiro,22, D(C),,18(2),1727,-,0.2,42.3,90.7,0.1,2.4,-,6.58
+369,Wellington Athletico Paranaense,30, DMC,,28(1),2417,1,0.9,51.6,88.8,-,4,-,6.58
+370,Bochecha Botafogo RJ,25, DMC,,19(3),1500,1,0.8,48.8,87.5,-,2.6,-,6.58
+371,Luan Santos Sao Paulo,22, DMC,,18(5),1608,-,0.3,43.5,87.3,-,1.3,-,6.58
+372,Márcio Araújo Chapecoense AF,37, M(C),,36,3215,-,0.7,41.8,87.8,0.1,2.5,-,6.58
+373,Robinho Cruzeiro,34, M(CR),,22(5),1853,1,2.4,50.1,83.7,1,3.7,0.1,6.58
+374,Rómulo Gremio,31, M(C),,11(3),976,-,0.6,47.4,90.5,0.1,1.3,-,6.58
+375,Luciano Castán CS Alagoano,32, D(C),,34,3060,-,0.2,41.0,84.6,-,3.9,-,6.58
+376,Marco Ruben Athletico Paranaense,35, FW,,19(4),1679,2,0.5,9.2,78.2,-,0.1,-,6.58
+377,Vitinho Athletico Paranaense,22, AM(L),,6(10),696,3,0.8,15.8,79.8,0.3,0.3,-,6.57
+378,Mauricio Ramos Chapecoense AF,36, D(C),,12(5),1099,-,0.1,20.9,80.1,-,1.2,-,6.57
+379,Vágner Love Corinthians,37, FW,,18(10),1758,1,0.8,13.9,78.1,0.1,0.4,-,6.57
+380,Gustavo Corinthians,27, FW,,9(16),1005,2,0.6,9.2,67.1,-,0.1,-,6.57
+381,Edinho Fortaleza,27, AM(R),,20(9),1747,1,0.8,17.3,83.9,0.4,0.3,-,6.57
+382,Yago Rocha Goias,27, D(R),,20(1),1534,-,0.6,22.0,78.8,0.8,0.7,-,6.57
+383,José Welison Atletico MG,26, D(R),DMC,14(4),1334,-,0.3,33.3,80.1,-,2.1,-,6.57
+384,Luanderson Silva Avai FC,32, M(C),,12,948,-,0.2,35.4,87.8,-,2.0,0.1,6.57
+385,Rhodolfo Flamengo,35, D(C),,8(1),684,-,-,39.9,87.5,-,3.8,-,6.57
+386,Alexandre Vasco da Gama,22, Defender,,0(1),45,-,-,20.0,70.0,-,2.0,-,6.56
+387,Cristovam Ceara,31, D(R),,6(2),572,-,0.4,26.6,78.4,0.1,0.8,0.1,6.56
+388,Jonathan Avai FC,22, FW,,13(3),1171,-,0.8,18.4,75.9,-,0.4,-,6.56
+389,Lucas Lima Palmeiras,31, AM(CR),,12(11),1175,4,1.2,25.0,87.7,0.9,1.4,-,6.56
+390,Guilherme Parede Internacional,26, AM(LR),,14(11),1365,3,0.9,15.2,73.4,0.5,0.4,-,6.55
+391,Bruno Silva Fluminense,35, M(CR),,4,351,-,0.8,61.5,89.0,-,1.3,-,6.55
+392,Lucca Bahia,31, AM(LR),FW,10(7),871,-,0.9,20.4,80.7,0.5,1.3,-,6.55
+393,Uendel Internacional,33, D(L),,19(1),1666,2,1,45.4,84.5,0.8,2.1,-,6.55
+394,Ricardo Graça Vasco da Gama,24, D(C),,19,1537,-,0.1,34.8,81.9,-,1.5,-,6.55
+395,César Flamengo,29, GK,,6,538,-,-,14.2,61.2,-,3.3,-,6.55
+396,Fred Cruzeiro,38, FW,,23(7),2207,2,0.6,17.8,70.3,-,0.2,-,6.55
+397,Igor Rabello Atletico MG,26, D(C),,33,2922,1,0.1,35.2,84.9,-,1.7,-,6.54
+398,Bruno Gomes Vasco da Gama,20, DMC,,6(2),437,-,0.1,22.8,84.1,-,0.5,-,6.54
+399,Wellington Silva Internacional,28, AM(CLR),,8(13),918,1,0.6,17.0,79.5,0.2,1.0,-,6.54
+400,Igor Gomes Sao Paulo,22, M(CL),,11(16),1349,2,0.6,26.4,83.7,0.3,0.6,0.1,6.54
+401,Rodriguinho Cruzeiro,33, M(CL),FW,4(1),297,-,0.8,27.0,83.7,-,0.6,0.2,6.54
+402,Ronei Chapecoense AF,23, Midfielder,,0(1),16,-,1,15.0,66.7,-,-,-,6.54
+403,Pablo Sao Paulo,29, AM(CLR),FW,13,1031,1,0.8,16.2,74.8,-,0.2,-,6.54
+404,André Luis Fortaleza,24, AM(CR),FW,17(7),1388,-,0.5,9.0,76.3,-,0.3,-,6.54
+405,Julinho Avai FC,35, Defender,,7(3),527,-,0.5,20.7,79.2,0.6,0.8,-,6.54
+406,Claudio Winck Vasco da Gama,27, D(R),M(R),2,180,-,-,36.0,68.1,0.5,2.5,-,6.54
+407,Bruno Silva Internacional,35, M(CR),,7(2),592,-,0.4,47.3,90.4,-,2.7,-,6.53
+408,Léo Sao Paulo,25, D(CL),,3(2),282,-,0.6,22.8,82.5,0.8,0.2,-,6.53
+409,Erik Botafogo RJ,27, AM(CLR),FW,10,828,1,0.9,21.4,83.6,-,0.2,-,6.53
+410,Fellipe Bastos Vasco da Gama,31, DMC,,5(9),573,-,0.6,25.6,86.0,0.1,1.1,-,6.53
+411,Braian Romero Athletico Paranaense,30, AM(LR),FW,10(6),916,1,0.8,15.4,74.8,0.2,0.1,0.1,6.52
+412,Raphael Veiga Palmeiras,26, AM(CLR),,8(11),774,2,0.6,14.8,88.7,0.5,0.5,-,6.52
+413,Thiago Santos Palmeiras,32, DMC,,11(7),1081,-,0.3,24.8,83.2,-,1.9,-,6.52
+414,Gerson Guimarães Ferreira Junior CS Alagoano,29, D(C),,9,810,-,0.1,22.7,83.3,-,1.7,-,6.52
+415,Bruno Nazário Athletico Paranaense,26, AM(CR),,6(8),659,-,1.0,18.4,82.2,-,0.8,-,6.52
+416,Vina Atletico MG,30, M(C),FW,13(11),1232,2,1.3,30.0,85.0,0.4,2.7,-,6.52
+417,Walter Montoya Gremio,28, AM(CR),,3,217,1,0.3,40.0,86.7,0.3,1.7,-,6.52
+418,Fernando Sobral Ceara,26, M(CLR),,8(5),804,-,0.9,26.0,73.7,0.1,0.5,-,6.51
+419,André Gremio,31, FW,,10(7),893,2,0.6,13.4,78.5,0.1,0.3,-,6.51
+420,Rodolfo Fluminense,30, GK,,5(1),471,-,0.2,23.0,74.6,-,3.8,-,6.51
+421,William Oliveira Ceara,29, DMC,,11(3),912,-,0.1,21.4,86.3,-,0.7,-,6.5
+422,Rafael Pereira Chapecoense AF,36, D(C),,15(2),1315,-,0.3,32.9,84.8,-,3.0,-,6.5
+423,Matheus Frizzo Gremio,23, Midfielder,,1,83,-,1.0,47.0,91.5,1,1.0,-,6.5
+424,Vinícius Locatelli Chapecoense AF,23, Midfielder,,4(8),440,1,0.8,19.1,93.0,0.3,1.0,0.1,6.5
+425,Dawhan CS Alagoano,25, D(R),DMC,26(6),2454,-,0.6,32.9,86.1,0.2,1.3,-,6.5
+426,Fernandão Bahia,34, FW,,11(21),1085,-,0.4,8.8,60.9,-,0.2,-,6.5
+427,Renato Chapecoense AF,31, D(R),M(R),10(5),759,-,0.6,12.3,71.9,0.4,0.4,-,6.5
+428,Ronaldo Flamengo,25, DMC,,2(1),181,1,0.7,31.7,90.5,-,1.3,-,6.5
+429,Felipe Jonatan Santos FC,23, D(L),M(CL),12(14),1139,-,0.5,13.4,78.5,0.2,0.6,-,6.49
+430,Héctor Bustamante CS Alagoano,26, AM(R),,14(5),1175,1,0.7,17.7,79.8,0.7,0.7,-,6.49
+431,Igor Julião Fluminense,27, D(LR),,8(7),792,-,0.8,20.3,82.0,0.6,0.4,-,6.49
+432,Felipe Araruna Fortaleza,25, D(R),DMC,7(2),625,-,0.9,29.0,84.3,0.1,2.1,-,6.48
+433,Miguel Borja Palmeiras,28, FW,,3(6),346,1,0.4,9.7,72.4,0.2,0.1,-,6.48
+434,Neilton Internacional,27, AM(CLR),FW,9(7),766,-,0.8,23.6,80.9,0.3,0.9,-,6.48
+435,Lucas Hernández Atletico MG,29, D(L),,5,447,-,0.6,37.0,78.9,0.4,1.2,-,6.48
+436,Nenê Bonilha Fortaleza,29, M(C),,2(4),262,-,0.5,22.5,85.2,0.3,0.8,-,6.48
+437,Marinho Gremio,31, AM(CLR),FW,0(2),47,-,-,10.5,71.4,-,-,-,6.48
+438,Werley Vasco da Gama,33, D(C),,7(1),666,-,0.3,41.1,90.3,-,2,-,6.48
+439,Luiz Fernando Botafogo RJ,25, AM(LR),,27(5),2129,-,0.7,16.8,81.8,0.3,0.5,-,6.48
+440,Dodi Fluminense,25, DMC,,2(7),365,-,0.2,19.3,90.8,-,0.4,-,6.48
+441,Luan Peres Santos FC,27, D(CL),,8(1),581,-,0.1,36.7,83.9,-,2.3,-,6.48
+442,João Carlos CS Alagoano,33, GK,,10(1),903,-,-,20.9,54.8,-,4.9,-,6.48
+443,Maximiliano López Vasco da Gama,37, FW,,5,418,-,0.4,10.0,64.0,-,0.2,-,6.48
+444,Nenê Sao Paulo,40, AM(CLR),FW,0(2),45,1,0.5,8.5,64.7,0.5,-,-,6.48
+445,Luccas Claro Fluminense,30, D(C),,2,180,-,-,44.0,83.0,-,1,-,6.48
+446,Caique Sá Chapecoense AF,29, D(R),,5,303,-,0.2,24.0,78.3,-,3.2,-,6.47
+447,Paulo André Athletico Paranaense,38, D(C),,4(1),354,-,0.2,48.8,91.4,-,3,-,6.47
+448,Augusto César Chapecoense AF,29, M(CR),,8(5),710,1,0.5,17.1,81.5,0.2,0.5,-,6.47
+449,Bérgson Ceara,30, AM(R),FW,12(10),1137,1,0.4,9.2,70.4,0.1,-,-,6.47
+450,Hyoran Palmeiras,28, M(CLR),,5(7),456,3,0.8,8.5,83.3,-,0.7,-,6.47
+451,Juanfran Sao Paulo,36, D(R),,14(3),1163,2,0.5,30.8,84.7,0.2,0.9,-,6.47
+452,Marquinhos Gabriel Cruzeiro,31, AM(CLR),,20(8),1802,3,1.0,26.3,86.8,0.4,0.9,-,6.46
+453,Mascarenhas Fluminense,23, Defender,,0(1),45,-,1.0,10.0,90.0,3,-,-,6.46
+454,Eduardo Brock Ceara,30, D(C),,5(4),482,-,0.2,30.3,77.7,0.1,2.6,-,6.46
+455,Rogério Bahia,30, AM(LR),FW,1(12),349,-,0.4,7.2,75.5,0.2,-,-,6.46
+456,Brenner Fluminense,21, FW,,2(3),221,-,0.8,18.4,87.0,-,0.8,-,6.46
+457,Kieza Fortaleza,35, AM(L),FW,10(14),1166,-,0.5,10.3,73.3,-,0.1,-,6.46
+458,Bruninho Atletico MG,21, Midfielder,,3(10),400,-,0.4,15.4,85.5,0.2,0.2,-,6.46
+459,Didira CS Alagoano,33, AM(R),,13(1),1000,-,0.9,27.3,80.9,0.4,1.6,0.1,6.45
+460,Patrick Gremio,22, AM(C),,1(17),334,-,0.4,8.4,87.4,0.3,0.2,0.1,6.45
+461,Elton Bahia,31, DMC,,7(2),607,-,0.8,43.1,87.6,-,1.3,-,6.45
+462,Chico Ceara,30, AM(CLR),,8(3),655,1,0.8,20.2,82.4,0.3,0.3,-,6.45
+463,Ribamar Vasco da Gama,24, FW,,15(6),1165,-,0.2,9.9,65.2,-,-,-,6.44
+464,Jean Mota Santos FC,28, D(L),M(CLR),13(14),1268,1,1.0,23.9,82.3,0.6,1.3,0.1,6.44
+465,Bruno Méndez Corinthians,22, D(C),,5(1),522,-,0.2,39.7,81.9,0.2,2.2,-,6.44
+466,Romario Marques Ceara,29, Forward,,0(2),94,-,1.0,9.0,66.7,-,-,-,6.44
+467,Martín Sarrafiore Internacional,24, AM(R),,5(14),649,-,0.8,15.0,77.9,0.2,0.6,-,6.44
+468,Matheus Jesus Corinthians,24, M(C),,2(4),204,-,0.5,16.8,81.2,-,0.2,-,6.44
+469,Pará Santos FC,35, D(LR),M(R),8(3),812,-,0.2,40.2,88.0,-,2,-,6.44
+470,Jonathan Silva Botafogo RJ,23, Defender,,4(1),368,2,0.6,25.8,86.8,0.4,0.6,-,6.43
+471,Yan Sasse Vasco da Gama,24, AM(CLR),,4(2),342,-,0.8,19.5,76.1,0.5,0.2,-,6.43
+472,Yuri Botafogo RJ,25, D(L),,11(6),1083,-,0.6,21.7,81.0,0.2,0.4,-,6.43
+473,Robert Piris da Motta Flamengo,27, DMC,,13(13),1294,-,-,27.3,88.7,-,1.4,-,6.43
+474,Erik Internacional,20, Defender,,0(2),83,-,-,18.5,83.8,-,0.5,-,6.43
+475,Gegê Avai FC,27, AM(L),,6(5),513,-,0.6,19.5,84.1,0.9,0.5,-,6.42
+476,Maicon Bolt Atletico MG,31, AM(LR),FW,2(9),353,2,1.3,14.2,75.6,-,0.1,-,6.42
+477,Edilson Cruzeiro,35, D(R),,9(4),891,-,0.6,34.1,81.7,0.5,2.2,-,6.42
+478,Elicarlos Chapecoense AF,36, DMC,,16(3),1506,-,0.6,26.4,80.6,-,2.4,-,6.42
+479,Alan Ruschel Goias,32, D(L),M(LR),4(5),434,-,0.6,12.0,76.9,0.3,0.3,-,6.42
+480,Geuvânio Atletico MG,29, AM(LR),FW,9(16),993,1,0.7,17.3,81.1,0.1,0.6,-,6.42
+481,Danilo Gomes Sao Paulo,22, AM(LR),,0(1),10,-,-,-,-,-,-,-,6.42
+482,Welinton Cruzeiro,22, Forward,,0(1),21,-,1,5,40,2,1,-,6.42
+483,Elias Atletico MG,36, M(CR),,25,2030,1,0.7,47.6,90.6,-,2.1,-,6.42
+484,Jean Palmeiras,35, D(R),M(CR),4(4),420,1,0.5,25.4,87.2,0.1,0.8,-,6.42
+485,Amaral Chapecoense AF,35, D(C),DMC,10(5),950,-,0.3,23,82.9,-,1.7,-,6.42
+486,Ronaldo Alves CS Alagoano,32, D(C),,5(1),512,-,-,40.7,82.4,-,2.7,-,6.42
+487,Ariel Cabral Cruzeiro,34, DMC,,11(5),771,1,0.6,27.9,81.6,-,1.1,0.1,6.42
+488,Ronaldo Bahia,25, DMC,,10(4),844,-,0.6,28.8,86.1,0.1,1.7,0.1,6.41
+489,Raniel Sao Paulo,25, FW,,8(6),800,1,0.6,9.1,70.1,-,0.1,-,6.41
+490,Jairinho Vasco da Gama,31, Midfielder,,0(4),95,-,0.3,4.0,62.5,-,0.3,-,6.41
+491,Rodrigo Pimpão Botafogo RJ,34, AM(LR),FW,11(8),1008,3,0.5,14.9,68.6,0.3,0.3,-,6.41
+492,Jackson Bahia,31, D(C),,1,90,-,1.0,66.0,86.4,-,8.0,-,6.41
+493,Mateus Gonçalves Ceara,27, AM(LR),,8(16),924,1,0.4,9.7,77.2,-,0.3,-,6.41
+494,Mariano Vázquez Fortaleza,28, Midfielder,,3(3),289,-,0.2,9.7,77.6,-,0.5,-,6.41
+495,Jádson Cruzeiro,28, M(CR),,8(6),759,-,0.6,30.9,90.3,-,2.1,-,6.41
+496,Roger Ceara,36, FW,,0(2),52,-,0.5,6.0,100.0,-,0.5,-,6.4
+497,Jonny Mosquera Avai FC,30, DMC,,4(7),461,-,0.2,25.9,89.5,-,1.0,-,6.4
+498,Euller CS Alagoano,26, D(L),M(L),11(5),896,-,0.7,17.6,80.1,0.6,1.3,-,6.4
+499,Hugo Moura Flamengo,23, DMC,,2,91,1,0.5,11.5,52.2,-,1.0,-,6.4
+500,Lucas Mineiro Vasco da Gama,25, M(C),,8(3),712,-,0.4,31.3,85.8,-,1.8,-,6.4
+501,Darlan Gremio,23, DMC,,6(7),601,1,0.9,37.5,90.8,-,1.4,0.2,6.4
+502,Geovane Goias,32, DMC,,16(1),1386,-,0.5,28.6,82.3,-,1.9,-,6.4
+503,Wellington Nem Fluminense,29, AM(R),,6(12),736,-,0.4,13.0,85.5,-,0.1,-,6.39
+504,Tomás Andrade Athletico Paranaense,25, AM(C),,5(7),478,1,1.1,18.9,79.3,0.6,0.3,-,6.39
+505,Jean Cléber CS Alagoano,31, M(C),,11(13),1234,2,0.3,24.1,83.8,-,1.9,-,6.39
+506,Arthur Caike Bahia,29, AM(LR),FW,9(20),1116,1,0.4,10.4,70.1,0.1,0.2,-,6.39
+507,Alecsandro CS Alagoano,40, FW,,15(5),1172,-,0.3,10.9,65.9,-,0.2,-,6.39
+508,Felipe Gremio,22, Defender,,1,90,-,-,35.0,74.3,-,-,-,6.39
+509,Renê Júnior Corinthians,32, DMC,,0(1),28,-,-,14.0,64.3,-,-,-,6.39
+510,Ricardo Oliveira Atletico MG,41, FW,,15(6),1164,2,0.6,10.3,80.6,-,-,-,6.38
+511,Leonardo Valencia Botafogo RJ,30, AM(CL),,9(12),942,1,0.7,16.6,74.8,0.7,0.7,-,6.38
+512,Ramón Martínez Atletico MG,25, DMC,,8(3),659,-,0.3,30.7,84.6,-,0.6,-,6.38
+513,Matheus Barbosa Avai FC,27, DMC,,14(4),1084,1,0.8,27.0,77.0,0.1,1.4,0.1,6.38
+514,Feliciano Brizuela Avai FC,25, Midfielder,,1(3),171,-,-,10.3,65.9,-,-,-,6.38
+515,Ezequiel Bahia,28, D(R),,5(1),444,-,-,29.7,74.2,0.2,1.2,-,6.37
+516,Mayke Palmeiras,29, D(R),,5(1),391,-,0.3,27.3,86.0,0.2,1.3,-,6.37
+517,Marcos Vinícius Botafogo RJ,26, AM(CL),,1(4),108,-,-,7.6,86.8,-,1,0.2,6.37
+518,Lucas Campos Botafogo RJ,24, Midfielder,,3(7),369,-,0.3,11.2,83.9,-,0.3,-,6.37
+519,Jailson Palmeiras,40, GK,,4,360,-,-,12.0,83.3,-,1.8,-,6.37
+520,Marlone Goias,29, AM(CLR),,4(12),586,-,0.4,16.3,88.1,0.1,1.2,-,6.37
+521,Luanzinho Avai FC,21, AM(L),,4(13),595,1,0.4,15.8,82.5,0.2,0.5,-,6.36
+522,Madson CS Alagoano,35, Midfielder,,4(2),357,-,1,14.7,85.2,0.5,0.2,-,6.36
+523,Shaylon Bahia,24, D(R),M(CR),1(7),186,-,0.8,11.3,82.2,0.4,0.5,-,6.36
+524,Felipe Pires Fortaleza,26, AM(LR),,5(6),539,1,0.7,16.0,79.0,0.4,0.1,-,6.36
+525,Jobson Santos FC,26, DMC,,1(3),121,-,-,23.3,87.1,-,0.8,-,6.36
+526,Lucas Santos Vasco da Gama,22, Midfielder,,0(1),11,-,-,3.0,33.3,1,-,-,6.35
+527,Rhuan Botafogo RJ,21, AM(L),,6(4),594,-,0.4,9.9,75.8,0.1,0.2,-,6.35
+528,Bruno César Vasco da Gama,33, D(L),M(CLR),5(8),510,-,1.2,11.8,77.3,0.8,0.3,-,6.35
+529,Lucas Silva Cruzeiro,28, DMC,,2(4),268,-,0.2,35.2,86.7,0.2,2.5,-,6.35
+530,Pedrinho Athletico Paranaense,22, AM(CL),,1(5),126,-,0.5,8.0,72.9,0.2,0.2,-,6.34
+531,Alejandro Guerra Bahia,36, AM(C),,8(9),697,2,0.8,19.8,81.0,0.2,0.6,0.1,6.34
+532,Renato Kayzer Chapecoense AF,25, FW,,3(11),393,2,0.4,8.8,77.2,0.1,0.1,-,6.34
+533,Igor Cássio Botafogo RJ,23, Forward,,6(6),633,-,0.5,11.4,67.2,0.1,0.1,-,6.34
+534,Roger Carvalho Fortaleza,34, D(C),,12,987,-,-,41.1,86.4,-,2.7,-,6.34
+535,João Lucas Flamengo,23, D(R),,2(4),216,-,-,14.8,75.3,0.2,0.7,-,6.34
+536,Wanderson Bahia,30, D(C),,5(2),487,-,-,32.6,85.5,0.1,1.9,-,6.33
+537,Felipe Ferreira Vasco da Gama,27, Midfielder,,3(6),371,-,0.8,13.6,83.6,0.3,0.4,0.2,6.33
+538,Lucho González Athletico Paranaense,40, M(C),,10(7),823,-,0.5,21.0,78.7,0.1,1.1,-,6.33
+539,Ruan Gremio,22, D(C),,1,90,-,-,30.0,83.3,-,1.0,-,6.33
+540,Willian Farias Sao Paulo,32, DMC,,0(1),16,-,-,5.0,60.0,-,-,-,6.33
+541,Ramiro Corinthians,28, D(R),M(CR),13(5),984,1,0.8,28.8,82.3,0.4,0.8,-,6.33
+542,Everton Felipe Athletico Paranaense,24, AM(CLR),,2(3),175,-,0.6,14.6,71.2,0.6,0.8,-,6.33
+543,Alan Ruschel Chapecoense AF,32, D(L),M(LR),4(2),346,-,1.2,14.3,76.7,0.8,0.5,-,6.32
+544,Renatinho Goias,29, AM(C),,2(7),297,-,0.2,11.2,73.3,0.1,0.6,0.1,6.32
+545,Lucas Barros Botafogo RJ,22, D(L),,5(7),553,-,0.2,18.4,79.2,-,0.3,-,6.32
+546,Juninho Quixadá Ceara,35, AM(C),,0(6),121,-,1.3,8.5,74.5,0.2,0.5,-,6.32
+547,Patrick Fabiano CS Alagoano,34, Forward,,4(1),351,1,0.6,16.0,68.8,0.2,0.4,0.2,6.32
+548,Maranhão CS Alagoano,31, D(L),M(LR),7(4),684,-,1.1,13.9,74.5,0.6,0.5,0.1,6.31
+549,Ramires Bahia,21, M(CR),,9(5),761,-,0.8,19.0,86.8,0.4,0.5,-,6.31
+550,Auremir Ceara,30, D(R),DMC,6(1),394,-,0.4,28.6,85.0,-,1.3,0.1,6.31
+551,Luiz Felipe Santos FC,28, D(C),,3(5),331,-,-,26.6,88.7,-,0.9,-,6.31
+552,Vinícius Araújo Avai FC,28, AM(L),FW,10(5),999,-,0.8,14.2,72.3,0.1,0.8,-,6.31
+553,Gabriel Sara Sao Paulo,22, AM(CR),,1(5),170,1,0.8,15.8,77.9,-,0.5,-,6.31
+554,Paulo Roberto Fortaleza,34, DMC,,3(1),254,-,-,29.8,83.2,-,2.3,-,6.31
+555,Moisés Palmeiras,33, M(C),FW,2(7),314,-,0.4,13.9,76.8,-,1.0,0.1,6.3
+556,Regis Chapecoense AF,23, Forward,,9(6),628,-,0.9,15.8,77.2,0.2,0.4,-,6.3
+557,Jean Botafogo RJ,27, DMC,,1(7),176,-,-,8.0,85.9,-,0.8,-,6.3
+558,Bruno Sávio Avai FC,27, Midfielder,,3(2),213,-,0.6,14.4,61.1,0.6,0.4,-,6.3
+559,Jádson Corinthians,38, AM(CLR),,5(13),661,1,0.7,23.1,86.3,0.7,1.3,-,6.3
+560,Lourency Chapecoense AF,25, AM(LR),,0(1),36,-,-,5.0,80.0,-,-,-,6.3
+561,Lucão Goias,25, D(C),,1,90,-,-,35.0,74.3,-,-,-,6.3
+562,Orlando Berrío Flamengo,30, AM(R),,4(12),452,2,0.5,7.0,68.8,0.3,0.3,-,6.3
+563,Rafael Elias Atletico MG,22, FW,,1(4),125,-,-,6.6,72.7,-,-,-,6.3
+564,Dodô Fortaleza,27, AM(CL),,1(4),154,-,0.8,19.6,76.5,0.2,1.6,-,6.29
+565,Aylon Chapecoense AF,29, AM(R),FW,2(7),248,1,0.6,11.0,70.7,0.1,0.3,-,6.29
+566,Lucas Dias CS Alagoano,26, Defender,,1(1),99,-,-,26.5,84.9,-,0.5,-,6.29
+567,Miguel Fluminense,18, Midfielder,,0(3),53,-,1,7.3,68.2,1,-,-,6.29
+568,Kanu Botafogo RJ,24, D(C),,0(3),134,-,0.3,25.7,84.4,-,1.3,-,6.29
+569,Júnior Santos Fortaleza,27, FW,,5(1),342,-,0.5,9.0,72.2,-,0.3,-,6.28
+570,Felipe Vizeu Gremio,24, FW,,4(7),387,-,0.6,10.4,76.3,-,0.3,-,6.28
+571,Marcos Goias,28, GK,,0(1),32,-,-,10.0,50.0,-,4,-,6.28
+572,Richard Corinthians,27, DMC,,1(2),88,-,-,13.0,89.7,-,0.3,-,6.28
+573,Bruno Alves CS Alagoano,29, Midfielder,,3(9),434,-,1,8.4,65.3,1.2,0.5,-,6.28
+574,Kaio Nunes Goias,25, Midfielder,,1(12),255,1,0.4,5.9,67.5,0.2,0.1,-,6.28
+575,Jarro Pedroso CS Alagoano,28, Forward,,0(5),116,-,-,2.8,64.3,-,-,-,6.27
+576,Agenor Fluminense,31, GK,,6,516,-,-,23.5,77.3,-,1.7,-,6.27
+577,Douglas Avai FC,39, AM(C),,4(8),502,1,1.2,27.6,78.9,0.6,1.7,0.2,6.27
+578,Getúlio Avai FC,24, Forward,,6(2),489,-,0.8,7.1,77.2,-,0.3,-,6.26
+579,Pablo Dyego Fluminense,27, Forward,,0(9),118,-,-,4.9,72.7,-,0.2,-,6.26
+580,Valdivia Vasco da Gama,27, AM(CLR),FW,3(9),430,1,0.8,12.6,78.8,0.6,0.5,-,6.25
+581,Eduardo Kunde Avai FC,24, D(C),,12,1018,-,-,38.0,80.3,-,3.6,-,6.25
+582,Daniel Amorim Avai FC,32, Forward,,2(7),337,-,0.2,7.9,74.6,-,0.1,-,6.25
+583,Ernandes Chapecoense AF,36, D(L),M(C),1(1),111,-,0.5,19.5,79.5,1,2,-,6.25
+584,Lucas Halter Athletico Paranaense,21, D(C),,7(2),671,-,0.1,52.2,90.2,-,3.3,-,6.25
+585,Pablo Armero CS Alagoano,35, D(L),M(L),2(1),203,-,0.3,14.7,61.4,-,1,-,6.24
+586,Weverton Cruzeiro,22, D(R),,3(2),336,-,0.2,26.6,85.7,0.2,0.4,-,6.24
+587,Bruno Internacional,36, D(R),M(R),6(2),466,-,-,25.8,76.7,0.1,0.9,-,6.23
+588,Régis Corinthians,28, AM(C),,1(5),86,-,0.2,7.3,86.4,0.2,-,-,6.23
+589,Jadsom Silva Cruzeiro,20, DMC,,0(1),31,-,1,14.0,71.4,1,-,-,6.23
+590,Willian Popp Ceara,27, AM(CR),,1,59,-,1,18.0,83.3,1,-,-,6.23
+591,Frazan Fluminense,25, D(C),,5(6),562,-,-,22.9,85.7,-,0.8,-,6.23
+592,Derlis González Santos FC,27, AM(LR),,9(7),809,-,0.4,14.4,78.4,-,0.3,-,6.23
+593,Airton Fluminense,31, DMC,,8(3),468,-,0.5,33.8,92.7,-,0.3,0.1,6.22
+594,Marquinhos Calazans Sao Paulo,25, AM(R),,1(3),138,-,0.8,17.3,88.4,-,1,-,6.22
+595,Rick Ceara,22, AM(R),,2(2),155,-,0.8,6.0,75,0.5,-,-,6.22
+596,Victor Luis Palmeiras,28, D(L),M(CL),5,450,-,0.2,28.0,88.6,0.4,0.6,-,6.22
+597,Bruno Silva Chapecoense AF,21, AM(LR),,0(1),25,-,1,6.0,50,1,-,-,6.22
+598,Glédson Avai FC,38, GK,,0(1),45,-,-,8.0,75,-,1,-,6.22
+599,Rafael Santos Flamengo,23, Defender,,0(1),26,-,-,1.0,-,-,-,-,6.22
+600,Helinho Sao Paulo,21, AM(LR),,1(7),174,-,0.1,12.3,84.7,0.3,0.1,-,6.22
+601,David Terans Atletico MG,27, AM(CL),,1(3),143,-,0.5,9.0,83.3,0.8,-,-,6.22
+602,Marquinho Vasco da Gama,35, M(CL),,5(2),322,-,0.6,13.4,83.0,-,0.3,-,6.21
+603,José Aldo Internacional,23, Midfielder,,0(1),8,-,-,5.0,60.0,-,-,-,6.21
+604,Breno Goias,21, DMC,,3(8),376,-,0.2,11.2,86.2,-,0.6,-,6.21
+605,Sassá Cruzeiro,27, FW,,9(15),916,-,0.2,8.2,84.2,0.1,-,-,6.2
+606,Victor Rangel Botafogo RJ,31, FW,,6(8),553,-,0.2,6.4,71.1,-,0.1,-,6.2
+607,Carlos Eduardo Palmeiras,25, AM(CLR),FW,1(6),233,-,0.6,7.7,79.6,-,-,-,6.2
+608,Gabriel Pec Vasco da Gama,20, Midfielder,,0(8),182,1,0.4,4.1,69.7,-,0.4,0.1,6.2
+609,Pedro Ken Ceara,34, M(C),,7(9),775,-,0.1,14.3,82.1,0.1,0.6,-,6.2
+610,Warley CS Alagoano,22, AM(R),,7(6),678,-,0.5,15.5,80.2,0.1,0.2,-,6.2
+611,Rafael Santos Cruzeiro,23, Defender,,1(1),81,-,-,17.5,65.7,-,1.5,-,6.2
+612,Cassiano CS Alagoano,32, FW,,6(4),561,-,0.1,6.7,61.2,0.1,0.1,-,6.19
+613,Kevin Goias,24, D(R),M(R),4(1),251,-,0.6,20.0,75.0,0.2,1.0,-,6.19
+614,Léo Artur Fluminense,26, AM(CL),,3(4),204,-,0.4,13.3,91.4,0.1,0.6,-,6.19
+615,Phelipe Gremio,22, GK,,2,180,-,-,15.0,53.3,-,1.5,-,6.19
+616,Wescley Ceara,30, AM(CR),,3(12),419,-,0.4,8.7,74.8,0.3,0.2,-,6.19
+617,Vinícius Tanque Botafogo RJ,26, FW,,3(8),349,-,0.5,8.4,70.7,-,0.2,-,6.19
+618,Ezequiel Cruzeiro,23, Midfielder,,2(12),363,-,0.3,9.7,79.4,0.1,0.1,-,6.19
+619,Matheus Vargas Fortaleza,25, M(C),,1(1),91,-,1.5,12.0,79.2,-,2.5,0.5,6.18
+620,Fernando Uribe Santos FC,33, FW,,6(5),418,-,0.1,7.8,70.9,-,0.1,-,6.17
+621,Brenner Avai FC,27, FW,,12(2),935,-,0.4,12.5,69.1,-,0.3,-,6.17
+622,Matheus Alessandro Fortaleza,25, Midfielder,,0(8),128,-,0.3,6.4,82.4,-,0.4,-,6.16
+623,Jonathan Álvez Internacional,33, FW,,0(3),82,-,0.7,5.3,62.5,-,0.3,-,6.16
+624,Hiago Chapecoense AF,24, Defender,,2(3),188,-,-,9.4,63.8,-,0.6,-,6.16
+625,Carlos Gabriel Atletico MG,22, Defender,,1(1),93,-,0.5,21.5,69.8,-,1.5,-,6.16
+626,Giovanny Goias,24, Midfielder,,0(1),22,-,2,17.0,82.4,-,-,-,6.16
+627,Nílton Bahia,34, DMC,,0(1),4,-,1,5.0,80.0,-,-,-,6.16
+628,Tiago Reis Vasco da Gama,22, Forward,,3(8),366,1,0.5,5.5,80.3,-,0.3,-,6.15
+629,Rafinha Cruzeiro,38, AM(CLR),,0(1),21,-,-,4.0,50.0,-,-,-,6.15
+630,Dalberto Chapecoense AF,27, FW,,4(6),366,1,0.6,8.6,68.6,0.1,0.2,-,6.15
+631,Miranda Vasco da Gama,21, D(C),,1,68,-,2.0,19.0,84.2,-,2,-,6.14
+632,Lucas Silva Flamengo,23, AM(L),,3(6),230,-,0.1,5.7,86.3,0.1,0.1,-,6.14
+633,Fabinho Sao Paulo,21, AM(L),,0(1),13,-,2.0,8.0,75.0,-,-,-,6.13
+634,Vinicius Popó Cruzeiro,20, Forward,,0(2),39,-,1.0,6.0,83.3,-,-,-,6.13
+635,Safira CS Alagoano,26, FW,,1(6),148,1,0.1,3.7,80.8,-,0.4,-,6.13
+636,Guilherme Azevedo Gremio,20, Forward,,0(2),27,-,0.5,3.5,85.7,0.5,-,-,6.13
+637,Igor Goularte Avai FC,25, Forward,,3(4),271,-,0.4,10.3,80.6,0.1,-,-,6.12
+638,Lucão do Break Fluminense,30, Forward,,0(6),74,-,0.2,3.5,81.0,-,-,-,6.12
+639,Victor Paraiba CS Alagoano,23, Midfielder,,1(8),271,1,0.2,8.3,73.3,0.1,0.2,-,6.12
+640,Arthur Cabral Palmeiras,23, FW,,1,90,-,-,11.0,63.6,-,-,-,6.12
+641,Edinho Ceara,38, DMC,,2,91,-,0.5,30.0,86.7,-,1,-,6.12
+642,Pedro Lucas Internacional,23, Forward,,0(5),64,-,-,3.2,75.0,0.2,-,-,6.12
+643,Vinícius Lopes Goias,22, AM(LR),,0(5),54,-,-,2.2,72.7,-,-,-,6.12
+644,Lucas Venuto Santos FC,26, AM(R),,0(4),50,-,0.5,7.3,75.9,-,0.3,-,6.12
+645,Dudu Goias,25, Midfielder,,0(4),63,-,0.5,4.8,78.9,-,-,-,6.12
+646,Rickson Botafogo RJ,23, Midfielder,,2(4),228,-,-,11.2,85.1,-,0.2,-,6.12
+647,Mauricio Cruzeiro,20, AM(CR),,2(6),295,-,0.3,12.0,72.9,0.3,0.1,-,6.12
+648,Matheus Lucas Avai FC,23, Forward,,0(4),116,-,0.5,5.3,76.2,-,-,-,6.11
+649,Joel Tagueu Cruzeiro,27, AM(L),FW,1(3),132,-,0.3,4.5,72.2,-,-,-,6.11
+650,Marlon Fortaleza,31, M(CR),,3(16),565,-,0.2,8.6,84.1,0.1,0.1,-,6.11
+651,Leandro Souza CS Alagoano,35, Defender,,1(1),97,-,0.5,9.5,73.7,-,-,-,6.11
+652,Guilherme Fluminense,33, AM(CLR),FW,1(7),193,-,0.9,15.8,85.7,0.3,0.3,0.3,6.11
+653,Christian Cueva Santos FC,29, AM(CLR),,1(4),149,-,0.4,19.8,83.8,-,0.2,-,6.1
+654,Gabriel Lima Avai FC,25, Forward,,0(6),197,-,0.5,8.7,76.9,-,0.2,0.2,6.1
+655,Vinicius Souza Flamengo,22, DMC,,0(3),26,-,-,3.3,70.0,-,-,-,6.1
+656,Richard Ceara,30, GK,,1,46,-,-,15.0,53.3,-,6,-,6.1
+657,Caio Athletico Paranaense,24, Goalkeeper,,3,270,-,-,23.7,64.8,-,5,-,6.1
+658,Henrique Dourado Palmeiras,32, FW,,0(4),74,-,-,2.5,70.0,-,0.3,-,6.09
+659,Rafael Elias Goias,22, FW,,2(3),150,-,0.4,6.6,72.7,-,-,-,6.09
+660,Johnny Internacional,20, DMC,,0(1),16,-,-,11.0,81.8,-,1,-,6.08
+661,Lucas França Ceara,25, GK,,1,90,-,-,18.0,55.6,-,3,-,6.08
+662,Raniel Cruzeiro,25, FW,,0(2),50,-,1,5.0,80.0,-,-,-,6.08
+663,Ricardo Goulart Palmeiras,30, AM(CR),FW,1,8,-,-,2.0,50.0,-,-,-,6.08
+664,Clayton Vasco da Gama,26, AM(R),FW,1(6),125,-,0.1,5.0,68.6,-,0.4,-,6.08
+665,Wenderson Botafogo RJ,23, Midfielder,,2(2),165,-,-,18.8,84.0,-,-,-,6.08
+666,Marcinho Avai FC,22, Midfielder,,1(2),77,-,-,11.0,81.8,-,-,-,6.07
+667,Adalberto Fortaleza,34, D(C),,0(1),42,-,-,19.0,68.4,-,-,-,6.07
+668,Gerson Jr CS Alagoano,21, Forward,,0(2),16,-,0.5,3.5,100.0,-,-,-,6.07
+669,Ramires Palmeiras,34, M(CR),,2(4),161,-,-,10.5,76.2,-,0.3,-,6.07
+670,Ewandro Fluminense,25, AM(LR),,0(2),10,-,-,3.0,33.3,-,0.5,-,6.06
+671,Clayton Bahia,26, AM(R),FW,0(1),16,-,-,10.0,90.0,-,1,-,6.06
+672,Robinho CS Alagoano,26, Midfielder,,1(2),78,-,0.3,7.0,81.0,-,0.3,-,6.06
+673,Da Silva Gremio,22, Forward,,0(3),26,-,-,2.0,66.7,-,0.3,-,6.06
+674,Kaio Jorge Santos FC,19, FW,,0(3),22,-,-,2.3,85.7,-,-,-,6.05
+675,Derley Fortaleza,35, M(C),,0(4),61,-,-,14.0,100.0,-,1,-,6.05
+676,Ferrareis Avai FC,25, AM(LR),,5(3),423,-,0.6,18.6,81.2,0.1,1,-,6.05
+677,Felipe Pires Palmeiras,26, AM(LR),,0(2),13,-,0.5,1.0,100.0,-,-,-,6.04
+678,Sidão Vasco da Gama,38, GK,,6(1),585,-,-,18.1,59.1,-,3.9,-,6.04
+679,Ferrareis Botafogo RJ,25, AM(LR),,0(2),58,-,-,17.5,85.7,-,0.5,-,6.04
+680,Caíque Corinthians,26, Goalkeeper,,0(1),20,-,-,8,75,-,4,-,6.02
+681,Emanuel Gremio,22, Defender,,0(1),19,-,-,6,66.7,-,-,-,6.02
+682,Pedro Perotti Chapecoense AF,23, FW,,0(1),7,-,-,-,-,-,-,-,6.02
+683,Matheus Matías Avai FC,23, Forward,,1(1),64,-,-,5.5,81.8,-,-,-,6.02
+684,Anderson Bahia,37, GK,,1,90,-,-,11,54.5,-,2,-,6.01
+685,Brenner Sao Paulo,21, FW,,0(1),11,-,-,4,100,-,-,-,6.01
+686,Kelvin Fluminense,28, AM(LR),,0(1),1,-,-,3,66.7,-,-,-,6.01
+687,Jaderson Athletico Paranaense,21, Midfielder,,0(1),1,-,-,2,100,-,-,-,6.0
+688,Jean Sao Paulo,26, GK,,1,1,-,-,-,-,-,-,-,6.0
+689,Juan Flamengo,42, D(C),,0(1),1,-,-,5,100,-,-,-,6.0
+690,Sandry Santos FC,19, DMC,,0(1),1,-,-,-,-,-,-,-,6.0
+691,Everton Felipe Sao Paulo,24, AM(CLR),,1(3),82,-,-,11.3,75.6,0.3,0.3,-,6.0
+692,Alan Santos Botafogo RJ,30, DMC,,1(3),114,-,0.3,12.8,84.3,-,0.5,-,6.0
+693,Luiz Gustavo Vasco da Gama,27, D(CR),DMC,2,136,-,0.5,32.5,76.9,-,1.5,-,6.0
+694,Zé Gabriel Internacional,22, D(C),,1(1),74,-,0.5,12,79.2,-,-,-,5.99
+695,Matheus Prado CS Alagoano,21, Midfielder,,0(2),14,-,0.5,2,75,-,-,-,5.99
+696,Paulo Ricardo Goias,27, D(C),,0(1),3,-,-,1,-,-,-,-,5.99
+697,Marcinho Goias,26, M(LR),,0(3),39,-,-,6.7,80,-,0.3,-,5.99
+698,André Luis Corinthians,24, AM(CR),FW,1,65,-,-,12,75,-,-,-,5.98
+699,Júnior Brandão Goias,25, FW,,1(5),136,-,0.2,2.3,100,-,-,-,5.98
+700,Rodolfo Gamarra CS Alagoano,32, Forward,,0(2),52,-,0.5,6,91.7,0.5,0.5,-,5.97
+701,Wesley Soares Avai FC,23, M(C),,7(3),516,-,0.5,22.6,80.1,0.1,1,-,5.96
+702,Nathan Ribeiro Fortaleza,31, D(C),,3(2),307,-,0.2,40,93,-,2.2,-,5.96
+703,Bruno Ramires CS Alagoano,27, DMC,,3,193,-,0.3,15.7,85.1,-,-,-,5.93
+704,Filipe Candido Goias,22, Midfielder,,0(2),43,-,-,10,75,-,-,-,5.93
+705,Matheus Dantas Flamengo,23, Defender,,1,64,-,-,21,90.5,-,1,-,5.92
+706,André Moritz Avai FC,35, AM(C),,0(4),108,-,0.5,22.3,77.5,0.3,2,-,5.91
+707,Cristián Maidana CS Alagoano,34, AM(CL),,1,25,-,-,-,-,-,-,-,5.9
+708,Bruno Silva Vasco da Gama,33, D(C),,1,90,-,-,39,97.4,-,4,-,5.89
+709,Gabriel Batista Flamengo,23, GK,,0(1),1,-,-,3,33.3,-,1,-,5.89
+710,Ze Marcos Avai FC,23, Defender,,3,209,-,-,39.3,82.2,-,3.7,-,5.89
+711,Jhonata Robert Gremio,22, AM(L),,0(1),7,-,-,3.0,66.7,-,-,-,5.88
+712,Bill Flamengo,22, Midfielder,,0(1),6,-,-,14.0,85.7,-,-,-,5.85
+713,Wilson Atletico MG,37, GK,,3,270,-,-,22.0,62.1,-,6.7,-,5.84
+714,Jean Carlos Goias,28, Midfielder,,1,20,-,-,5.0,60.0,-,-,-,5.79
+715,Murilo Cerqueira Cruzeiro,24, D(C),DMC,1,85,-,-,22.0,77.3,-,-,-,5.47
+716,Caio Vinícius Fluminense,22, Defender,,0(1),21,-,-,22.0,86.4,-,1,-,5.35

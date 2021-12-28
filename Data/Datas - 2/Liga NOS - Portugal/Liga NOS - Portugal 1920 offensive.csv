@@ -1,0 +1,563 @@
+﻿,Rating,name,age,position1,Apps,Mins,Goals,Assists,SpG,KeyP,Drb,Fouled,Off,Disp,UnsTch
+0,7.83,Gonçalo Ramos Benfica,20, Forward,0(1),5,2,-,2.0,-,-,-,-,-,-
+1,7.82,Bruno Fernandes Sporting,27, M(CLR),17,1530,8,7,3.5,3.7,1.8,2.6,0.4,2.1,2.5
+2,7.61,Pizzi Benfica,32, M(CLR),33(1),2827,18,14,2.4,2.9,1.2,1.7,0.7,1,1.7
+3,7.45,Otávio Porto,26, AM(CLR),29(2),2581,2,9,1.0,1.8,2.1,2.3,-,1.3,1.4
+4,7.42,Alejandro Grimaldo Benfica,26, D(L),26,2301,-,6,1.2,2.2,1.3,0.8,0.2,0.5,1.4
+5,7.39,Jesús Corona Porto,28, D(R),33,2793,4,11,0.8,1.8,2.1,1.9,0.1,1.5,2
+6,7.38,Marcus Edwards Vitoria de Guimaraes,22, AM(LR),23(3),2125,7,5,1.7,1.4,3.4,2.7,0.2,1.7,2.3
+7,7.37,Alex Telles Porto,28, D(L),28(3),2558,11,8,1.3,1.8,0.6,0.8,0.1,0.4,0.6
+8,7.32,Bruno Tabata Portimonense,24, AM(CLR),23(3),2130,1,8,1.3,2.3,2.4,2.8,0.2,1.8,2.6
+9,7.3,Gabriel Pires Benfica,28, M(C),19(3),1633,2,2,1.2,0.8,1.2,1.7,-,1.2,1.2
+10,7.28,Trincão Braga,21, AM(CR),17(10),1606,8,6,1.7,1.3,2.3,1.4,0.1,0.9,2.7
+11,7.28,Sérgio Oliveira Porto,29, DMC,14(6),1306,3,4,1.6,1.8,1.0,1.3,-,0.7,0.9
+12,7.27,Paulinho Braga,29, FW,27(2),2315,17,7,3.1,1.2,0.5,1.4,0.7,1,1.3
+13,7.26,Iván Marcano Porto,34, D(CL),23,2100,5,1,1.2,0.3,0.1,0.3,-,-,0.2
+14,7.25,Nuno Mendes Sporting,19, D(L),7(2),657,-,-,0.6,1.3,2.0,1.2,0.1,1.4,1.6
+15,7.25,Nuno Sequeira Braga,31, D(CL),24(1),2028,-,4,0.4,2.2,1.2,2.0,0.1,0.7,1.1
+16,7.24,Willyan Portimonense,26, D(C),16,1383,3,-,0.7,0.2,0.3,1.8,0.1,0.1,0.5
+17,7.21,Fábio Martins Famalicao,28, AM(CLR),29,2476,12,5,2.4,1.6,1.1,2.6,0.1,1.2,1.9
+18,7.2,Moussa Marega Porto,30, AM(LR),27(2),2316,12,5,2.0,1.2,0.7,1.7,0.6,1.8,2.9
+19,7.19,Florentino Benfica,22, M(C),8(2),746,-,-,0.3,0.6,0.3,0.7,-,0.5,0.4
+20,7.18,Mile Svilar Benfica,22, GK,1,90,-,-,-,-,-,-,-,-,-
+21,7.17,Jovane Cabral Sporting,23, AM(CLR),10(6),1043,6,2,2.9,1.3,2.3,2.2,0.2,2,2.3
+22,7.15,Edu Machado Boavista,31, D(R),1,90,-,-,2,1,1,-,-,1,2
+23,7.14,Rubén Ribeiro Gil Vicente,34, M(CL),11(2),917,4,3,1.8,1.4,0.8,3.2,0.3,1.9,1.6
+24,7.14,Bruno Silva Moreirense,29, D(L),1,90,-,-,-,-,-,1,-,1,1
+25,7.14,Mikel Agu Vitoria de Guimaraes,28, DMC,14(2),1230,1,2,1.1,0.4,0.8,0.6,-,0.3,0.7
+26,7.12,Ricardo Horta Braga,27, AM(CLR),31(2),2619,12,5,2.8,1.7,0.7,1.2,0.2,0.8,1.4
+27,7.11,Filipe Augusto Rio Ave,28, DMC,27(1),2442,4,2,0.7,0.8,1.4,1.8,-,1.1,1
+28,7.11,Rafa Benfica,28, AM(CLR),18(7),1699,7,5,1.6,1.1,1.9,2.3,-,1.3,2.4
+29,7.11,Bebeto Maritimo,31, D(R),14(1),1215,-,1,0.4,1.1,0.7,1.2,-,0.5,1
+30,7.09,André Almeida Benfica,31, D(LR),23,2007,4,4,0.8,0.8,0.4,1,-,0.5,0.9
+31,7.09,Mehdi Taremi Rio Ave,29, FW,26(4),2354,18,2,2.5,0.9,0.6,2.2,0.9,1.1,2.3
+32,7.08,Fábio Pacheco Moreirense,33, D(C),24(1),2117,1,2,0.6,0.3,0.4,1.1,-,0.5,0.7
+33,7.07,André Ferreira Santa Clara,25, GK,3,270,-,-,-,-,-,-,-,-,-
+34,7.07,Rúben Dias Benfica,24, D(C),33,2970,2,2,0.5,0.5,0.2,0.6,-,0.1,0.3
+35,7.06,Aderllan Santos Rio Ave,32, D(C),30,2668,-,-,0.8,0.1,0.2,0.4,0.1,-,0.2
+36,7.05,Caju Braga,26, D(L),1,72,-,-,-,-,-,-,-,-,1
+37,7.04,André Pereira Vitoria de Guimaraes,26, FW,7(2),628,2,-,1.9,0.6,1.3,1.8,0.3,0.6,1.6
+38,7.03,João Palhinha Braga,26, DMC,24(3),2094,2,-,0.6,0.5,0.8,2,0.1,1.1,1
+39,7.03,Jardel Benfica,35, D(C),10,834,-,-,0.9,0.3,0.6,1,-,0.3,0.8
+40,7.03,Raphinha Sporting,24, AM(LR),4,360,2,-,1.8,1.5,1.0,1.3,1,1.0,4.0
+41,7.03,Sebastián Coates Sporting,31, D(C),28(1),2563,4,-,1.0,0.3,0.4,0.5,-,0.2,0.4
+42,7.02,Nuno Tavares Benfica,21, D(L),10(1),926,1,4,1.0,1.3,0.9,0.9,-,1.2,2.4
+43,7.02,Zé Luís Porto,30, FW,11(8),1178,7,-,2.1,0.6,1.3,1.0,0.1,1.0,1.8
+44,7.01,Pepelu Tondela,23, DMC,33,2906,2,4,0.6,1.5,0.3,1.2,-,0.5,0.8
+45,7.01,Carlos Vinícius Benfica,26, FW,19(13),1784,18,5,2.1,0.7,0.6,0.5,0.8,0.8,1.8
+46,7.01,Lucas Evangelista Vitoria de Guimaraes,26, M(CLR),17(2),1398,1,2,2.3,1.5,1.2,1.8,-,1.4,1.3
+47,7.0,Henrique Gomes Gil Vicente,26, D(L),21,1797,1,4,0.5,0.8,0.3,2.1,-,1.0,0.9
+48,7.0,Marcos Acuña Sporting,30, D(L),23(1),2019,2,1,0.7,1.9,1.2,1.3,-,1.2,1.3
+49,6.99,João Teixeira Vitoria de Guimaraes,28, AM(CLR),14(7),1328,8,2,1.6,1.3,1.0,1.9,0.2,1.5,1.8
+50,6.98,Víctor García Vitoria de Guimaraes,27, D(R),10,838,-,-,0.4,1.2,2.0,1.3,0.1,1.2,1.4
+51,6.98,Adel Taarabt Benfica,32, M(CL),19(5),1677,1,1,0.8,0.8,1.9,1.7,-,0.4,1.4
+52,6.98,João Aurélio Moreirense,33, D(R),27(2),2425,2,2,0.3,0.3,0.7,1.9,-,0.8,0.7
+53,6.98,Luciano Vietto Sporting,27, AM(CLR),19(5),1645,4,4,2.6,1.1,1.5,1.6,0.1,1.9,2.3
+54,6.98,Danilo Pereira Porto,30, D(C),23(3),2155,2,1,1.3,0.3,0.3,1.0,0.1,0.3,0.6
+55,6.97,Nuno Santos Rio Ave,26, M(CLR),29(3),2521,2,5,1.6,2.2,1.0,1.2,0.1,0.8,1.8
+56,6.96,Mamadou Loum Porto,24, DMC,4(2),359,1,-,0.8,0.3,0.7,0.5,0.3,0.3,0.5
+57,6.96,Patrick Santa Clara,30, D(R),12,1067,-,-,0.8,1.1,1.2,2.6,-,0.5,1.4
+58,6.95,Zainadine Júnior Maritimo,33, D(C),30,2700,2,1,0.6,0.1,0.3,1.3,0.1,0.1,0.2
+59,6.95,Franco Cervi Benfica,27, AM(CL),19(4),1613,2,1,1.0,0.7,0.6,1.6,0.1,0.9,1.3
+60,6.95,Bruno Costa Porto,24, AM(C),2,180,-,-,1.5,1,1.5,0.5,-,1,1
+61,6.95,Ronan Tondela,26, FW,8(4),706,5,-,2.1,0.9,0.3,1.6,0.1,0.8,1.4
+62,6.95,Luis Díaz Porto,24, AM(L),20(9),1772,6,2,1.7,0.7,1.6,1.7,0.3,1.3,1.8
+63,6.95,Pepe Porto,38, D(C),24(1),2064,1,1,0.5,0.2,0.2,0.7,0.1,-,0.4
+64,6.94,Galeno Braga,24, M(LR),16(11),1496,6,4,1.6,1.2,1.6,1.9,0.2,1,2.2
+65,6.94,Fábio Cardoso Santa Clara,27, D(C),30,2692,2,-,0.8,0.2,-,0.9,-,0.1,0.3
+66,6.94,Vasco Fernandes Vitoria de Setubal,35, D(CLR),1,90,-,-,1.0,-,-,1.0,-,-,-
+67,6.94,Neris Boavista,29, D(C),24,2160,1,-,0.2,0.2,0.2,0.6,-,0.1,0.5
+68,6.94,Mateus Uribe Porto,30, DMC,22(4),1873,1,1,0.8,0.6,0.7,0.6,-,0.7,0.9
+69,6.93,Diogo Gonçalves Famalicao,24, D(R),22(5),2018,5,4,1.9,1.2,1.1,1.2,0.1,1,1.4
+70,6.93,Eduardo Braga,39, GK,4,360,-,-,-,-,-,0.3,-,-,-
+71,6.92,Eduardo Quaresma Sporting,19, D(C),9,775,-,-,0.1,0.6,0.8,0.6,-,0.7,1.3
+72,6.92,André André Vitoria de Guimaraes,32, M(C),14(2),1222,4,1,1.2,0.9,0.8,2.9,0.1,0.9,1.3
+73,6.92,Nilton Varela Belenenses SAD,20, M(L),17(1),1428,1,2,0.7,0.7,1.6,1.8,-,0.4,1.9
+74,6.91,Falaye Sacko Vitoria de Guimaraes,26, D(R),23,2064,-,5,0.2,1.3,0.9,0.7,0.1,0.6,1.3
+75,6.91,Ferro Benfica,24, D(C),25(1),2316,1,-,0.7,0.3,0.1,0.1,-,0.1,0.3
+76,6.9,Chancel Mbemba Porto,27, D(CLR),21(5),1990,2,-,0.4,0.3,0.2,0.4,-,0.2,0.5
+77,6.9,Wendel Sporting,24, M(CL),26(2),2292,3,2,1,1.1,1.5,2.0,-,1.1,1.2
+78,6.9,Ricardo Esgaio Braga,28, D(R),28(2),2544,1,5,0.3,1.5,0.3,0.6,0.2,0.5,0.8
+79,6.89,Vítor Tormena Braga,25, D(CR),4,360,-,-,0.3,-,-,0.3,-,-,0.3
+80,6.88,Iago Santos Moreirense,29, D(C),25,2234,1,1,0.8,0.2,0.1,0.5,-,0.1,0.4
+81,6.88,Fabio China Maritimo,29, D(L),14,1275,-,-,0.3,0.6,0.7,1.6,-,0.9,1.4
+82,6.88,Dener Portimonense,29, M(CR),22(4),1869,6,-,1.3,0.5,0.4,1.2,0.1,1.0,1.5
+83,6.88,Mohamed Diaby Pacos de Ferreira,25, DMC,19(8),1756,2,1,1.1,0.3,1.0,1.5,0.3,0.8,1.1
+84,6.87,Julian Weigl Benfica,26, D(C),17(1),1377,1,-,0.5,0.1,1.2,1.1,-,0.3,0.6
+85,6.87,Pote Famalicao,23, M(C),32(1),2729,5,5,2.2,1.5,1.4,1.2,0.1,1.6,2.0
+86,6.86,Fábio Abreu Moreirense,28, FW,27(7),2401,13,2,1.6,0.5,0.5,2.1,0.2,1.0,1.6
+87,6.86,Tiquinho Soares Porto,30, FW,20(10),1728,10,1,1.8,0.6,0.6,1.1,0.3,0.9,1.3
+88,6.85,Carraça Boavista,28, D(R),28(2),2574,2,3,1.8,1.1,0.5,1.3,-,1.0,0.9
+89,6.85,Andraz Sporar Sporting,27, FW,15(1),1395,6,-,1.6,0.7,0.6,1.4,0.5,1.1,1.7
+90,6.84,Diego Lopes Rio Ave,27, AM(CL),29(1),2387,6,4,1.3,0.7,0.8,3.1,0.2,1.3,1.3
+91,6.84,Giorgi Makaridze Vitoria de Setubal,31, GK,32,2835,-,-,-,-,0.2,0.3,-,-,-
+92,6.84,Guedes Vitoria de Guimaraes,27, FW,1(1),114,1,-,2,-,0.5,1,-,0.5,3
+93,6.84,Dimitar Sheytanov Aves,22, Goalkeeper,2,180,-,-,-,-,-,-,-,-,-
+94,6.84,Bruno Duarte Vitoria de Guimaraes,25, FW,18(6),1590,8,5,1.8,0.8,0.5,0.4,0.7,1.1,1.4
+95,6.84,Jeremy Mathieu Sporting,38, D(CL),19,1639,1,1,0.8,0.5,0.3,0.2,-,0.1,0.4
+96,6.84,Emmanuel Hackman Portimonense,26, D(R),19(1),1599,1,2,0.7,0.5,0.4,0.6,0.2,0.9,0.8
+97,6.83,Wallace Braga,27, D(C),8,658,-,-,0.4,0.1,-,0.6,0.1,0.1,0.3
+98,6.83,René Maritimo,29, D(C),30(1),2721,1,-,0.3,0.4,0.5,1.4,0.1,0.2,0.5
+99,6.83,Alex Pinto Gil Vicente,23, D(R),13,1140,-,1,0.2,0.8,0.5,0.4,-,0.3,0.9
+100,6.82,Gelson Dala Rio Ave,25, AM(CL),5(9),585,6,-,1.5,0.3,0.8,1.5,0.4,0.7,1.1
+101,6.82,Douglas Tanque Pacos de Ferreira,28, FW,23(6),1935,11,1,2.5,0.5,0.4,2.0,0.4,1.6,2.6
+102,6.82,Matheus Reis Rio Ave,26, D(CL),28(2),2538,1,3,0.3,0.5,1.2,1.5,-,0.9,0.9
+103,6.82,Davidson Vitoria de Guimaraes,30, AM(LR),16(10),1528,5,3,2.4,0.7,1.2,2.3,0.1,1.5,2.1
+104,6.82,Wilson Manafá Porto,27, D(LR),21(7),1910,1,1,0.3,0.4,1.4,0.4,-,0.5,1.1
+105,6.82,Jonathan Buatu Aves,28, D(C),12,1080,-,-,0.4,0.1,0.2,1.7,0.1,0.2,0.5
+106,6.81,Chiquinho Benfica,26, AM(C),17(8),1514,2,4,1.6,0.9,0.7,0.9,-,0.6,1.4
+107,6.81,Samú Costa Braga,20, Midfielder,0(1),45,-,-,-,-,-,2.0,-,-,-
+108,6.81,Silvio Vitoria de Setubal,34, D(LR),31,2778,-,1,0.2,0.5,1,1.3,-,0.8,1.2
+109,6.81,Philipe Sampaio Tondela,27, D(C),20(2),1835,2,-,0.8,0.1,0.2,0.9,0.2,-,0.1
+110,6.81,Gonzalo Plata Sporting,21, AM(R),12(9),1144,2,2,0.8,1,1.5,1.5,0.2,1,1.8
+111,6.8,Rúben Ferreira Maritimo,31, D(L),19,1656,1,1,0.5,0.7,0.4,1.1,0.1,0.6,0.9
+112,6.8,Pirri Vitoria de Setubal,29, D(C),18(2),1582,3,-,0.8,-,0.2,0.8,0.1,0.2,0.5
+113,6.8,Carlos Junior Santa Clara,26, AM(LR),27(7),2456,7,3,1.6,0.4,1.1,1.3,0.9,1,2.3
+114,6.79,Amir Abedzadeh Maritimo,28, GK,25,2280,-,-,-,-,-,0.4,-,-,0.1
+115,6.79,Bruno Wilson Braga,24, D(C),3(3),350,1,-,0.7,-,-,0.2,-,-,-
+116,6.79,Luís Neto Sporting,33, D(C),11(1),839,-,-,0.2,0.1,0.2,0.9,-,-,0.2
+117,6.79,Sandro Lima Gil Vicente,31, AM(C),29(3),2560,10,1,2.1,1.1,0.5,2.8,0.9,0.9,2.5
+118,6.78,Nanu Maritimo,27, D(R),32(1),2842,2,3,0.8,0.9,2.3,1.8,0.2,1.9,2.9
+119,6.78,Rafael Ramos Santa Clara,26, D(R),14(2),1173,-,2,0.3,0.8,0.9,0.5,-,0.3,1.1
+120,6.78,Ygor Nogueira Gil Vicente,26, D(C),22,1980,-,3,0.3,0.3,0.3,1.0,-,0.2,0.6
+121,6.78,Odysseas Vlachodimos Benfica,27, GK,33,2970,-,-,-,-,-,0.3,-,-,-
+122,6.78,Welinton Júnior Aves,28, AM(L),22(1),1852,7,3,3.3,0.6,1,2.8,0.5,1.5,3.3
+123,6.77,Eber Bessa Vitoria de Setubal,29, M(CLR),25(6),2266,2,6,1.3,1.2,1.4,2.9,-,2.3,2.3
+124,6.77,Raúl de Tomás Benfica,27, FW,6(1),467,-,-,2.4,0.9,0.6,0.9,0.3,1,1.1
+125,6.77,Toni Martínez Famalicao,24, FW,27(5),2194,10,3,2.3,0.7,0.4,1.4,0.5,0.8,1.4
+126,6.77,Fransérgio Braga,31, M(C),23(3),1995,4,1,1.5,0.7,0.8,2.2,0.1,0.9,1.2
+127,6.77,Ola John Vitoria de Guimaraes,29, AM(LR),13(3),907,-,4,1.3,1.1,1.6,0.9,0.1,1.3,1.9
+128,6.76,Edmond Tapsoba Vitoria de Guimaraes,22, D(C),16,1351,4,2,0.9,0.4,0.3,0.3,0.1,0.2,0.3
+129,6.76,Luther Singh Moreirense,24, AM(LR),13(8),1272,3,2,1.6,1.2,1.6,1.5,0.2,1.4,2.1
+130,6.76,Rafael Costa Boavista,30, M(C),16,1388,2,1,1.6,1.1,0.4,1.8,-,0.4,1.3
+131,6.76,Nuno Santos Moreirense,22, M(C),9(5),809,1,2,1.3,1.1,0.6,0.5,-,1.2,0.7
+132,6.76,Yannick Bolasie Sporting,32, AM(LR),12(2),1088,1,-,1.8,0.6,1.1,1.6,0.3,1.4,2.6
+133,6.75,Costinha Santa Clara,29, M(CLR),14(2),1145,-,4,0.9,1.1,0.9,1.3,0.1,1.1,1.1
+134,6.75,Carlinhos Vitoria de Setubal,27, M(CR),28(2),2436,4,1,1.7,1.2,1.5,1.9,-,1.3,1.6
+135,6.75,João Afonso Santa Clara,31, D(C),32(1),2867,2,1,0.6,0.2,0.1,0.4,0.1,0.1,0.3
+136,6.75,Pawel Kieszek Rio Ave,37, GK,34,3060,-,-,-,0.1,-,0.3,-,-,-
+137,6.75,Cafu Belenenses SAD,27, D(C),12(2),1076,-,-,0.3,0.3,1.5,1.7,-,0.6,0.9
+138,6.75,Lazar Rosic Moreirense,28, D(C),18,1620,2,-,0.5,0.1,-,0.3,-,-,0.2
+139,6.75,Florent Hanin Vitoria de Guimaraes,31, D(L),26(2),2340,1,2,0.3,1.2,0.7,0.6,0.3,0.3,1.2
+140,6.74,Lincoln Santa Clara,23, AM(C),22(8),1999,1,6,0.7,1.5,0.4,1.9,0.1,0.8,1.3
+141,6.74,Pedrinho Pacos de Ferreira,28, M(CR),33,2799,2,2,1.4,1.8,0.3,1.5,-,0.8,1.5
+142,6.74,Tiago Castro Vitoria de Setubal,25, Midfielder,1,70,-,-,-,-,-,3.0,-,-,-
+143,6.74,Mateus Pasinato Moreirense,29, GK,33,2970,-,1,-,-,0.1,0.2,-,-,0.1
+144,6.74,Hervé Koffi Belenenses SAD,25, GK,20,1740,-,-,-,-,0.1,0.2,-,-,0.1
+145,6.74,Bruno Santos Pacos de Ferreira,28, D(R),19(3),1784,3,1,1.4,0.6,0.8,1.9,-,0.8,1
+146,6.73,Pablo Santos Braga,29, D(C),9(1),855,-,-,1.1,0.3,0.1,0.8,0.1,0.1,0.2
+147,6.73,Silvestre Varela Belenenses SAD,36, M(CLR),18(3),1573,3,1,1.4,0.9,1.6,1.8,0.2,2.2,2.1
+148,6.73,Carlos Mané Rio Ave,27, AM(LR),13(19),1537,1,6,0.4,1.1,1.4,1.0,0.2,0.7,1.1
+149,6.73,Rodrigo Pinho Maritimo,30, FW,18(9),1635,9,-,1.8,0.4,0.9,1.6,0.4,0.9,1.7
+150,6.73,Pedro Henrique Vitoria de Guimaraes,28, D(C),20(4),1932,-,-,0.5,0.1,0.1,0.3,-,0.1,0.3
+151,6.72,Pêpê Vitoria de Guimaraes,24, M(C),22(9),1937,3,-,1.2,1.1,0.6,0.7,0.1,0.6,0.7
+152,6.72,Steven Vitória Moreirense,34, D(C),16(3),1536,5,-,0.9,0.1,0.1,0.5,-,-,0.2
+153,6.72,Adi Mehremic Aves,29, D(C),8,703,1,-,0.4,0.3,0.3,1.3,-,-,0.3
+154,6.72,Bruno Xadas Braga,23, AM(CLR),0(1),24,-,-,1.0,1.0,-,-,-,1,1.0
+155,6.72,Luiz Phellype Sporting,28, FW,12(4),1011,6,1,1.4,0.3,0.3,1.2,0.4,1.1,1.1
+156,6.71,Frederico Venâncio Vitoria de Guimaraes,28, D(C),20,1793,-,-,0.5,0.4,0.1,0.3,-,0.2,0.2
+157,6.71,Artur Jorge Vitoria de Setubal,27, D(C),29(1),2574,-,1,0.3,0.1,0.1,0.4,-,-,0.2
+158,6.71,Tomás Tavares Benfica,20, D(R),9(3),876,-,-,0.1,0.4,0.8,0.7,0.2,0.3,1.9
+159,6.71,Matheus Nunes Sporting,23, M(C),9(1),722,-,-,0.4,0.4,1.3,2,-,1.5,0.9
+160,6.71,Fabiano Boavista,29, D(CR),26(1),2231,-,2,0.3,0.4,0.4,0.6,-,0.6,0.4
+161,6.71,Helton Leite Boavista,31, GK,21,1890,-,-,-,-,-,0.2,-,-,0.1
+162,6.7,Yohan Tavares Tondela,33, D(C),28(1),2513,3,-,0.2,0.1,0.1,0.2,-,0.1,0.2
+163,6.7,Bruno Wilson Tondela,24, D(C),15,1228,2,-,0.5,0.1,0.1,0.5,-,0.1,0.3
+164,6.7,Riccieli Famalicao,23, D(C),17(8),1727,1,-,0.5,0.2,0.1,0.5,-,-,0.3
+165,6.7,César Martins Santa Clara,28, D(C),11(3),1015,1,-,0.4,0.1,0.4,0.4,0.1,0.2,0.3
+166,6.7,Bruno Teles Pacos de Ferreira,35, D(L),17,1473,-,1,0.5,1.2,0.6,0.9,-,0.4,0.5
+167,6.7,Gonçalo Silva Belenenses SAD,30, D(CR),18,1525,-,1,0.3,0.3,0.3,0.3,-,-,0.6
+168,6.69,Jadson Portimonense,30, D(C),28(3),2543,3,-,0.4,0.2,0.2,0.4,0.1,0.2,0.2
+169,6.69,Tiago Esgaio Belenenses SAD,26, D(CR),26(2),2243,2,2,0.5,0.5,0.4,1.0,-,0.5,0.6
+170,6.68,Dejan Kerkez Maritimo,25, D(C),15(1),1338,-,-,0.3,0.1,-,0.2,-,0.2,0.2
+171,6.68,Uros Racic Famalicao,23, DMC,26(7),2421,3,1,0.8,1,0.8,1.6,-,1,1.8
+172,6.68,José Semedo Vitoria de Setubal,36, D(C),29,2590,1,-,0.3,0.3,0.3,1.4,-,0.4,0.7
+173,6.68,Toni Borevkovic Rio Ave,24, D(C),31(1),2788,-,-,0.1,0.1,0.2,0.7,-,0.1,0.2
+174,6.68,Brian Mansilla Vitoria de Setubal,24, AM(CL),22(7),1907,-,1,1.4,0.6,2.3,1.0,0.4,1.8,2.4
+175,6.68,Pedro Amador Braga,22, D(L),7(2),622,-,-,0.3,1.1,0.8,0.4,-,0.3,0.9
+176,6.68,Renan Ribeiro Sporting,31, GK,11,990,-,-,-,-,0.2,0.1,-,-,-
+177,6.68,Diogo Viana Braga,31, D(R),6,451,-,-,-,0.8,1.2,1.2,0.2,0.5,1.2
+178,6.67,Rodrigão Gil Vicente,26, D(C),17,1530,2,2,0.8,0.2,0.2,0.4,-,0.4,0.2
+179,6.67,Paulinho Portimonense,27, AM(CR),1(1),115,-,-,3,0.5,1,0.5,-,3.5,2.5
+180,6.67,Gustavo Sauer Boavista,28, M(CLR),23(5),2002,1,-,1.1,0.6,1.1,1.8,0.1,1.1,1.5
+181,6.67,Bruno Xadas Maritimo,23, AM(CLR),9(3),766,1,-,1.8,1.7,1.0,1.4,0.3,0.8,1.7
+182,6.67,Tarantini Rio Ave,38, M(C),28(3),2412,3,-,0.8,0.3,0.3,1.2,0.1,0.4,0.7
+183,6.67,Matija Ljujic Belenenses SAD,28, AM(C),4(1),357,-,1,1.6,0.4,1.2,1.0,0.2,0.6,0.6
+184,6.66,Mehrdad Mohammadi Aves,28, FW,27(1),2330,8,5,2,0.8,1.3,1.2,1,1.1,3.4
+185,6.66,Nehuen Pérez Famalicao,21, D(C),23,2017,1,-,0.4,0.2,0.2,0.3,-,0.1,0.3
+186,6.66,David Carmo Braga,22, D(C),16(2),1473,-,-,0.4,0.1,0.2,0.3,-,-,0.3
+187,6.66,Marko Petkovic Tondela,29, D(R),6(1),461,-,-,-,0.3,0.1,0.3,-,0.3,0.7
+188,6.65,Zaidu Sanusi Santa Clara,24, D(L),21(3),1849,1,2,0.8,0.7,0.9,0.7,0.5,0.8,1.6
+189,6.65,Anthony D'Alberto Moreirense,27, D(LR),10(3),989,-,2,-,0.4,0.6,0.5,-,0.5,0.9
+190,6.64,Jackson Martínez Portimonense,35, FW,18(6),1628,1,-,2.3,0.7,0.8,1.8,0.3,0.8,1.6
+191,6.64,Stefan Ristovski Sporting,29, D(R),19(2),1552,-,2,0.4,0.8,0.2,1.0,0.6,0.3,0.6
+192,6.64,Matheus Braga,29, GK,29,2610,-,-,-,-,0.1,0.3,-,-,-
+193,6.64,Lucas Boavista,31, D(C),8(4),779,2,-,0.6,-,-,0.3,-,0.1,0.1
+194,6.64,Júnior Tavares Portimonense,25, D(L),13(2),1156,1,-,0.7,0.9,0.6,1.5,0.3,1.1,1.2
+195,6.64,Gustavo Assunção Famalicao,21, DMC,27(3),2430,-,-,0.2,0.4,0.7,1.5,-,0.5,0.6
+196,6.64,William Soares Gil Vicente,32, DMC,32(1),2812,-,1,0.4,0.4,0.5,1.4,-,0.4,1.1
+197,6.64,Chima Akas Belenenses SAD,27, D(CL),14(1),1294,-,1,0.4,0.5,0.2,0.2,-,0.3,0.7
+198,6.64,Bozhidar Kraev Gil Vicente,24, AM(C),28(4),2267,8,1,1.4,0.7,0.8,1.4,0.2,1.3,1.9
+199,6.64,Bracali Boavista,40, GK,13,1170,-,-,-,0.2,-,0.5,-,-,-
+200,6.63,Nuno Coelho Belenenses SAD,33, D(C),32,2761,-,-,0.3,0.3,-,1.1,0.1,0.1,-
+201,6.63,Gabrielzinho Moreirense,25, AM(LR),13(2),966,2,2,0.7,0.4,1.5,1.3,0.1,1.9,2.1
+202,6.63,Lucas Fernandes Portimonense,24, M(CL),23(4),2018,2,1,1.1,0.7,1.2,1.9,0.1,1.1,1.5
+203,6.63,Filipe Soares Moreirense,22, AM(C),31(2),2614,4,4,0.8,0.8,1.5,1.2,-,1.2,1.6
+204,6.62,Diogo Figueiras Rio Ave,30, D(LR),18,1386,-,2,0.3,0.9,0.8,0.8,0.1,0.5,1.3
+205,6.62,Djavan Moreirense,33, D(L),8(2),642,-,-,-,0.5,0.5,1.1,-,0.7,0.9
+206,6.62,Rafa Soares Vitoria de Guimaraes,26, D(L),8(2),724,-,1,1.1,1.4,-,0.3,0.2,0.5,1
+207,6.62,Paulinho Boavista,24, M(CLR),20(4),1839,-,2,1,1.2,2.1,3.2,0.1,1.8,2.3
+208,6.62,Fabiano Braga,21, M(R),0(2),90,-,-,0.5,-,-,0.5,-,-,1
+209,6.62,André Horta Braga,25, M(C),21(4),1603,-,2,0.7,0.9,0.6,0.8,0.1,0.5,0.9
+210,6.62,Marlon Boavista,24, D(L),23(4),1965,2,2,0.8,0.8,0.5,0.8,-,0.5,1
+211,6.62,Shuichi Gonda Portimonense,32, GK,14,1260,-,-,-,-,0.1,0.1,-,-,0.1
+212,6.61,Lucas Possignolo Portimonense,27, D(C),26,2337,2,-,0.6,0.2,-,0.5,-,-,0.3
+213,6.61,Lourency Gil Vicente,25, AM(LR),21(10),1964,4,2,2,0.7,1.3,1.3,0.3,1.5,2
+214,6.61,Jubal Vitoria de Setubal,28, D(C),20(4),1876,2,-,0.5,0.1,0.1,0.6,0.1,0.1,0.5
+215,6.61,Bueno Boavista,33, AM(CL),14(5),1207,3,3,1.3,1.1,0.7,1.8,0.1,0.9,1.4
+216,6.61,Edwin Banguera Gil Vicente,25, D(L),7(2),637,-,1,0.4,0.2,0.1,0.9,-,-,1.1
+217,6.61,Claudio Falcão Aves,27, D(C),26,2227,-,1,0.7,0.4,0.8,0.5,-,0.5,0.9
+218,6.61,Fábio Aves,31, GK,6,540,-,-,-,-,-,0.2,-,-,-
+219,6.61,Tiago Ilori Sporting,28, D(C),6(2),558,-,-,0.6,0.3,0.1,-,-,-,0.3
+220,6.6,Eduardo Kau Belenenses SAD,22, Defender,2(1),202,-,-,-,0.3,0.3,-,-,-,0.3
+221,6.6,Arthur Henrique Gil Vicente,27, M(L),14(4),1024,-,-,0.1,1,1.1,0.8,0.1,1.1,1.3
+222,6.6,Marcelo Pacos de Ferreira,32, D(C),14(1),1242,-,1,0.7,0.3,0.1,0.9,-,0.2,0.1
+223,6.6,Cláudio Ramos Tondela,30, GK,29,2610,-,-,-,-,-,0.2,-,-,-
+224,6.6,Racine Coly Famalicao,25, D(L),10(4),839,-,2,0.4,0.8,0.4,0.6,-,0.4,1
+225,6.59,Kevin Yamga Aves,25, D(R),17(4),1548,1,-,0.8,0.5,1.5,2,-,1.2,2
+226,6.59,Thierry Correia Sporting,22, D(R),4,360,-,-,-,0.3,-,1.3,-,0.3,1.3
+227,6.59,Tomás Ribeiro Belenenses SAD,22, D(C),13,1170,-,-,0.4,0.1,0.1,1.3,-,-,0.2
+228,6.59,Milson Maritimo,22, Forward,3(3),305,-,1,1.3,0.3,1.3,2.8,-,0.7,2.8
+229,6.59,Marco Baixinho Pacos de Ferreira,32, D(C),20(5),1950,3,-,0.6,0.2,-,0.4,-,0.1,0.2
+230,6.59,Fernando Fonseca Gil Vicente,24, D(R),19(1),1675,-,2,0.1,0.7,0.5,1,-,1.8,1.5
+231,6.58,Patrick Willian Famalicao,24, D(CR),16(5),1468,1,-,0.4,0.2,0.2,0.3,0.1,0.3,0.3
+232,6.58,Nélson Monte Rio Ave,26, D(CR),19(1),1563,-,-,0.1,0.5,0.2,1,0.2,0.3,0.4
+233,6.58,Ivo Pinto Famalicao,31, D(CR),14(1),993,-,1,-,0.4,0.5,0.9,-,0.6,1.2
+234,6.58,Fábio Vieira Porto,21, AM(C),2(6),226,2,1,0.6,0.5,0.5,1.6,-,0.1,1.1
+235,6.57,Anderson Carvalho Santa Clara,31, M(C),14(2),1175,1,-,0.5,0.1,0.3,0.8,-,0.3,1.1
+236,6.57,Diogo Costa Porto,22, GK,3,256,-,-,-,-,-,-,-,-,-
+237,6.57,Caio Benfica,27, Forward,0(4),56,1,-,0.5,0.5,1,-,0.3,-,0.3
+238,6.57,Samuel Lino Gil Vicente,21, AM(LR),5(15),677,2,-,0.9,0.7,1,0.9,0.1,0.9,1
+239,6.57,Hélder Ferreira Pacos de Ferreira,24, AM(LR),27(5),2143,3,4,1.2,0.9,0.5,1,0.3,0.9,1.8
+240,6.57,Pedro Nuno Moreirense,26, AM(CL),15(13),1289,2,5,1.4,1.1,0.4,1,-,0.5,1.3
+241,6.57,Valentin Rosier Sporting,25, D(LR),8(1),714,-,-,1,0.2,0.4,1.4,0.1,0.6,1.3
+242,6.57,Mamadu Cande Santa Clara,31, D(L),16(2),1347,-,-,0.2,0.3,0.5,1.7,-,0.5,0.9
+243,6.56,Bilel Aouacheria Moreirense,27, AM(LR),21(8),1875,1,3,0.7,1,1,1.9,0.1,1.4,2.1
+244,6.56,Lucas Piazon Rio Ave,27, AM(CLR),15(4),1270,2,1,1.1,0.6,0.3,1.4,0.2,1.1,1.9
+245,6.56,João Amaral Pacos de Ferreira,30, AM(CLR),13(6),1106,1,4,1,1.4,0.6,0.8,0.1,0.8,1.3
+246,6.56,André Sousa Vitoria de Setubal,23, D(L),16(2),1464,-,-,0.2,0.3,0.4,0.7,-,0.6,1.3
+247,6.56,Ljubomir Fejsa Benfica,33, DMC,3,202,-,-,-,-,0.3,-,-,1,0.7
+248,6.56,Ricardo Costa Boavista,40, D(C),30(1),2630,1,-,0.4,0.1,-,0.3,-,-,0.3
+249,6.56,Ruben Lameiras Famalicao,26, M(LR),19(4),1375,2,5,0.8,1.2,1.1,1,0.1,1.2,2.2
+250,6.56,Sori Mané Moreirense,25, DMC,10(4),873,-,1,0.3,0.3,0.4,0.8,-,0.4,0.6
+251,6.56,Roderick Miranda Famalicao,30, D(C),22(2),1940,2,1,0.3,0.1,0.4,0.6,-,0.1,0.3
+252,6.56,Fali Candé Portimonense,23, D(L),8(1),626,-,-,0.1,0.1,0.8,1.1,-,0.4,1.2
+253,6.56,Aylton Boa Morte Portimonense,28, AM(LR),29(4),2506,4,4,1.2,1.1,1.1,1.8,0.2,2.2,2.3
+254,6.55,Fahd Moufi Tondela,25, D(R),26,2222,-,1,0.1,0.6,0.7,2.2,0.1,1.4,1.3
+255,6.55,Al Musrati Rio Ave,25, DMC,11(1),862,-,1,0.8,0.3,0.8,0.3,-,0.7,1.2
+256,6.55,Crysan Santa Clara,25, FW,2(11),298,3,1,0.4,0.2,0.9,0.8,-,0.9,1.2
+257,6.55,Abdu Conté Moreirense,23, D(L),22(1),1975,-,3,0.1,0.7,0.7,0.7,0.1,0.4,0.5
+258,6.55,Mano Vitoria de Setubal,34, D(LR),6(1),541,-,-,0.1,0.3,-,0.3,-,0.3,0.3
+259,6.55,Agustín Marchesín Porto,33, GK,31,2820,-,-,-,-,-,0.1,-,-,-
+260,6.55,Miguel Luís Sporting,22, M(C),2,180,-,-,2.5,1.5,1.0,1.5,0.5,0.5,1.5
+261,6.54,Denilson Tondela,26, AM(L),10(2),893,3,1,2.3,0.2,0.5,2.3,0.5,1.6,2.6
+262,6.54,Al Musrati Vitoria de Guimaraes,25, DMC,4(1),303,-,-,0.6,-,0.2,0.8,0.2,-,0.4
+263,6.54,Zé Gomes Portimonense,22, Forward,0(1),38,-,-,-,1,2.0,3.0,-,-,2.0
+264,6.54,Jorge Correa Maritimo,28, AM(CLR),20(6),1615,3,1,1.3,1,1.2,1.3,-,1.3,2.5
+265,6.54,Pedro Sá Portimonense,27, DMC,24(1),1988,-,-,0.7,0.4,0.3,1.5,-,0.5,0.8
+266,6.54,Pierre Sagna Santa Clara,31, D(R),6(1),572,-,-,0.3,0.1,0.7,0.6,0.1,0.3,1.0
+267,6.54,Bruno Viana Braga,26, D(C),29,2544,-,1,0.3,0.2,0.1,0.4,-,0.2,0.3
+268,6.54,Claude Goncalves Gil Vicente,27, M(C),22(2),1948,1,-,0.3,0.4,0.7,1.2,0.1,0.9,1.0
+269,6.53,Jonatan Lucca Belenenses SAD,27, M(C),4,360,-,-,0.5,0.8,0.8,1.0,-,1.8,1.8
+270,6.53,André Santos Belenenses SAD,32, M(C),25(2),2075,2,2,0.7,0.6,0.9,2.1,-,1.2,1.2
+271,6.53,Ricardo Vaz Tê Portimonense,35, AM(LR),7(5),623,2,1,1.3,0.3,0.1,0.3,0.3,0.2,1.5
+272,6.53,Shoya Nakajima Porto,27, AM(CL),5(11),597,-,1,0.8,0.4,1.8,1.3,0.1,0.8,0.9
+273,6.53,Thiago Santana Santa Clara,28, FW,27(6),2349,6,-,1.8,0.3,0.6,2.2,0.6,1.7,2.2
+274,6.53,Andreas Samaris Benfica,32, DMC,8(8),665,-,-,0.6,0.3,0.4,1.1,-,0.4,0.5
+275,6.53,Cristián Borja Sporting,28, D(CL),15(8),1333,1,-,0.1,0.3,0.5,0.8,0.1,0.3,0.7
+276,6.53,Marco Pereira Santa Clara,34, GK,31,2790,-,-,-,-,-,0.3,-,-,0.1
+277,6.53,Tiago Almeida Tondela,20, D(R),2(1),207,-,-,-,0.3,0.3,1.3,-,0.3,1
+278,6.53,Luís Maximiano Sporting,22, GK,23,2070,-,-,-,-,-,0.3,-,-,-
+279,6.53,Rúben Lima Belenenses SAD,32, D(CL),8(3),782,-,-,0.3,1,0.5,1.3,-,0.3,0.5
+280,6.52,Diego Moreno Maritimo,25, M(C),8(1),643,-,-,1.1,0.2,0.8,2.6,-,0.8,1
+281,6.52,Josip Vukovic Maritimo,29, DMC,17(4),1497,-,2,0.2,0.6,0.3,0.8,-,0.8,1
+282,6.52,Denis Gil Vicente,34, GK,34,3060,-,-,-,0.1,0.1,0.3,-,-,0.1
+283,6.52,Mateo Cassierra Belenenses SAD,24, FW,20(9),1794,4,-,1.4,0.6,0.8,0.8,0.7,1.1,1.5
+284,6.51,Adriano Castanheira Pacos de Ferreira,28, AM(LR),11(5),1025,1,2,1,0.7,0.9,0.9,0.1,0.5,1.7
+285,6.51,Rochinha Vitoria de Guimaraes,26, AM(CLR),9(12),924,1,-,1.3,1.0,1.1,2.0,0.1,0.9,1.3
+286,6.51,Denis Poha Vitoria de Guimaraes,24, DMC,14(6),1196,-,2,0.8,0.8,0.5,0.4,-,0.7,0.8
+287,6.51,Zidane Banjaqui Aves,22, AM(C),14(9),1383,1,1,0.9,0.8,1.1,1.5,-,1.4,1.6
+288,6.51,Oleg Reabciuk Pacos de Ferreira,23, D(L),20(6),1902,-,-,0.2,0.6,0.5,2.1,0.1,0.7,1.3
+289,6.51,Vaná Alves Famalicao,30, GK,16(1),1523,-,-,-,0.1,0.1,0.3,-,-,-
+290,6.51,Bertrand Yves Baraye Gil Vicente,29, AM(LR),20(6),1479,3,-,1.2,0.1,0.7,1.9,-,1.3,2.1
+291,6.51,Ricardo Mangas Aves,23, D(CL),19(1),1679,1,-,0.4,0.7,0.6,2.1,0.1,0.7,1.3
+292,6.51,Douglas Groli Maritimo,32, D(C),5(1),497,-,-,0.7,-,0.2,0.3,-,-,0.2
+293,6.5,Romário Baró Porto,21, Midfielder,4(5),375,-,1,1,0.3,0.2,0.8,0.1,0.9,1.3
+294,6.5,Welthon Pacos de Ferreira,29, FW,6(1),488,-,1,1.6,0.9,1,1.9,0.6,1.9,2.1
+295,6.5,Sanca Braga,21, Forward,0(2),12,-,1,0.5,0.5,1,1.0,-,-,-
+296,6.5,Léo Bonatini Vitoria de Guimaraes,27, FW,10(9),976,3,1,1.6,0.8,0.4,0.2,0.2,0.9,1.1
+297,6.5,Rafael Defendi Famalicao,37, GK,18,1531,-,-,-,-,-,0.4,-,-,0.1
+298,6.5,Diogo Leite Porto,22, D(C),4(5),375,-,-,0.4,0.1,0.1,0.4,-,-,0.1
+299,6.5,António Xavier Tondela,29, AM(LR),16(8),1424,1,2,1.1,0.7,1.2,1.3,0.1,1.4,1.3
+300,6.5,Adam Dzwigala Aves,26, D(C),15(1),1312,-,1,0.2,0.2,0.1,0.3,-,-,0.2
+301,6.5,Ricardo Ferreira Belenenses SAD,28, D(C),4(1),352,-,-,0.2,-,0.2,0.4,-,0.2,0.2
+302,6.49,Denilson Pacos de Ferreira,26, AM(L),5(8),667,3,1,1.1,0.6,0.8,1.3,0.1,1.4,1.3
+303,6.49,Filipe Ferreira Tondela,31, D(L),28(1),2312,-,-,0.1,0.5,0.7,0.4,0.1,0.7,0.9
+304,6.49,Rodrigo Battaglia Sporting,30, M(C),9(6),845,-,-,0.7,0.1,0.5,1.1,-,0.3,0.8
+305,6.49,Franck-Yves Bambock Maritimo,26, DMC,22(5),1827,2,2,0.3,0.6,0.5,1.0,-,0.3,0.9
+306,6.49,Chico Ramos Santa Clara,26, M(C),26(3),2235,-,-,0.7,0.3,0.3,2.2,-,0.7,1.1
+307,6.49,Idrissa Doumbia Sporting,23, DMC,17(5),1547,-,-,0.2,0.2,0.8,0.6,-,0.9,1.2
+308,6.49,Matchoi Djaló Pacos de Ferreira,18, Midfielder,1(2),92,1,-,0.7,-,0.3,1.7,-,-,-
+309,6.49,Rubén Oliveira Aves,26, M(C),23(1),2005,-,1,0.5,0.6,0.5,1.2,-,0.4,0.9
+310,6.49,Wilson Eduardo Braga,31, AM(LR),6(12),698,3,-,1.6,0.6,0.5,0.2,0.1,0.6,0.9
+311,6.48,Alex Freitas Vitoria de Setubal,30, AM(L),1(3),159,-,-,0.3,0.8,0.8,0.5,-,-,0.8
+312,6.48,Easah Suliman Vitoria de Guimaraes,23, D(C),5(1),418,-,-,0.3,-,0.2,-,-,-,0.2
+313,6.48,Hildeberto Vitoria de Setubal,25, D(R),17(8),1532,3,2,0.6,0.6,1.3,1.1,0.5,1.3,2.4
+314,6.48,Hélder Guedes Vitoria de Setubal,34, FW,13(6),1036,4,2,0.8,0.2,0.3,0.9,0.7,0.8,0.9
+315,6.48,Nabil Ghilas Vitoria de Setubal,31, AM(L),10(5),899,2,-,1.5,0.5,0.7,0.5,0.8,0.9,1.9
+316,6.48,Bruno Lamas Santa Clara,27, AM(CL),6(5),511,-,-,1.5,1.3,0.7,0.8,0.3,0.8,1.2
+317,6.48,Osama Rashid Santa Clara,29, DMC,23(4),2014,2,1,0.9,0.8,0.2,0.9,-,1,0.8
+318,6.47,Murilo Souza Braga,27, M(LR),4(3),383,-,-,1.0,0.7,0.7,0.6,0.3,1.4,1.9
+319,6.47,Maracás Pacos de Ferreira,27, D(C),25(1),2125,2,-,0.3,-,0.2,0.4,-,0.1,0.3
+320,6.47,Nikola Stojiljkovic Boavista,29, FW,17(7),1544,2,1,1.7,0.7,0.4,1.0,0.8,0.7,1.5
+321,6.47,Haris Seferovic Benfica,29, AM(LR),14(16),1429,5,2,1.5,0.6,0.1,0.3,0.7,0.3,1.0
+322,6.47,Álex Centelles Famalicao,22, D(L),19(8),1740,-,2,0.2,0.7,0.4,0.5,-,0.5,0.8
+323,6.46,João Pedro Tondela,28, M(C),25(7),2152,4,1,1.0,0.7,0.2,1.2,-,0.9,1.6
+324,6.46,Benny Belenenses SAD,24, AM(CR),3(1),268,-,-,0.5,1.3,1.3,0.5,0.3,1.3,1.5
+325,6.45,Erick Gil Vicente,23, AM(LR),3(5),333,-,-,0.6,1.1,0.9,1.3,-,1.3,1.3
+326,6.45,Licá Belenenses SAD,33, AM(CLR),32(1),2693,7,3,1.4,0.6,0.4,0.9,1.2,1.0,1.6
+327,6.45,Pedro Pelágio Maritimo,21, DMC,13(3),1147,-,-,0.6,0.6,0.3,1.5,-,0.4,0.7
+328,6.45,Reko Aves,22, M(C),11(1),959,1,-,0.9,0.8,0.7,1.4,0.1,0.8,1.1
+329,6.45,Daizen Maeda Maritimo,24, AM(LR),18(5),1630,3,-,1.6,0.3,0.8,1.2,0.7,1.0,2.0
+330,6.44,Jhon Murillo Tondela,25, M(LR),26(4),2299,2,-,0.5,0.7,1,1.4,0.1,0.8,1.5
+331,6.44,Yaw Ackah Boavista,22, DMC,21(3),1907,-,-,0.3,0.3,0.5,0.5,-,0.8,0.7
+332,6.44,Oumar Diakhite Aves,27, D(C),16,1400,-,-,0.6,0.1,0.1,0.3,-,-,0.9
+333,6.44,Henrique Portimonense,26, D(L),19(4),1569,-,3,0.6,1.1,0.4,0.3,-,0.7,1.5
+334,6.44,Cassiano Boavista,32, FW,13(14),1294,2,-,0.7,0.5,0.1,1.5,0.3,0.4,1.3
+335,6.44,Lucas Paes Vitoria de Setubal,23, Goalkeeper,1(1),136,-,-,-,-,-,-,-,-,-
+336,6.44,Rúben Fernandes Gil Vicente,35, D(CL),31,2748,1,1,0.1,0.2,0.1,0.5,0.2,0.1,0.2
+337,6.44,Douglas Vitoria de Guimaraes,38, GK,29,2610,-,-,-,-,-,0.2,-,-,-
+338,6.44,Richard Rodrigues Tondela,22, AM(L),17(11),1657,2,1,1.3,0.3,1.3,1.8,0.2,1.5,2.4
+339,6.44,Bruno Costa Portimonense,24, AM(C),8(9),810,-,-,0.7,0.8,0.8,1.5,-,0.9,0.8
+340,6.44,Ricardo Valente Tondela,30, AM(CLR),3(8),443,-,2,0.6,0.4,0.6,1.3,0.2,0.9,0.6
+341,6.44,Jesé Sporting,28, AM(LR),6(6),523,1,-,0.8,0.8,0.8,0.4,0.3,0.9,1.3
+342,6.43,Murilo Pacos de Ferreira,25, AM(CLR),12(6),937,-,1,0.8,0.6,1.4,1.1,0.2,1.1,1.3
+343,6.43,Jorge Silva Pacos de Ferreira,25, D(R),15(1),1160,-,-,0.3,0.3,0.7,0.9,-,0.9,0.8
+344,6.43,Joel Tagueu Maritimo,27, AM(L),9(7),841,2,-,1.6,0.3,0.7,0.6,0.4,1.1,1.8
+345,6.43,André Sousa Belenenses SAD,31, M(CL),11(2),944,1,-,0.8,0.6,0.2,1.8,-,1.2,1.6
+346,6.43,Jaquité Tondela,25, DMC,16(5),1493,-,-,0.4,0.2,1,2.3,-,1.1,1.4
+347,6.43,Mouhamed Mbaye Porto,24, Goalkeeper,0(1),14,-,-,-,-,-,-,-,-,-
+348,6.43,João Novais Braga,28, M(CLR),11(12),1105,-,3,1.8,1.1,0.6,1.3,-,0.6,0.8
+349,6.43,Pité Tondela,27, D(L),11(8),1011,1,-,0.8,0.4,0.6,0.5,0.1,0.8,0.9
+350,6.43,Nuno Pinto Vitoria de Setubal,35, D(L),8(2),742,-,-,0.1,0.9,-,1.6,0.1,0.4,0.3
+351,6.42,Koki Anzai Portimonense,26, D(LR),20(3),1837,1,1,0.4,0.9,0.5,0.6,0.3,0.7,0.9
+352,6.42,Zequinha Vitoria de Setubal,34, AM(LR),21(9),1782,2,2,0.9,0.6,0.4,1.4,0.2,1,1.5
+353,6.42,Guilherme Schettine Santa Clara,26, FW,6(9),665,3,-,1.3,0.4,0.4,1.1,0.3,0.8,1.4
+354,6.42,Dyego Sousa Benfica,32, FW,1(10),202,-,1,1.6,0.5,0.1,0.3,0.1,0.5,0.4
+355,6.42,João Reis Tondela,29, Defender,4(4),393,-,-,0.1,0.1,0.1,0.6,-,0.3,0.6
+356,6.42,Andrej Simunec Aves,26, Defender,2,136,-,-,0.5,-,-,-,-,-,-
+357,6.41,Ricardo Ferreira Portimonense,31, GK,20,1800,-,1,-,0.1,0.1,0.2,-,-,0.1
+358,6.41,Lionn Famalicao,32, D(R),11,928,-,-,0.4,0.4,0.4,1.1,0.1,0.3,0.5
+359,6.41,Afonso Figueiredo Aves,28, D(L),19(2),1605,-,1,0.2,0.8,0.5,1.9,-,0.5,0.6
+360,6.41,Babacar Niasse Tondela,24, GK,5,450,-,-,-,0.2,-,-,-,-,-
+361,6.41,Heriberto Tavares Boavista,24, AM(CLR),17(11),1459,4,-,1.4,0.6,0.6,1.1,0.4,1.2,1.8
+362,6.41,João Pedro Vitoria de Guimaraes,25, FW,1(9),262,2,-,1.1,-,0.1,0.7,0.1,0.5,0.4
+363,6.41,Patricio Rodríguez Moreirense,31, Midfielder,0(1),27,-,-,-,-,-,-,-,1,2
+364,6.41,Rui Fonte Braga,31, M(R),6(19),783,4,2,0.9,0.4,0.2,0.7,-,0.4,0.7
+365,6.41,Bruno Moreira Rio Ave,34, FW,13(14),1212,3,1,1.1,0.3,0.3,0.8,0.7,0.3,1.2
+366,6.4,Jhon Cley Maritimo,27, AM(R),4(6),412,1,1,1,0.9,0.6,0.5,0.2,0.7,0.6
+367,6.4,Luiz Carlos Pacos de Ferreira,36, D(R),25(3),2092,-,1,0.6,0.9,0.3,2.4,-,0.6,1.1
+368,6.4,Simón Ramírez Belenenses SAD,23, Defender,0(1),16,-,-,-,3,-,-,-,1,-
+369,6.4,Miguel Silva Vitoria de Guimaraes,26, GK,6,451,-,-,-,-,0.2,-,-,-,0.2
+370,6.4,Nuno Valente Vitoria de Setubal,29, M(CR),13(5),1189,-,2,0.7,0.6,0.6,1.4,-,0.2,0.9
+371,6.4,Francisco Miguel Varela Martín Belenenses SAD,27, D(L),8(1),690,-,-,0.3,0.3,0.2,0.4,0.2,0.1,1.2
+372,6.4,Eduardo Henrique Sporting,26, M(C),8(7),707,-,-,0.7,0.3,0.9,1.4,-,0.6,1
+373,6.4,Alex Soares Moreirense,30, AM(C),23(9),2053,-,-,0.4,0.8,0.7,1.4,0.1,1,1.3
+374,6.39,Stephen Eustáquio Pacos de Ferreira,24, DMC,14(2),1243,-,-,1,0.6,0.3,1.0,-,0.6,1.4
+375,6.39,Gustavo Dulanto Boavista,26, D(C),9(1),751,2,-,0.4,0.1,-,0.2,0.1,-,-
+376,6.39,Pedro Amaral Rio Ave,24, D(L),8(5),679,-,-,0.5,0.5,0.3,0.3,0.2,0.5,0.9
+377,6.39,Rafael Camacho Sporting,21, M(LR),9(10),860,-,1,0.8,0.5,0.9,0.3,0.3,0.9,0.8
+378,6.39,Messias Rio Ave,27, D(C),2(3),210,-,-,-,0.2,-,0.4,-,-,-
+379,6.39,Jefferson Encada Vitoria de Guimaraes,23, Forward,0(1),23,-,-,-,1.0,2,1.0,1,-,3
+380,6.39,Tomás Castro Belenenses SAD,22, Midfielder,1,60,-,-,-,1,-,1.0,1,1,1
+381,6.39,Romário Baldé Gil Vicente,24, Forward,0(7),225,-,-,0.6,0.3,1.6,0.7,0.1,1.1,1.6
+382,6.39,Nenê Moreirense,38, FW,7(19),714,4,-,1,0.2,0.3,0.9,0.2,0.8,1.2
+383,6.39,Tomás Esteves Porto,19, D(R),2,105,-,-,-,1,0.5,0.5,-,1,0.5
+384,6.38,Gedson Fernandes Benfica,22, AM(CR),2(5),216,-,-,1,0.1,0.6,0.3,-,0.1,1.6
+385,6.38,Samuel Pedro Boavista,20, Forward,0(1),21,-,-,-,-,2,2.0,-,1,-
+386,6.38,Jonathan Toro Tondela,25, AM(L),18(14),1746,1,2,0.9,0.5,0.5,2.5,0.2,0.9,1.5
+387,6.38,Ricardo Alves Tondela,30, D(C),12(5),1125,1,-,0.5,0.1,-,0.3,-,-,0.2
+388,6.38,Mateus Boavista,37, AM(LR),11(16),1104,1,1,0.9,0.6,1,1.2,0.1,1.1,1.4
+389,6.38,Miguel Tavares Aves,23, Midfielder,4(8),453,-,-,0.9,0.6,1.5,0.9,0.1,0.5,1.4
+390,6.37,Pedro Trigueira Moreirense,33, GK,1,90,-,-,-,-,-,1.0,-,-,-
+391,6.37,Nwankwo Obiora Boavista,30, DMC,18(5),1491,-,-,0.4,0.4,0.3,0.7,-,0.3,0.7
+392,6.37,Estrela Aves,26, DMC,18(3),1561,-,-,0.3,0.3,0.3,1.7,-,0.6,0.6
+393,6.37,Fernando Medeiros Portimonense,25, D(C),7(6),662,-,-,0.8,0.5,0.5,0.4,0.1,0.7,1.2
+394,6.37,Jaílson Aves,30, D(R),14(3),1122,-,-,0.2,0.5,0.7,1.9,-,0.4,0.9
+395,6.36,André Moreira Belenenses SAD,25, GK,14(1),1321,-,-,-,0.1,-,0.4,-,-,0.1
+396,6.36,Mato Milos Aves,28, D(R),15,1303,-,-,0.3,0.7,1,0.8,-,0.3,1.1
+397,6.36,Show Belenenses SAD,22, DMC,22(2),1865,-,1,0.8,0.3,0.5,1.4,-,0.8,1.1
+398,6.36,Kouka Braga,28, FW,4(2),359,1,-,1.5,0.5,0.3,0.7,0.2,1,1.2
+399,6.36,Zé Manuel Santa Clara,31, AM(LR),10(16),977,4,-,0.7,0.3,0.2,1.0,0.1,0.5,0.6
+400,6.36,Uilton Pacos de Ferreira,29, D(L),5(21),876,2,-,0.6,0.2,0.5,0.4,0.1,0.3,0.7
+401,6.35,Ahmed Isaiah Gil Vicente,26, Midfielder,0(5),67,-,-,-,1,0.4,0.4,-,-,-
+402,6.35,Raúl Silva Braga,32, D(C),8(3),649,1,-,0.2,0.4,0.3,0.5,-,0.2,0.6
+403,6.35,Rômulo Portimonense,25, M(C),6(10),656,1,1,0.6,0.6,0.1,0.5,-,0.3,1
+404,6.35,Abou Ouattara Vitoria de Guimaraes,21, Forward,2(8),273,1,-,1.3,-,0.6,1.3,0.1,0.3,0.8
+405,6.35,Ukra Santa Clara,33, AM(LR),7(8),697,1,-,0.4,0.7,1.1,0.5,0.1,0.7,0.4
+406,6.35,Luciano Nequecaur Maritimo,29, Forward,3(4),282,-,-,0.3,0.6,-,0.9,0.1,0.4,0.9
+407,6.35,João Afonso Gil Vicente,26, DMC,16(11),1349,-,2,0.2,0.3,0.3,0.7,-,0.8,0.4
+408,6.34,Ricardo Ribeiro Pacos de Ferreira,31, GK,31,2790,-,-,-,-,-,0.3,-,-,0.1
+409,6.34,Anderson Silva Famalicao,23, FW,6(25),792,7,1,1.3,0.2,0.5,0.8,0.2,0.5,1.5
+410,6.34,Josh Tymon Famalicao,22, D(L),4(1),373,-,-,-,0.4,0.2,0.4,-,0.2,1.6
+411,6.33,Quentin Beunardeau Aves,27, GK,21,1890,-,-,-,-,-,0.3,-,-,-
+412,6.33,Guga Famalicao,24, AM(C),10(16),999,2,1,0.7,0.3,0.3,1,0.1,0.2,0.6
+413,6.33,Nuno Pina Nunes Belenenses SAD,22, M(C),5(6),547,-,-,0.6,0.3,0.5,1.1,-,0.7,1.1
+414,6.33,Vitinha Porto,21, AM(C),0(8),110,-,-,0.6,0.3,0.4,0.4,-,0.3,0.4
+415,6.33,Hugo Vieira Gil Vicente,33, FW,3(8),396,1,-,0.7,0.3,0.5,0.7,0.2,0.4,0.9
+416,6.32,Marco Matias Belenenses SAD,32, AM(CLR),11(16),1193,1,-,0.8,0.4,0.7,1.6,0.1,0.6,1.1
+417,6.32,Gabrielzinho Rio Ave,25, AM(LR),2(6),210,-,-,0.3,0.1,1.6,0.6,0.1,0.1,0.8
+418,6.32,Vitor Carvalho Gil Vicente,24, DMC,0(10),223,2,-,0.6,0.1,-,0.5,-,0.1,0.7
+419,6.32,Elias Abouchabaka Vitoria de Guimaraes,21, Midfielder,0(1),9,-,-,1,-,1,-,-,2,-
+420,6.32,Edgar Costa Maritimo,34, AM(CLR),17(10),1628,-,1,0.9,0.7,0.5,2.0,0.2,0.7,1.1
+421,6.32,Valerii Bondarenko Vitoria de Guimaraes,27, D(C),8,697,-,-,0.5,0.1,0.1,0.3,-,0.4,0.5
+422,6.31,Vasco Rocha Pacos de Ferreira,32, M(CR),5(5),397,-,-,0.1,-,0.4,1.3,-,0.8,0.7
+423,6.31,Getterson Maritimo,30, AM(R),10(17),1120,3,1,1,0.3,0.4,0.9,0.4,0.6,0.8
+424,6.31,Nikola Jambor Rio Ave,26, DMC,1(6),251,-,-,-,0.1,0.1,0.3,-,0.3,0.1
+425,6.3,Zakaria Naidji Gil Vicente,26, Forward,5(15),663,1,2,0.7,0.6,0.4,0.5,0.2,0.6,1.1
+426,6.3,Walterson Famalicao,26, AM(LR),4(13),556,-,1,0.8,0.4,1.1,0.8,-,0.6,1.5
+427,6.3,Marcelinho Maritimo,25, M(L),7(7),707,1,-,0.6,0.6,0.8,1.9,0.1,1.2,1.5
+428,6.3,Leandro Vilela Vitoria de Setubal,26, DMC,5(6),442,-,2,0.5,0.3,0.1,0.4,0.1,0.3,1.0
+429,6.29,Yusupha Om Njie Boavista,27, AM(CL),12(13),1101,1,1,1.3,0.3,0.7,1.6,0.4,1.1,1.9
+430,6.28,Aflalo Aves,25, GK,5,450,-,-,-,-,-,0.2,-,-,0.2
+431,6.28,Lucas Marques Santa Clara,26, DMC,3,238,-,-,1.3,-,0.7,0.3,-,0.3,0.3
+432,6.28,Rubilio Castillo Tondela,29, Forward,0(1),10,-,-,1,1,-,1.0,-,-,2.0
+433,6.28,Andrija Zivkovic Benfica,25, AM(CLR),0(3),64,-,-,0.7,0.3,0.3,0.3,-,0.3,0.3
+434,6.27,Mathiola Vitoria de Setubal,24, Midfielder,2(6),225,1,-,0.3,0.1,0.9,0.5,-,0.6,0.8
+435,6.27,Francisco Geraldes Sporting,26, AM(CLR),1(7),263,-,-,0.9,0.5,0.3,0.8,-,0.3,0.6
+436,6.27,Anderson Oliveira Portimonense,23, AM(LR),0(9),184,-,-,0.1,0.2,1.3,0.6,0.1,0.7,1.4
+437,6.27,Diogo Calila Belenenses SAD,23, D(R),8(4),705,-,-,0.3,0.3,0.7,1.5,-,0.9,1.2
+438,6.27,Touré Aves,24, Midfielder,1(3),102,-,-,0.3,-,1.3,0.5,-,1,1.8
+439,6.27,Joao Meira Vitoria de Setubal,34, D(C),6(2),539,-,-,-,-,-,0.6,-,-,0.1
+440,6.27,Iury Portimonense,26, FW,5(2),474,1,-,1.6,0.1,0.3,1.9,0.6,1.1,1.9
+441,6.27,Denis Pineda Santa Clara,26, AM(R),1(1),81,-,-,0.5,0.5,0.5,-,-,1.5,-
+442,6.26,Claudemir Braga,33, DMC,4(1),335,-,-,0.2,0.6,0.6,0.6,-,0.8,1
+443,6.26,Marlos Moreno Portimonense,25, AM(LR),5(11),535,-,-,0.8,0.2,0.7,1.5,0.1,0.6,1.2
+444,6.25,Ibrahima Camará Moreirense,22, DMC,2(6),208,-,-,0.1,0.4,0.5,0.6,0.1,0.1,0.4
+445,6.24,Arcanjo Tondela,20, Midfielder,1(1),62,-,-,0.5,-,0.5,1,-,0.5,-
+446,6.23,Tomislav Strkalj Tondela,25, FW,10(9),879,-,-,1,0.3,0.2,1.3,0.3,1,1.3
+447,6.23,Luís Machado Moreirense,29, AM(LR),10(11),1033,1,1,0.6,0.5,0.6,1.1,-,1.2,1.5
+448,6.23,Rafik Halliche Moreirense,35, D(C),8(1),626,-,1,0.4,0.2,0.1,0.9,-,0.2,0.8
+449,6.23,Jota Gonçalves Tondela,21, D(C),0(1),16,-,-,-,-,-,-,-,-,-
+450,6.23,Imad Faraj Belenenses SAD,22, AM(R),0(3),54,-,-,-,0.3,1,0.7,-,0.3,0.3
+451,6.23,Rodrigo Freitas Portimonense,23, D(C),6(2),548,-,-,0.1,-,-,0.3,-,0.1,0.4
+452,6.23,Leandrinho Vitoria de Setubal,28, M(CR),6(9),572,-,-,-,0.1,0.2,0.7,-,0.1,0.6
+453,6.22,Khalid Hachadi Vitoria de Setubal,23, FW,9(9),845,1,-,0.8,0.5,0.6,0.7,0.3,0.7,2.2
+454,6.22,Fernando Cardozo Boavista,20, Forward,4(6),404,-,1,0.5,0.2,0.7,0.9,-,1.3,1.6
+455,6.22,Fábio Silva Porto,19, FW,1(11),183,1,-,0.7,-,0.1,0.7,0.2,0.3,0.2
+456,6.22,Bruno Xavier Aves,24, Midfielder,0(5),49,-,-,0.2,0.4,0.6,0.8,-,0.6,-
+457,6.22,Jota Benfica,22, AM(LR),1(18),177,-,1,0.5,0.5,0.3,0.1,-,0.3,0.3
+458,6.21,Charles Maritimo,27, GK,9,810,-,-,-,-,-,0.2,-,-,0.1
+459,6.21,Luiz Henrique Moreirense,24, Midfielder,0(4),84,-,-,1,1,-,0.8,-,0.5,1.3
+460,6.21,Enzo Zidane Aves,26, AM(C),5(5),507,2,-,0.7,0.7,0.4,0.4,-,0.7,1.2
+461,6.2,Mirko Antonucci Vitoria de Setubal,22, Midfielder,1(5),174,1,-,0.7,0.2,0.5,1.3,-,0.8,0.7
+462,6.2,Idris Boavista,36, DMC,3(4),256,-,-,0.4,0.3,-,-,-,0.4,0.4
+463,6.2,Bruno Jesus Aves,24, Defender,0(2),50,-,-,-,-,-,0.5,-,-,-
+464,6.19,André Almeida Vitoria de Guimaraes,21, AM(C),3(5),211,1,-,0.3,0.3,0.1,0.8,-,0.4,0.8
+465,6.19,Diogo Salomão Santa Clara,33, AM(LR),1(9),208,-,1,0.1,0.4,0.3,-,0.1,0.1,0.3
+466,6.19,Juan Villa Gil Vicente,22, Midfielder,0(1),31,-,-,1,1,-,1,-,-,-
+467,6.19,Tiago Tomás Sporting,19, FW,1(4),168,-,1,0.8,0.2,0.2,0.8,0.2,-,0.6
+468,6.19,Kahraba Aves,27, Midfielder,1(4),140,1,-,0.8,0.4,-,0.2,-,0.4,1.8
+469,6.19,Luiz Fernando Aves,26, DMC,9(4),675,-,-,0.1,0.3,0.1,0.5,-,0.4,0.7
+470,6.19,Robinho Belenenses SAD,24, FW,7(6),641,-,-,0.6,0.4,0.5,1.8,-,1.3,1.4
+471,6.19,Rodrigo Fernandes Sporting,20, Midfielder,1(1),48,-,-,-,-,-,0.5,-,-,0.5
+472,6.17,Erivaldo Maritimo,27, Forward,3(13),407,1,-,0.4,0.3,0.2,0.8,-,0.5,0.6
+473,6.17,Abel Ruiz Braga,21, FW,0(6),109,1,-,0.3,0.2,-,0.2,-,0.5,0.7
+474,6.17,João Vigário Tondela,25, D(L),0(1),20,-,-,-,-,-,-,-,-,-
+475,6.16,Marius Mouandilmadji Aves,23, FW,4(8),509,-,-,0.7,0.4,0.3,0.8,0.3,0.7,1.2
+476,6.16,Renat Dadashov Pacos de Ferreira,22, FW,2(5),285,-,-,0.7,0.4,0.1,0.9,0.6,1,1.9
+477,6.16,Joelson Fernandes Sporting,18, Forward,0(4),64,-,-,0.8,0.3,0.8,0.8,-,0.8,0.8
+478,6.16,Pedro Augusto Tondela,24, DMC,2(5),182,-,-,0.1,-,-,0.7,-,0.1,0.4
+479,6.16,Kikas Belenenses SAD,23, FW,6(6),521,1,-,0.6,0.3,0.3,1,0.3,0.7,1.3
+480,6.15,Nené Santa Clara,26, DMC,6(12),610,-,-,0.5,0.2,0.1,0.6,-,0.2,0.7
+481,6.15,Júnio Rio Ave,24, D(R),2(5),217,-,-,0.1,0.1,0.6,0.7,-,0.4,0.4
+482,6.15,Danny Henriques Belenenses SAD,24, D(C),5(5),530,1,-,0.2,0.3,-,0.2,-,-,0.2
+483,6.14,Pedro Soares Aves,22, FW,6(3),514,-,-,0.8,0.4,0.2,2.6,0.2,0.8,2
+484,6.14,Chahreddine Boukholda Belenenses SAD,25, Midfielder,0(3),59,-,-,-,1,0.3,-,-,1.7,0.7
+485,6.14,Vitó Rio Ave,24, Midfielder,1(1),101,-,-,1,0.5,-,1,-,1.5,0.5
+486,6.14,Charles-Andreas Brym Belenenses SAD,23, Forward,0(1),9,-,-,-,-,1,-,-,-,2
+487,6.14,Rúben Macedo Aves,25, AM(LR),8(13),754,1,-,0.4,0.2,0.8,1.8,-,1.2,0.8
+488,6.13,Milton Vitoria de Setubal,30, Goalkeeper,1,90,-,-,-,-,-,-,-,-,-
+489,6.13,Diogo Almeida Pacos de Ferreira,21, Forward,1(6),234,-,-,0.4,-,-,0.6,0.3,0.4,0.6
+490,6.13,Dieguinho Belenenses SAD,29, Forward,1(5),136,-,-,1,0.3,0.2,1.3,-,1.2,1.2
+491,6.13,Nicolás Vélez Belenenses SAD,31, Forward,0(3),65,-,-,1,0.3,0.3,-,-,0.3,0.7
+492,6.13,Hakim Ouro-Sama Belenenses SAD,23, Defender,0(4),52,-,-,-,-,-,-,-,-,-
+493,6.13,Nicolás Schiappacasse Famalicao,22, Forward,0(4),49,-,-,0.5,-,-,1,0.3,0.3,-
+494,6.12,Léo Cordeiro Gil Vicente,26, Midfielder,0(3),20,-,-,-,-,-,0.3,-,0.7,-
+495,6.12,Joseph Amoah Vitoria de Guimaraes,27, DMC,2(2),161,-,1,-,0.5,0.8,2,0.3,0.3,0.8
+496,6.12,André Pereira Pacos de Ferreira,32, D(C),6(1),506,-,-,0.9,-,-,0.1,-,-,0.3
+497,6.11,Abdoulaye Diallo Aves,25, Forward,0(3),48,-,-,0.3,-,1,1.3,-,1,1
+498,6.11,Rúben Fonseca Tondela,21, Forward,3(7),320,-,-,0.6,0.4,0.1,0.3,0.4,1.2,1.4
+499,6.11,João Mário Porto,21, D(R),0(2),10,-,-,0.5,-,-,0.5,-,-,1
+500,6.11,Takuma Nishimura Portimonense,25, FW,1(1),119,-,-,1,0.5,1,1.5,0.5,1,0.5
+501,6.1,Joca Rio Ave,25, Midfielder,0(3),33,-,-,-,-,0.3,0.7,-,-,1.3
+502,6.1,Bruno Morais Aves,23, D(C),14(1),1208,-,-,0.1,0.1,-,0.2,0.1,0.1,0.2
+503,6.09,Éverson Portimonense,24, D(C),0(1),10,-,-,-,-,-,-,-,-,-
+504,6.09,Vincent Aboubakar Porto,29, AM(R),1(4),66,-,-,0.4,0.2,0.2,-,-,0.8,1
+505,6.09,Ronan Rio Ave,26, FW,2(11),177,1,-,0.6,0.2,0.1,0.2,0.1,0.2,0.8
+506,6.08,José Cevallos Portimonense,26, Midfielder,4(3),281,-,-,1,-,-,0.4,-,0.1,1
+507,6.08,Bas Dost Sporting,32, FW,0(1),17,-,-,-,-,-,-,-,-,-
+508,6.08,Tiago Sá Braga,26, GK,1,90,-,-,-,-,-,-,-,-,-
+509,6.07,Alhassane Keita Belenenses SAD,29, FW,2(8),279,-,-,0.5,0.2,0.2,0.4,0.3,0.6,0.6
+510,6.07,Ricardo Schutte Rio Ave,23, Forward,0(1),8,-,-,-,-,1,-,-,-,2
+511,6.07,Yaya Belenenses SAD,22, M(C),0(1),14,-,-,-,-,-,-,-,-,1
+512,6.07,Pedro Mendes Sporting,22, FW,0(6),55,-,-,0.2,-,-,0.2,-,0.2,0.8
+513,6.06,Leandro Barrera Maritimo,30, AM(L),0(3),83,-,-,0.3,-,0.3,0.7,-,0.3,-
+514,6.06,Miguel Reisinho Boavista,22, Midfielder,2(4),211,-,-,0.3,0.2,0.2,0.5,-,0.5,0.5
+515,6.05,Luís Santos Boavista,21, Forward,0(3),13,-,-,0.3,-,-,-,-,0.3,0.7
+516,6.05,Bruno Lourenço Aves,23, AM(L),0(5),42,-,-,-,0.2,-,0.2,-,-,0.2
+517,6.05,Jose Varela Aves,24, Midfielder,4(6),436,-,-,0.7,0.4,0.8,1.9,0.1,1.1,2.2
+518,6.05,Bruninho Aves,27, Defender,1(3),107,-,-,0.5,0.3,0.3,1.3,-,-,0.8
+519,6.05,Helder Balde Aves,23, Defender,1,90,-,-,-,-,-,-,-,-,1
+520,6.05,Kigi Vitoria de Setubal,24, Midfielder,0(1),33,-,-,-,-,-,1,-,-,-
+521,6.05,Gonçalo Agrelos Belenenses SAD,23, Midfielder,0(2),48,-,-,-,0.5,-,0.5,-,0.5,1
+522,6.04,David Texeira Moreirense,30, FW,0(2),16,-,-,-,0.5,0.5,-,-,1,0.5
+523,6.04,Luquinhas Portimonense,21, AM(C),1,46,-,-,1,-,-,-,-,-,-
+524,6.03,Lawrence Ofori Famalicao,23, Midfielder,1(2),92,-,-,0.7,-,0.3,1,-,0.7,1
+525,6.02,Leandro Silva Rio Ave,22, Forward,0(3),28,-,-,0.7,-,-,-,-,0.7,-
+526,6.02,Eric Veiga Aves,24, Defender,0(2),20,-,-,-,-,-,0.5,-,-,-
+527,6.01,Yago César Pacos de Ferreira,24, AM(R),0(3),93,-,-,1,0.3,0.3,1,0.3,0.7,1.7
+528,6.01,Abdoulaye Diaby Sporting,30, AM(CLR),1(1),83,-,-,-,-,0.5,-,0.5,2,1
+529,6.01,Malick Evouna Santa Clara,28, FW,0(1),13,-,-,-,-,-,-,-,1,-
+530,6.01,Tomás Reymão Boavista,23, Midfielder,0(1),18,-,-,-,-,-,-,-,-,1
+531,6.0,André Mesquita Maritimo,24, Forward,0(1),1,-,-,-,-,-,-,-,-,-
+532,6.0,Zé Oliveira Pacos de Ferreira,19, Goalkeeper,0(1),1,-,-,-,-,-,-,-,-,-
+533,6.0,Luís Silva Belenenses SAD,22, Defender,0(1),1,-,-,-,-,-,-,-,-,-
+534,6.0,Rodolfo Cardoso Santa Clara,24, Goalkeeper,0(1),1,-,-,-,-,-,-,-,-,-
+535,6.0,Edi Semedo Belenenses SAD,22, Forward,1(9),181,-,-,0.4,-,0.3,0.4,0.1,0.2,0.5
+536,6.0,Beto Portimonense,23, FW,0(11),161,-,-,0.3,0.2,0.1,0.2,0.3,0.4,1
+537,5.99,André Teles Maritimo,24, Midfielder,0(1),30,-,-,-,-,-,-,1,-,-
+538,5.98,Bruno Monteiro Tondela,37, M(C),0(1),4,-,-,-,-,-,-,-,-,-
+539,5.98,Rafael Gava Pacos de Ferreira,28, AM(C),1(1),69,-,-,-,-,0.5,-,0.5,-,-
+540,5.98,Tòfol Montiel Vitoria de Setubal,21, Midfielder,2(4),197,-,-,0.7,0.3,0.3,0.3,0.2,0.7,1
+541,5.98,Aaron Tshibola Aves,26, DMC,2(2),127,-,-,0.5,-,0.5,0.8,-,0.3,0.8
+542,5.98,Ricardo Rodrigues Aves,26, Forward,0(3),24,-,-,-,0.3,-,-,-,-,-
+543,5.96,Kibe Maritimo,21, Forward,0(2),30,-,-,-,0.5,-,0.5,-,2,1.5
+544,5.96,Kelvin Boateng Aves,21, Forward,0(2),12,-,-,-,-,-,0.5,-,-,0.5
+545,5.96,Leonardo Chão Vitoria de Setubal,22, Forward,0(1),5,-,-,-,1,-,-,-,-,-
+546,5.96,Peu Aves,28, Forward,0(2),13,-,-,-,-,-,0.5,-,0.5,0.5
+547,5.94,Cláudio Tavares Aves,24, Defender,1(2),141,-,-,0.3,0.3,-,-,-,1,1
+548,5.9,Uche Agbo Braga,25, D(C),0(1),3,-,-,-,-,-,-,-,-,-
+549,5.9,Mohanad Ali Portimonense,21, Forward,1(5),144,-,-,0.7,-,0.2,0.2,0.3,1,1.5
+550,5.89,Pedro Delgado Aves,24, Midfielder,1(3),101,-,-,0.8,0.3,0.3,0.3,-,1,0.8
+551,5.89,João Lucas Santa Clara,25, D(L),4(1),325,-,-,0.6,0.4,0.2,0.8,-,0.6,1.2
+552,5.88,Marco Sousa Pacos de Ferreira,26, Goalkeeper,1,90,-,-,-,-,-,-,-,-,-
+553,5.86,Rúben Gonçalves Rio Ave,22, Midfielder,1,59,-,-,-,-,-,1,-,-,-
+554,5.84,Bernardo Martins Pacos de Ferreira,23, Midfielder,1(4),152,-,1,0.6,0.8,0.4,0.4,-,0.6,1.2
+555,5.82,Kellyton Gil Vicente,26, Defender,1,46,-,-,-,-,-,1,-,1,2
+556,5.8,Ruben Del Campo Famalicao,21, Forward,1,56,-,-,1,-,-,-,-,-,-
+557,5.76,Simão Bertelli Pacos de Ferreira,28, Goalkeeper,2,180,-,-,-,-,-,-,-,-,-
+558,5.75,Rolando Braga,36, D(C),1(2),85,-,-,-,-,-,-,-,-,0.3
+559,5.73,Ibrahim Cissé Famalicao,22, Defender,1,90,-,-,-,-,-,1,-,-,-
+560,5.7,Cafu Famalicao,27, D(C),0(1),21,-,-,-,-,-,-,-,-,-
+561,5.66,Lucas Cunha Braga,24, D(C),2,180,-,-,-,-,-,-,-,-,0.5

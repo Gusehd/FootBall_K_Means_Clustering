@@ -3,7 +3,7 @@ FootBall_Player K_Means_Clustering and Visualization
 
 ### 축구선수 K-Means Clustering을 통한 축구선수 스카우팅
 
-<a herf = "https://ddggblog.tistory.com/156">K-Means Clustering을 통한 선수 스카우팅</a>
+<a href = "https://ddggblog.tistory.com/156">K-Means Clustering을 통한 선수 스카우팅</a>
 
 * 전세계의 메이져 축구리그의 2시즌간의 데이터를 통하여 축구선수들을 Clustering
 * 총 약 20000명의 데이터를 수집 , 이후 K-means Clustering을 진행함

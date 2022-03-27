@@ -1,7 +1,7 @@
 # FootBall_K_Means_Clustering
 FootBall_Player K_Means_Clustering and Visualization
 
-<a href = "https://ddggblog.tistory.com/156">K-Means Clustering을 통한 선수 스카우팅</a><br><br>
+### <a href = "https://ddggblog.tistory.com/156">K-Means Clustering을 통한 선수 스카우팅</a>
 ### 축구선수 K-Means Clustering을 통한 축구선수 스카우팅
 
 
